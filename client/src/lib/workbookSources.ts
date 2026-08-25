@@ -7,7 +7,7 @@ export type WorkbookSource = {
   note: string;
 };
 
-export type WorkbookKey = "main" | "economics";
+export type WorkbookKey = "main" | "economics" | "mcgraw";
 export type WorkbookFilter = "all" | WorkbookKey;
 
 export const workbookSources: Record<string, WorkbookSource> = {
@@ -25,16 +25,26 @@ export const workbookSources: Record<string, WorkbookSource> = {
     pageLabel: "source page",
     note: "Supplemental scanned Economics workbook",
   },
+  mcgraw: {
+    id: "mcgraw-social-studies",
+    title: "McGraw-Hill Education Social Studies Workbook for the GED Test",
+    shortTitle: "McGraw Hill Social Studies workbook",
+    pageLabel: "source page",
+    note: "Supplemental McGraw Hill Social Studies workbook",
+  },
 };
 
 export const workbookFilterOptions: readonly { value: WorkbookFilter; label: string; shortLabel: string }[] = [
   { value: "all", label: "All workbooks", shortLabel: "All sources" },
   { value: "main", label: workbookSources.main.shortTitle, shortLabel: "Main 1,001-question book" },
   { value: "economics", label: workbookSources.economics.shortTitle, shortLabel: "Economics supplement" },
+  { value: "mcgraw", label: workbookSources.mcgraw.shortTitle, shortLabel: "McGraw Hill supplement" },
 ];
 
 export function getWorkbookKey(groupId: string): WorkbookKey {
-  return groupId.startsWith("econ-supp-") ? "economics" : "main";
+  if (groupId.startsWith("econ-supp-")) return "economics";
+  if (groupId.startsWith("mcgraw-")) return "mcgraw";
+  return "main";
 }
 
 export function getWorkbookSource(groupId: string): WorkbookSource {
@@ -42,7 +52,7 @@ export function getWorkbookSource(groupId: string): WorkbookSource {
 }
 
 export function isWorkbookFilter(value: string | null): value is WorkbookFilter {
-  return value === "all" || value === "main" || value === "economics";
+  return value === "all" || value === "main" || value === "economics" || value === "mcgraw";
 }
 
 export function getInitialWorkbookFilter(): WorkbookFilter {

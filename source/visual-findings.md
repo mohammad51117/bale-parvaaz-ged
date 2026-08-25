@@ -61,3 +61,11 @@ Mobile verification also passed at 390×844: the Social Studies library keeps it
 The new workbook selector renders in both the Home study desk and subject libraries. Shareable URLs with `?workbook=economics` and `?workbook=main` correctly initialize the selected source. Social Studies shows 22 supplemental Economics sets / 49 linked questions in supplement mode and 110 main-book sets / 221 linked questions in main-book mode. The selector remains visually aligned with the subject search and part filter at desktop width.
 
 Final desktop pass confirms concise selector labels: “Economics supplement · 22 sets” shows only Social Studies → Economics, while “Main 1,001-question book · 110 sets” shows the main Social Studies parts and their question counts. Both states keep the source attribution line and part filter aligned.
+
+## McGraw Hill workbook import audit
+
+The supplied McGraw-Hill Education Social Studies Workbook for the GED Test is 262 PDF pages. The imported exercise set contains 380 numbered items across a 40-question pretest, four 75-question subject chapters, and a 40-question posttest, organized into 226 grouped readers. The parser found 319 four-choice multiple-choice items and 61 written-response/drag-and-drop items, with 114 unique source pages rendered and uploaded for 121 visual-context candidates. The source answer key covers every item except two pretest drag-and-drop items whose source entries are blank (Pretest Questions 17 and 23); those remain interactive as written-response items with source context preserved rather than fabricated answers.
+
+The rendered McGraw Hill folio 40 preserves the chapter heading, Locke quotation, and visible Questions 1–2 with readable source typography at 816×1056px. The same page is available to the new grouped reader under the McGraw Hill source-page convention.
+
+McGraw Hill verification passed on desktop and mobile. The Social Studies library shows 226 sets and 380 linked questions when `workbook=mcgraw` is selected. The grouped reader for Civics and Government Questions 1–2 shows the Locke passage, original rendered source folio 40, “source page 40–40” attribution, and the full interactive A–D choices beneath the visual context. The selector and source labels remain readable at 390px width.

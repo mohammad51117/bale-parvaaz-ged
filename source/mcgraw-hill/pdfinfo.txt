@@ -1,0 +1,20 @@
+Title:           McGraw-Hill Education Social Studies Workbook for the GED Test
+Author:          McGraw Hill Editors
+Creator:         calibre (5.19.0) [http://calibre-ebook.com]
+Producer:        calibre (5.19.0) [http://calibre-ebook.com]
+CreationDate:    Thu Jun 24 04:11:59 2021 UTC
+ModDate:         Thu Jun 24 04:11:59 2021 UTC
+Custom Metadata: no
+Metadata Stream: yes
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           262
+Encrypted:       no
+Page size:       612 x 792 pts (letter)
+Page rot:        0
+File size:       25715198 bytes
+Optimized:       no
+PDF version:     1.4

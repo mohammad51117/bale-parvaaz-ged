@@ -6,7 +6,9 @@ import { questionGroups } from "@/lib/questionGroups";
 import { interactiveQuestions } from "@/lib/interactiveQuestions";
 import { visualAssets } from "@/lib/visualAssets";
 import { supplementalEconomicsGroups, supplementalEconomicsQuestions } from "@/lib/supplementalEconomics";
+import { supplementalMcGrawHillGroups, supplementalMcGrawHillQuestions } from "@/lib/supplementalMcGrawHill";
 import { supplementalEconomicsVisuals } from "@/lib/supplementalEconomicsVisuals";
+import { supplementalMcGrawHillVisuals } from "@/lib/supplementalMcGrawHillVisuals";
 import { getWorkbookSource } from "@/lib/workbookSources";
 
 type Group = { id: string; section: string; questionStart: number; questionEnd: number; rangeLabel: string; contextType: string; marker: string; context: string; sourcePages: readonly number[]; visualPage?: number | null; questions: readonly { number: number; text: string }[] };
@@ -44,10 +46,10 @@ function PracticeQuestion({ question, selected, response, submitted, onSelect, o
 export default function QuestionReader() {
   const [location, setLocation] = useLocation();
   const groupId = decodeURIComponent(location.split("/").pop() || "");
-  const groups = [...(questionGroups.groups as readonly Group[]), ...(supplementalEconomicsGroups as readonly Group[])];
+  const groups = [...(questionGroups.groups as readonly Group[]), ...(supplementalEconomicsGroups as readonly Group[]), ...(supplementalMcGrawHillGroups as readonly Group[])];
   const groupIndex = Math.max(0, groups.findIndex((item) => item.id === groupId));
   const group = groups[groupIndex] || groups[0];
-  const allInteractiveQuestions = [...(interactiveQuestions.questions as readonly InteractiveQuestion[]), ...(supplementalEconomicsQuestions as readonly InteractiveQuestion[])];
+  const allInteractiveQuestions = [...(interactiveQuestions.questions as readonly InteractiveQuestion[]), ...(supplementalEconomicsQuestions as readonly InteractiveQuestion[]), ...(supplementalMcGrawHillQuestions as readonly InteractiveQuestion[])];
   const questionMap = useMemo(() => new Map(allInteractiveQuestions.map((question) => [`${question.groupId}-${question.number}`, question])), [allInteractiveQuestions]);
   const activeQuestions = group.questions.map((question) => questionMap.get(`${group.id}-${question.number}`)).filter(Boolean) as InteractiveQuestion[];
   const [selected, setSelected] = useState<Record<number, string>>({});
@@ -61,9 +63,9 @@ export default function QuestionReader() {
   const topic = activeQuestions[0]?.topic || "General practice";
   const workbookSource = getWorkbookSource(group.id);
   const reference = workbookSource.title;
-  const allVisualAssets = { ...visualAssets, ...supplementalEconomicsVisuals };
+  const allVisualAssets = { ...visualAssets, ...supplementalEconomicsVisuals, ...supplementalMcGrawHillVisuals };
   const visualUrl = group.visualPage ? allVisualAssets[group.visualPage] : undefined;
-  const visualSourceLabel = group.visualPage && group.visualPage >= 1000 ? group.visualPage - 1000 : group.visualPage;
+  const visualSourceLabel = group.visualPage && group.visualPage >= 2000 ? group.visualPage - 2000 : group.visualPage && group.visualPage >= 1000 ? group.visualPage - 1000 : group.visualPage;
   const answeredCount = activeQuestions.filter((question) => submitted[question.number]).length;
   const toggleBookmark = (number: number) => setBookmarked((items) => items.includes(number) ? items.filter((item) => item !== number) : [...items, number]);
 
@@ -72,7 +74,7 @@ export default function QuestionReader() {
     <main className="reader-page-main">
       <div className="reader-page-kicker"><span>{reference}</span><span>/</span><strong>{group.section}</strong><span>/</span><strong>{topic}</strong><span>/</span><strong>{group.rangeLabel}</strong></div>
       <div className="reader-page-nav"><Link href={previous ? `/reader/${previous.id}` : `/subject/${subjectSlug}`} className={!previous ? "disabled" : ""}><ChevronLeft size={17} /> Previous set</Link><span>Set {groupIndex + 1} of {groups.length}</span><Link href={next ? `/reader/${next.id}` : `/subject/${subjectSlug}`} className={!next ? "disabled" : ""}>Next set <ChevronRight size={17} /></Link></div>
-      <section className={`standalone-context ${group.contextType}`}><div className="standalone-context-copy"><div className="eyebrow source-context-eyebrow"><span>SHARED SOURCE CONTEXT</span><i>· {group.contextType}</i></div><div className="reader-topic-label">{group.section} <span>→</span> {topic}</div><h1>{group.rangeLabel}</h1><h2>{group.marker}</h2>{contextText && <pre>{contextText}</pre>}<div className="standalone-provenance"><span><FileText size={14} /> {workbookSource.pageLabel} {group.sourcePages[0]}–{group.sourcePages[1]}</span><span className="reader-source-book">{workbookSource.shortTitle}</span><span>{group.questions.length} linked questions</span></div></div>{visualTypes.has(group.contextType) && visualUrl && <figure className="standalone-visual"><img src={visualUrl} alt={`Original ${group.contextType} for ${group.rangeLabel}, source folio ${visualSourceLabel}`} /><figcaption>Original source folio {visualSourceLabel}. Keep this visual in view while answering.</figcaption></figure>}</section>
+      <section className={`standalone-context ${group.contextType}`}><div className="standalone-context-copy"><div className="eyebrow source-context-eyebrow"><span>SHARED SOURCE CONTEXT</span><i>· {group.contextType}</i></div><div className="reader-topic-label">{group.section} <span>→</span> {topic}</div><h1>{group.rangeLabel}</h1><h2>{group.marker}</h2>{contextText && <pre>{contextText}</pre>}<div className="standalone-provenance"><span><FileText size={14} /> {workbookSource.pageLabel} {group.sourcePages[0]}–{group.sourcePages[1]}</span><span className="reader-source-book">{workbookSource.shortTitle}</span><span>{group.questions.length} linked questions</span></div></div>{visualTypes.has(group.contextType) && visualUrl && <figure className="standalone-visual"><img src={visualUrl} alt={`Original ${group.contextType} for ${group.rangeLabel}, ${workbookSource.pageLabel} ${visualSourceLabel}`} /><figcaption>Original {workbookSource.pageLabel} {visualSourceLabel}. Keep this visual in view while answering.</figcaption></figure>}</section>
       <section className="practice-session"><div className="practice-session-top"><div><div className="eyebrow">ANSWER FROM THE SOURCE · {topic}</div><h2>Questions {group.questionStart}–{group.questionEnd}</h2></div><div className="practice-progress"><span>{answeredCount} / {activeQuestions.length} checked</span><i><b style={{ width: `${activeQuestions.length ? (answeredCount / activeQuestions.length) * 100 : 0}%` }} /></i></div></div><div className="standalone-question-list">{activeQuestions.map((question) => <PracticeQuestion key={question.number} question={question} selected={selected[question.number]} response={responses[question.number]} submitted={Boolean(submitted[question.number])} onSelect={(label) => setSelected((items) => ({ ...items, [question.number]: label }))} onResponse={(value) => setResponses((items) => ({ ...items, [question.number]: value }))} onCheck={() => setSubmitted((items) => ({ ...items, [question.number]: true }))} onReset={() => { setSubmitted((items) => ({ ...items, [question.number]: false })); setSelected((items) => ({ ...items, [question.number]: "" })); setResponses((items) => ({ ...items, [question.number]: "" })); }} bookmarked={bookmarked.includes(question.number)} onBookmark={() => toggleBookmark(question.number)} />)}</div></section>
     </main>
   </div>;

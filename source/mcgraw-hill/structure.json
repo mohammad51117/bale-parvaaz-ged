@@ -1,0 +1,6321 @@
+{
+  "page_count": 263,
+  "groups": [
+    {
+      "page": 13,
+      "line": 12,
+      "start": 1,
+      "end": 3,
+      "marker": "Questions 1\u20133 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 14,
+      "line": 23,
+      "start": 5,
+      "end": 6,
+      "marker": "Questions 5\u20136 are based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 16,
+      "line": 13,
+      "start": 8,
+      "end": 8,
+      "marker": "Question 8 is based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 18,
+      "line": 11,
+      "start": 10,
+      "end": 11,
+      "marker": "Questions 10\u201311 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 19,
+      "line": 22,
+      "start": 13,
+      "end": 14,
+      "marker": "Questions 13\u201314 are based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 21,
+      "line": 3,
+      "start": 15,
+      "end": 17,
+      "marker": "Questions 15\u201317 are based on the following maps:",
+      "context": "maps:"
+    },
+    {
+      "page": 22,
+      "line": 6,
+      "start": 18,
+      "end": 19,
+      "marker": "Questions 18\u201319 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 23,
+      "line": 12,
+      "start": 20,
+      "end": 21,
+      "marker": "Questions 20\u201321 are based on the following graphs:",
+      "context": "graphs:"
+    },
+    {
+      "page": 24,
+      "line": 7,
+      "start": 22,
+      "end": 24,
+      "marker": "Questions 22\u201324 are based on the following map:",
+      "context": "map:"
+    },
+    {
+      "page": 25,
+      "line": 15,
+      "start": 25,
+      "end": 25,
+      "marker": "Question 25 is based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 26,
+      "line": 11,
+      "start": 27,
+      "end": 29,
+      "marker": "Questions 27\u201329 are based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 28,
+      "line": 10,
+      "start": 30,
+      "end": 32,
+      "marker": "Questions 30\u201332 are based on the following timeline:",
+      "context": "timeline:"
+    },
+    {
+      "page": 29,
+      "line": 32,
+      "start": 34,
+      "end": 34,
+      "marker": "Question 34 is based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 30,
+      "line": 27,
+      "start": 36,
+      "end": 36,
+      "marker": "Question 36 is based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 31,
+      "line": 15,
+      "start": 37,
+      "end": 37,
+      "marker": "Question 37 is based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 32,
+      "line": 12,
+      "start": 38,
+      "end": 40,
+      "marker": "Questions 38\u201340 are based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 34,
+      "line": 11,
+      "start": 40,
+      "end": 40,
+      "marker": "Question 40 is based on the following quote from the Ninth Amendment.",
+      "context": "quote from the Ninth Amendment"
+    },
+    {
+      "page": 40,
+      "line": 6,
+      "start": 1,
+      "end": 2,
+      "marker": "Questions 1\u20132 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 41,
+      "line": 5,
+      "start": 3,
+      "end": 4,
+      "marker": "Questions 3\u20134 are based on the following diagram:",
+      "context": "diagram:"
+    },
+    {
+      "page": 43,
+      "line": 0,
+      "start": 7,
+      "end": 9,
+      "marker": "Questions 7\u20139 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 44,
+      "line": 9,
+      "start": 11,
+      "end": 11,
+      "marker": "Question 11 is based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 46,
+      "line": 7,
+      "start": 15,
+      "end": 16,
+      "marker": "Questions 15\u201316 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 48,
+      "line": 4,
+      "start": 20,
+      "end": 23,
+      "marker": "Questions 20\u201323 are based on the following graphs:",
+      "context": "graphs:"
+    },
+    {
+      "page": 49,
+      "line": 13,
+      "start": 24,
+      "end": 27,
+      "marker": "Questions 24\u201327 are based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 52,
+      "line": 12,
+      "start": 28,
+      "end": 31,
+      "marker": "Questions 28\u201331 are based on the following texts:",
+      "context": "texts:"
+    },
+    {
+      "page": 56,
+      "line": 2,
+      "start": 37,
+      "end": 38,
+      "marker": "Questions 37\u201338 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 56,
+      "line": 25,
+      "start": 39,
+      "end": 40,
+      "marker": "Questions 39\u201340 are based on the following diagram:",
+      "context": "diagram:"
+    },
+    {
+      "page": 58,
+      "line": 5,
+      "start": 43,
+      "end": 44,
+      "marker": "Questions 43\u201344 are based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 61,
+      "line": 0,
+      "start": 48,
+      "end": 50,
+      "marker": "Questions 48\u201350 are based on the following passage from The Federalist",
+      "context": "passage from The Federalist"
+    },
+    {
+      "page": 62,
+      "line": 10,
+      "start": 51,
+      "end": 51,
+      "marker": "Question 51 is based on the following passage from the U.S. Constitution,",
+      "context": "passage from the U"
+    },
+    {
+      "page": 64,
+      "line": 18,
+      "start": 57,
+      "end": 60,
+      "marker": "Questions 57\u201360 are based on the following maps, each of which lists the",
+      "context": "maps, each of which lists the"
+    },
+    {
+      "page": 66,
+      "line": 7,
+      "start": 61,
+      "end": 62,
+      "marker": "Questions 61\u201362 are based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 67,
+      "line": 10,
+      "start": 63,
+      "end": 65,
+      "marker": "Questions 63\u201365 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 68,
+      "line": 20,
+      "start": 67,
+      "end": 68,
+      "marker": "Questions 67\u201368 are based on the following passage from The Federalist",
+      "context": "passage from The Federalist"
+    },
+    {
+      "page": 70,
+      "line": 10,
+      "start": 70,
+      "end": 72,
+      "marker": "Questions 70\u201372 are based on the following quotation, taken from a U.S.",
+      "context": "quotation, taken from a U"
+    },
+    {
+      "page": 71,
+      "line": 30,
+      "start": 73,
+      "end": 75,
+      "marker": "Questions 73\u201375 are based on the following quotation from the Federal",
+      "context": "quotation from the Federal"
+    },
+    {
+      "page": 73,
+      "line": 9,
+      "start": 76,
+      "end": 77,
+      "marker": "Questions 76\u201377 are based on the following diagram, which identifies the",
+      "context": "diagram, which identifies the"
+    },
+    {
+      "page": 75,
+      "line": 17,
+      "start": 79,
+      "end": 80,
+      "marker": "Questions 79\u201380 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 76,
+      "line": 24,
+      "start": 82,
+      "end": 83,
+      "marker": "Questions 82\u201383 are based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 77,
+      "line": 20,
+      "start": 84,
+      "end": 85,
+      "marker": "Questions 84\u201385 are based on the following diagram:",
+      "context": "diagram:"
+    },
+    {
+      "page": 78,
+      "line": 14,
+      "start": 86,
+      "end": 87,
+      "marker": "Questions 86\u201387 are based on the following diagram, which shows the",
+      "context": "diagram, which shows the"
+    },
+    {
+      "page": 80,
+      "line": 4,
+      "start": 88,
+      "end": 89,
+      "marker": "Questions 88\u201389 are based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 81,
+      "line": 7,
+      "start": 90,
+      "end": 90,
+      "marker": "Question 90 is based on the following excerpt from the Declaration of",
+      "context": "excerpt from the Declaration of"
+    },
+    {
+      "page": 81,
+      "line": 27,
+      "start": 91,
+      "end": 91,
+      "marker": "Question 91 is based on the following excerpt.",
+      "context": "excerpt"
+    },
+    {
+      "page": 82,
+      "line": 18,
+      "start": 92,
+      "end": 92,
+      "marker": "Question 92 is based on the following chart.",
+      "context": "chart"
+    },
+    {
+      "page": 83,
+      "line": 8,
+      "start": 93,
+      "end": 93,
+      "marker": "Question 93 is based on the following two excerpts.",
+      "context": "two excerpts"
+    },
+    {
+      "page": 84,
+      "line": 26,
+      "start": 94,
+      "end": 94,
+      "marker": "Question 94 is based on the following quote from the United States Oath of",
+      "context": "quote from the United States Oath of"
+    },
+    {
+      "page": 85,
+      "line": 17,
+      "start": 95,
+      "end": 95,
+      "marker": "Question 95 is based on the following mission statement from the National",
+      "context": "mission statement from the National"
+    },
+    {
+      "page": 85,
+      "line": 31,
+      "start": 96,
+      "end": 96,
+      "marker": "Question 96 is based on the following information on how legislation is",
+      "context": "information on how legislation is"
+    },
+    {
+      "page": 87,
+      "line": 0,
+      "start": 97,
+      "end": 97,
+      "marker": "Question 97 is based on the following organizational chart from the",
+      "context": "organizational chart from the"
+    },
+    {
+      "page": 88,
+      "line": 10,
+      "start": 98,
+      "end": 98,
+      "marker": "Question 98 is based on the following New York voter registration card.",
+      "context": "New York voter registration card"
+    },
+    {
+      "page": 89,
+      "line": 8,
+      "start": 99,
+      "end": 99,
+      "marker": "Question 99 is based on the following information about jury eligibility.",
+      "context": "information about jury eligibility"
+    },
+    {
+      "page": 92,
+      "line": 6,
+      "start": 1,
+      "end": 2,
+      "marker": "Questions 1\u20132 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 94,
+      "line": 0,
+      "start": 5,
+      "end": 7,
+      "marker": "Questions 5\u20137 are based on the following map:",
+      "context": "map:"
+    },
+    {
+      "page": 95,
+      "line": 21,
+      "start": 8,
+      "end": 8,
+      "marker": "Question 8 is based on the following print:",
+      "context": "print:"
+    },
+    {
+      "page": 96,
+      "line": 9,
+      "start": 9,
+      "end": 10,
+      "marker": "Questions 9\u201310 are based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 97,
+      "line": 13,
+      "start": 11,
+      "end": 13,
+      "marker": "Questions 11\u201313 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 100,
+      "line": 0,
+      "start": 15,
+      "end": 18,
+      "marker": "Questions 15\u201318 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 103,
+      "line": 5,
+      "start": 21,
+      "end": 23,
+      "marker": "Questions 21\u201323 are based on the following map:",
+      "context": "map:"
+    },
+    {
+      "page": 104,
+      "line": 12,
+      "start": 24,
+      "end": 25,
+      "marker": "Questions 24\u201325 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 105,
+      "line": 13,
+      "start": 26,
+      "end": 28,
+      "marker": "Questions 26\u201328 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 107,
+      "line": 0,
+      "start": 31,
+      "end": 32,
+      "marker": "Questions 31\u201332 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 109,
+      "line": 10,
+      "start": 35,
+      "end": 36,
+      "marker": "Questions 35\u201336 are based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 111,
+      "line": 13,
+      "start": 40,
+      "end": 42,
+      "marker": "Questions 40\u201342 are based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 113,
+      "line": 11,
+      "start": 43,
+      "end": 45,
+      "marker": "Questions 43\u201345 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 114,
+      "line": 30,
+      "start": 46,
+      "end": 48,
+      "marker": "Questions 46\u201348 are based on the following timeline:",
+      "context": "timeline:"
+    },
+    {
+      "page": 116,
+      "line": 0,
+      "start": 49,
+      "end": 49,
+      "marker": "Question 49 is based on the following photograph taken during the Berlin",
+      "context": "photograph taken during the Berlin"
+    },
+    {
+      "page": 116,
+      "line": 14,
+      "start": 50,
+      "end": 51,
+      "marker": "Questions 50\u201351 are based on the following passage.",
+      "context": "passage"
+    },
+    {
+      "page": 118,
+      "line": 0,
+      "start": 53,
+      "end": 54,
+      "marker": "Questions 53\u201354 are based on the following map:",
+      "context": "map:"
+    },
+    {
+      "page": 119,
+      "line": 14,
+      "start": 55,
+      "end": 56,
+      "marker": "Questions 55\u201356 are based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 120,
+      "line": 21,
+      "start": 57,
+      "end": 59,
+      "marker": "Questions 57\u201359 are based on the following diagram, which details three",
+      "context": "diagram, which details three"
+    },
+    {
+      "page": 122,
+      "line": 7,
+      "start": 60,
+      "end": 61,
+      "marker": "Questions 60\u201361 are based on the following timeline:",
+      "context": "timeline:"
+    },
+    {
+      "page": 124,
+      "line": 18,
+      "start": 63,
+      "end": 65,
+      "marker": "Questions 63\u201365 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 128,
+      "line": 9,
+      "start": 69,
+      "end": 69,
+      "marker": "Question 69 is based on the following map:",
+      "context": "map:"
+    },
+    {
+      "page": 129,
+      "line": 5,
+      "start": 70,
+      "end": 70,
+      "marker": "Question 70 is based on the following map:",
+      "context": "map:"
+    },
+    {
+      "page": 130,
+      "line": 5,
+      "start": 72,
+      "end": 72,
+      "marker": "Question 72 is based on the following quote from the 1893 Illinois Bureau",
+      "context": "quote from the 1893 Illinois Bureau"
+    },
+    {
+      "page": 130,
+      "line": 23,
+      "start": 73,
+      "end": 73,
+      "marker": "Question 73 is based on the following map:",
+      "context": "map:"
+    },
+    {
+      "page": 131,
+      "line": 9,
+      "start": 74,
+      "end": 74,
+      "marker": "Question 74 is based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 132,
+      "line": 6,
+      "start": 75,
+      "end": 75,
+      "marker": "Question 75 is based on the following map:",
+      "context": "map:"
+    },
+    {
+      "page": 135,
+      "line": 12,
+      "start": 2,
+      "end": 4,
+      "marker": "Questions 2\u20134 are based on the following illustration. (Note: On the real",
+      "context": "illustration"
+    },
+    {
+      "page": 137,
+      "line": 0,
+      "start": 5,
+      "end": 7,
+      "marker": "Questions 5\u20137 are based on the following pie charts:",
+      "context": "pie charts:"
+    },
+    {
+      "page": 138,
+      "line": 30,
+      "start": 10,
+      "end": 13,
+      "marker": "Questions 10\u201313 are based on the following graph of supply and demand:",
+      "context": "graph of supply and demand:"
+    },
+    {
+      "page": 140,
+      "line": 28,
+      "start": 17,
+      "end": 18,
+      "marker": "Questions 17\u201318 are based on the following illustrations. (Note: On the",
+      "context": "illustrations"
+    },
+    {
+      "page": 142,
+      "line": 2,
+      "start": 20,
+      "end": 22,
+      "marker": "Questions 20\u201322 are based on the following graphs. (Note: On the real",
+      "context": "graphs"
+    },
+    {
+      "page": 143,
+      "line": 19,
+      "start": 25,
+      "end": 26,
+      "marker": "Questions 25\u201326 are based on the following diagram of the fundamental",
+      "context": "diagram of the fundamental"
+    },
+    {
+      "page": 144,
+      "line": 31,
+      "start": 29,
+      "end": 30,
+      "marker": "Questions 29\u201330 are based on the following graphs. (Note: On the real",
+      "context": "graphs"
+    },
+    {
+      "page": 146,
+      "line": 6,
+      "start": 33,
+      "end": 35,
+      "marker": "Questions 33\u201335 are based on the following diagram:",
+      "context": "diagram:"
+    },
+    {
+      "page": 148,
+      "line": 4,
+      "start": 39,
+      "end": 41,
+      "marker": "Questions 39\u201341 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 149,
+      "line": 15,
+      "start": 42,
+      "end": 42,
+      "marker": "Question 42 is based on the following illustration:",
+      "context": "illustration:"
+    },
+    {
+      "page": 151,
+      "line": 12,
+      "start": 46,
+      "end": 47,
+      "marker": "Questions 46\u201347 are based on the following diagram:",
+      "context": "diagram:"
+    },
+    {
+      "page": 153,
+      "line": 0,
+      "start": 48,
+      "end": 49,
+      "marker": "Questions 48\u201349 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 153,
+      "line": 32,
+      "start": 50,
+      "end": 52,
+      "marker": "Questions 50\u201352 are based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 155,
+      "line": 12,
+      "start": 54,
+      "end": 55,
+      "marker": "Questions 54\u201355 are based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 156,
+      "line": 12,
+      "start": 57,
+      "end": 58,
+      "marker": "Questions 57\u201358 are based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 157,
+      "line": 11,
+      "start": 59,
+      "end": 60,
+      "marker": "Questions 59\u201360 are based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 158,
+      "line": 11,
+      "start": 61,
+      "end": 62,
+      "marker": "Questions 61\u201362 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 159,
+      "line": 9,
+      "start": 63,
+      "end": 63,
+      "marker": "Question 63 is based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 160,
+      "line": 7,
+      "start": 64,
+      "end": 66,
+      "marker": "Questions 64\u201366 are based on the following diagram:",
+      "context": "diagram:"
+    },
+    {
+      "page": 161,
+      "line": 10,
+      "start": 67,
+      "end": 67,
+      "marker": "Question 67 is based on the following diagram:",
+      "context": "diagram:"
+    },
+    {
+      "page": 162,
+      "line": 3,
+      "start": 68,
+      "end": 69,
+      "marker": "Questions 68\u201369 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 162,
+      "line": 22,
+      "start": 70,
+      "end": 71,
+      "marker": "Questions 70\u201371 are based on the following diagram:",
+      "context": "diagram:"
+    },
+    {
+      "page": 164,
+      "line": 18,
+      "start": 73,
+      "end": 73,
+      "marker": "Question 73 is based on the following diagram:",
+      "context": "diagram:"
+    },
+    {
+      "page": 166,
+      "line": 4,
+      "start": 75,
+      "end": 75,
+      "marker": "Question 75 is based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 168,
+      "line": 6,
+      "start": 1,
+      "end": 2,
+      "marker": "Questions 1\u20132 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 169,
+      "line": 17,
+      "start": 3,
+      "end": 5,
+      "marker": "Questions 3\u20135 are based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 171,
+      "line": 6,
+      "start": 6,
+      "end": 8,
+      "marker": "Questions 6\u20138 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 172,
+      "line": 23,
+      "start": 10,
+      "end": 11,
+      "marker": "Questions 10\u201311 are based on the following map:",
+      "context": "map:"
+    },
+    {
+      "page": 173,
+      "line": 14,
+      "start": 12,
+      "end": 13,
+      "marker": "Questions 12\u201313 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 175,
+      "line": 0,
+      "start": 14,
+      "end": 16,
+      "marker": "Questions 14\u201316 are based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 176,
+      "line": 2,
+      "start": 17,
+      "end": 18,
+      "marker": "Questions 17\u201318 are based on the following diagrams:",
+      "context": "diagrams:"
+    },
+    {
+      "page": 176,
+      "line": 20,
+      "start": 19,
+      "end": 20,
+      "marker": "Questions 19\u201320 are based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 177,
+      "line": 17,
+      "start": 21,
+      "end": 22,
+      "marker": "Questions 21\u201322 are based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 179,
+      "line": 2,
+      "start": 23,
+      "end": 25,
+      "marker": "Questions 23\u201325 are based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 180,
+      "line": 19,
+      "start": 27,
+      "end": 29,
+      "marker": "Questions 27\u201329 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 182,
+      "line": 10,
+      "start": 30,
+      "end": 32,
+      "marker": "Questions 30\u201332 are based on the following diagram:",
+      "context": "diagram:"
+    },
+    {
+      "page": 184,
+      "line": 20,
+      "start": 37,
+      "end": 38,
+      "marker": "Questions 37\u201338 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 186,
+      "line": 3,
+      "start": 39,
+      "end": 40,
+      "marker": "Questions 39\u201340 are based on the following pictogram:",
+      "context": "pictogram:"
+    },
+    {
+      "page": 187,
+      "line": 2,
+      "start": 41,
+      "end": 43,
+      "marker": "Questions 41\u201343 are based on the following pictograms:",
+      "context": "pictograms:"
+    },
+    {
+      "page": 190,
+      "line": 26,
+      "start": 49,
+      "end": 51,
+      "marker": "Questions 49\u201351 are based on the following map:",
+      "context": "map:"
+    },
+    {
+      "page": 192,
+      "line": 18,
+      "start": 53,
+      "end": 54,
+      "marker": "Questions 53\u201354 are based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 194,
+      "line": 4,
+      "start": 58,
+      "end": 60,
+      "marker": "Questions 58\u201360 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 195,
+      "line": 9,
+      "start": 61,
+      "end": 63,
+      "marker": "Questions 61\u201363 are based on the following graphs:",
+      "context": "graphs:"
+    },
+    {
+      "page": 198,
+      "line": 6,
+      "start": 67,
+      "end": 69,
+      "marker": "Questions 67\u201369 are based on the following graph:",
+      "context": "graph:"
+    },
+    {
+      "page": 199,
+      "line": 29,
+      "start": 71,
+      "end": 72,
+      "marker": "Questions 71\u201372 are based on the following map:",
+      "context": "map:"
+    },
+    {
+      "page": 201,
+      "line": 4,
+      "start": 73,
+      "end": 74,
+      "marker": "Questions 73\u201374 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 202,
+      "line": 2,
+      "start": 75,
+      "end": 75,
+      "marker": "Question 75 is based on the following information:",
+      "context": "information:"
+    },
+    {
+      "page": 230,
+      "line": 0,
+      "start": 2,
+      "end": 3,
+      "marker": "Questions 2\u20133 are based on the following timeline:",
+      "context": "timeline:"
+    },
+    {
+      "page": 231,
+      "line": 3,
+      "start": 4,
+      "end": 5,
+      "marker": "Questions 4\u20135 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 232,
+      "line": 0,
+      "start": 6,
+      "end": 6,
+      "marker": "Question 6 is based on the following quotation:",
+      "context": "quotation:"
+    },
+    {
+      "page": 232,
+      "line": 17,
+      "start": 7,
+      "end": 8,
+      "marker": "Questions 7\u20138 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 234,
+      "line": 8,
+      "start": 10,
+      "end": 11,
+      "marker": "Questions 10\u201311 are based on the following passage:",
+      "context": "passage:"
+    },
+    {
+      "page": 236,
+      "line": 32,
+      "start": 12,
+      "end": 13,
+      "marker": "Questions 12\u201313 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 238,
+      "line": 8,
+      "start": 14,
+      "end": 15,
+      "marker": "Questions 14\u201315 are based on the following map:",
+      "context": "map:"
+    },
+    {
+      "page": 239,
+      "line": 6,
+      "start": 16,
+      "end": 18,
+      "marker": "Questions 16\u201318 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 240,
+      "line": 10,
+      "start": 19,
+      "end": 21,
+      "marker": "Questions 19\u201321 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 241,
+      "line": 32,
+      "start": 22,
+      "end": 24,
+      "marker": "Questions 22\u201324 are based on the following graphs. (Note: On the real",
+      "context": "graphs"
+    },
+    {
+      "page": 244,
+      "line": 24,
+      "start": 31,
+      "end": 32,
+      "marker": "Questions 31\u201332 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 245,
+      "line": 13,
+      "start": 33,
+      "end": 35,
+      "marker": "Questions 33\u201335 are based on the following chart:",
+      "context": "chart:"
+    },
+    {
+      "page": 246,
+      "line": 20,
+      "start": 36,
+      "end": 38,
+      "marker": "Questions 36\u201338 are based on the following timeline:",
+      "context": "timeline:"
+    },
+    {
+      "page": 248,
+      "line": 29,
+      "start": 40,
+      "end": 40,
+      "marker": "Question 40 is based on the following information:",
+      "context": "information:"
+    }
+  ],
+  "question_lines": [
+    {
+      "page": 10,
+      "line": 11,
+      "number": 1,
+      "text": "Types of Government: Be familiar with various types of governments"
+    },
+    {
+      "page": 10,
+      "line": 14,
+      "number": 2,
+      "text": "Independence: Understand the reasons for and basic tenets of the"
+    },
+    {
+      "page": 10,
+      "line": 17,
+      "number": 3,
+      "text": "Creation of the U.S. Constitution: Know the six basic principles that"
+    },
+    {
+      "page": 10,
+      "line": 23,
+      "number": 4,
+      "text": "Citizenship: Know the basic rights and responsibilities of U.S."
+    },
+    {
+      "page": 10,
+      "line": 26,
+      "number": 5,
+      "text": "Bill of Rights: Understand the reasons for the Bill of Rights and its"
+    },
+    {
+      "page": 10,
+      "line": 29,
+      "number": 6,
+      "text": "Amendments: Understand the process of amending the Constitution."
+    },
+    {
+      "page": 10,
+      "line": 31,
+      "number": 7,
+      "text": "Branches of Government: Understand the functions of each of the"
+    },
+    {
+      "page": 11,
+      "line": 0,
+      "number": 8,
+      "text": "Elections: Know the steps in the presidential election process and how"
+    },
+    {
+      "page": 11,
+      "line": 3,
+      "number": 9,
+      "text": "Political Parties and Interest Groups: Understand the function and"
+    },
+    {
+      "page": 11,
+      "line": 6,
+      "number": 10,
+      "text": "Colonial History: Know how America was first discovered by"
+    },
+    {
+      "page": 11,
+      "line": 9,
+      "number": 11,
+      "text": "Revolutionary War: Know the reasons behind the war; be familiar"
+    },
+    {
+      "page": 11,
+      "line": 12,
+      "number": 12,
+      "text": "U.S. Expansion: Know the basic ideas of the Monroe Doctrine and"
+    },
+    {
+      "page": 11,
+      "line": 15,
+      "number": 13,
+      "text": "Civil War and Reconstruction: Know the reasons behind the war; be"
+    },
+    {
+      "page": 11,
+      "line": 19,
+      "number": 14,
+      "text": "Industrialization: Understand how the United States underwent"
+    },
+    {
+      "page": 11,
+      "line": 23,
+      "number": 15,
+      "text": "World Wars: Know the reasons behind U.S. involvement in World"
+    },
+    {
+      "page": 11,
+      "line": 27,
+      "number": 16,
+      "text": "United States as a World Power: Explain the Cold War; understand"
+    },
+    {
+      "page": 11,
+      "line": 31,
+      "number": 17,
+      "text": "Economic Fundamentals: Understand opportunity cost, cost-benefit"
+    },
+    {
+      "page": 11,
+      "line": 34,
+      "number": 18,
+      "text": "Markets: Understand the relationships among price, supply, and"
+    },
+    {
+      "page": 12,
+      "line": 0,
+      "number": 19,
+      "text": "Macroeconomics: Understand fiscal and monetary policies and the"
+    },
+    {
+      "page": 12,
+      "line": 4,
+      "number": 20,
+      "text": "Microeconomics: Understand the law of supply and demand, banking,"
+    },
+    {
+      "page": 12,
+      "line": 7,
+      "number": 21,
+      "text": "Maps: Be familiar with several different types of maps, such as"
+    },
+    {
+      "page": 12,
+      "line": 11,
+      "number": 22,
+      "text": "Movements of People: Understand migration and push and pull"
+    },
+    {
+      "page": 12,
+      "line": 14,
+      "number": 23,
+      "text": "Elements of Culture: Understand what makes a culture unique"
+    },
+    {
+      "page": 12,
+      "line": 18,
+      "number": 24,
+      "text": "Political Ideas: Understand liberalism, conservatism, socialism,"
+    },
+    {
+      "page": 12,
+      "line": 21,
+      "number": 25,
+      "text": "World History: Have a basic outline of world history (see Chapter 4)."
+    },
+    {
+      "page": 13,
+      "line": 21,
+      "number": 1,
+      "text": "The Preamble to the Constitution states that \u201cWe the People of the"
+    },
+    {
+      "page": 14,
+      "line": 3,
+      "number": 2,
+      "text": "In 1920, the U.S. Senate voted against ratification of the Treaty of"
+    },
+    {
+      "page": 14,
+      "line": 10,
+      "number": 3,
+      "text": "When the Bill of Rights was added to the U.S. Constitution, what"
+    },
+    {
+      "page": 14,
+      "line": 17,
+      "number": 4,
+      "text": "Why does supply go up when new technology lowers production costs?"
+    },
+    {
+      "page": 15,
+      "line": 2,
+      "number": 1,
+      "text": "Defines citizenship and the rights of citizens"
+    },
+    {
+      "page": 15,
+      "line": 3,
+      "number": 2,
+      "text": "Protects voting rights of all citizens or the population basis for"
+    },
+    {
+      "page": 15,
+      "line": 5,
+      "number": 3,
+      "text": "Bars certain former members of the Confederate government from"
+    },
+    {
+      "page": 15,
+      "line": 7,
+      "number": 4,
+      "text": "Repudiates the public debt obligations of the Confederate"
+    },
+    {
+      "page": 15,
+      "line": 14,
+      "number": 5,
+      "text": "The Fourteenth Amendment declares the following: \u201cNo State shall"
+    },
+    {
+      "page": 15,
+      "line": 27,
+      "number": 6,
+      "text": "Which statement best explains the sequence of these amendments?"
+    },
+    {
+      "page": 16,
+      "line": 7,
+      "number": 7,
+      "text": "Which level of government has the power to create local governments?"
+    },
+    {
+      "page": 17,
+      "line": 2,
+      "number": 8,
+      "text": "Income taxes paid by individuals account for approximately how much"
+    },
+    {
+      "page": 18,
+      "line": 5,
+      "number": 9,
+      "text": "The law of supply and demand states that as the price for a product"
+    },
+    {
+      "page": 19,
+      "line": 0,
+      "number": 10,
+      "text": "Based on the information in the chart, which type of economy is most"
+    },
+    {
+      "page": 19,
+      "line": 7,
+      "number": 11,
+      "text": "Which aspect of the U.S. economy reflects its roots in a capitalist, or"
+    },
+    {
+      "page": 19,
+      "line": 14,
+      "number": 12,
+      "text": "Which of the following illustrates a complementary good for dry"
+    },
+    {
+      "page": 20,
+      "line": 2,
+      "number": 13,
+      "text": "How much did the U.S. urban population change from 1950 to 2010?"
+    },
+    {
+      "page": 20,
+      "line": 8,
+      "number": 14,
+      "text": "Which decade saw no growth in urbanization?"
+    },
+    {
+      "page": 21,
+      "line": 10,
+      "number": 15,
+      "text": "The election of shows the best result for a third-party candidate of the"
+    },
+    {
+      "page": 21,
+      "line": 13,
+      "number": 16,
+      "text": "Which statement explains why Arizona and New Mexico are not"
+    },
+    {
+      "page": 21,
+      "line": 20,
+      "number": 17,
+      "text": "Put these elections in order from the closest margin in the electoral"
+    },
+    {
+      "page": 23,
+      "line": 0,
+      "number": 18,
+      "text": "In this decision, Chief Justice John Marshall set what precedent?"
+    },
+    {
+      "page": 23,
+      "line": 6,
+      "number": 19,
+      "text": "On which part of the U.S. Constitution did Marshall base his decision?"
+    },
+    {
+      "page": 23,
+      "line": 19,
+      "number": 20,
+      "text": "Which is the longest river in the United States, and which has the"
+    },
+    {
+      "page": 24,
+      "line": 0,
+      "number": 21,
+      "text": "Which statement best explains why rivers that are longer than other"
+    },
+    {
+      "page": 24,
+      "line": 12,
+      "number": 22,
+      "text": "How and when did the United States gain what is now Florida?"
+    },
+    {
+      "page": 25,
+      "line": 0,
+      "number": 23,
+      "text": "Put these four states in the order in which they were acquired."
+    },
+    {
+      "page": 25,
+      "line": 8,
+      "number": 24,
+      "text": "Which states that are now part of the United States do not appear on"
+    },
+    {
+      "page": 26,
+      "line": 0,
+      "number": 25,
+      "text": "Indicate the point on the graph where the price for breakfast"
+    },
+    {
+      "page": 26,
+      "line": 4,
+      "number": 26,
+      "text": "Social Security taxes paid by workers and employers would be part of"
+    },
+    {
+      "page": 27,
+      "line": 3,
+      "number": 27,
+      "text": "What is expected to be the leading source of energy in the world in"
+    },
+    {
+      "page": 27,
+      "line": 10,
+      "number": 28,
+      "text": "Which category would include hydroelectric power and other"
+    },
+    {
+      "page": 28,
+      "line": 3,
+      "number": 29,
+      "text": "Consumption of which energy source is expected to grow most rapidly"
+    },
+    {
+      "page": 29,
+      "line": 0,
+      "number": 30,
+      "text": "Which action regarding voting happened as a result of the civil rights"
+    },
+    {
+      "page": 29,
+      "line": 7,
+      "number": 31,
+      "text": "Which group received voting rights most recently?"
+    },
+    {
+      "page": 29,
+      "line": 13,
+      "number": 32,
+      "text": "Which of the following shows the correct order in which the groups"
+    },
+    {
+      "page": 29,
+      "line": 20,
+      "number": 33,
+      "text": "President Abraham Lincoln had issued the Emancipation Proclamation"
+    },
+    {
+      "page": 30,
+      "line": 12,
+      "number": 34,
+      "text": "While demand generally increases if consumers expect a rise in prices"
+    },
+    {
+      "page": 30,
+      "line": 20,
+      "number": 35,
+      "text": "After the end of the Cold War, the former communist states of Eastern"
+    },
+    {
+      "page": 31,
+      "line": 9,
+      "number": 36,
+      "text": "What process does this passage describe?"
+    },
+    {
+      "page": 32,
+      "line": 5,
+      "number": 37,
+      "text": "The points that President Wilson detailed in his speech were meant to"
+    },
+    {
+      "page": 33,
+      "line": 24,
+      "number": 38,
+      "text": "Which amendment in the Bill of Rights is the basis of the claim of"
+    },
+    {
+      "page": 33,
+      "line": 31,
+      "number": 39,
+      "text": "When police have a person in custody whom they wish to question"
+    },
+    {
+      "page": 34,
+      "line": 16,
+      "number": 40,
+      "text": "What does the word enumeration mean?"
+    },
+    {
+      "page": 34,
+      "line": 29,
+      "number": 1,
+      "text": "popular sovereignty \u201cWe the people . . . do ordain and establish\u201d"
+    },
+    {
+      "page": 34,
+      "line": 32,
+      "number": 2,
+      "text": "A The president makes treaties, but the Senate must approve. This is"
+    },
+    {
+      "page": 35,
+      "line": 0,
+      "number": 3,
+      "text": "B The amendments in the Bill of Rights establish the rights of the"
+    },
+    {
+      "page": 35,
+      "line": 3,
+      "number": 4,
+      "text": "A When production costs are lower, profits are higher. Suppliers"
+    },
+    {
+      "page": 35,
+      "line": 6,
+      "number": 5,
+      "text": "1 The quote relates to the rights of citizens, which is the first"
+    },
+    {
+      "page": 35,
+      "line": 9,
+      "number": 6,
+      "text": "D In 1865 slavery is abolished; in 1868 citizenship is granted to"
+    },
+    {
+      "page": 35,
+      "line": 13,
+      "number": 7,
+      "text": "C Local governments are established by municipal governments."
+    },
+    {
+      "page": 35,
+      "line": 15,
+      "number": 8,
+      "text": "C Individual taxes account for 50.1% and business income taxes"
+    },
+    {
+      "page": 35,
+      "line": 19,
+      "number": 9,
+      "text": "increases The law of supply states that as price increases, supply"
+    },
+    {
+      "page": 35,
+      "line": 22,
+      "number": 10,
+      "text": "C The chart states that market economies are highly productive and"
+    },
+    {
+      "page": 35,
+      "line": 26,
+      "number": 11,
+      "text": "A A market economy has high freedom of choice and high"
+    },
+    {
+      "page": 35,
+      "line": 29,
+      "number": 12,
+      "text": "A If wool suits were cheaper, demand for them would be higher."
+    },
+    {
+      "page": 35,
+      "line": 33,
+      "number": 13,
+      "text": "D The urban population in 1950 was approximately 63%. In 2010, it"
+    },
+    {
+      "page": 35,
+      "line": 36,
+      "number": 14,
+      "text": "B Urban growth stayed the same from 1930\u20131940 and then again"
+    },
+    {
+      "page": 36,
+      "line": 0,
+      "number": 15,
+      "text": "1912 In 1912, the third-party candidate received electoral votes and a"
+    },
+    {
+      "page": 36,
+      "line": 3,
+      "number": 16,
+      "text": "A According to the map key, Arizona and New Mexico were"
+    },
+    {
+      "page": 36,
+      "line": 11,
+      "number": 18,
+      "text": "B The last paragraph says that the state law is unconstitutional."
+    },
+    {
+      "page": 36,
+      "line": 13,
+      "number": 19,
+      "text": "D The first and third paragraphs mention the supremacy of the U.S."
+    },
+    {
+      "page": 36,
+      "line": 16,
+      "number": 20,
+      "text": "A According to the charts, the Missouri River is the longest at 2500"
+    },
+    {
+      "page": 36,
+      "line": 20,
+      "number": 21,
+      "text": "C If a river has many tributaries, it spreads out the drainage, resulting"
+    },
+    {
+      "page": 36,
+      "line": 23,
+      "number": 22,
+      "text": "B The map shows that Florida became part of the United States"
+    },
+    {
+      "page": 37,
+      "line": 2,
+      "number": 24,
+      "text": "B The map does not show Alaska or Hawaii."
+    },
+    {
+      "page": 37,
+      "line": 4,
+      "number": 25,
+      "text": "$1.25 The supply and demand lines meet at $1.25."
+    },
+    {
+      "page": 37,
+      "line": 6,
+      "number": 26,
+      "text": "B If the taxes are paid by workers and employers, they are part of"
+    },
+    {
+      "page": 37,
+      "line": 9,
+      "number": 27,
+      "text": "B The top line on the graph in 2040 is for petroleum."
+    },
+    {
+      "page": 37,
+      "line": 11,
+      "number": 28,
+      "text": "D They are not shown on the graph, so would be included in the"
+    },
+    {
+      "page": 37,
+      "line": 14,
+      "number": 29,
+      "text": "B The steepest increase is for the natural gas line."
+    },
+    {
+      "page": 37,
+      "line": 16,
+      "number": 30,
+      "text": "D The Voting Rights Act was passed in 1965 during the civil rights"
+    },
+    {
+      "page": 37,
+      "line": 19,
+      "number": 31,
+      "text": "B The Twenty-Sixth Amendment in 1971 gave 18-year-olds the right"
+    },
+    {
+      "page": 37,
+      "line": 22,
+      "number": 32,
+      "text": "C White men who did not own property got the vote in the 1830s;"
+    },
+    {
+      "page": 37,
+      "line": 25,
+      "number": 33,
+      "text": "B The Thirteenth Amendment abolished slavery in all states. The"
+    },
+    {
+      "page": 37,
+      "line": 29,
+      "number": 34,
+      "text": "C The demand for fresh foods would not increase because of an"
+    },
+    {
+      "page": 38,
+      "line": 2,
+      "number": 35,
+      "text": "B Communist countries have command economies. After the Cold"
+    },
+    {
+      "page": 38,
+      "line": 5,
+      "number": 36,
+      "text": "D The passage discusses how a president may veto a bill and how"
+    },
+    {
+      "page": 38,
+      "line": 8,
+      "number": 37,
+      "text": "C President Wilson served during World War I."
+    },
+    {
+      "page": 38,
+      "line": 10,
+      "number": 38,
+      "text": "D The objection that some make to capital punishment is that it"
+    },
+    {
+      "page": 38,
+      "line": 13,
+      "number": 39,
+      "text": "C The Miranda warning is a reminder of the Fifth Amendment right"
+    },
+    {
+      "page": 38,
+      "line": 17,
+      "number": 40,
+      "text": "A Enumeration here means listing each right one by one. The Ninth"
+    },
+    {
+      "page": 40,
+      "line": 16,
+      "number": 1,
+      "text": "Which principle that contributed to American constitutional"
+    },
+    {
+      "page": 40,
+      "line": 23,
+      "number": 2,
+      "text": "Which of the following phrases from the U.S. Declaration of"
+    },
+    {
+      "page": 41,
+      "line": 10,
+      "number": 3,
+      "text": "Indicate the box where each of the following items belongs. (Note: On"
+    },
+    {
+      "page": 42,
+      "line": 0,
+      "number": 4,
+      "text": "What was the purpose of the delegates at the Constitutional"
+    },
+    {
+      "page": 42,
+      "line": 7,
+      "number": 5,
+      "text": "What is the form of government of the United States and each of the"
+    },
+    {
+      "page": 42,
+      "line": 14,
+      "number": 6,
+      "text": "Which of the following is a modern example of direct democracy?"
+    },
+    {
+      "page": 43,
+      "line": 5,
+      "number": 7,
+      "text": "Which statement best explains why both the state and federal"
+    },
+    {
+      "page": 43,
+      "line": 12,
+      "number": 8,
+      "text": "A trade agreement with Canada would fall under federal authority on"
+    },
+    {
+      "page": 43,
+      "line": 19,
+      "number": 9,
+      "text": "Which principle of the U.S. Constitution is demonstrated by the"
+    },
+    {
+      "page": 44,
+      "line": 2,
+      "number": 10,
+      "text": "Under the U.S. Constitution, what is the chief responsibility assigned"
+    },
+    {
+      "page": 44,
+      "line": 31,
+      "number": 11,
+      "text": "What is a major difference between the British prime minister and the"
+    },
+    {
+      "page": 45,
+      "line": 5,
+      "number": 12,
+      "text": "Indicate the box where each of the following items belongs. (Note: On"
+    },
+    {
+      "page": 45,
+      "line": 12,
+      "number": 13,
+      "text": "The following sentence contains a blank marked                         ."
+    },
+    {
+      "page": 46,
+      "line": 0,
+      "number": 14,
+      "text": "Which official serves for life, unless removed from office by"
+    },
+    {
+      "page": 46,
+      "line": 14,
+      "number": 15,
+      "text": "This amendment is at the heart of what contemporary public policy"
+    },
+    {
+      "page": 46,
+      "line": 21,
+      "number": 16,
+      "text": "Many opponents of any laws to place limits on gun ownership base"
+    },
+    {
+      "page": 47,
+      "line": 9,
+      "number": 17,
+      "text": "The separation of church and state, established by the First"
+    },
+    {
+      "page": 47,
+      "line": 17,
+      "number": 18,
+      "text": "In 1992, the U.S. Supreme Court ruled (in R.A.V. v. City of St. Paul)"
+    },
+    {
+      "page": 47,
+      "line": 30,
+      "number": 19,
+      "text": "Which of the following individuals would be most likely to favor limits"
+    },
+    {
+      "page": 48,
+      "line": 9,
+      "number": 20,
+      "text": "Which period saw the most presidential vetoes?"
+    },
+    {
+      "page": 48,
+      "line": 15,
+      "number": 21,
+      "text": "Which generalization can reasonably be made based on the data in the"
+    },
+    {
+      "page": 48,
+      "line": 22,
+      "number": 22,
+      "text": "Which generalization can reasonably be made based on the data in"
+    },
+    {
+      "page": 49,
+      "line": 5,
+      "number": 23,
+      "text": "Which statement best explains why the data about presidential vetoes"
+    },
+    {
+      "page": 50,
+      "line": 27,
+      "number": 24,
+      "text": "Indicate the box where each of the following items belongs. (Note: On"
+    },
+    {
+      "page": 51,
+      "line": 0,
+      "number": 25,
+      "text": "Based on the description in the passage, which amendment contains"
+    },
+    {
+      "page": 51,
+      "line": 14,
+      "number": 26,
+      "text": "In 1962, in Gideon v. Wainwright, the U.S. Supreme Court ruled that"
+    },
+    {
+      "page": 52,
+      "line": 3,
+      "number": 27,
+      "text": "In 2014, in Riley v. California, the U.S. Supreme Court ruled"
+    },
+    {
+      "page": 53,
+      "line": 14,
+      "number": 28,
+      "text": "Amendments to the U.S. Constitution are numbered in chronological"
+    },
+    {
+      "page": 53,
+      "line": 24,
+      "number": 29,
+      "text": "During the Vietnam War in the 1960s and early 1970s, many"
+    },
+    {
+      "page": 54,
+      "line": 0,
+      "number": 30,
+      "text": "The poll tax had been enacted in some southern states to suppress"
+    },
+    {
+      "page": 54,
+      "line": 9,
+      "number": 31,
+      "text": "Which of these voting rights amendments affected the largest share of"
+    },
+    {
+      "page": 54,
+      "line": 16,
+      "number": 32,
+      "text": "The following sentence contains a blank marked                         ."
+    },
+    {
+      "page": 54,
+      "line": 28,
+      "number": 33,
+      "text": "The power of the U.S. Congress to impeach the president, vice"
+    },
+    {
+      "page": 55,
+      "line": 5,
+      "number": 34,
+      "text": "Which of these actions by Congress requires a \u201csupermajority\u201d\u2014"
+    },
+    {
+      "page": 55,
+      "line": 13,
+      "number": 35,
+      "text": "The following sentence contains a blank marked                         ."
+    },
+    {
+      "page": 55,
+      "line": 26,
+      "number": 36,
+      "text": "Which cabinet department includes the Bureau of Land Management,"
+    },
+    {
+      "page": 56,
+      "line": 12,
+      "number": 37,
+      "text": "Which constitutional principle is represented in the statement that \u201cWe"
+    },
+    {
+      "page": 56,
+      "line": 19,
+      "number": 38,
+      "text": "What is the purpose of the Preamble to the Constitution?"
+    },
+    {
+      "page": 57,
+      "line": 0,
+      "number": 39,
+      "text": "Which actions are absolutely essential for a bill to become a law?"
+    },
+    {
+      "page": 57,
+      "line": 8,
+      "number": 40,
+      "text": "Under what circumstances does a bill go to a conference committee?"
+    },
+    {
+      "page": 57,
+      "line": 14,
+      "number": 41,
+      "text": "What determines the number of electoral votes a state has?"
+    },
+    {
+      "page": 57,
+      "line": 20,
+      "number": 42,
+      "text": "In which elections do voters go to the polls to choose candidates for"
+    },
+    {
+      "page": 59,
+      "line": 21,
+      "number": 43,
+      "text": "Which article of the Constitution authorizes Congress to create federal"
+    },
+    {
+      "page": 59,
+      "line": 28,
+      "number": 44,
+      "text": "In which article would you find the following quotation?"
+    },
+    {
+      "page": 60,
+      "line": 5,
+      "number": 45,
+      "text": "What is one way that interest groups differ from political parties?"
+    },
+    {
+      "page": 60,
+      "line": 11,
+      "number": 46,
+      "text": "The following sentence contains a blank marked                         ."
+    },
+    {
+      "page": 60,
+      "line": 24,
+      "number": 47,
+      "text": "Which of the following correctly identifies the interest group and a"
+    },
+    {
+      "page": 61,
+      "line": 25,
+      "number": 48,
+      "text": "What defines a republican form of government, according to Madison?"
+    },
+    {
+      "page": 61,
+      "line": 31,
+      "number": 49,
+      "text": "What is a disadvantage that \u201cpure democracy\u201d has compared to"
+    },
+    {
+      "page": 62,
+      "line": 3,
+      "number": 50,
+      "text": "Why are minority rights at risk in a pure democracy, according to"
+    },
+    {
+      "page": 62,
+      "line": 20,
+      "number": 51,
+      "text": "Why is this \u201cnecessary and proper\u201d clause of the U.S. Constitution"
+    },
+    {
+      "page": 62,
+      "line": 27,
+      "number": 52,
+      "text": "The Equal Opportunity Employment Commission, which works to"
+    },
+    {
+      "page": 63,
+      "line": 2,
+      "number": 53,
+      "text": "The following sentence contains a blank marked                         ."
+    },
+    {
+      "page": 63,
+      "line": 14,
+      "number": 54,
+      "text": "The following sentence contains blanks marked                        ."
+    },
+    {
+      "page": 64,
+      "line": 5,
+      "number": 55,
+      "text": "What is the purpose of a political party\u2019s national convention, held"
+    },
+    {
+      "page": 64,
+      "line": 12,
+      "number": 56,
+      "text": "How many seats in the U.S. Senate are up for election every two years?"
+    },
+    {
+      "page": 65,
+      "line": 0,
+      "number": 57,
+      "text": "In which election did a third-party candidate have the most success?"
+    },
+    {
+      "page": 65,
+      "line": 6,
+      "number": 58,
+      "text": "In which election did the winner of the electoral vote not win a"
+    },
+    {
+      "page": 65,
+      "line": 13,
+      "number": 59,
+      "text": "Which states were solidly Democratic in these four elections?"
+    },
+    {
+      "page": 66,
+      "line": 0,
+      "number": 60,
+      "text": "Which combination of states was solidly Republican in these four"
+    },
+    {
+      "page": 66,
+      "line": 29,
+      "number": 61,
+      "text": "Which step has been followed in the case of every amendment that has"
+    },
+    {
+      "page": 67,
+      "line": 2,
+      "number": 62,
+      "text": "Which statement is the best explanation of why the Founders who"
+    },
+    {
+      "page": 67,
+      "line": 15,
+      "number": 63,
+      "text": "Which country has a form of government most similar to that of the"
+    },
+    {
+      "page": 68,
+      "line": 0,
+      "number": 64,
+      "text": "Which country has the government in which one individual wields the"
+    },
+    {
+      "page": 68,
+      "line": 7,
+      "number": 65,
+      "text": "Which is the best explanation of what is meant by calling Iran a"
+    },
+    {
+      "page": 68,
+      "line": 14,
+      "number": 66,
+      "text": "The census that is taken every ten years is used to determine what"
+    },
+    {
+      "page": 69,
+      "line": 8,
+      "number": 67,
+      "text": "What does Madison say is the chief defense that a republican form of"
+    },
+    {
+      "page": 69,
+      "line": 17,
+      "number": 68,
+      "text": "Based on this passage, what does Madison mean by \u201cfactious"
+    },
+    {
+      "page": 69,
+      "line": 24,
+      "number": 69,
+      "text": "The following sentence contains blanks marked                        ."
+    },
+    {
+      "page": 71,
+      "line": 9,
+      "number": 70,
+      "text": "What position did the Court take regarding a president\u2019s right to claim"
+    },
+    {
+      "page": 71,
+      "line": 16,
+      "number": 71,
+      "text": "What constitutional issue did the Court\u2019s decision say conflicted with"
+    },
+    {
+      "page": 71,
+      "line": 23,
+      "number": 72,
+      "text": "Based on the wording of this decision, what is reasonable to conclude"
+    },
+    {
+      "page": 72,
+      "line": 7,
+      "number": 1,
+      "text": "Protect the United States from terrorist attack"
+    },
+    {
+      "page": 72,
+      "line": 8,
+      "number": 2,
+      "text": "Protect the United States against foreign intelligence operations and"
+    },
+    {
+      "page": 72,
+      "line": 10,
+      "number": 3,
+      "text": "Protect the United States against cyber-based attacks and high-"
+    },
+    {
+      "page": 72,
+      "line": 12,
+      "number": 4,
+      "text": "Combat public corruption at all levels"
+    },
+    {
+      "page": 72,
+      "line": 13,
+      "number": 5,
+      "text": "Protect civil rights"
+    },
+    {
+      "page": 72,
+      "line": 14,
+      "number": 6,
+      "text": "Combat transnational/national criminal organizations and"
+    },
+    {
+      "page": 72,
+      "line": 16,
+      "number": 7,
+      "text": "Combat major white-collar crime"
+    },
+    {
+      "page": 72,
+      "line": 17,
+      "number": 8,
+      "text": "Combat significant violent crime"
+    },
+    {
+      "page": 72,
+      "line": 18,
+      "number": 9,
+      "text": "Support federal, state, local and international partners"
+    },
+    {
+      "page": 72,
+      "line": 19,
+      "number": 10,
+      "text": "Upgrade technology to successfully perform the FBI\u2019s mission\u201d"
+    },
+    {
+      "page": 72,
+      "line": 23,
+      "number": 73,
+      "text": "What is the FBI\u2019s main mission?"
+    },
+    {
+      "page": 72,
+      "line": 29,
+      "number": 74,
+      "text": "Which mission would involve investigating a case of discrimination"
+    },
+    {
+      "page": 73,
+      "line": 2,
+      "number": 75,
+      "text": "Which mission would involve an investigation into a group of hackers"
+    },
+    {
+      "page": 74,
+      "line": 0,
+      "number": 76,
+      "text": "Which characteristic of a national state does each of the fifty states"
+    },
+    {
+      "page": 74,
+      "line": 7,
+      "number": 77,
+      "text": "Aristotle, in his book The Politics, wrote that \u201cthe polity [or state] is a"
+    },
+    {
+      "page": 75,
+      "line": 5,
+      "number": 78,
+      "text": "The following sentence contains a blank marked                         ."
+    },
+    {
+      "page": 75,
+      "line": 31,
+      "number": 79,
+      "text": "What does Chief Justice Marshall mean in saying that \u201ca law"
+    },
+    {
+      "page": 76,
+      "line": 9,
+      "number": 80,
+      "text": "The Supreme Court\u2019s decision in Marbury v. Madison established that"
+    },
+    {
+      "page": 76,
+      "line": 17,
+      "number": 81,
+      "text": "Which aspect of the U.S. Constitution contributes most to its being"
+    },
+    {
+      "page": 77,
+      "line": 7,
+      "number": 82,
+      "text": "Which type of benefit has age eligibility requirements?"
+    },
+    {
+      "page": 77,
+      "line": 13,
+      "number": 83,
+      "text": "Which type of benefit would be received by the fully abled minor child"
+    },
+    {
+      "page": 78,
+      "line": 0,
+      "number": 84,
+      "text": "Which step in the naturalization process is optional for some"
+    },
+    {
+      "page": 78,
+      "line": 7,
+      "number": 85,
+      "text": "Based on this diagram, for whom is the naturalization process"
+    },
+    {
+      "page": 79,
+      "line": 0,
+      "number": 86,
+      "text": "The president\u2019s chief of staff and press secretary are most likely found"
+    },
+    {
+      "page": 79,
+      "line": 7,
+      "number": 87,
+      "text": "Which type of organization includes those with the greatest authority"
+    },
+    {
+      "page": 80,
+      "line": 12,
+      "number": 88,
+      "text": "What is unusual about the period from 1951 to 1961?"
+    },
+    {
+      "page": 80,
+      "line": 18,
+      "number": 89,
+      "text": "What inference can reasonably be made from the data in this graph?"
+    },
+    {
+      "page": 81,
+      "line": 20,
+      "number": 90,
+      "text": "Which of the following ideas from the Magna Carta most likely"
+    },
+    {
+      "page": 82,
+      "line": 12,
+      "number": 91,
+      "text": "The                     amendment to the U.S. Constitution expresses"
+    },
+    {
+      "page": 83,
+      "line": 2,
+      "number": 92,
+      "text": "Which of the following is a part of the executive branch?"
+    },
+    {
+      "page": 84,
+      "line": 20,
+      "number": 93,
+      "text": "On which of the following matters did the two decisions differ?"
+    },
+    {
+      "page": 85,
+      "line": 8,
+      "number": 94,
+      "text": "Which of the following promises does a person make when becoming a"
+    },
+    {
+      "page": 85,
+      "line": 24,
+      "number": 95,
+      "text": "Which of the following would be most consistent with the mission of"
+    },
+    {
+      "page": 86,
+      "line": 18,
+      "number": 96,
+      "text": "Place the following steps in the correct order. Indicate the box where"
+    },
+    {
+      "page": 88,
+      "line": 3,
+      "number": 97,
+      "text": "Which of the following is not under the supervision of the Associate"
+    },
+    {
+      "page": 89,
+      "line": 2,
+      "number": 98,
+      "text": "Which of the following people is not eligible to vote in New York?"
+    },
+    {
+      "page": 90,
+      "line": 18,
+      "number": 99,
+      "text": "Which of the following people are not allowed to serve on a federal"
+    },
+    {
+      "page": 90,
+      "line": 25,
+      "number": 100,
+      "text": "Which of the following types of government would be most likely to"
+    },
+    {
+      "page": 92,
+      "line": 23,
+      "number": 1,
+      "text": "Which group of settlers wrote and signed this agreement in 1620?"
+    },
+    {
+      "page": 92,
+      "line": 29,
+      "number": 2,
+      "text": "Why is this document considered a founding document in American"
+    },
+    {
+      "page": 93,
+      "line": 9,
+      "number": 3,
+      "text": "The delegates at the Constitutional Convention agreed on three"
+    },
+    {
+      "page": 93,
+      "line": 19,
+      "number": 4,
+      "text": "Indicate the box where each characteristic of the Articles of"
+    },
+    {
+      "page": 95,
+      "line": 0,
+      "number": 5,
+      "text": "Which of the following describes the internment of Japanese"
+    },
+    {
+      "page": 95,
+      "line": 7,
+      "number": 6,
+      "text": "Which president issued Executive Order 9066, which led to the"
+    },
+    {
+      "page": 95,
+      "line": 14,
+      "number": 7,
+      "text": "The placement of Japanese Americans in internment camps was most"
+    },
+    {
+      "page": 96,
+      "line": 2,
+      "number": 8,
+      "text": "This print shows the burning of Washington, D.C., by British troops,"
+    },
+    {
+      "page": 97,
+      "line": 2,
+      "number": 9,
+      "text": "In which fiscal year did the FBI most likely have funding cuts? Write"
+    },
+    {
+      "page": 97,
+      "line": 6,
+      "number": 10,
+      "text": "Which statement best explains the rise in employees dedicated to"
+    },
+    {
+      "page": 98,
+      "line": 6,
+      "number": 14,
+      "text": "And for obtaining the common counsel of the kingdom [regarding] the"
+    },
+    {
+      "page": 98,
+      "line": 14,
+      "number": 20,
+      "text": "A freeman shall not be [fined] for a slight offense, except in"
+    },
+    {
+      "page": 98,
+      "line": 20,
+      "number": 39,
+      "text": "No freemen shall be taken or imprisoned or [deprived of property] or"
+    },
+    {
+      "page": 98,
+      "line": 27,
+      "number": 11,
+      "text": "The following sentence contains blanks marked                       ."
+    },
+    {
+      "page": 99,
+      "line": 12,
+      "number": 12,
+      "text": "What principle underlying American democracy does the Magna Carta"
+    },
+    {
+      "page": 99,
+      "line": 19,
+      "number": 13,
+      "text": "Which statement is an appropriate paraphrase for the text of clause 20?"
+    },
+    {
+      "page": 99,
+      "line": 25,
+      "number": 14,
+      "text": "Place the documents in the correct order, from oldest to most recent."
+    },
+    {
+      "page": 101,
+      "line": 0,
+      "number": 15,
+      "text": "Which region provided the greatest share of immigrants who were"
+    },
+    {
+      "page": 101,
+      "line": 7,
+      "number": 16,
+      "text": "About how many immigrants came as legal residents from Europe in"
+    },
+    {
+      "page": 101,
+      "line": 14,
+      "number": 17,
+      "text": "Immigration from China was growing in the 1800s until the passage of"
+    },
+    {
+      "page": 101,
+      "line": 23,
+      "number": 18,
+      "text": "In which decade can you reasonably infer that new immigration laws"
+    },
+    {
+      "page": 102,
+      "line": 5,
+      "number": 19,
+      "text": "Match the name of each major American war with its time span and the"
+    },
+    {
+      "page": 102,
+      "line": 13,
+      "number": 20,
+      "text": "The Great Compromise, reached during the Constitutional Convention,"
+    },
+    {
+      "page": 103,
+      "line": 10,
+      "number": 21,
+      "text": "Which communist state was not part of the Warsaw Pact?"
+    },
+    {
+      "page": 103,
+      "line": 16,
+      "number": 22,
+      "text": "What member of NATO does not appear on the map because it is not"
+    },
+    {
+      "page": 104,
+      "line": 5,
+      "number": 23,
+      "text": "What can you infer about the governments of the \u201cnonaligned nations\u201d"
+    },
+    {
+      "page": 104,
+      "line": 33,
+      "number": 24,
+      "text": "Which principle established by Enlightenment political thinkers does"
+    },
+    {
+      "page": 105,
+      "line": 6,
+      "number": 25,
+      "text": "What is the purpose of the Declaration of Independence, according to"
+    },
+    {
+      "page": 105,
+      "line": 20,
+      "number": 26,
+      "text": "Which member of the Triple Alliance could not be entirely counted on"
+    },
+    {
+      "page": 106,
+      "line": 5,
+      "number": 27,
+      "text": "What two countries were most likely to be embroiled in war first if"
+    },
+    {
+      "page": 106,
+      "line": 12,
+      "number": 28,
+      "text": "What danger was posed to peace in Europe by the alliance system that"
+    },
+    {
+      "page": 106,
+      "line": 21,
+      "number": 29,
+      "text": "Which of the following actions was a decisive factor in the American"
+    },
+    {
+      "page": 106,
+      "line": 28,
+      "number": 30,
+      "text": "Match each of the Civil War Constitutional amendments with one of"
+    },
+    {
+      "page": 108,
+      "line": 10,
+      "number": 31,
+      "text": "What can be inferred about the question of the annexation of Texas"
+    },
+    {
+      "page": 108,
+      "line": 18,
+      "number": 32,
+      "text": "What did O\u2019Sullivan mean when he wrote of the \u201cmanifest destiny\u201d of"
+    },
+    {
+      "page": 108,
+      "line": 29,
+      "number": 33,
+      "text": "Which president resigned under threat of impeachment for his actions"
+    },
+    {
+      "page": 109,
+      "line": 2,
+      "number": 34,
+      "text": "Match each of the achievements in the list with one of the two early"
+    },
+    {
+      "page": 110,
+      "line": 2,
+      "number": 35,
+      "text": "Which of the following is a paraphrase of these two paragraphs from"
+    },
+    {
+      "page": 110,
+      "line": 14,
+      "number": 36,
+      "text": "Which phrase is used to justify the Americans\u2019 characterization of the"
+    },
+    {
+      "page": 110,
+      "line": 21,
+      "number": 37,
+      "text": "The president at the time of the Watergate scandal lost political"
+    },
+    {
+      "page": 110,
+      "line": 29,
+      "number": 38,
+      "text": "Why did Congress enact a law in 1867 ordering the military"
+    },
+    {
+      "page": 111,
+      "line": 5,
+      "number": 39,
+      "text": "The following is a list of characteristics of the North and South regions"
+    },
+    {
+      "page": 112,
+      "line": 23,
+      "number": 40,
+      "text": "In this speech, which introduced the Truman Doctrine, President Harry"
+    },
+    {
+      "page": 112,
+      "line": 31,
+      "number": 41,
+      "text": "Truman\u2019s speech led to his adoption of what Cold War policy, which"
+    },
+    {
+      "page": 113,
+      "line": 4,
+      "number": 42,
+      "text": "Which action was adopted soon after Truman\u2019s speech in part to"
+    },
+    {
+      "page": 114,
+      "line": 5,
+      "number": 43,
+      "text": "What foreign policy position is represented by Harding\u2019s stated aim of"
+    },
+    {
+      "page": 114,
+      "line": 13,
+      "number": 44,
+      "text": "Harding\u2019s position is in part a reaction to the recent termination of"
+    },
+    {
+      "page": 114,
+      "line": 21,
+      "number": 45,
+      "text": "Harding states that the United States should \u201center into no political"
+    },
+    {
+      "page": 115,
+      "line": 0,
+      "number": 46,
+      "text": "Which of these would be the most appropriate title for this timeline?"
+    },
+    {
+      "page": 115,
+      "line": 6,
+      "number": 47,
+      "text": "What event most likely prompted Martin Luther King Jr. to write his"
+    },
+    {
+      "page": 115,
+      "line": 13,
+      "number": 48,
+      "text": "Which event most likely pushed Congress to pass the Voting Rights"
+    },
+    {
+      "page": 116,
+      "line": 8,
+      "number": 49,
+      "text": "What was the purpose of this airlift?"
+    },
+    {
+      "page": 117,
+      "line": 8,
+      "number": 50,
+      "text": "What name is used to describe the murder of 6 million European Jews"
+    },
+    {
+      "page": 117,
+      "line": 15,
+      "number": 51,
+      "text": "What development of the postwar world is in major part a result of the"
+    },
+    {
+      "page": 117,
+      "line": 22,
+      "number": 52,
+      "text": "The items in the following list refer either to segregation or"
+    },
+    {
+      "page": 118,
+      "line": 5,
+      "number": 53,
+      "text": "In which state could a woman vote in a presidential election but not in"
+    },
+    {
+      "page": 119,
+      "line": 3,
+      "number": 54,
+      "text": "Which generalization can be made about women\u2019s voting rights based"
+    },
+    {
+      "page": 120,
+      "line": 7,
+      "number": 55,
+      "text": "Based on this list of legislation, what can you conclude was the overall"
+    },
+    {
+      "page": 120,
+      "line": 15,
+      "number": 56,
+      "text": "What was a likely result of this legislation?"
+    },
+    {
+      "page": 121,
+      "line": 0,
+      "number": 57,
+      "text": "Unrest in the Balkans against Austria-Hungary is an example of which"
+    },
+    {
+      "page": 121,
+      "line": 7,
+      "number": 58,
+      "text": "The competition between Britain and Germany to have the larger fleet"
+    },
+    {
+      "page": 121,
+      "line": 15,
+      "number": 59,
+      "text": "How were imperialism and nationalism connected?"
+    },
+    {
+      "page": 122,
+      "line": 12,
+      "number": 60,
+      "text": "Place the following events in the correct order, from first to fifth."
+    },
+    {
+      "page": 123,
+      "line": 0,
+      "number": 61,
+      "text": "Which event can most definitively be seen as the end of the Cold War?"
+    },
+    {
+      "page": 124,
+      "line": 0,
+      "number": 62,
+      "text": "The following sentence contains blanks marked                       ."
+    },
+    {
+      "page": 125,
+      "line": 0,
+      "number": 63,
+      "text": "What goal did President Woodrow Wilson have that was not achieved"
+    },
+    {
+      "page": 125,
+      "line": 7,
+      "number": 64,
+      "text": "Which country experienced a revolution and the establishment of a"
+    },
+    {
+      "page": 126,
+      "line": 2,
+      "number": 65,
+      "text": "Which country was most likely to experience unrest as a result of the"
+    },
+    {
+      "page": 126,
+      "line": 9,
+      "number": 66,
+      "text": "The items in the following list refer either to Germany, Italy, or the"
+    },
+    {
+      "page": 127,
+      "line": 0,
+      "number": 67,
+      "text": "The following sentence contains a blank marked                         ."
+    },
+    {
+      "page": 128,
+      "line": 3,
+      "number": 68,
+      "text": "What was the purpose of the GI Bill passed during World War II?"
+    },
+    {
+      "page": 128,
+      "line": 14,
+      "number": 69,
+      "text": "The map represents what policy pursued by the U.S. government?"
+    },
+    {
+      "page": 129,
+      "line": 13,
+      "number": 70,
+      "text": "Based on the map, which state was most involved in the cattle"
+    },
+    {
+      "page": 129,
+      "line": 17,
+      "number": 71,
+      "text": "Teddy Roosevelt said, \u201cMen with the muckrake are often indispensable"
+    },
+    {
+      "page": 130,
+      "line": 17,
+      "number": 72,
+      "text": "Which of the following systems does the passage above describe?"
+    },
+    {
+      "page": 131,
+      "line": 0,
+      "number": 73,
+      "text": "Which conclusion can be drawn from the map?"
+    },
+    {
+      "page": 132,
+      "line": 0,
+      "number": 74,
+      "text": "During which of the following periods did stock prices drop the most?"
+    },
+    {
+      "page": 133,
+      "line": 7,
+      "number": 75,
+      "text": "What conclusion can be drawn from the map?"
+    },
+    {
+      "page": 135,
+      "line": 6,
+      "number": 1,
+      "text": "Which of the following constitutes a market?"
+    },
+    {
+      "page": 136,
+      "line": 0,
+      "number": 2,
+      "text": "Indicate the worker whose income is not based on the number of hours"
+    },
+    {
+      "page": 136,
+      "line": 4,
+      "number": 3,
+      "text": "Indicate the worker whose total income includes a guaranteed base"
+    },
+    {
+      "page": 136,
+      "line": 8,
+      "number": 4,
+      "text": "Indicate the worker who earns a set amount regardless of how hard he"
+    },
+    {
+      "page": 137,
+      "line": 5,
+      "number": 5,
+      "text": "Which market is the closest to having free competition?"
+    },
+    {
+      "page": 137,
+      "line": 11,
+      "number": 6,
+      "text": "Which market comes closest to having monopolistic market"
+    },
+    {
+      "page": 138,
+      "line": 5,
+      "number": 7,
+      "text": "The following sentence contains a blank marked                         ."
+    },
+    {
+      "page": 138,
+      "line": 17,
+      "number": 8,
+      "text": "What federal agency has among its missions ensuring competition?"
+    },
+    {
+      "page": 138,
+      "line": 23,
+      "number": 9,
+      "text": "Profit, which is the incentive for entrepreneurs to open a business, is"
+    },
+    {
+      "page": 139,
+      "line": 0,
+      "number": 10,
+      "text": "What label should be placed at location A?"
+    },
+    {
+      "page": 139,
+      "line": 6,
+      "number": 11,
+      "text": "What label should be placed at location B?"
+    },
+    {
+      "page": 139,
+      "line": 12,
+      "number": 12,
+      "text": "What label should be placed at location D?"
+    },
+    {
+      "page": 139,
+      "line": 18,
+      "number": 13,
+      "text": "The following sentence contains a blank marked                         ."
+    },
+    {
+      "page": 140,
+      "line": 9,
+      "number": 14,
+      "text": "Which of the following activities takes place in a market?"
+    },
+    {
+      "page": 140,
+      "line": 15,
+      "number": 15,
+      "text": "What is the fundamental dynamic at work with entrepreneurship?"
+    },
+    {
+      "page": 140,
+      "line": 22,
+      "number": 16,
+      "text": "What kind of tax are tariffs most similar to?"
+    },
+    {
+      "page": 141,
+      "line": 0,
+      "number": 17,
+      "text": "Indicate the drawing that represents the factor of production of"
+    },
+    {
+      "page": 141,
+      "line": 4,
+      "number": 18,
+      "text": "Indicate the drawing that represents the factor of production of labor."
+    },
+    {
+      "page": 141,
+      "line": 7,
+      "number": 19,
+      "text": "The Sherman and Clayton Antitrust Acts have the goal of addressing"
+    },
+    {
+      "page": 142,
+      "line": 8,
+      "number": 20,
+      "text": "Indicate the graph that shows a basic supply curve."
+    },
+    {
+      "page": 142,
+      "line": 11,
+      "number": 21,
+      "text": "Indicate the graph that shows a supply curve showing the effects of"
+    },
+    {
+      "page": 143,
+      "line": 2,
+      "number": 22,
+      "text": "Indicate the graph that shows a demand curve showing the effects of"
+    },
+    {
+      "page": 143,
+      "line": 7,
+      "number": 23,
+      "text": "How does the investment of capital lead to economic growth?"
+    },
+    {
+      "page": 143,
+      "line": 13,
+      "number": 24,
+      "text": "Which is an example of investment in human capital?"
+    },
+    {
+      "page": 143,
+      "line": 25,
+      "number": 25,
+      "text": "What economic term belongs in space [A] in this diagram?"
+    },
+    {
+      "page": 144,
+      "line": 5,
+      "number": 26,
+      "text": "What term belongs in space [B]?"
+    },
+    {
+      "page": 144,
+      "line": 11,
+      "number": 27,
+      "text": "The following sentence contains a blank marked                         ."
+    },
+    {
+      "page": 144,
+      "line": 24,
+      "number": 28,
+      "text": "In a loan or credit agreement, why might finance charges be more than"
+    },
+    {
+      "page": 145,
+      "line": 0,
+      "number": 29,
+      "text": "Indicate the graph that shows the effect on domestic supply of lowering"
+    },
+    {
+      "page": 145,
+      "line": 5,
+      "number": 30,
+      "text": "Indicate the graph that shows the effect on domestic demand of"
+    },
+    {
+      "page": 145,
+      "line": 10,
+      "number": 31,
+      "text": "Which of the following markets is likely to be the most competitive"
+    },
+    {
+      "page": 146,
+      "line": 0,
+      "number": 32,
+      "text": "What is the law of supply?"
+    },
+    {
+      "page": 146,
+      "line": 11,
+      "number": 33,
+      "text": "This diagram illustrates what fundamental economic concept?"
+    },
+    {
+      "page": 147,
+      "line": 3,
+      "number": 34,
+      "text": "According to this diagram, who owns the factors of production?"
+    },
+    {
+      "page": 147,
+      "line": 9,
+      "number": 35,
+      "text": "How is the role of the government similar to that of business?"
+    },
+    {
+      "page": 147,
+      "line": 15,
+      "number": 36,
+      "text": "The American Recovery Act, passed by Congress in 2009, was an"
+    },
+    {
+      "page": 147,
+      "line": 22,
+      "number": 37,
+      "text": "Why was the invention of the steam engine so important to the"
+    },
+    {
+      "page": 147,
+      "line": 29,
+      "number": 38,
+      "text": "What institution oversees U.S. monetary policy and ensures that the"
+    },
+    {
+      "page": 148,
+      "line": 9,
+      "number": 39,
+      "text": "Which of the following is a benefit of a traditional economy?"
+    },
+    {
+      "page": 149,
+      "line": 2,
+      "number": 40,
+      "text": "Which economic system has low productivity and efficiency because"
+    },
+    {
+      "page": 149,
+      "line": 9,
+      "number": 41,
+      "text": "What economic system does the United States have?"
+    },
+    {
+      "page": 150,
+      "line": 0,
+      "number": 42,
+      "text": "Which drawing represents the kind of market failure called an"
+    },
+    {
+      "page": 150,
+      "line": 5,
+      "number": 43,
+      "text": "What is an example of the government\u2019s role in meeting market"
+    },
+    {
+      "page": 150,
+      "line": 12,
+      "number": 44,
+      "text": "In terms of its market area, a professional sports team has what kind of"
+    },
+    {
+      "page": 151,
+      "line": 5,
+      "number": 45,
+      "text": "In terms of the entertainment market, a professional sports team has"
+    },
+    {
+      "page": 152,
+      "line": 0,
+      "number": 46,
+      "text": "Which body sets national monetary policy?"
+    },
+    {
+      "page": 152,
+      "line": 6,
+      "number": 47,
+      "text": "How does the Federal Reserve System affect banking in the United"
+    },
+    {
+      "page": 153,
+      "line": 18,
+      "number": 48,
+      "text": "Based on this analysis, Ricardo recommends that England concentrate"
+    },
+    {
+      "page": 153,
+      "line": 25,
+      "number": 49,
+      "text": "Following Ricardo\u2019s reasoning leads nations to focus on producing the"
+    },
+    {
+      "page": 154,
+      "line": 14,
+      "number": 50,
+      "text": "Which law most likely contains the provision that requires lenders to"
+    },
+    {
+      "page": 154,
+      "line": 22,
+      "number": 51,
+      "text": "A consumer who receives Social Security payments and is denied"
+    },
+    {
+      "page": 154,
+      "line": 29,
+      "number": 52,
+      "text": "Consumer credit laws are examples of government intervention in the"
+    },
+    {
+      "page": 155,
+      "line": 2,
+      "number": 53,
+      "text": "Which of the following defines the economic concept of opportunity"
+    },
+    {
+      "page": 155,
+      "line": 19,
+      "number": 54,
+      "text": "In which year did prices rise most sharply? Write your answer in the"
+    },
+    {
+      "page": 156,
+      "line": 0,
+      "number": 55,
+      "text": "Based on the data shown in the graph, a recession (a kind of economic"
+    },
+    {
+      "page": 156,
+      "line": 5,
+      "number": 56,
+      "text": "The government collects the data that forms the Consumer Price Index"
+    },
+    {
+      "page": 156,
+      "line": 19,
+      "number": 57,
+      "text": "Compared to the United States, China\u2019s economy grew approximately"
+    },
+    {
+      "page": 157,
+      "line": 3,
+      "number": 58,
+      "text": "What generalization can reasonably be made on the basis of these"
+    },
+    {
+      "page": 157,
+      "line": 18,
+      "number": 59,
+      "text": "In the period covered by the graph, the unemployment rate was lowest"
+    },
+    {
+      "page": 158,
+      "line": 3,
+      "number": 60,
+      "text": "The federal government may use fiscal policy to try to stimulate the"
+    },
+    {
+      "page": 158,
+      "line": 16,
+      "number": 61,
+      "text": "What economic principles are demonstrated by these imports and"
+    },
+    {
+      "page": 159,
+      "line": 2,
+      "number": 62,
+      "text": "What can be inferred about Japan from the list of Japanese exports and"
+    },
+    {
+      "page": 160,
+      "line": 0,
+      "number": 63,
+      "text": "One criticism of government unemployment statistics is that they do"
+    },
+    {
+      "page": 160,
+      "line": 12,
+      "number": 64,
+      "text": "What is an appropriate title for this diagram?"
+    },
+    {
+      "page": 160,
+      "line": 18,
+      "number": 65,
+      "text": "Why do banks pay interest to depositors?"
+    },
+    {
+      "page": 161,
+      "line": 3,
+      "number": 66,
+      "text": "In which role do banks increase the money supply through the"
+    },
+    {
+      "page": 161,
+      "line": 15,
+      "number": 67,
+      "text": "What was an economic cause of the era of European exploration and"
+    },
+    {
+      "page": 162,
+      "line": 8,
+      "number": 68,
+      "text": "Why are savings and money market accounts in banks the most secure"
+    },
+    {
+      "page": 162,
+      "line": 15,
+      "number": 69,
+      "text": "What generalization can be made about investing?"
+    },
+    {
+      "page": 163,
+      "line": 0,
+      "number": 70,
+      "text": "How did the Scientific Revolution help bring about the Industrial"
+    },
+    {
+      "page": 164,
+      "line": 2,
+      "number": 71,
+      "text": "How did the Scientific Revolution affect the development of the study"
+    },
+    {
+      "page": 164,
+      "line": 12,
+      "number": 72,
+      "text": "Which of the following is a negative effect of government taxation?"
+    },
+    {
+      "page": 165,
+      "line": 0,
+      "number": 73,
+      "text": "According to the diagram, what economic aspect of the Treaty of"
+    },
+    {
+      "page": 165,
+      "line": 8,
+      "number": 74,
+      "text": "What was an economic impact of the American Civil War?"
+    },
+    {
+      "page": 166,
+      "line": 9,
+      "number": 75,
+      "text": "Which of the following is an example of how supply affects price?"
+    },
+    {
+      "page": 169,
+      "line": 0,
+      "number": 1,
+      "text": "Based on Fowler\u2019s definition, which of the following would constitute"
+    },
+    {
+      "page": 169,
+      "line": 7,
+      "number": 2,
+      "text": "Fowler says that a State must have \u201ccommunity of [ethnicity], of"
+    },
+    {
+      "page": 170,
+      "line": 2,
+      "number": 3,
+      "text": "Which region is expected to see a population decline from 2013 to"
+    },
+    {
+      "page": 170,
+      "line": 9,
+      "number": 4,
+      "text": "Which region is expected to have its population more than double from"
+    },
+    {
+      "page": 170,
+      "line": 16,
+      "number": 5,
+      "text": "Based on these population trends, which region will have the most"
+    },
+    {
+      "page": 171,
+      "line": 13,
+      "number": 6,
+      "text": "Which is the best explanation for why the countries of the OECD"
+    },
+    {
+      "page": 172,
+      "line": 0,
+      "number": 7,
+      "text": "Which region is expected to surpass the OECD in energy consumption"
+    },
+    {
+      "page": 172,
+      "line": 7,
+      "number": 8,
+      "text": "What is the best explanation for why the average annual growth rate of"
+    },
+    {
+      "page": 172,
+      "line": 16,
+      "number": 9,
+      "text": "Which of the following is the best definition of sustainability?"
+    },
+    {
+      "page": 173,
+      "line": 0,
+      "number": 10,
+      "text": "What is the purpose of a map title?"
+    },
+    {
+      "page": 173,
+      "line": 6,
+      "number": 11,
+      "text": "Indicate the element that shows the scale of the map. (Note: On the"
+    },
+    {
+      "page": 174,
+      "line": 2,
+      "number": 1,
+      "text": "To maintain international peace and security, and to that end: to take"
+    },
+    {
+      "page": 174,
+      "line": 9,
+      "number": 2,
+      "text": "To develop friendly relations among nations based on respect for"
+    },
+    {
+      "page": 174,
+      "line": 12,
+      "number": 3,
+      "text": "To achieve international co-operation in solving international"
+    },
+    {
+      "page": 174,
+      "line": 17,
+      "number": 4,
+      "text": "To be a centre for harmonizing the actions of nations in the"
+    },
+    {
+      "page": 174,
+      "line": 22,
+      "number": 12,
+      "text": "What is the primary goal of the United Nations?"
+    },
+    {
+      "page": 174,
+      "line": 28,
+      "number": 13,
+      "text": "Which phrase in this statement of goals could be used by the United"
+    },
+    {
+      "page": 175,
+      "line": 15,
+      "number": 14,
+      "text": "What theme of geography is indicated by using a GPS signal on a"
+    },
+    {
+      "page": 175,
+      "line": 22,
+      "number": 15,
+      "text": "The ethnic makeup of a city as a result of immigration is an example"
+    },
+    {
+      "page": 175,
+      "line": 29,
+      "number": 16,
+      "text": "Building a dam to provide hydroelectric power is an example of what"
+    },
+    {
+      "page": 176,
+      "line": 7,
+      "number": 17,
+      "text": "Geographers use latitude and longitude to determine what kind of"
+    },
+    {
+      "page": 176,
+      "line": 14,
+      "number": 18,
+      "text": "Which of the following continents is in the Western Hemisphere?"
+    },
+    {
+      "page": 177,
+      "line": 2,
+      "number": 19,
+      "text": "Which region of the world has the smallest share of its population in"
+    },
+    {
+      "page": 177,
+      "line": 9,
+      "number": 20,
+      "text": "Based on the demographic data, what social issue is more of a concern"
+    },
+    {
+      "page": 178,
+      "line": 23,
+      "number": 21,
+      "text": "Which of the following probably makes use of a GIS?"
+    },
+    {
+      "page": 178,
+      "line": 29,
+      "number": 22,
+      "text": "What kind of information would most likely be helpful to the"
+    },
+    {
+      "page": 179,
+      "line": 7,
+      "number": 23,
+      "text": "Which statement describes the expected growth of carbon emissions in"
+    },
+    {
+      "page": 179,
+      "line": 14,
+      "number": 24,
+      "text": "How much are carbon emissions expected to change in the non-OECD"
+    },
+    {
+      "page": 180,
+      "line": 5,
+      "number": 25,
+      "text": "Scientists urge holding down the growth of carbon emissions because"
+    },
+    {
+      "page": 180,
+      "line": 13,
+      "number": 26,
+      "text": "What is meant by a \u201ccarbon footprint\u201d?"
+    },
+    {
+      "page": 181,
+      "line": 0,
+      "number": 27,
+      "text": "What type of map is most likely to show and label rivers, lakes,"
+    },
+    {
+      "page": 181,
+      "line": 7,
+      "number": 28,
+      "text": "What type of map would most likely be used to show the location of oil"
+    },
+    {
+      "page": 182,
+      "line": 3,
+      "number": 29,
+      "text": "A map showing the territorial growth of the United States over time"
+    },
+    {
+      "page": 182,
+      "line": 17,
+      "number": 30,
+      "text": "Fossil fuels form about what percentage of U.S. energy supply and of"
+    },
+    {
+      "page": 183,
+      "line": 0,
+      "number": 31,
+      "text": "What most likely accounts for the fact that the percentage of fossil"
+    },
+    {
+      "page": 183,
+      "line": 8,
+      "number": 32,
+      "text": "The following sentence contains a blank marked                         ."
+    },
+    {
+      "page": 183,
+      "line": 20,
+      "number": 33,
+      "text": "Which of the following is considered a renewable energy resource?"
+    },
+    {
+      "page": 183,
+      "line": 26,
+      "number": 34,
+      "text": "Which of the following gives the absolute location of a building?"
+    },
+    {
+      "page": 184,
+      "line": 0,
+      "number": 35,
+      "text": "Which of the following states the relative location of Lagos, Nigeria?"
+    },
+    {
+      "page": 184,
+      "line": 8,
+      "number": 36,
+      "text": "The following sentence contains a blank marked                         ."
+    },
+    {
+      "page": 185,
+      "line": 0,
+      "number": 37,
+      "text": "Match each region in the list with its correct type. Indicate the box"
+    },
+    {
+      "page": 185,
+      "line": 7,
+      "number": 38,
+      "text": "What makes Latin America a cultural region?"
+    },
+    {
+      "page": 186,
+      "line": 10,
+      "number": 39,
+      "text": "According to this pictogram, the United States had about how many"
+    },
+    {
+      "page": 186,
+      "line": 18,
+      "number": 40,
+      "text": "The United States, Canada, the United Kingdom, and Australia all"
+    },
+    {
+      "page": 189,
+      "line": 2,
+      "number": 41,
+      "text": "Half of the countries that have the highest numbers of emigrants are"
+    },
+    {
+      "page": 189,
+      "line": 9,
+      "number": 42,
+      "text": "Remittances are funds that immigrants send back to their home"
+    },
+    {
+      "page": 189,
+      "line": 17,
+      "number": 43,
+      "text": "Which statement best explains why remittances to China exceed those"
+    },
+    {
+      "page": 189,
+      "line": 25,
+      "number": 44,
+      "text": "Why are fossil fuels such as oil, natural gas, and coal considered"
+    },
+    {
+      "page": 190,
+      "line": 0,
+      "number": 45,
+      "text": "What is an example of cultural diffusion as a result of immigration?"
+    },
+    {
+      "page": 190,
+      "line": 6,
+      "number": 46,
+      "text": "How do metropolitan areas compare to cities?"
+    },
+    {
+      "page": 190,
+      "line": 12,
+      "number": 47,
+      "text": "Which of the following is an example of human changes to the"
+    },
+    {
+      "page": 190,
+      "line": 19,
+      "number": 48,
+      "text": "What is the major factor leading to urbanization in developing"
+    },
+    {
+      "page": 191,
+      "line": 0,
+      "number": 49,
+      "text": "The regions of the United States are differentiated on what basis?"
+    },
+    {
+      "page": 191,
+      "line": 6,
+      "number": 50,
+      "text": "According to the map, what ethnic group is a significant part of the"
+    },
+    {
+      "page": 192,
+      "line": 4,
+      "number": 51,
+      "text": "Which region would offer the best economic opportunity to both"
+    },
+    {
+      "page": 192,
+      "line": 11,
+      "number": 52,
+      "text": "What term is used to describe the adaptation of an immigrant group to"
+    },
+    {
+      "page": 193,
+      "line": 4,
+      "number": 53,
+      "text": "What is the chief advantage of maps over globes?"
+    },
+    {
+      "page": 193,
+      "line": 10,
+      "number": 54,
+      "text": "Why is it that all maps distort sizes or shapes of the Earth?"
+    },
+    {
+      "page": 193,
+      "line": 16,
+      "number": 55,
+      "text": "Which of the following is an example of how people use technology to"
+    },
+    {
+      "page": 193,
+      "line": 23,
+      "number": 56,
+      "text": "Which of the following is an example of cultural diffusion?"
+    },
+    {
+      "page": 193,
+      "line": 29,
+      "number": 57,
+      "text": "Which of the following political entities is most likely to include the"
+    },
+    {
+      "page": 194,
+      "line": 11,
+      "number": 58,
+      "text": "Which of these types of migrants is most likely to come from a"
+    },
+    {
+      "page": 194,
+      "line": 18,
+      "number": 59,
+      "text": "Which of the following examples of historical migrations is most"
+    },
+    {
+      "page": 195,
+      "line": 2,
+      "number": 60,
+      "text": "Which type of migration is most likely to result in the creation of an"
+    },
+    {
+      "page": 196,
+      "line": 2,
+      "number": 61,
+      "text": "In which region of the world do oil reserves seem to be most"
+    },
+    {
+      "page": 197,
+      "line": 3,
+      "number": 62,
+      "text": "Based on a comparison of oil production to oil reserves, which country"
+    },
+    {
+      "page": 197,
+      "line": 10,
+      "number": 63,
+      "text": "Which statement can reasonably be inferred from the second graph?"
+    },
+    {
+      "page": 197,
+      "line": 18,
+      "number": 64,
+      "text": "Which of the following is a measure of a country\u2019s standard of living?"
+    },
+    {
+      "page": 197,
+      "line": 24,
+      "number": 65,
+      "text": "The development of fusion cuisine that mixes European and Asian"
+    },
+    {
+      "page": 197,
+      "line": 31,
+      "number": 66,
+      "text": "What is a danger of a country\u2019s relying too much on one or two"
+    },
+    {
+      "page": 198,
+      "line": 14,
+      "number": 67,
+      "text": "Which category saw the highest growth rate in the periods shown on"
+    },
+    {
+      "page": 199,
+      "line": 2,
+      "number": 68,
+      "text": "Which describes the general change over time shown in the graph?"
+    },
+    {
+      "page": 199,
+      "line": 12,
+      "number": 69,
+      "text": "Which generalization explains why rates of urban population growth"
+    },
+    {
+      "page": 199,
+      "line": 22,
+      "number": 70,
+      "text": "Which of the following is most likely to be a factor in the spread of an"
+    },
+    {
+      "page": 200,
+      "line": 3,
+      "number": 71,
+      "text": "In terms of number of religions with sizeable numbers of adherents,"
+    },
+    {
+      "page": 200,
+      "line": 10,
+      "number": 72,
+      "text": "What phenomenon does the diversity of religions around the world"
+    },
+    {
+      "page": 201,
+      "line": 9,
+      "number": 73,
+      "text": "Based on the statistics in this chart, the gross national income per"
+    },
+    {
+      "page": 201,
+      "line": 16,
+      "number": 74,
+      "text": "Which region is most likely to make up a major share of the least"
+    },
+    {
+      "page": 202,
+      "line": 6,
+      "number": 1,
+      "text": "Reduce energy by using Energy Star lightbulbs and appliances, by"
+    },
+    {
+      "page": 202,
+      "line": 9,
+      "number": 2,
+      "text": "Conserve energy and resources by reducing waste; reusing"
+    },
+    {
+      "page": 202,
+      "line": 11,
+      "number": 3,
+      "text": "Use less energy in travel by walking, biking, or using mass transit"
+    },
+    {
+      "page": 202,
+      "line": 13,
+      "number": 4,
+      "text": "Use renewable fuels for vehicles such as E85 and biodiesel."
+    },
+    {
+      "page": 202,
+      "line": 17,
+      "number": 75,
+      "text": "Which of the following most significantly reduces an individual\u2019s"
+    },
+    {
+      "page": 203,
+      "line": 3,
+      "number": 1,
+      "text": "A Locke says that men are naturally free, so this is the philosophy of"
+    },
+    {
+      "page": 203,
+      "line": 6,
+      "number": 2,
+      "text": "C Natural rights are the same as \u201cunalienable rights.\u201d"
+    },
+    {
+      "page": 203,
+      "line": 8,
+      "number": 3,
+      "text": "Checks by president on other branches include veto power (over the"
+    },
+    {
+      "page": 203,
+      "line": 14,
+      "number": 4,
+      "text": "B The delegates were very concerned about limiting the power of the"
+    },
+    {
+      "page": 203,
+      "line": 18,
+      "number": 5,
+      "text": "A The United States has a representative democracy in which the"
+    },
+    {
+      "page": 203,
+      "line": 21,
+      "number": 6,
+      "text": "D Direct democracy is when the people rule directly. New England"
+    },
+    {
+      "page": 203,
+      "line": 25,
+      "number": 7,
+      "text": "B Both federal and state governments must have money to operate, and"
+    },
+    {
+      "page": 203,
+      "line": 28,
+      "number": 8,
+      "text": "D Canada is a foreign country, so only the federal government may"
+    },
+    {
+      "page": 203,
+      "line": 31,
+      "number": 9,
+      "text": "A Federalism is the system of dividing, or sharing, power."
+    },
+    {
+      "page": 204,
+      "line": 0,
+      "number": 10,
+      "text": "B The only duty the Constitution specifies for the vice president is to"
+    },
+    {
+      "page": 204,
+      "line": 3,
+      "number": 11,
+      "text": "A The biggest difference is that the British prime minister can disband"
+    },
+    {
+      "page": 204,
+      "line": 6,
+      "number": 12,
+      "text": "Two-year term: member of the U.S. House; four-year term: president,"
+    },
+    {
+      "page": 204,
+      "line": 9,
+      "number": 13,
+      "text": "The president is elected by a majority of electoral votes."
+    },
+    {
+      "page": 204,
+      "line": 11,
+      "number": 14,
+      "text": "C Supreme Court justices serve for life."
+    },
+    {
+      "page": 204,
+      "line": 13,
+      "number": 15,
+      "text": "C The current debate on gun control is based on the Second"
+    },
+    {
+      "page": 204,
+      "line": 16,
+      "number": 16,
+      "text": "B The Second Amendment specifies that it applies to a \u201cwell regulated"
+    },
+    {
+      "page": 204,
+      "line": 22,
+      "number": 17,
+      "text": "D Separation of church and state would prohibit state-run schools from"
+    },
+    {
+      "page": 204,
+      "line": 25,
+      "number": 18,
+      "text": "A The court most likely thought that a law prohibiting free expression"
+    },
+    {
+      "page": 204,
+      "line": 29,
+      "number": 19,
+      "text": "C A researcher who thinks pornography is linked to violence against"
+    },
+    {
+      "page": 204,
+      "line": 34,
+      "number": 20,
+      "text": "C Between 1929 and 1949, there were 885 vetoes, which is by far the"
+    },
+    {
+      "page": 205,
+      "line": 0,
+      "number": 21,
+      "text": "A The number of vetoes jumped dramatically in 1869\u20131889, and the"
+    },
+    {
+      "page": 205,
+      "line": 3,
+      "number": 22,
+      "text": "C Considering the number of vetoes and the number overridden by"
+    },
+    {
+      "page": 205,
+      "line": 8,
+      "number": 23,
+      "text": "B After 1869, the data becomes widely separated and would be"
+    },
+    {
+      "page": 205,
+      "line": 11,
+      "number": 24,
+      "text": "Basic rights: First, Second, Ninth; rights of the accused: Fourth, Fifth,"
+    },
+    {
+      "page": 205,
+      "line": 14,
+      "number": 25,
+      "text": "A The Fourth Amendment bans unwarranted search and seizure."
+    },
+    {
+      "page": 205,
+      "line": 16,
+      "number": 26,
+      "text": "D The Sixth Amendment guarantees the right to legal counsel."
+    },
+    {
+      "page": 205,
+      "line": 18,
+      "number": 27,
+      "text": "B The Fourth Amendment bans unwarranted search and seizure."
+    },
+    {
+      "page": 205,
+      "line": 20,
+      "number": 28,
+      "text": "C The Fourteenth Amendment granted citizenship to African"
+    },
+    {
+      "page": 205,
+      "line": 23,
+      "number": 29,
+      "text": "D The Twenty-Sixth Amendment gave people ages 18\u201321 the right to"
+    },
+    {
+      "page": 205,
+      "line": 26,
+      "number": 30,
+      "text": "B States set their own election rules, but the federal government can"
+    },
+    {
+      "page": 205,
+      "line": 29,
+      "number": 31,
+      "text": "B The Nineteenth Amendment, allowing women to vote, impacted"
+    },
+    {
+      "page": 205,
+      "line": 32,
+      "number": 32,
+      "text": "Speaker of the House"
+    },
+    {
+      "page": 205,
+      "line": 34,
+      "number": 33,
+      "text": "D The rule of law states that no one is exempt from the law, so even"
+    },
+    {
+      "page": 206,
+      "line": 0,
+      "number": 34,
+      "text": "C To override a veto, Congress needs a two-thirds majority in both"
+    },
+    {
+      "page": 206,
+      "line": 3,
+      "number": 35,
+      "text": "executive"
+    },
+    {
+      "page": 206,
+      "line": 5,
+      "number": 36,
+      "text": "C Land management, national parks, fish, and wildlife all fall under"
+    },
+    {
+      "page": 206,
+      "line": 8,
+      "number": 37,
+      "text": "C This is the principle of popular sovereignty because the people rule."
+    },
+    {
+      "page": 206,
+      "line": 10,
+      "number": 38,
+      "text": "B The Preamble states the reasons for the Constitution."
+    },
+    {
+      "page": 206,
+      "line": 12,
+      "number": 39,
+      "text": "B Any bill must have approval by both the House and Senate. In"
+    },
+    {
+      "page": 206,
+      "line": 16,
+      "number": 40,
+      "text": "A If two versions of a bill are approved, it must go to committee for"
+    },
+    {
+      "page": 206,
+      "line": 19,
+      "number": 41,
+      "text": "B The number of electoral votes is determined by the number of"
+    },
+    {
+      "page": 206,
+      "line": 22,
+      "number": 42,
+      "text": "C Candidates are chosen in primary elections."
+    },
+    {
+      "page": 206,
+      "line": 24,
+      "number": 43,
+      "text": "B Article III establishes the judicial branch."
+    },
+    {
+      "page": 206,
+      "line": 26,
+      "number": 44,
+      "text": "C The assertion that the Constitution is the \u201csupreme law of the land\u201d"
+    },
+    {
+      "page": 206,
+      "line": 30,
+      "number": 45,
+      "text": "A Interest groups do not have candidates that run for office (as"
+    },
+    {
+      "page": 206,
+      "line": 33,
+      "number": 46,
+      "text": "governor"
+    },
+    {
+      "page": 206,
+      "line": 35,
+      "number": 47,
+      "text": "B The Sierra Club is well known for its efforts to protect the"
+    },
+    {
+      "page": 207,
+      "line": 0,
+      "number": 48,
+      "text": "B The passage says, \u201ca government in which the scheme of"
+    },
+    {
+      "page": 207,
+      "line": 3,
+      "number": 49,
+      "text": "B The first paragraph describes pure democracy as being for a small"
+    },
+    {
+      "page": 207,
+      "line": 6,
+      "number": 50,
+      "text": "C The first paragraph says, \u201cThere is nothing to check the inducements"
+    },
+    {
+      "page": 207,
+      "line": 9,
+      "number": 51,
+      "text": "D Congress can stretch its power to \u201cmake all Laws which shall be"
+    },
+    {
+      "page": 207,
+      "line": 12,
+      "number": 52,
+      "text": "B Preventing discrimination is protecting minority rights."
+    },
+    {
+      "page": 207,
+      "line": 14,
+      "number": 53,
+      "text": "nine"
+    },
+    {
+      "page": 207,
+      "line": 16,
+      "number": 54,
+      "text": "vice president; Speaker of the House"
+    },
+    {
+      "page": 207,
+      "line": 18,
+      "number": 55,
+      "text": "A Conventions are held to determine which candidates will run for"
+    },
+    {
+      "page": 207,
+      "line": 21,
+      "number": 56,
+      "text": "B Because senators have a six-year term, one-third of the Senate seats"
+    },
+    {
+      "page": 207,
+      "line": 24,
+      "number": 57,
+      "text": "B In 1992, the Reform Party got a significant share of the votes."
+    },
+    {
+      "page": 207,
+      "line": 26,
+      "number": 58,
+      "text": "D In 2000, Bush won the electoral vote, but Gore won the popular vote."
+    },
+    {
+      "page": 207,
+      "line": 28,
+      "number": 59,
+      "text": "D Oregon, Washington, and Wisconsin were majority Democratic"
+    },
+    {
+      "page": 207,
+      "line": 31,
+      "number": 60,
+      "text": "D Texas, North Dakota, and South Dakota were majority Republican"
+    },
+    {
+      "page": 207,
+      "line": 34,
+      "number": 61,
+      "text": "C The asterisk says that the other method for proposal has never been"
+    },
+    {
+      "page": 208,
+      "line": 0,
+      "number": 62,
+      "text": "A The founding fathers wanted the Constitution to be enduring and"
+    },
+    {
+      "page": 208,
+      "line": 3,
+      "number": 63,
+      "text": "C Like the United States, Mexico is a republic, with the president as"
+    },
+    {
+      "page": 208,
+      "line": 6,
+      "number": 64,
+      "text": "D Saudi Arabia is a monarchy in which the king holds the most power."
+    },
+    {
+      "page": 208,
+      "line": 8,
+      "number": 65,
+      "text": "B A theocratic state has a religious leader as its head. Iran has such a"
+    },
+    {
+      "page": 208,
+      "line": 11,
+      "number": 66,
+      "text": "C Article I, Section II, of the Constitution requires that every 10 years"
+    },
+    {
+      "page": 208,
+      "line": 15,
+      "number": 67,
+      "text": "A The last line of the passage says that larger populations make it less"
+    },
+    {
+      "page": 208,
+      "line": 18,
+      "number": 68,
+      "text": "C In the line following the phrase \u201cfactious combinations,\u201d Madison"
+    },
+    {
+      "page": 208,
+      "line": 21,
+      "number": 69,
+      "text": "435; 100"
+    },
+    {
+      "page": 208,
+      "line": 23,
+      "number": 70,
+      "text": "C In the first line, the court acknowledges \u201cthe importance of the"
+    },
+    {
+      "page": 208,
+      "line": 26,
+      "number": 71,
+      "text": "B The first line of the second paragraph says that withholding this"
+    },
+    {
+      "page": 208,
+      "line": 29,
+      "number": 72,
+      "text": "A The court asserted that the general idea of privilege does not"
+    },
+    {
+      "page": 208,
+      "line": 33,
+      "number": 73,
+      "text": "D The first three items begin with the phrase \u201cProtect the United"
+    },
+    {
+      "page": 208,
+      "line": 36,
+      "number": 74,
+      "text": "C Discrimination is a matter of civil rights."
+    },
+    {
+      "page": 209,
+      "line": 0,
+      "number": 75,
+      "text": "B Hackers are committing cyberbased attacks."
+    },
+    {
+      "page": 209,
+      "line": 2,
+      "number": 76,
+      "text": "sovereignty Individual states within the United States do not have"
+    },
+    {
+      "page": 209,
+      "line": 5,
+      "number": 77,
+      "text": "territory A common locality would be a territory."
+    },
+    {
+      "page": 209,
+      "line": 9,
+      "number": 79,
+      "text": "B Repugnant means in conflict with, and void means not valid."
+    },
+    {
+      "page": 209,
+      "line": 11,
+      "number": 80,
+      "text": "D Judicial review is the power to decide whether a law is"
+    },
+    {
+      "page": 209,
+      "line": 14,
+      "number": 81,
+      "text": "C Because the Constitution can be amended, it can change with the"
+    },
+    {
+      "page": 209,
+      "line": 17,
+      "number": 82,
+      "text": "B Retirement benefits are dependent on age eligibility."
+    },
+    {
+      "page": 209,
+      "line": 19,
+      "number": 83,
+      "text": "D Survivors benefits are for minor children whose deceased parent had"
+    },
+    {
+      "page": 209,
+      "line": 22,
+      "number": 84,
+      "text": "D The chart says that the English test is not necessary for some older"
+    },
+    {
+      "page": 209,
+      "line": 25,
+      "number": 85,
+      "text": "B Naturalization is for eligible immigrants who want to become"
+    },
+    {
+      "page": 209,
+      "line": 28,
+      "number": 86,
+      "text": "D These are members of the president\u2019s staff, so would be under White"
+    },
+    {
+      "page": 209,
+      "line": 31,
+      "number": 87,
+      "text": "C Independent agencies and government corporations would be the"
+    },
+    {
+      "page": 209,
+      "line": 34,
+      "number": 88,
+      "text": "A This is the only period shown in which federal employment went"
+    },
+    {
+      "page": 210,
+      "line": 0,
+      "number": 89,
+      "text": "C For most of the period covered, federal employment rose. This"
+    },
+    {
+      "page": 210,
+      "line": 4,
+      "number": 90,
+      "text": "D \u201cAll men are created equal . . .\u201d comes from the Magna Carta\u2019s"
+    },
+    {
+      "page": 210,
+      "line": 7,
+      "number": 91,
+      "text": "A Freedom of religion is protected by the First Amendment."
+    },
+    {
+      "page": 210,
+      "line": 9,
+      "number": 92,
+      "text": "B The U.S. Department of Energy, and all other cabinet departments,"
+    },
+    {
+      "page": 210,
+      "line": 12,
+      "number": 93,
+      "text": "B The decisions differ on what it means to be \u201cequal.\u201d"
+    },
+    {
+      "page": 210,
+      "line": 14,
+      "number": 94,
+      "text": "New citizens promise to support the laws of the United States, serve in"
+    },
+    {
+      "page": 210,
+      "line": 18,
+      "number": 95,
+      "text": "A Researching \u201cbiological effects\u201d falls within the mission of the NIH"
+    },
+    {
+      "page": 210,
+      "line": 21,
+      "number": 96,
+      "text": "First, someone has an idea for a bill; second, the type of bill is"
+    },
+    {
+      "page": 210,
+      "line": 25,
+      "number": 97,
+      "text": "A The Office of Partner Engagement reports to the deputy director."
+    },
+    {
+      "page": 210,
+      "line": 27,
+      "number": 98,
+      "text": "C A person must be a resident of New York to vote in New York."
+    },
+    {
+      "page": 210,
+      "line": 29,
+      "number": 99,
+      "text": "D Full-time members of police departments are prohibited from"
+    },
+    {
+      "page": 210,
+      "line": 32,
+      "number": 100,
+      "text": "B A democracy would be most likely to choose a leader through a fair"
+    },
+    {
+      "page": 211,
+      "line": 0,
+      "number": 1,
+      "text": "B The Mayflower Compact was written by the settlers of Plymouth,"
+    },
+    {
+      "page": 211,
+      "line": 4,
+      "number": 2,
+      "text": "A The colonists pledge to form a \u201ccivil body politic\u201d and obey the laws"
+    },
+    {
+      "page": 211,
+      "line": 7,
+      "number": 3,
+      "text": "Choosing the president: electoral college; representation in Congress:"
+    },
+    {
+      "page": 211,
+      "line": 11,
+      "number": 4,
+      "text": "Strengths included the power of Congress to make treaties, to declare"
+    },
+    {
+      "page": 211,
+      "line": 17,
+      "number": 5,
+      "text": "C The gray area on the map shows that people were removed from the"
+    },
+    {
+      "page": 211,
+      "line": 21,
+      "number": 6,
+      "text": "B President Roosevelt issued the executive order in 1942. Wilson was"
+    },
+    {
+      "page": 211,
+      "line": 25,
+      "number": 7,
+      "text": "B The removal of Japanese Americans from their homes and relocation"
+    },
+    {
+      "page": 211,
+      "line": 29,
+      "number": 8,
+      "text": "D This took place during the War of 1812. It is the only conflict listed"
+    },
+    {
+      "page": 211,
+      "line": 33,
+      "number": 9,
+      "text": "2007 The only year that the number of employees decreased was 2007,"
+    },
+    {
+      "page": 211,
+      "line": 36,
+      "number": 10,
+      "text": "C After September 11, 2001, American increased its efforts to fight"
+    },
+    {
+      "page": 212,
+      "line": 0,
+      "number": 11,
+      "text": "taxation; crime and punishment"
+    },
+    {
+      "page": 212,
+      "line": 2,
+      "number": 12,
+      "text": "D The passages are concerned with the rule of law. The final paragraph"
+    },
+    {
+      "page": 212,
+      "line": 5,
+      "number": 13,
+      "text": "C Clause 20 says that freeman should be punished \u201caccording to the"
+    },
+    {
+      "page": 212,
+      "line": 8,
+      "number": 14,
+      "text": "First, Magna Carta; second, the Mayflower Compact; third, the English"
+    },
+    {
+      "page": 212,
+      "line": 12,
+      "number": 15,
+      "text": "D The largest number of immigrants in every single period came from"
+    },
+    {
+      "page": 212,
+      "line": 15,
+      "number": 16,
+      "text": "C You can use your calculator to find the exact number (20,773,075) or"
+    },
+    {
+      "page": 212,
+      "line": 19,
+      "number": 17,
+      "text": "C There was a big drop in immigration from Asia in the period 1880\u2013"
+    },
+    {
+      "page": 212,
+      "line": 22,
+      "number": 18,
+      "text": "D Immigration from Europe grew between 1860 and 1869 and through"
+    },
+    {
+      "page": 212,
+      "line": 26,
+      "number": 19,
+      "text": "War of 1812: Britain and United States, 1812\u20131815; Civil War: North"
+    },
+    {
+      "page": 212,
+      "line": 30,
+      "number": 20,
+      "text": "A The Great Compromise was between large and small states. It"
+    },
+    {
+      "page": 212,
+      "line": 34,
+      "number": 21,
+      "text": "D Yugoslavia was a communist country."
+    },
+    {
+      "page": 212,
+      "line": 36,
+      "number": 22,
+      "text": "D The United States was a member of NATO; the other countries were"
+    },
+    {
+      "page": 213,
+      "line": 0,
+      "number": 23,
+      "text": "B You can infer that they were not communist countries because there"
+    },
+    {
+      "page": 213,
+      "line": 3,
+      "number": 24,
+      "text": "A The first paragraph cites the \u201claws of nature,\u201d and the second"
+    },
+    {
+      "page": 213,
+      "line": 6,
+      "number": 25,
+      "text": "C The first paragraph says it has become \u201cnecessary for one people to"
+    },
+    {
+      "page": 213,
+      "line": 9,
+      "number": 26,
+      "text": "C Italy could not be counted on because it had a secret treaty with"
+    },
+    {
+      "page": 213,
+      "line": 12,
+      "number": 27,
+      "text": "A Austria-Hungary feared the growth of Serbia and Russia was aligned"
+    },
+    {
+      "page": 213,
+      "line": 15,
+      "number": 28,
+      "text": "C The alliances were so entangled that a local problem spread out to"
+    },
+    {
+      "page": 213,
+      "line": 18,
+      "number": 29,
+      "text": "D France\u2019s assistance was vital to the success of the American"
+    },
+    {
+      "page": 213,
+      "line": 21,
+      "number": 30,
+      "text": "Thirteenth Amendment: abolition of slavery; Fourteenth Amendment:"
+    },
+    {
+      "page": 213,
+      "line": 25,
+      "number": 31,
+      "text": "A The first paragraph says, \u201cenough has now been given to party,\u201d and"
+    },
+    {
+      "page": 213,
+      "line": 28,
+      "number": 32,
+      "text": "D The last line of the passage says it is America\u2019s \u201cmanifest destiny to"
+    },
+    {
+      "page": 213,
+      "line": 31,
+      "number": 33,
+      "text": "D Nixon is the only president to have resigned."
+    },
+    {
+      "page": 213,
+      "line": 33,
+      "number": 34,
+      "text": "Washington: served as first president, commander of Continental"
+    },
+    {
+      "page": 214,
+      "line": 0,
+      "number": 35,
+      "text": "C The last paragraph says the people have warned the British,"
+    },
+    {
+      "page": 214,
+      "line": 5,
+      "number": 36,
+      "text": "D An usurpation is a wrongful exercise of authority."
+    },
+    {
+      "page": 214,
+      "line": 7,
+      "number": 37,
+      "text": "A Nixon lost political support after attempting to cover up his"
+    },
+    {
+      "page": 214,
+      "line": 11,
+      "number": 38,
+      "text": "C After the Civil War, Southern states passed \u201cBlack Codes\u201d to restrict"
+    },
+    {
+      "page": 214,
+      "line": 16,
+      "number": 39,
+      "text": "North: growing industry, immigration, high tariffs, free labor, growth"
+    },
+    {
+      "page": 214,
+      "line": 20,
+      "number": 40,
+      "text": "B The country President Truman describes in the third paragraph is"
+    },
+    {
+      "page": 214,
+      "line": 23,
+      "number": 41,
+      "text": "A The United States followed a policy of containment by helping stop"
+    },
+    {
+      "page": 214,
+      "line": 26,
+      "number": 42,
+      "text": "C This speech was made in 1947, after the end of WWII. The Marshall"
+    },
+    {
+      "page": 214,
+      "line": 30,
+      "number": 43,
+      "text": "D Harding is establishing \u201ca policy of noninvolvement\u201d known as"
+    },
+    {
+      "page": 214,
+      "line": 33,
+      "number": 44,
+      "text": "B This address was made in 1921, so he must be referring to World"
+    },
+    {
+      "page": 214,
+      "line": 36,
+      "number": 45,
+      "text": "C The influence of the United Nations is debated because many"
+    },
+    {
+      "page": 215,
+      "line": 2,
+      "number": 46,
+      "text": "B All of the events listed deal with civil rights."
+    },
+    {
+      "page": 215,
+      "line": 4,
+      "number": 47,
+      "text": "C According to the timeline, Letter from a Birmingham Jail was"
+    },
+    {
+      "page": 215,
+      "line": 9,
+      "number": 48,
+      "text": "A Freedom Summer was a voter registration drive, so that likely"
+    },
+    {
+      "page": 215,
+      "line": 12,
+      "number": 49,
+      "text": "B The Berlin Airlift was a response to the Soviet blockade of West"
+    },
+    {
+      "page": 215,
+      "line": 16,
+      "number": 50,
+      "text": "C This is known as the Holocaust, or Shoah."
+    },
+    {
+      "page": 215,
+      "line": 18,
+      "number": 51,
+      "text": "A Israel was founded to be a safe place for Jewish people, particularly"
+    },
+    {
+      "page": 215,
+      "line": 21,
+      "number": 52,
+      "text": "Segregation: Jim Crow laws, Plessy v. Ferguson, Ku Klux Klan;"
+    },
+    {
+      "page": 215,
+      "line": 25,
+      "number": 53,
+      "text": "Illinois The medium shade of gray represents states in which women"
+    },
+    {
+      "page": 215,
+      "line": 29,
+      "number": 54,
+      "text": "C Most of the states that had no voting rights for women until the"
+    },
+    {
+      "page": 215,
+      "line": 33,
+      "number": 55,
+      "text": "A Most of the laws relate to the poor and minority groups."
+    },
+    {
+      "page": 215,
+      "line": 35,
+      "number": 56,
+      "text": "D In order to staff all these programs, the size of the federal"
+    },
+    {
+      "page": 216,
+      "line": 0,
+      "number": 57,
+      "text": "B Austria-Hungary annexed Bosnia and Herzegovina in 1908, though"
+    },
+    {
+      "page": 216,
+      "line": 4,
+      "number": 58,
+      "text": "A This conflict is over weapons, and Britain and Germany were both"
+    },
+    {
+      "page": 216,
+      "line": 7,
+      "number": 59,
+      "text": "C Nations that conquered additional territories could feel more"
+    },
+    {
+      "page": 216,
+      "line": 11,
+      "number": 60,
+      "text": "First, Solidarity candidates win elections in Poland; second, the Berlin"
+    },
+    {
+      "page": 216,
+      "line": 16,
+      "number": 61,
+      "text": "D Because the Cold War was primarily a conflict between the United"
+    },
+    {
+      "page": 216,
+      "line": 20,
+      "number": 62,
+      "text": "Germany; the United States or the Soviet Union"
+    },
+    {
+      "page": 216,
+      "line": 22,
+      "number": 63,
+      "text": "A The last line of the chart says that Wilson was unsuccessful in"
+    },
+    {
+      "page": 216,
+      "line": 25,
+      "number": 64,
+      "text": "D Russia experienced a revolution in 1917 that completely changed its"
+    },
+    {
+      "page": 216,
+      "line": 28,
+      "number": 65,
+      "text": "C Germany had lost a lot of its former territory and was forced to pay"
+    },
+    {
+      "page": 216,
+      "line": 31,
+      "number": 66,
+      "text": "Germany: Hitler, Holocaust, invaded Soviet Union, Nazism; Italy:"
+    },
+    {
+      "page": 216,
+      "line": 35,
+      "number": 67,
+      "text": "totalitarian"
+    },
+    {
+      "page": 217,
+      "line": 0,
+      "number": 68,
+      "text": "C The GI Bill was intended to provide returning veterans with aid for"
+    },
+    {
+      "page": 217,
+      "line": 3,
+      "number": 69,
+      "text": "B The Trail of Tears was the forced removal of Native American tribes"
+    },
+    {
+      "page": 217,
+      "line": 6,
+      "number": 70,
+      "text": "Texas\u2014all the cattle drives shown originate in Texas."
+    },
+    {
+      "page": 217,
+      "line": 8,
+      "number": 71,
+      "text": "D Journalists who attacked industry leaders and institutions as corrupt"
+    },
+    {
+      "page": 217,
+      "line": 11,
+      "number": 72,
+      "text": "A The passage describes sweatshops."
+    },
+    {
+      "page": 217,
+      "line": 13,
+      "number": 73,
+      "text": "C The Louisiana Purchase nearly doubled the size of the United States"
+    },
+    {
+      "page": 217,
+      "line": 16,
+      "number": 74,
+      "text": "D The period from 1930\u20131932 shows a significant drop."
+    },
+    {
+      "page": 217,
+      "line": 18,
+      "number": 75,
+      "text": "C As U.S. settlers moved west, Native Americans were pushed out of"
+    },
+    {
+      "page": 217,
+      "line": 24,
+      "number": 1,
+      "text": "B A toll road is a place where the seller of a service meets with buyers."
+    },
+    {
+      "page": 217,
+      "line": 26,
+      "number": 2,
+      "text": "Marina\u2019s income is commission, which is based solely on sales."
+    },
+    {
+      "page": 217,
+      "line": 28,
+      "number": 3,
+      "text": "Donna\u2019s income is a combination of an hourly wage, which is a"
+    },
+    {
+      "page": 217,
+      "line": 32,
+      "number": 4,
+      "text": "Gerald works full time for a set weekly salary."
+    },
+    {
+      "page": 217,
+      "line": 34,
+      "number": 5,
+      "text": "D Having 55+ companies allows for a lot of competition."
+    },
+    {
+      "page": 218,
+      "line": 0,
+      "number": 6,
+      "text": "A The web search market has 2 companies that control 87% of the"
+    },
+    {
+      "page": 218,
+      "line": 3,
+      "number": 7,
+      "text": "oligopolies\u2014the cell phone supplier and the auto manufacturing"
+    },
+    {
+      "page": 218,
+      "line": 6,
+      "number": 8,
+      "text": "B The Federal Trade Commission must ensure competition."
+    },
+    {
+      "page": 218,
+      "line": 8,
+      "number": 9,
+      "text": "A Profit and interest are both extra amounts of money over the base"
+    },
+    {
+      "page": 218,
+      "line": 11,
+      "number": 10,
+      "text": "B A is price."
+    },
+    {
+      "page": 218,
+      "line": 13,
+      "number": 11,
+      "text": "C B is quantity."
+    },
+    {
+      "page": 218,
+      "line": 15,
+      "number": 12,
+      "text": "D D is supply."
+    },
+    {
+      "page": 218,
+      "line": 17,
+      "number": 13,
+      "text": "equilibrium price"
+    },
+    {
+      "page": 218,
+      "line": 19,
+      "number": 14,
+      "text": "D A market is where a supplier (the job seeker) and a buyer (the"
+    },
+    {
+      "page": 218,
+      "line": 22,
+      "number": 15,
+      "text": "B Entrepreneurship involves taking risk for reward."
+    },
+    {
+      "page": 218,
+      "line": 24,
+      "number": 16,
+      "text": "D A tariff is a tax paid on a class of import or export. This is like a"
+    },
+    {
+      "page": 218,
+      "line": 27,
+      "number": 17,
+      "text": "2 Physical capital includes machinery."
+    },
+    {
+      "page": 218,
+      "line": 29,
+      "number": 18,
+      "text": "1 Labor is human physical or mental effort."
+    },
+    {
+      "page": 218,
+      "line": 31,
+      "number": 19,
+      "text": "D Antitrust means preventing monopolies."
+    },
+    {
+      "page": 218,
+      "line": 33,
+      "number": 20,
+      "text": "Graph 1 shows a basic supply curve."
+    },
+    {
+      "page": 218,
+      "line": 35,
+      "number": 21,
+      "text": "Graph 3 shows increased production."
+    },
+    {
+      "page": 218,
+      "line": 37,
+      "number": 22,
+      "text": "Graph 6 shows the effect of reduced price on a demand curve."
+    },
+    {
+      "page": 219,
+      "line": 0,
+      "number": 23,
+      "text": "D Capital investment typically refers to acquisition of machinery or"
+    },
+    {
+      "page": 219,
+      "line": 3,
+      "number": 24,
+      "text": "C Only choice C involves humans."
+    },
+    {
+      "page": 219,
+      "line": 5,
+      "number": 25,
+      "text": "D Wants + limited resources result in scarcity."
+    },
+    {
+      "page": 219,
+      "line": 7,
+      "number": 26,
+      "text": "D Wants + limited resources result in scarcity."
+    },
+    {
+      "page": 219,
+      "line": 9,
+      "number": 27,
+      "text": "installment credit"
+    },
+    {
+      "page": 219,
+      "line": 11,
+      "number": 28,
+      "text": "C Finance charges also include any fees on the loan or credit"
+    },
+    {
+      "page": 219,
+      "line": 14,
+      "number": 29,
+      "text": "Graph 3 shows the effect of lowering tariffs on a supply curve."
+    },
+    {
+      "page": 219,
+      "line": 16,
+      "number": 30,
+      "text": "Graph 2 shows the effect of lowering tariffs on a demand curve."
+    },
+    {
+      "page": 219,
+      "line": 18,
+      "number": 31,
+      "text": "B Barriers to entry are low in the dry-cleaning market. There is very"
+    },
+    {
+      "page": 219,
+      "line": 22,
+      "number": 32,
+      "text": "C The law of supply states that supply increases as prices increases."
+    },
+    {
+      "page": 219,
+      "line": 24,
+      "number": 33,
+      "text": "B The diagram illustrates a circular flow of goods and services."
+    },
+    {
+      "page": 219,
+      "line": 26,
+      "number": 34,
+      "text": "C Households own the factors of production (land, labor, and capital)."
+    },
+    {
+      "page": 219,
+      "line": 28,
+      "number": 35,
+      "text": "A The government also provides services and purchases factors."
+    },
+    {
+      "page": 219,
+      "line": 30,
+      "number": 36,
+      "text": "D The government increased spending to create jobs and stimulate the"
+    },
+    {
+      "page": 219,
+      "line": 33,
+      "number": 37,
+      "text": "A The steam engine was a new source of power that increased"
+    },
+    {
+      "page": 219,
+      "line": 36,
+      "number": 38,
+      "text": "C The Federal Reserve Board oversees U.S. monetary policy."
+    },
+    {
+      "page": 219,
+      "line": 38,
+      "number": 39,
+      "text": "B Traditional economies use resources efficiently."
+    },
+    {
+      "page": 220,
+      "line": 0,
+      "number": 40,
+      "text": "C Command economies have low productivity and efficiency."
+    },
+    {
+      "page": 220,
+      "line": 2,
+      "number": 41,
+      "text": "D The U.S. has a mixed economy."
+    },
+    {
+      "page": 220,
+      "line": 4,
+      "number": 42,
+      "text": "3 Drawing 3 shows a cost (pollution) being imposed on others by a"
+    },
+    {
+      "page": 220,
+      "line": 7,
+      "number": 43,
+      "text": "B Government can enact workplace health and safety laws to protect"
+    },
+    {
+      "page": 220,
+      "line": 10,
+      "number": 44,
+      "text": "C In a particular area, sports teams have a monopoly. For example, a"
+    },
+    {
+      "page": 220,
+      "line": 13,
+      "number": 45,
+      "text": "A There are many, many types of entertainment, so a sports team is"
+    },
+    {
+      "page": 220,
+      "line": 16,
+      "number": 46,
+      "text": "B The chart says that the Federal Open Market Committee sets"
+    },
+    {
+      "page": 220,
+      "line": 19,
+      "number": 47,
+      "text": "D The second point listed in the box for the Federal Reserve Banks"
+    },
+    {
+      "page": 220,
+      "line": 22,
+      "number": 48,
+      "text": "A Comparative advantage is the ability to carry out one economic"
+    },
+    {
+      "page": 220,
+      "line": 25,
+      "number": 49,
+      "text": "C Specialization is the practice of each party producing the goods and"
+    },
+    {
+      "page": 220,
+      "line": 28,
+      "number": 50,
+      "text": "D The Truth in Lending Act says what information lenders must"
+    },
+    {
+      "page": 220,
+      "line": 31,
+      "number": 51,
+      "text": "A The Equal Credit Opportunity Act bans discrimination."
+    },
+    {
+      "page": 220,
+      "line": 33,
+      "number": 52,
+      "text": "C Consumer protection laws, much like health and safety laws, address"
+    },
+    {
+      "page": 220,
+      "line": 36,
+      "number": 53,
+      "text": "B Opportunity cost is potential gain that is lost by choosing one"
+    },
+    {
+      "page": 221,
+      "line": 0,
+      "number": 54,
+      "text": "2009 The Consumer Price Index rose most sharply between 2009 and"
+    },
+    {
+      "page": 221,
+      "line": 3,
+      "number": 55,
+      "text": "2008 There is a huge drop in the Consumer Price Index after 2008."
+    },
+    {
+      "page": 221,
+      "line": 5,
+      "number": 56,
+      "text": "B Consumer Price Index shows inflation and deflation."
+    },
+    {
+      "page": 221,
+      "line": 7,
+      "number": 57,
+      "text": "B The U.S. is at 1.6% and China is at 7.7%. 7.7 \u00f7 1.6 = 4.81."
+    },
+    {
+      "page": 221,
+      "line": 9,
+      "number": 58,
+      "text": "A The largest growth in GDP is for China, Nigeria, Saudi Arabia, and"
+    },
+    {
+      "page": 221,
+      "line": 12,
+      "number": 59,
+      "text": "B The lowest part of the graph after 2001 is around January 2007."
+    },
+    {
+      "page": 221,
+      "line": 14,
+      "number": 60,
+      "text": "C The sharpest rise on the graph is just after January 2009."
+    },
+    {
+      "page": 221,
+      "line": 16,
+      "number": 61,
+      "text": "D Each country has largely different imports and exports, which shows"
+    },
+    {
+      "page": 221,
+      "line": 20,
+      "number": 62,
+      "text": "B Japan exports no energy products and imports petroleum, coal, and"
+    },
+    {
+      "page": 221,
+      "line": 23,
+      "number": 63,
+      "text": "A People are only counted as unemployed if they have actively looked"
+    },
+    {
+      "page": 221,
+      "line": 27,
+      "number": 64,
+      "text": "A The chart shows the three categories of bank functions."
+    },
+    {
+      "page": 221,
+      "line": 29,
+      "number": 65,
+      "text": "C Banks pay interest to attract depositors."
+    },
+    {
+      "page": 221,
+      "line": 31,
+      "number": 66,
+      "text": "D Economic stimulation is primarily done through lending."
+    },
+    {
+      "page": 221,
+      "line": 33,
+      "number": 67,
+      "text": "B Two causes are listed: desire for greater share of Asian trade and"
+    },
+    {
+      "page": 221,
+      "line": 36,
+      "number": 68,
+      "text": "D Both are insured, so risk is low."
+    },
+    {
+      "page": 222,
+      "line": 0,
+      "number": 69,
+      "text": "A Comparing the columns for risk and reward shows that greater risk"
+    },
+    {
+      "page": 222,
+      "line": 3,
+      "number": 70,
+      "text": "B The idea that the universe can be understood and the development of"
+    },
+    {
+      "page": 222,
+      "line": 7,
+      "number": 71,
+      "text": "A The development of political economy is part of the Enlightenment,"
+    },
+    {
+      "page": 222,
+      "line": 10,
+      "number": 72,
+      "text": "D Taxation reduces income that could be spent on consumer goods and"
+    },
+    {
+      "page": 222,
+      "line": 13,
+      "number": 73,
+      "text": "C The box that lists \u201cEconomic Effects in Germany\u201d shows that the"
+    },
+    {
+      "page": 222,
+      "line": 17,
+      "number": 74,
+      "text": "A Industrialization had grown in the North during the war and was able"
+    },
+    {
+      "page": 222,
+      "line": 20,
+      "number": 75,
+      "text": "D Oversupply led to price reduction."
+    },
+    {
+      "page": 222,
+      "line": 24,
+      "number": 1,
+      "text": "B Mexico is the only choice that meets the definition. It has a common"
+    },
+    {
+      "page": 222,
+      "line": 27,
+      "number": 2,
+      "text": "D The United States does not have a community of ethnicity, language,"
+    },
+    {
+      "page": 222,
+      "line": 30,
+      "number": 3,
+      "text": "C Europe is expected to decline from 0.74 billion to 0.71 billion."
+    },
+    {
+      "page": 222,
+      "line": 32,
+      "number": 4,
+      "text": "B Africa is expected to grow from 1.11 billion to 2.39 billion, an"
+    },
+    {
+      "page": 222,
+      "line": 35,
+      "number": 5,
+      "text": "A With a population that doubles, Africa will have employment"
+    },
+    {
+      "page": 223,
+      "line": 2,
+      "number": 6,
+      "text": "D The footnote for the chart shows that Organisation for Economic"
+    },
+    {
+      "page": 223,
+      "line": 6,
+      "number": 7,
+      "text": "B In 2030, Asia is expected to consume 290 quadrillion Btus (British"
+    },
+    {
+      "page": 223,
+      "line": 9,
+      "number": 8,
+      "text": "B The OECD countries are already industrialized, so their rate of energy"
+    },
+    {
+      "page": 223,
+      "line": 13,
+      "number": 9,
+      "text": "C Sustainability means using resources responsibly so that they are not"
+    },
+    {
+      "page": 223,
+      "line": 16,
+      "number": 10,
+      "text": "A A map\u2019s title explains what the map is about."
+    },
+    {
+      "page": 223,
+      "line": 18,
+      "number": 11,
+      "text": "B Feature B is the map\u2019s scale."
+    },
+    {
+      "page": 223,
+      "line": 20,
+      "number": 12,
+      "text": "C Each of the four purposes listed is about peace and cooperation"
+    },
+    {
+      "page": 223,
+      "line": 23,
+      "number": 13,
+      "text": "D The second goal involves equal rights and self-determination. That"
+    },
+    {
+      "page": 223,
+      "line": 26,
+      "number": 14,
+      "text": "A A global positioning system (GPS) shows location."
+    },
+    {
+      "page": 223,
+      "line": 28,
+      "number": 15,
+      "text": "B Immigration is the movement of people into a place."
+    },
+    {
+      "page": 223,
+      "line": 30,
+      "number": 16,
+      "text": "D Building a dam is a human activity to manipulate the environment."
+    },
+    {
+      "page": 223,
+      "line": 32,
+      "number": 17,
+      "text": "A The first sentence in the box says that latitude and longitude are"
+    },
+    {
+      "page": 223,
+      "line": 35,
+      "number": 18,
+      "text": "D The globe on the left shows Eastern and Western Hemispheres. The"
+    },
+    {
+      "page": 224,
+      "line": 0,
+      "number": 19,
+      "text": "B Productive working age would be people between 16 and 64 years"
+    },
+    {
+      "page": 224,
+      "line": 4,
+      "number": 20,
+      "text": "C The darker gray shows the percentage of the population over the age"
+    },
+    {
+      "page": 224,
+      "line": 8,
+      "number": 21,
+      "text": "B A geographic information system (GIS) is a computer mapping"
+    },
+    {
+      "page": 224,
+      "line": 12,
+      "number": 22,
+      "text": "A The Environmental Protection Agency (EPA) is concerned with the"
+    },
+    {
+      "page": 224,
+      "line": 17,
+      "number": 23,
+      "text": "B OECD countries are shown in light gray. The growth of emissions"
+    },
+    {
+      "page": 224,
+      "line": 21,
+      "number": 24,
+      "text": "C Non-OECD countries are shown in black. In 1990, carbon dioxide"
+    },
+    {
+      "page": 224,
+      "line": 26,
+      "number": 25,
+      "text": "A Scientists have shown that carbon emissions contribute to climate"
+    },
+    {
+      "page": 224,
+      "line": 29,
+      "number": 26,
+      "text": "C A carbon footprint is the amount of carbon emissions of a person,"
+    },
+    {
+      "page": 224,
+      "line": 32,
+      "number": 27,
+      "text": "C A physical map shows major landforms and bodies of water."
+    },
+    {
+      "page": 224,
+      "line": 34,
+      "number": 28,
+      "text": "B An economic map shows natural resources such as oil and natural"
+    },
+    {
+      "page": 225,
+      "line": 0,
+      "number": 29,
+      "text": "D In the examples section for a thematic map, a historical map is the"
+    },
+    {
+      "page": 225,
+      "line": 3,
+      "number": 30,
+      "text": "D Fossil fuel supply is 64.11 quadrillion Btus, and consumption is"
+    },
+    {
+      "page": 225,
+      "line": 6,
+      "number": 31,
+      "text": "C In order to consume more than the supply, extra imports are needed."
+    },
+    {
+      "page": 225,
+      "line": 8,
+      "number": 32,
+      "text": "exported At the top of the chart, exports of 11.80 quadrillion Btus are"
+    },
+    {
+      "page": 225,
+      "line": 11,
+      "number": 33,
+      "text": "B Hydroelectric power is renewable since it is power provided by the"
+    },
+    {
+      "page": 225,
+      "line": 17,
+      "number": 35,
+      "text": "C Relative location gives the location of a point or place in relation to"
+    },
+    {
+      "page": 225,
+      "line": 20,
+      "number": 36,
+      "text": "population density"
+    },
+    {
+      "page": 225,
+      "line": 22,
+      "number": 37,
+      "text": "Formal: Africa, court\u2019s jurisdiction, congressional district; Functional:"
+    },
+    {
+      "page": 225,
+      "line": 26,
+      "number": 38,
+      "text": "B Cultural regions share common characteristics such as language,"
+    },
+    {
+      "page": 225,
+      "line": 31,
+      "number": 39,
+      "text": "C The United States had 43 million and Russia had 13 million, a"
+    },
+    {
+      "page": 225,
+      "line": 34,
+      "number": 40,
+      "text": "B Economic incentives provide the biggest pull factors for immigrants."
+    },
+    {
+      "page": 225,
+      "line": 36,
+      "number": 41,
+      "text": "B Except for Mexico and the United Kingdom, all the countries listed"
+    },
+    {
+      "page": 226,
+      "line": 0,
+      "number": 42,
+      "text": "B Mexico receives 55 billion and India receives 23 billion, a difference"
+    },
+    {
+      "page": 226,
+      "line": 3,
+      "number": 43,
+      "text": "A Either Chinese emigrants earn more, or they save more to send"
+    },
+    {
+      "page": 226,
+      "line": 6,
+      "number": 44,
+      "text": "D Fossil fuels take millions of years to form, so they are not"
+    },
+    {
+      "page": 226,
+      "line": 9,
+      "number": 45,
+      "text": "A Cultural diffusion is the spread or blending of different ideas,"
+    },
+    {
+      "page": 226,
+      "line": 13,
+      "number": 46,
+      "text": "B A metropolitan area includes a city and its surrounding suburban"
+    },
+    {
+      "page": 226,
+      "line": 16,
+      "number": 47,
+      "text": "C Building a canal alters the environment."
+    },
+    {
+      "page": 226,
+      "line": 18,
+      "number": 48,
+      "text": "A Urbanization is nearly always driven by economic opportunities"
+    },
+    {
+      "page": 226,
+      "line": 21,
+      "number": 49,
+      "text": "C The map separates regions by physical characteristics and human"
+    },
+    {
+      "page": 226,
+      "line": 24,
+      "number": 50,
+      "text": "C All three regions\u2019 boxes list Latinos."
+    },
+    {
+      "page": 226,
+      "line": 26,
+      "number": 51,
+      "text": "B The box for the Northeast lists \u201cinformation industries\u201d and"
+    },
+    {
+      "page": 226,
+      "line": 29,
+      "number": 52,
+      "text": "A Assimilation is the process of adapting to the dominant culture."
+    },
+    {
+      "page": 226,
+      "line": 31,
+      "number": 53,
+      "text": "A The two-dimensional nature of maps makes them more flexible in"
+    },
+    {
+      "page": 226,
+      "line": 34,
+      "number": 54,
+      "text": "C Maps are two-dimensional, and the Earth is not."
+    },
+    {
+      "page": 226,
+      "line": 36,
+      "number": 55,
+      "text": "B Terrace farming is a type of technology used to cultivate sloping,"
+    },
+    {
+      "page": 227,
+      "line": 0,
+      "number": 56,
+      "text": "D Building a Hindu temple in California is an example of cultural"
+    },
+    {
+      "page": 227,
+      "line": 3,
+      "number": 57,
+      "text": "C An empire is an extensive group of states or countries under a single"
+    },
+    {
+      "page": 227,
+      "line": 6,
+      "number": 58,
+      "text": "A A person seeking asylum to flee persecution was likely in a minority"
+    },
+    {
+      "page": 227,
+      "line": 9,
+      "number": 59,
+      "text": "D Diasporas are generally involuntary, and the slave trade is an"
+    },
+    {
+      "page": 227,
+      "line": 12,
+      "number": 60,
+      "text": "B Chain migration could easily create an ethnic community because"
+    },
+    {
+      "page": 227,
+      "line": 16,
+      "number": 61,
+      "text": "D Five of the 10 countries listed are in Southwest Asia: Saudi Arabia,"
+    },
+    {
+      "page": 227,
+      "line": 19,
+      "number": 62,
+      "text": "D Iraq\u2019s exports are closest to its production, so it is not using as much"
+    },
+    {
+      "page": 227,
+      "line": 22,
+      "number": 63,
+      "text": "A The United States does not have significant oil reserves, so it can be"
+    },
+    {
+      "page": 227,
+      "line": 25,
+      "number": 64,
+      "text": "B A country\u2019s standard of living is often measured by the United"
+    },
+    {
+      "page": 227,
+      "line": 29,
+      "number": 65,
+      "text": "C A blending of cultures is cultural diffusion."
+    },
+    {
+      "page": 227,
+      "line": 31,
+      "number": 66,
+      "text": "A Too much specialization leaves a country vulnerable to a loss of"
+    },
+    {
+      "page": 227,
+      "line": 34,
+      "number": 67,
+      "text": "B Less-developed regions grew the most in every period and reached"
+    },
+    {
+      "page": 228,
+      "line": 0,
+      "number": 68,
+      "text": "A Less-developed regions grew the most in every period, but that"
+    },
+    {
+      "page": 228,
+      "line": 3,
+      "number": 69,
+      "text": "C Urbanization typically grows with industrial development, so more"
+    },
+    {
+      "page": 228,
+      "line": 6,
+      "number": 70,
+      "text": "B The spread of an infectious disease is most dependent on the"
+    },
+    {
+      "page": 228,
+      "line": 10,
+      "number": 71,
+      "text": "C Asia has the largest number of different religions listed."
+    },
+    {
+      "page": 228,
+      "line": 12,
+      "number": 72,
+      "text": "B Diversity of religion is a type of cultural diffusion."
+    },
+    {
+      "page": 228,
+      "line": 14,
+      "number": 73,
+      "text": "A $10,380 is closest to $14,210, the gross national income per capita"
+    },
+    {
+      "page": 228,
+      "line": 17,
+      "number": 74,
+      "text": "D Least developed countries will also have low gross national income"
+    },
+    {
+      "page": 228,
+      "line": 20,
+      "number": 75,
+      "text": "A Switching from a gas-powered car to a bicycle (0 emission) reduces"
+    },
+    {
+      "page": 229,
+      "line": 12,
+      "number": 1,
+      "text": "Indicate the box where each of the following items belongs. (Note: On"
+    },
+    {
+      "page": 230,
+      "line": 5,
+      "number": 2,
+      "text": "What is the best explanation for the rapid sequence of declarations of"
+    },
+    {
+      "page": 230,
+      "line": 12,
+      "number": 3,
+      "text": "What led most directly to the U.S. decision to enter the war?"
+    },
+    {
+      "page": 231,
+      "line": 8,
+      "number": 4,
+      "text": "Why do both the state and federal governments share such powers as"
+    },
+    {
+      "page": 231,
+      "line": 15,
+      "number": 5,
+      "text": "Laws passed by Congress regarding education policy are often"
+    },
+    {
+      "page": 232,
+      "line": 9,
+      "number": 6,
+      "text": "Why is this clause, the \u201cnecessary and proper\u201d clause, sometimes"
+    },
+    {
+      "page": 233,
+      "line": 0,
+      "number": 7,
+      "text": "Which state has the most pronounced comparative advantage in both"
+    },
+    {
+      "page": 233,
+      "line": 7,
+      "number": 8,
+      "text": "Which state has the second lowest natural gas production?"
+    },
+    {
+      "page": 234,
+      "line": 0,
+      "number": 9,
+      "text": "Indicate the box where each of the following items belongs. (Note: On"
+    },
+    {
+      "page": 236,
+      "line": 15,
+      "number": 10,
+      "text": "Which section of the Constitution contains the general procedures by"
+    },
+    {
+      "page": 236,
+      "line": 22,
+      "number": 11,
+      "text": "Which article of the Constitution would contain the following passage?"
+    },
+    {
+      "page": 237,
+      "line": 6,
+      "number": 12,
+      "text": "Based on the information in the chart, it can be inferred that the impact"
+    },
+    {
+      "page": 238,
+      "line": 0,
+      "number": 13,
+      "text": "The percentage of deposits that banks must hold in reserve is set by the"
+    },
+    {
+      "page": 238,
+      "line": 15,
+      "number": 14,
+      "text": "Based on the map, which state is most likely to experience an"
+    },
+    {
+      "page": 238,
+      "line": 19,
+      "number": 15,
+      "text": "Which area or areas in the eastern half of the nation have the most"
+    },
+    {
+      "page": 239,
+      "line": 13,
+      "number": 16,
+      "text": "What regions dominate the city listings in 1900 and 1930?"
+    },
+    {
+      "page": 239,
+      "line": 19,
+      "number": 17,
+      "text": "In which two states are the majority of major cities in 2010?"
+    },
+    {
+      "page": 240,
+      "line": 3,
+      "number": 18,
+      "text": "What general trend can be seen in the changes in the lists of the"
+    },
+    {
+      "page": 240,
+      "line": 17,
+      "number": 19,
+      "text": "In which decision did the Marshall Court establish the power of"
+    },
+    {
+      "page": 241,
+      "line": 4,
+      "number": 20,
+      "text": "Read the following passage from one of the Marshall Court\u2019s"
+    },
+    {
+      "page": 241,
+      "line": 25,
+      "number": 21,
+      "text": "In which decision did the Court give a narrow interpretation of the"
+    },
+    {
+      "page": 242,
+      "line": 0,
+      "number": 22,
+      "text": "Indicate the graph that shows a simple demand curve."
+    },
+    {
+      "page": 242,
+      "line": 3,
+      "number": 23,
+      "text": "Indicate the graph that shows the effect on supply of increased"
+    },
+    {
+      "page": 242,
+      "line": 7,
+      "number": 24,
+      "text": "Indicate the graph that shows the effect on demand in a local market of"
+    },
+    {
+      "page": 243,
+      "line": 2,
+      "number": 25,
+      "text": "Indicate the box where each of the following items belongs. (Note: On"
+    },
+    {
+      "page": 243,
+      "line": 9,
+      "number": 26,
+      "text": "Which pair correctly lists the president and a major achievement?"
+    },
+    {
+      "page": 243,
+      "line": 15,
+      "number": 27,
+      "text": "Scientists who warn of a connection between climate change and"
+    },
+    {
+      "page": 244,
+      "line": 3,
+      "number": 28,
+      "text": "Which of the following are most cited as major problems resulting"
+    },
+    {
+      "page": 244,
+      "line": 10,
+      "number": 29,
+      "text": "Which totalitarian leader launched World War II and caused the death"
+    },
+    {
+      "page": 244,
+      "line": 17,
+      "number": 30,
+      "text": "Widespread suffering resulting from what event helped bring about"
+    },
+    {
+      "page": 245,
+      "line": 0,
+      "number": 31,
+      "text": "What is the relationship of income to educational attainment for men"
+    },
+    {
+      "page": 245,
+      "line": 7,
+      "number": 32,
+      "text": "What economic principle is demonstrated by this relationship?"
+    },
+    {
+      "page": 246,
+      "line": 0,
+      "number": 33,
+      "text": "Which country shows the greatest religious diversity?"
+    },
+    {
+      "page": 246,
+      "line": 6,
+      "number": 34,
+      "text": "Religious affiliation in which country reflects the effects of cultural"
+    },
+    {
+      "page": 246,
+      "line": 13,
+      "number": 35,
+      "text": "Religious affiliation in which country strongly reflects the effects of"
+    },
+    {
+      "page": 247,
+      "line": 0,
+      "number": 36,
+      "text": "Which cases decided by the Warren Court involved First Amendment"
+    },
+    {
+      "page": 247,
+      "line": 7,
+      "number": 37,
+      "text": "What area of law was a common subject of the decisions in Mapp v."
+    },
+    {
+      "page": 248,
+      "line": 0,
+      "number": 38,
+      "text": "Read the following quotation from one of the decisions of the Warren"
+    },
+    {
+      "page": 248,
+      "line": 22,
+      "number": 39,
+      "text": "Which women were pioneers in the women\u2019s suffrage movement?"
+    },
+    {
+      "page": 249,
+      "line": 13,
+      "number": 40,
+      "text": "Which of the following best states President Johnson\u2019s reason for"
+    },
+    {
+      "page": 250,
+      "line": 12,
+      "number": 1,
+      "text": "House: two-year term, Speaker presides, representation based on"
+    },
+    {
+      "page": 250,
+      "line": 16,
+      "number": 2,
+      "text": "C There were numerous conflicting alliances and treaties that required"
+    },
+    {
+      "page": 250,
+      "line": 19,
+      "number": 3,
+      "text": "D In April, the United States declared war. Just before that, in February,"
+    },
+    {
+      "page": 250,
+      "line": 22,
+      "number": 4,
+      "text": "A Any government must be able to enact and enforce laws and levy"
+    },
+    {
+      "page": 250,
+      "line": 25,
+      "number": 5,
+      "text": "B \u201cRun public schools\u201d is listed under Reserved (State) Powers."
+    },
+    {
+      "page": 250,
+      "line": 27,
+      "number": 6,
+      "text": "C It is called the \u201celastic clause\u201d because it allows Congress to stretch"
+    },
+    {
+      "page": 250,
+      "line": 30,
+      "number": 7,
+      "text": "C Texas is highest in both categories."
+    },
+    {
+      "page": 250,
+      "line": 32,
+      "number": 8,
+      "text": "A Kansas has the second lowest (the lowest is California) with 354"
+    },
+    {
+      "page": 251,
+      "line": 0,
+      "number": 9,
+      "text": "Department of Health and Human Services: Food and Drug"
+    },
+    {
+      "page": 251,
+      "line": 7,
+      "number": 10,
+      "text": "A Article I concerns the legislative branch, which makes laws."
+    },
+    {
+      "page": 251,
+      "line": 9,
+      "number": 11,
+      "text": "A Article IV covers recognition of states\u2019 laws."
+    },
+    {
+      "page": 251,
+      "line": 11,
+      "number": 12,
+      "text": "the amount The loans \u201cmultiply\u201d the"
+    },
+    {
+      "page": 251,
+      "line": 15,
+      "number": 13,
+      "text": "C If the percentage reserved were higher, the percent loaned would be"
+    },
+    {
+      "page": 251,
+      "line": 18,
+      "number": 14,
+      "text": "California California had the most major earthquakes in this period,"
+    },
+    {
+      "page": 251,
+      "line": 21,
+      "number": 15,
+      "text": "B The biggest concentration of major earthquakes in the eastern half of"
+    },
+    {
+      "page": 251,
+      "line": 26,
+      "number": 16,
+      "text": "B New York and Philadelphia in the Northeast and Chicago in the"
+    },
+    {
+      "page": 251,
+      "line": 29,
+      "number": 17,
+      "text": "A Texas and California each have three of the top 10."
+    },
+    {
+      "page": 251,
+      "line": 31,
+      "number": 18,
+      "text": "C Cities in the Northeast and Midwest have lost rank to cities in the"
+    },
+    {
+      "page": 251,
+      "line": 34,
+      "number": 19,
+      "text": "B Marbury v. Madison established the power of courts to determine"
+    },
+    {
+      "page": 252,
+      "line": 0,
+      "number": 20,
+      "text": "C Gibbons v. Ogden established the supremacy of Congress over the"
+    },
+    {
+      "page": 252,
+      "line": 3,
+      "number": 21,
+      "text": "A Barron v. Baltimore limited the applicability of the Bill of Rights."
+    },
+    {
+      "page": 252,
+      "line": 5,
+      "number": 22,
+      "text": "Graph 2 shows a simple demand curve."
+    },
+    {
+      "page": 252,
+      "line": 7,
+      "number": 23,
+      "text": "Graph 5 shows how increased regulation would affect supply."
+    },
+    {
+      "page": 252,
+      "line": 9,
+      "number": 24,
+      "text": "Graph 4 shows the effect new jobs would have on a demand curve for"
+    },
+    {
+      "page": 252,
+      "line": 12,
+      "number": 25,
+      "text": "Civil rights movement: Civil Rights Act of 1964, Brown v. Board of"
+    },
+    {
+      "page": 252,
+      "line": 17,
+      "number": 26,
+      "text": "A Thomas Jefferson was president when the Louisiana Purchase was"
+    },
+    {
+      "page": 252,
+      "line": 20,
+      "number": 27,
+      "text": "A The burning of fossil fuels, which emits carbon dioxide and other"
+    },
+    {
+      "page": 252,
+      "line": 23,
+      "number": 28,
+      "text": "C The melting of ice near the poles causes sea levels to rise. This and"
+    },
+    {
+      "page": 252,
+      "line": 26,
+      "number": 29,
+      "text": "A Adolf Hitler led Germany into WWII and perpetrated the Holocaust."
+    },
+    {
+      "page": 252,
+      "line": 28,
+      "number": 30,
+      "text": "B WWI destroyed Germany\u2019s economy, and the Great Depression hit"
+    },
+    {
+      "page": 252,
+      "line": 32,
+      "number": 31,
+      "text": "C Income rises steadily with greater education, for both men and"
+    },
+    {
+      "page": 252,
+      "line": 35,
+      "number": 32,
+      "text": "A Education is a type of investment in human capital."
+    },
+    {
+      "page": 252,
+      "line": 37,
+      "number": 33,
+      "text": "D Singapore has several major religions."
+    },
+    {
+      "page": 253,
+      "line": 0,
+      "number": 34,
+      "text": "B Hinduism in Indonesia is a result of cultural diffusion from India."
+    },
+    {
+      "page": 253,
+      "line": 2,
+      "number": 35,
+      "text": "C Roman Catholicism was brought to the Philippines by Spanish"
+    },
+    {
+      "page": 253,
+      "line": 5,
+      "number": 36,
+      "text": "B Engel v. Vitale and Tinker v. Des Moines both involved the First"
+    },
+    {
+      "page": 253,
+      "line": 8,
+      "number": 37,
+      "text": "A Each of those cases involved the rights of the accused and due"
+    },
+    {
+      "page": 253,
+      "line": 11,
+      "number": 38,
+      "text": "B Gideon v. Wainwright involved the right to legal counsel."
+    },
+    {
+      "page": 253,
+      "line": 13,
+      "number": 39,
+      "text": "D Elizabeth Cady Stanton, Susan B. Anthony, and Carrie Chapman Catt"
+    },
+    {
+      "page": 253,
+      "line": 16,
+      "number": 40,
+      "text": "D Johnson warns about communist China\u2019s aggression and says the"
+    }
+  ],
+  "chapters": [
+    {
+      "page": 7,
+      "line": 11,
+      "kind": "chapter",
+      "number": 1,
+      "title": "Civics and Government"
+    },
+    {
+      "page": 7,
+      "line": 13,
+      "kind": "chapter",
+      "number": 2,
+      "title": "U.S. History"
+    },
+    {
+      "page": 7,
+      "line": 15,
+      "kind": "chapter",
+      "number": 3,
+      "title": "Economics"
+    },
+    {
+      "page": 7,
+      "line": 17,
+      "kind": "chapter",
+      "number": 4,
+      "title": "Geography and the World"
+    },
+    {
+      "page": 91,
+      "line": 0,
+      "kind": "end",
+      "number": 1,
+      "title": "CIVICS AND GOVERNMENT."
+    },
+    {
+      "page": 134,
+      "line": 0,
+      "kind": "end",
+      "number": 2,
+      "title": "U.S. HISTORY."
+    },
+    {
+      "page": 167,
+      "line": 0,
+      "kind": "end",
+      "number": 3,
+      "title": "ECONOMICS."
+    },
+    {
+      "page": 202,
+      "line": 28,
+      "kind": "end",
+      "number": 4,
+      "title": "GEOGRAPHY AND THE"
+    }
+  ]
+}

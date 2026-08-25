@@ -1,0 +1,460 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-100.jpg (size: 44596 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-100_d6f833ad.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-103.jpg (size: 76838 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-103_482b0389.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-104.jpg (size: 123773 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-104_76b27318.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-105.jpg (size: 98239 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-105_1ee856b3.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-107.jpg (size: 101853 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-107_a6180383.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-109.jpg (size: 124781 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-109_a7b46c0b.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-111.jpg (size: 81090 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-111_ed8b0ac1.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-113.jpg (size: 129590 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-113_a86614a2.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-114.jpg (size: 87796 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-114_8e8fd26f.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-116.jpg (size: 97552 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-116_8b791c01.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-118.jpg (size: 66634 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-118_e47d8c17.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-119.jpg (size: 145868 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-119_2d420e1f.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-120.jpg (size: 75143 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-120_1a94e72e.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-122.jpg (size: 101861 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-122_999d76e2.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-124.jpg (size: 61378 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-124_bf199644.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-128.jpg (size: 62243 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-128_17194537.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-129.jpg (size: 89017 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-129_3d8cf52d.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-13.jpg (size: 113952 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-13_3778ffe2.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-130.jpg (size: 87843 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-130_18ee40cb.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-131.jpg (size: 63692 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-131_dd0b9b2f.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-132.jpg (size: 53555 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-132_7ca391b2.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-135.jpg (size: 50217 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-135_a705054c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-137.jpg (size: 66310 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-137_5a0423dc.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-138.jpg (size: 83802 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-138_e37f650b.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-14.jpg (size: 102123 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-14_e845deb4.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-140.jpg (size: 92009 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-140_a20e8e50.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-142.jpg (size: 58163 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-142_d7e9ec4a.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-143.jpg (size: 75428 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-143_3b813a9e.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-144.jpg (size: 81706 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-144_9c9223b2.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-146.jpg (size: 66816 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-146_17aa99bd.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-148.jpg (size: 81684 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-148_fad90738.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-149.jpg (size: 37395 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-149_a7f443b5.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-151.jpg (size: 33671 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-151_e6db33d2.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-153.jpg (size: 103320 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-153_5370596d.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-155.jpg (size: 80153 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-155_e0c0dbea.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-156.jpg (size: 76027 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-156_904ed444.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-157.jpg (size: 79378 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-157_b6af45ff.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-158.jpg (size: 103847 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-158_512dd872.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-159.jpg (size: 100820 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-159_4295ee93.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-16.jpg (size: 44770 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-16_b86a785c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-160.jpg (size: 84343 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-160_e90995c4.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-161.jpg (size: 82790 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-161_89296457.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-162.jpg (size: 100003 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-162_33104c6d.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-164.jpg (size: 62442 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-164_2180bc6c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-166.jpg (size: 73283 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-166_ec0f9e60.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-168.jpg (size: 138380 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-168_cd7e8fcd.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-169.jpg (size: 62827 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-169_50f35da7.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-171.jpg (size: 100046 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-171_3f563b5c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-172.jpg (size: 81186 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-172_8f2ac09c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-173.jpg (size: 66734 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-173_fd6c7612.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-175.jpg (size: 106019 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-175_2ddd4991.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-176.jpg (size: 84305 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-176_e4f823ce.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-177.jpg (size: 67912 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-177_03bcc07d.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-179.jpg (size: 87896 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-179_368e27b5.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-18.jpg (size: 107149 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-18_2e3de0a2.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-180.jpg (size: 56772 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-180_6e02c572.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-182.jpg (size: 78161 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-182_c755122b.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-184.jpg (size: 75601 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-184_e070c645.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-19.jpg (size: 58199 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-19_2ce001e7.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-190.jpg (size: 78540 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-190_cef723fa.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-192.jpg (size: 112138 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-192_d56b4ffb.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-194.jpg (size: 88883 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-194_1c8f6922.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-195.jpg (size: 35768 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-195_4c4d3715.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-198.jpg (size: 75814 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-198_1c4c8bea.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-199.jpg (size: 93321 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-199_bb744f90.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-201.jpg (size: 79468 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-201_5a0df54e.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-202.jpg (size: 93829 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-202_48e368a5.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-21.jpg (size: 100912 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-21_c2402425.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-22.jpg (size: 131288 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-22_59113566.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-23.jpg (size: 88797 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-23_c4bd0848.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-230.jpg (size: 99838 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-230_46fd897f.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-231.jpg (size: 96667 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-231_3435a943.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-232.jpg (size: 69016 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-232_11646259.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-234.jpg (size: 65620 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-234_3716aa87.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-236.jpg (size: 111052 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-236_78013745.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-238.jpg (size: 87921 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-238_75e2200b.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-239.jpg (size: 86754 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-239_51d48376.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-24.jpg (size: 114452 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-24_29162d20.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-240.jpg (size: 98043 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-240_934cba82.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-241.jpg (size: 115581 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-241_ccd4ba0e.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-244.jpg (size: 70917 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-244_5038e002.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-245.jpg (size: 79856 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-245_42b2d423.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-246.jpg (size: 73167 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-246_889d19ff.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-248.jpg (size: 112873 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-248_56cba389.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-25.jpg (size: 57372 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-25_b9b39110.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-26.jpg (size: 63543 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-26_befbc392.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-28.jpg (size: 79364 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-28_fb35f5de.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-29.jpg (size: 98823 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-29_1bae52fd.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-30.jpg (size: 129245 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-30_2140200c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-31.jpg (size: 135790 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-31_1d483fef.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-32.jpg (size: 144386 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-32_711a81ca.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-34.jpg (size: 95986 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-34_48587f48.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-40.jpg (size: 97091 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-40_059cca73.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-41.jpg (size: 65411 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-41_0e07c5c8.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-43.jpg (size: 100569 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-43_18e432e4.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-44.jpg (size: 142322 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-44_3d505fcc.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-46.jpg (size: 77358 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-46_2d5e6f5f.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-48.jpg (size: 95958 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-48_a063fae4.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-49.jpg (size: 134755 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-49_1e598bd3.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-52.jpg (size: 98595 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-52_d97d13e3.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-56.jpg (size: 77704 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-56_cda527b2.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-58.jpg (size: 148307 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-58_8ff81007.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-61.jpg (size: 128877 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-61_4a22ad7c.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-62.jpg (size: 113256 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-62_f102411a.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-64.jpg (size: 64035 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-64_ee662a66.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-66.jpg (size: 134293 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-66_26066388.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-67.jpg (size: 95691 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-67_13412464.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-68.jpg (size: 114523 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-68_c48f562d.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-70.jpg (size: 112256 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-70_12f3a867.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-71.jpg (size: 105320 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-71_fee22c71.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-92.jpg (size: 121770 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-92_11558e67.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-94.jpg (size: 65053 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-94_292b1689.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-96.jpg (size: 87282 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-96_f687994e.jpg
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-97.jpg (size: 76190 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/folio-97_22ac78eb.jpg
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-100.jpg -> /manus-storage/folio-100_d6f833ad.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-103.jpg -> /manus-storage/folio-103_482b0389.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-104.jpg -> /manus-storage/folio-104_76b27318.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-105.jpg -> /manus-storage/folio-105_1ee856b3.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-107.jpg -> /manus-storage/folio-107_a6180383.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-109.jpg -> /manus-storage/folio-109_a7b46c0b.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-111.jpg -> /manus-storage/folio-111_ed8b0ac1.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-113.jpg -> /manus-storage/folio-113_a86614a2.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-114.jpg -> /manus-storage/folio-114_8e8fd26f.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-116.jpg -> /manus-storage/folio-116_8b791c01.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-118.jpg -> /manus-storage/folio-118_e47d8c17.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-119.jpg -> /manus-storage/folio-119_2d420e1f.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-120.jpg -> /manus-storage/folio-120_1a94e72e.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-122.jpg -> /manus-storage/folio-122_999d76e2.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-124.jpg -> /manus-storage/folio-124_bf199644.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-128.jpg -> /manus-storage/folio-128_17194537.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-129.jpg -> /manus-storage/folio-129_3d8cf52d.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-13.jpg -> /manus-storage/folio-13_3778ffe2.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-130.jpg -> /manus-storage/folio-130_18ee40cb.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-131.jpg -> /manus-storage/folio-131_dd0b9b2f.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-132.jpg -> /manus-storage/folio-132_7ca391b2.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-135.jpg -> /manus-storage/folio-135_a705054c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-137.jpg -> /manus-storage/folio-137_5a0423dc.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-138.jpg -> /manus-storage/folio-138_e37f650b.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-14.jpg -> /manus-storage/folio-14_e845deb4.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-140.jpg -> /manus-storage/folio-140_a20e8e50.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-142.jpg -> /manus-storage/folio-142_d7e9ec4a.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-143.jpg -> /manus-storage/folio-143_3b813a9e.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-144.jpg -> /manus-storage/folio-144_9c9223b2.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-146.jpg -> /manus-storage/folio-146_17aa99bd.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-148.jpg -> /manus-storage/folio-148_fad90738.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-149.jpg -> /manus-storage/folio-149_a7f443b5.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-151.jpg -> /manus-storage/folio-151_e6db33d2.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-153.jpg -> /manus-storage/folio-153_5370596d.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-155.jpg -> /manus-storage/folio-155_e0c0dbea.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-156.jpg -> /manus-storage/folio-156_904ed444.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-157.jpg -> /manus-storage/folio-157_b6af45ff.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-158.jpg -> /manus-storage/folio-158_512dd872.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-159.jpg -> /manus-storage/folio-159_4295ee93.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-16.jpg -> /manus-storage/folio-16_b86a785c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-160.jpg -> /manus-storage/folio-160_e90995c4.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-161.jpg -> /manus-storage/folio-161_89296457.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-162.jpg -> /manus-storage/folio-162_33104c6d.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-164.jpg -> /manus-storage/folio-164_2180bc6c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-166.jpg -> /manus-storage/folio-166_ec0f9e60.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-168.jpg -> /manus-storage/folio-168_cd7e8fcd.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-169.jpg -> /manus-storage/folio-169_50f35da7.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-171.jpg -> /manus-storage/folio-171_3f563b5c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-172.jpg -> /manus-storage/folio-172_8f2ac09c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-173.jpg -> /manus-storage/folio-173_fd6c7612.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-175.jpg -> /manus-storage/folio-175_2ddd4991.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-176.jpg -> /manus-storage/folio-176_e4f823ce.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-177.jpg -> /manus-storage/folio-177_03bcc07d.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-179.jpg -> /manus-storage/folio-179_368e27b5.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-18.jpg -> /manus-storage/folio-18_2e3de0a2.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-180.jpg -> /manus-storage/folio-180_6e02c572.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-182.jpg -> /manus-storage/folio-182_c755122b.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-184.jpg -> /manus-storage/folio-184_e070c645.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-19.jpg -> /manus-storage/folio-19_2ce001e7.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-190.jpg -> /manus-storage/folio-190_cef723fa.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-192.jpg -> /manus-storage/folio-192_d56b4ffb.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-194.jpg -> /manus-storage/folio-194_1c8f6922.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-195.jpg -> /manus-storage/folio-195_4c4d3715.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-198.jpg -> /manus-storage/folio-198_1c4c8bea.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-199.jpg -> /manus-storage/folio-199_bb744f90.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-201.jpg -> /manus-storage/folio-201_5a0df54e.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-202.jpg -> /manus-storage/folio-202_48e368a5.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-21.jpg -> /manus-storage/folio-21_c2402425.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-22.jpg -> /manus-storage/folio-22_59113566.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-23.jpg -> /manus-storage/folio-23_c4bd0848.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-230.jpg -> /manus-storage/folio-230_46fd897f.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-231.jpg -> /manus-storage/folio-231_3435a943.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-232.jpg -> /manus-storage/folio-232_11646259.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-234.jpg -> /manus-storage/folio-234_3716aa87.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-236.jpg -> /manus-storage/folio-236_78013745.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-238.jpg -> /manus-storage/folio-238_75e2200b.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-239.jpg -> /manus-storage/folio-239_51d48376.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-24.jpg -> /manus-storage/folio-24_29162d20.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-240.jpg -> /manus-storage/folio-240_934cba82.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-241.jpg -> /manus-storage/folio-241_ccd4ba0e.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-244.jpg -> /manus-storage/folio-244_5038e002.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-245.jpg -> /manus-storage/folio-245_42b2d423.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-246.jpg -> /manus-storage/folio-246_889d19ff.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-248.jpg -> /manus-storage/folio-248_56cba389.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-25.jpg -> /manus-storage/folio-25_b9b39110.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-26.jpg -> /manus-storage/folio-26_befbc392.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-28.jpg -> /manus-storage/folio-28_fb35f5de.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-29.jpg -> /manus-storage/folio-29_1bae52fd.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-30.jpg -> /manus-storage/folio-30_2140200c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-31.jpg -> /manus-storage/folio-31_1d483fef.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-32.jpg -> /manus-storage/folio-32_711a81ca.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-34.jpg -> /manus-storage/folio-34_48587f48.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-40.jpg -> /manus-storage/folio-40_059cca73.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-41.jpg -> /manus-storage/folio-41_0e07c5c8.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-43.jpg -> /manus-storage/folio-43_18e432e4.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-44.jpg -> /manus-storage/folio-44_3d505fcc.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-46.jpg -> /manus-storage/folio-46_2d5e6f5f.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-48.jpg -> /manus-storage/folio-48_a063fae4.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-49.jpg -> /manus-storage/folio-49_1e598bd3.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-52.jpg -> /manus-storage/folio-52_d97d13e3.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-56.jpg -> /manus-storage/folio-56_cda527b2.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-58.jpg -> /manus-storage/folio-58_8ff81007.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-61.jpg -> /manus-storage/folio-61_4a22ad7c.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-62.jpg -> /manus-storage/folio-62_f102411a.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-64.jpg -> /manus-storage/folio-64_ee662a66.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-66.jpg -> /manus-storage/folio-66_26066388.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-67.jpg -> /manus-storage/folio-67_13412464.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-68.jpg -> /manus-storage/folio-68_c48f562d.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-70.jpg -> /manus-storage/folio-70_12f3a867.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-71.jpg -> /manus-storage/folio-71_fee22c71.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-92.jpg -> /manus-storage/folio-92_11558e67.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-94.jpg -> /manus-storage/folio-94_292b1689.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-96.jpg -> /manus-storage/folio-96_f687994e.jpg
+[SUCCESS] /home/ubuntu/webdev-static-assets/mcgraw-hill/folio-97.jpg -> /manus-storage/folio-97_22ac78eb.jpg
+=====================================
+Total: 114, Success: 114, Failed: 0
