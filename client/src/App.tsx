@@ -8,15 +8,11 @@ import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
 import SubjectPage from "./pages/SubjectPage";
 import QuestionReader from "./pages/QuestionReader";
-import StudyMap from "./pages/StudyMap";
-import LessonReader from "./pages/LessonReader";
 
 function Router() {
   return <Switch>
     <Route path="/" component={Home} />
     <Route path="/subject/:slug" component={SubjectPage} />
-    <Route path="/study-map" component={StudyMap} />
-    <Route path="/lesson/:lessonId" component={LessonReader} />
     <Route path="/reader/:groupId" component={QuestionReader} />
     <Route path="/404" component={NotFound} />
     <Route component={NotFound} />
