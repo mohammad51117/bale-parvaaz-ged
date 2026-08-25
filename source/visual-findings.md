@@ -33,3 +33,7 @@ Subject libraries now render visible part sections instead of one flat list. Soc
 ## Source and question-card visual refinement
 
 The shared-context block now uses a premium folio header with a labeled “SHARED SOURCE CONTEXT · figure/information/standalone” treatment, a clean subject-to-part badge, and a framed source visual beneath. Question cards no longer have the heavy rectangular outer edge; they use quiet printed rules instead. The question number remains in its existing position, with the save icon immediately beside it. Desktop and mobile captures of Questions 506–507 and 508 confirm the intended hierarchy.
+
+## Full-width question content verification
+
+The question number and bookmark remain together in the compact header, while the prompt, choices, fill-in field, and feedback now begin below the header at the full available width. Desktop and mobile captures of Questions 506–507 and 508 confirm that the former empty column beneath the number has been removed.

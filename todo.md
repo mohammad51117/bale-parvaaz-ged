@@ -1,4 +1,13 @@
-# Source context and question-card polish
+# Full-width question content
+
+- [x] Remove the reserved column beneath the question number.
+- [x] Keep the question number and save icon together at the top.
+- [x] Let the prompt, options, feedback, and response fields use the full card width.
+- [x] Verify the composition on desktop and mobile.
+- [x] Run type check, production build, screenshots, and checkpoint the correction.
+
+## Previous source context and question-card polish
+
 
 - [x] Make the SHARED SOURCE CONTEXT block visually premium and clearly separated from the PDF page.
 - [x] Simplify question cards by removing the heavy outer border/edge.
