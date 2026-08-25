@@ -5,4 +5,13 @@
 - [x] Normalize the extracted content into the project’s question-group and interactive-question formats.
 - [x] Add the new Social Studies source and question data without changing backend code.
 - [x] Verify counts, navigation, answer checking, and responsive presentation.
-- [ ] Save a checkpoint so the published project includes the update.
+- [x] Save a checkpoint so the published project includes the update.
+
+## Kaplan Social Studies import
+
+- [x] Inspect the Kaplan PDF page count, scan quality, and question/answer sections.
+- [x] Extract and verify all Kaplan prompts, choices, answer keys, and explanations.
+- [x] Prepare any required source-page visuals outside the project and upload them.
+- [x] Add Kaplan question groups, interactive records, source registry entries, and reader visuals.
+- [x] Verify source counts, navigation, answer checking, and responsive presentation.
+- [ ] Save a checkpoint so the published Kaplan update is live.
