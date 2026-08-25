@@ -49,3 +49,9 @@ SocialStudiesEconomicsQuestion1.pdf is a 19-page scanned/image PDF with no usabl
 ## Social Studies Economics supplement verification
 
 The scanned 19-page Economics workbook has been added as a distinct supplemental source under Social Studies → Economics, preserving its original Questions 1–49 numbering without overwriting the main 1,001-question library. The subject library now includes the added sets. Desktop and mobile captures verify the standalone worker illustration for Questions 2–4 and the pie-chart source visual for Questions 5–7, with the source marker above the image and the reader inside the Bale Parvaaz shell.
+
+## Workbook attribution verification
+
+The Social Studies library now shows per-set workbook titles and source-page ranges. Supplemental readers display “Social Studies Economics Question 1,” use “source page” labels, and identify “Social Studies Economics workbook.” Main-book readers display “1001 GED Practice Questions For Dummies by Stuart Donnelly,” use “source folio” labels, and identify the main workbook. Desktop verification passed for the subject library and representative readers.
+
+Mobile verification also passed at 390×844: the Social Studies library keeps its workbook-source note readable, and the Economics reader wraps the supplemental workbook title and “source page 1–1” label cleanly without horizontal overflow.

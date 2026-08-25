@@ -1,10 +1,9 @@
-# Social Studies Economics expansion
+# Workbook source attribution
 
-- [x] Inspect the two supplied PDFs and identify question ranges, answer keys, and source visuals.
-- [x] Parse the new Economics questions and answer choices without changing source wording.
-- [x] Attach answer keys and explanations where supplied.
-- [x] Add the new sets under Social Studies → Economics.
-- [x] Preserve shared passages, tables, charts, maps, and figures from the new PDFs.
-- [x] Keep question numbering distinct and searchable beside the existing 1,001-question library.
-- [x] Verify interactive answering, labels, source context, and classroom-readable typography.
-- [x] Run type check, production build, screenshots, and checkpoint the expanded library.
+- [x] Define stable metadata for each workbook and its source-page numbering.
+- [x] Attach workbook IDs, titles, and source-page ranges to all question groups and records.
+- [x] Show workbook attribution in subject-library cards and section headings.
+- [x] Show workbook title and exact source pages in standalone readers.
+- [x] Keep the original 1,001-question book distinct from the supplemental Economics workbook.
+- [x] Verify attribution on representative main-book and supplemental readers, desktop and mobile.
+- [x] Run type check, production build, screenshots, and checkpoint the source-label update.
