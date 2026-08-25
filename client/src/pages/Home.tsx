@@ -30,6 +30,8 @@ import { supplementalBatterySocialStudiesGroups, supplementalBatterySocialStudie
 import { supplementalBatterySocialStudiesVisuals } from "@/lib/supplementalBatterySocialStudiesVisuals";
 import { supplementalKaplanSocialStudiesGroups, supplementalKaplanSocialStudiesQuestions } from "@/lib/supplementalKaplanSocialStudies";
 import { supplementalKaplanSocialStudiesVisuals } from "@/lib/supplementalKaplanSocialStudiesVisuals";
+import { supplementalKaplanSocialStudiesPretestGroups, supplementalKaplanSocialStudiesPretestQuestions } from "@/lib/supplementalKaplanSocialStudiesPretest";
+import { supplementalKaplanSocialStudiesPretestVisuals } from "@/lib/supplementalKaplanSocialStudiesPretestVisuals";
 import { getInitialWorkbookFilter, getWorkbookSource, matchesWorkbook, persistWorkbookFilter, type WorkbookFilter, workbookFilterOptions } from "@/lib/workbookSources";
 import { useLocation } from "wouter";
 
@@ -58,7 +60,7 @@ function formatNumber(value: number) {
 export default function Home() {
   const [, setLocation] = useLocation();
   const pages = bookData.pages as readonly PageRecord[];
-  const groups = [...questionGroups.groups, ...supplementalEconomicsGroups, ...supplementalMcGrawHillGroups, ...supplementalBatterySocialStudiesGroups, ...supplementalKaplanSocialStudiesGroups] as readonly QuestionGroup[];
+  const groups = [...questionGroups.groups, ...supplementalEconomicsGroups, ...supplementalMcGrawHillGroups, ...supplementalBatterySocialStudiesGroups, ...supplementalKaplanSocialStudiesGroups, ...supplementalKaplanSocialStudiesPretestGroups] as readonly QuestionGroup[];
   const sectionQuestionCounts = useMemo(() => bookData.subjects.map((item) => ({
     ...item,
     questionCount: groups.filter((group) => group.section === item.name).reduce((sum, group) => sum + group.questions.length, 0),
@@ -77,7 +79,7 @@ export default function Home() {
   const [showOpening, setShowOpening] = useState(false);
   const [activeGroupId, setActiveGroupId] = useState(initialGroup);
 
-  const allVisualAssets = { ...visualAssets, ...supplementalEconomicsVisuals, ...supplementalMcGrawHillVisuals, ...supplementalBatterySocialStudiesVisuals, ...supplementalKaplanSocialStudiesVisuals };
+  const allVisualAssets = { ...visualAssets, ...supplementalEconomicsVisuals, ...supplementalMcGrawHillVisuals, ...supplementalBatterySocialStudiesVisuals, ...supplementalKaplanSocialStudiesVisuals, ...supplementalKaplanSocialStudiesPretestVisuals };
   const currentPage = pages.find((page) => page.page === activePage) ?? pages[0];
   const activeGroup = groups.find((group) => group.id === activeGroupId) ?? groups[0];
   const activeContextText = activeGroup?.context && !activeGroup.context.startsWith("The shared source material") ? activeGroup.context : "";
@@ -99,7 +101,7 @@ export default function Home() {
     return { ...option, count: matchingGroups.length, questionCount: matchingGroups.reduce((sum, group) => sum + group.questions.length, 0) };
   }), [groups]);
   const activeWorkbookOption = workbookFilterOptions.find((option) => option.value === workbookFilter) || workbookFilterOptions[0];
-  const isSupplementWorkbook = workbookFilter === "economics" || workbookFilter === "mcgraw" || workbookFilter === "battery" || workbookFilter === "kaplan";
+  const isSupplementWorkbook = workbookFilter === "economics" || workbookFilter === "mcgraw" || workbookFilter === "battery" || workbookFilter === "kaplan" || workbookFilter === "kaplan-pretest";
   const visibleActiveGroup = filteredGroups.find((group) => group.id === activeGroupId) ?? filteredGroups[0];
   const visibleActiveWorkbookSource = visibleActiveGroup ? getWorkbookSource(visibleActiveGroup.id) : null;
   const filteredQuestionCount = filteredGroups.reduce((sum, group) => sum + group.questions.length, 0);
@@ -117,7 +119,7 @@ export default function Home() {
   }, [kind, pages, query, subject, workbookFilter]);
 
   const updateWorkbookFilter = (value: string) => {
-    const next = value === "main" || value === "economics" || value === "mcgraw" || value === "battery" || value === "kaplan" ? value : "all";
+    const next = value === "main" || value === "economics" || value === "mcgraw" || value === "battery" || value === "kaplan" || value === "kaplan-pretest" ? value : "all";
     setWorkbookFilter(next);
     persistWorkbookFilter(next);
   };

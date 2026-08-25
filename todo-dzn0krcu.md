@@ -14,4 +14,13 @@
 - [x] Prepare any required source-page visuals outside the project and upload them.
 - [x] Add Kaplan question groups, interactive records, source registry entries, and reader visuals.
 - [x] Verify source counts, navigation, answer checking, and responsive presentation.
-- [ ] Save a checkpoint so the published Kaplan update is live.
+- [x] Save a checkpoint so the published Kaplan update is live.
+
+## Kaplan Social Studies pretest import
+
+- [ ] Inspect the pretest PDF page count, scan quality, and question/answer sections.
+- [ ] Extract and verify all pretest prompts, choices, answer keys, and explanations.
+- [ ] Prepare any required pretest source-page visuals outside the project and upload them.
+- [ ] Add pretest question groups, interactive records, source registry entries, and reader visuals.
+- [x] Verify source counts, navigation, answer checking, and responsive presentation.
+- [ ] Save a checkpoint so the published pretest update is live.

@@ -8,6 +8,7 @@ import { supplementalEconomicsGroups, supplementalEconomicsQuestions } from "@/l
 import { supplementalMcGrawHillGroups, supplementalMcGrawHillQuestions } from "@/lib/supplementalMcGrawHill";
 import { supplementalBatterySocialStudiesGroups, supplementalBatterySocialStudiesQuestions } from "@/lib/supplementalBatterySocialStudies";
 import { supplementalKaplanSocialStudiesGroups, supplementalKaplanSocialStudiesQuestions } from "@/lib/supplementalKaplanSocialStudies";
+import { supplementalKaplanSocialStudiesPretestGroups, supplementalKaplanSocialStudiesPretestQuestions } from "@/lib/supplementalKaplanSocialStudiesPretest";
 import { getInitialWorkbookFilter, getWorkbookSource, matchesWorkbook, persistWorkbookFilter, type WorkbookFilter, workbookFilterOptions } from "@/lib/workbookSources";
 
 type Group = { id: string; section: string; questionStart: number; questionEnd: number; rangeLabel: string; contextType: string; marker: string; context: string; sourcePages: readonly number[]; visualPage?: number | null; questions: readonly { number: number; text: string }[] };
@@ -34,10 +35,10 @@ export default function SubjectPage() {
   const [topic, setTopic] = useState("All parts");
   const [workbookFilter, setWorkbookFilter] = useState<WorkbookFilter>(getInitialWorkbookFilter);
   const baseGroups = questionGroups.groups as readonly Group[];
-  const addedGroups = [...supplementalEconomicsGroups, ...supplementalMcGrawHillGroups, ...supplementalBatterySocialStudiesGroups, ...supplementalKaplanSocialStudiesGroups] as readonly Group[];
+  const addedGroups = [...supplementalEconomicsGroups, ...supplementalMcGrawHillGroups, ...supplementalBatterySocialStudiesGroups, ...supplementalKaplanSocialStudiesGroups, ...supplementalKaplanSocialStudiesPretestGroups] as readonly Group[];
   const groups = [...baseGroups, ...addedGroups] as readonly Group[];
   const baseQuestions = interactiveQuestions.questions as readonly InteractiveQuestion[];
-  const addedQuestions = [...supplementalEconomicsQuestions, ...supplementalMcGrawHillQuestions, ...supplementalBatterySocialStudiesQuestions, ...supplementalKaplanSocialStudiesQuestions] as readonly InteractiveQuestion[];
+  const addedQuestions = [...supplementalEconomicsQuestions, ...supplementalMcGrawHillQuestions, ...supplementalBatterySocialStudiesQuestions, ...supplementalKaplanSocialStudiesQuestions, ...supplementalKaplanSocialStudiesPretestQuestions] as readonly InteractiveQuestion[];
   const questions = [...baseQuestions, ...addedQuestions] as readonly InteractiveQuestion[];
   const topicMap = useMemo(() => new Map(questions.map((question) => [`${question.groupId}-${question.number}`, question])), [questions]);
   const topicForGroup = (group: Group) => {
@@ -59,7 +60,7 @@ export default function SubjectPage() {
     return keys.map((key) => ({ topic: key, groups: byTopic.get(key) || [] }));
   }, [subjectGroups, subject, topicMap]);
   const updateWorkbookFilter = (value: string) => {
-    const next = value === "main" || value === "economics" || value === "mcgraw" || value === "battery" || value === "kaplan" ? value : "all";
+    const next = value === "main" || value === "economics" || value === "mcgraw" || value === "battery" || value === "kaplan" || value === "kaplan-pretest" ? value : "all";
     setWorkbookFilter(next);
     persistWorkbookFilter(next);
   };
