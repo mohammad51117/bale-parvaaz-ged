@@ -1,4 +1,13 @@
-# Subject pages and separate readers
+# In-app subject pages and readers
+
+- [x] Replace every `window.open` reader launch with in-app route navigation.
+- [x] Keep the reader inside the Bale Parvaaz branded shell with back navigation.
+- [x] Preserve dedicated subject indexes and isolated question-set views without leaving the app.
+- [x] Verify subject-to-reader navigation, direct reader routes, and mobile behavior.
+- [x] Run type check, production build, screenshots, and checkpoint the correction.
+
+## Previous subject-page rebuild
+
 
 - [x] Audit the full question-number sequence and investigate Questions 508 and 509.
 - [x] Ensure every source-defined group and standalone question is represented in a subject-level index.
