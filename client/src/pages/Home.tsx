@@ -78,6 +78,14 @@ export default function Home() {
   const [kind, setKind] = useState("All page types");
   const [workbookFilter, setWorkbookFilter] = useState<WorkbookFilter>(getInitialWorkbookFilter);
   const [mobileRail, setMobileRail] = useState(false);
+  const [railCollapsed, setRailCollapsed] = useState(false);
+  const toggleLogoSidebar = () => {
+    if (window.matchMedia("(max-width: 760px)").matches) {
+      setMobileRail((open) => !open);
+    } else {
+      setRailCollapsed((collapsed) => !collapsed);
+    }
+  };
   const [bookmarked, setBookmarked] = useState<number[]>([6]);
   const [showOpening, setShowOpening] = useState(false);
   const [activeGroupId, setActiveGroupId] = useState(initialGroup);
@@ -134,15 +142,17 @@ export default function Home() {
   };
 
   return (
-    <div className="app-shell">
+    <div className={`app-shell ${railCollapsed ? "rail-collapsed" : ""}`}>
       <aside className={`book-rail ${mobileRail ? "book-rail-open" : ""}`}>
         <div className="rail-brand">
-          <span className="brand-mark brand-mark-photo"><img src={brandLogoUrl} alt={brandLogoAlt} /></span>
-          <div>
-            <div className="brand-name">Bale Parvaaz</div>
-            <div className="brand-subtitle">GED / Teacher Momeni</div>
-          </div>
-          <button className="rail-close" onClick={() => setMobileRail(false)} aria-label="Close navigation"><X size={18} /></button>
+          <button className="rail-brand-toggle" type="button" onClick={toggleLogoSidebar} aria-label={railCollapsed ? "Show sidebar" : "Hide sidebar"} aria-expanded={!railCollapsed} title={railCollapsed ? "Show sidebar" : "Hide sidebar"}>
+            <span className="brand-mark brand-mark-photo"><img src={brandLogoUrl} alt={brandLogoAlt} /></span>
+            <span className="rail-brand-copy">
+              <span className="brand-name">Bale Parvaaz</span>
+              <span className="brand-subtitle">GED / Teacher Momeni</span>
+            </span>
+          </button>
+          <button className="rail-close" type="button" onClick={() => setMobileRail(false)} aria-label="Close navigation"><X size={18} /></button>
         </div>
         <div className="rail-rule" />
         <nav className="rail-nav" aria-label="Study navigation">
@@ -165,7 +175,8 @@ export default function Home() {
 
       <main className="main-canvas">
         <header className="topbar">
-          <button className="mobile-menu" onClick={() => setMobileRail(true)} aria-label="Open navigation"><Menu size={20} /></button>
+          <button className="mobile-menu" type="button" onClick={() => setMobileRail(true)} aria-label="Open navigation"><Menu size={20} /></button>
+          <button className="mobile-brand-toggle" type="button" onClick={toggleLogoSidebar} aria-label={mobileRail ? "Hide sidebar" : "Show sidebar"} aria-expanded={mobileRail} title={mobileRail ? "Hide sidebar" : "Show sidebar"}><img src={brandLogoUrl} alt={brandLogoAlt} /></button>
           <div className="breadcrumb"><span>Study desk</span><span className="slash">/</span><span>{showOpening ? "Opening pages" : activeSubject}</span><span className="slash">/</span><strong>{showOpening ? "Pages 01–05" : `Page ${String(activePage).padStart(3, "0")}`}</strong></div>
           <div className="topbar-actions"><button className="topbar-icon" aria-label="Bookmarks"><Bookmark size={17} /><span>{bookmarked.length}</span></button><div className="topbar-divider" /><span className="folio-label">Folio 2026</span></div>
         </header>

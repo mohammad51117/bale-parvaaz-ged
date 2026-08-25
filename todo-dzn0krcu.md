@@ -57,4 +57,20 @@
 - [x] Create a clean portrait-only logo asset with no decorative cross or accent.
 - [x] Replace the shared logo reference and verify all route placements.
 - [x] Check desktop and mobile logo rendering.
-- [ ] Save a checkpoint so the corrected logo is live.
+- [x] Save a checkpoint so the corrected logo is live.
+
+## Preview startup recovery
+
+- [x] Inspect current development-server and browser error status.
+- [x] Resolve any startup, import, or stale-service issue.
+- [x] Restart the development service if needed.
+- [x] Verify the preview loads and the main routes render.
+- [x] Report the confirmed preview status and any remaining limitation.
+
+## Logo sidebar toggle
+
+- [x] Inspect the study-desk sidebar state and logo markup.
+- [x] Make the logo a keyboard-accessible sidebar toggle.
+- [x] Add collapsed-state styling and a way to reopen the sidebar.
+- [x] Verify expanded and collapsed desktop/mobile behavior.
+- [x] Save a checkpoint so the toggle is live.
