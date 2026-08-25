@@ -1,6 +1,6 @@
-/* Atlas Study Hall: lesson notes grounded in the uploaded McGraw Hill 4th-edition PDF and bundled as static data. */
+/* Atlas Study Hall: complete lesson page ranges grounded in the uploaded McGraw Hill 4th-edition PDF and bundled as static data. */
 
-export type SourceLessonContent = { id: string; subject: string; chapter: string; title: string; sourcePage: number | null; sourceExcerpt: string; lessonSummary: string; focusPoints: string[]; question: string; choices: string[]; answer: number; explanation: string; finishRule: string; };
+export type SourceLessonContent = { id: string; subject: string; chapter: string; title: string; sourcePage: number | null; sourceStart: number | null; sourceEnd: number | null; sourceExcerpt: string; lessonSummary: string; focusPoints: string[]; question: string; choices: string[]; answer: number; explanation: string; finishRule: string; };
 
 export const sourceLessonContent: SourceLessonContent[] = [
   {
@@ -25,7 +25,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 419,
+    "sourceEnd": 419
   },
   {
     "id": "rla-2-1",
@@ -49,7 +51,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 278,
+    "sourceEnd": 278
   },
   {
     "id": "rla-2-2",
@@ -73,7 +77,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 278,
+    "sourceEnd": 278
   },
   {
     "id": "rla-2-3",
@@ -97,7 +103,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 279,
+    "sourceEnd": 279
   },
   {
     "id": "rla-2-4",
@@ -121,7 +129,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 280,
+    "sourceEnd": 282
   },
   {
     "id": "rla-2-5",
@@ -145,7 +155,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 276,
+    "sourceEnd": 282
   },
   {
     "id": "rla-2-6",
@@ -169,7 +181,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 283,
+    "sourceEnd": 286
   },
   {
     "id": "rla-2-7",
@@ -193,7 +207,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 287,
+    "sourceEnd": 419
   },
   {
     "id": "rla-2-8",
@@ -217,7 +233,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 420,
+    "sourceEnd": 421
   },
   {
     "id": "rla-3-1",
@@ -241,7 +259,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 422,
+    "sourceEnd": 423
   },
   {
     "id": "rla-4-1",
@@ -265,7 +285,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 319,
+    "sourceEnd": 337
   },
   {
     "id": "rla-4-2",
@@ -289,7 +311,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 338,
+    "sourceEnd": 423
   },
   {
     "id": "rla-4-3",
@@ -313,7 +337,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 424,
+    "sourceEnd": 424
   },
   {
     "id": "rla-5-1",
@@ -337,7 +363,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 362,
+    "sourceEnd": 367
   },
   {
     "id": "rla-5-2",
@@ -361,7 +389,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 368,
+    "sourceEnd": 424
   },
   {
     "id": "rla-5-3",
@@ -385,7 +415,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 425,
+    "sourceEnd": 426
   },
   {
     "id": "rla-6-1",
@@ -409,7 +441,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 398,
+    "sourceEnd": 426
   },
   {
     "id": "rla-6-2",
@@ -433,7 +467,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 427,
+    "sourceEnd": 460
   },
   {
     "id": "math-2-1",
@@ -457,7 +493,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 161,
+    "sourceEnd": 460
   },
   {
     "id": "math-2-2",
@@ -481,7 +519,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 461,
+    "sourceEnd": 508
   },
   {
     "id": "math-4-1",
@@ -505,7 +545,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 432,
+    "sourceEnd": 508
   },
   {
     "id": "math-4-2",
@@ -529,7 +571,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 432,
+    "sourceEnd": 508
   },
   {
     "id": "math-6-1",
@@ -553,7 +597,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 509,
+    "sourceEnd": 509
   },
   {
     "id": "math-6-2",
@@ -577,7 +623,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 430,
+    "sourceEnd": 509
   },
   {
     "id": "math-6-3",
@@ -601,7 +649,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 510,
+    "sourceEnd": 511
   },
   {
     "id": "math-6-4",
@@ -625,7 +675,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 512,
+    "sourceEnd": 515
   },
   {
     "id": "math-6-5",
@@ -649,7 +701,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 516,
+    "sourceEnd": 526
   },
   {
     "id": "math-7-1",
@@ -673,7 +727,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 138,
+    "sourceEnd": 526
   },
   {
     "id": "math-8-1",
@@ -697,7 +753,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 527,
+    "sourceEnd": 536
   },
   {
     "id": "math-9-1",
@@ -721,7 +779,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 537,
+    "sourceEnd": 539
   },
   {
     "id": "math-9-2",
@@ -745,7 +805,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": null,
+    "sourceEnd": null
   },
   {
     "id": "math-9-3",
@@ -769,7 +831,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 540,
+    "sourceEnd": 553
   },
   {
     "id": "math-9-4",
@@ -793,7 +857,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 554,
+    "sourceEnd": 562
   },
   {
     "id": "math-10-1",
@@ -817,7 +883,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 563,
+    "sourceEnd": 588
   },
   {
     "id": "math-10-2",
@@ -841,7 +909,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 589,
+    "sourceEnd": 599
   },
   {
     "id": "math-11-1",
@@ -865,7 +935,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 600,
+    "sourceEnd": 601
   },
   {
     "id": "math-11-2",
@@ -889,7 +961,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 602,
+    "sourceEnd": 603
   },
   {
     "id": "math-11-3",
@@ -913,7 +987,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 604,
+    "sourceEnd": 614
   },
   {
     "id": "math-11-4",
@@ -937,7 +1013,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 615,
+    "sourceEnd": 617
   },
   {
     "id": "math-11-5",
@@ -961,7 +1039,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 618,
+    "sourceEnd": 626
   },
   {
     "id": "math-11-6",
@@ -985,7 +1065,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 162,
+    "sourceEnd": 626
   },
   {
     "id": "math-12-1",
@@ -1009,7 +1091,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 627,
+    "sourceEnd": 636
   },
   {
     "id": "math-12-2",
@@ -1033,7 +1117,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 637,
+    "sourceEnd": 640
   },
   {
     "id": "math-12-3",
@@ -1057,7 +1143,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 641,
+    "sourceEnd": 644
   },
   {
     "id": "math-12-4",
@@ -1081,7 +1169,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 645,
+    "sourceEnd": 648
   },
   {
     "id": "math-13-1",
@@ -1105,7 +1195,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 649,
+    "sourceEnd": 649
   },
   {
     "id": "math-13-2",
@@ -1129,7 +1221,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 650,
+    "sourceEnd": 655
   },
   {
     "id": "math-13-3",
@@ -1153,7 +1247,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 656,
+    "sourceEnd": 676
   },
   {
     "id": "math-14-1",
@@ -1177,7 +1273,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 677,
+    "sourceEnd": 681
   },
   {
     "id": "math-14-2",
@@ -1201,7 +1299,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 682,
+    "sourceEnd": 684
   },
   {
     "id": "math-14-3",
@@ -1225,7 +1325,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 685,
+    "sourceEnd": 739
   },
   {
     "id": "science-1-1",
@@ -1249,7 +1351,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 740,
+    "sourceEnd": 746
   },
   {
     "id": "science-1-2",
@@ -1273,7 +1377,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 747,
+    "sourceEnd": 758
   },
   {
     "id": "science-1-3",
@@ -1297,7 +1403,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 740,
+    "sourceEnd": 758
   },
   {
     "id": "science-3-1",
@@ -1321,7 +1429,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 759,
+    "sourceEnd": 761
   },
   {
     "id": "science-3-2",
@@ -1345,7 +1455,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 762,
+    "sourceEnd": 762
   },
   {
     "id": "science-3-3",
@@ -1369,7 +1481,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 763,
+    "sourceEnd": 763
   },
   {
     "id": "science-3-4",
@@ -1393,7 +1507,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 764,
+    "sourceEnd": 764
   },
   {
     "id": "science-3-5",
@@ -1417,7 +1533,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 765,
+    "sourceEnd": 767
   },
   {
     "id": "science-3-6",
@@ -1441,7 +1559,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 768,
+    "sourceEnd": 768
   },
   {
     "id": "science-3-7",
@@ -1465,7 +1585,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 769,
+    "sourceEnd": 781
   },
   {
     "id": "science-5-1",
@@ -1489,7 +1611,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 782,
+    "sourceEnd": 783
   },
   {
     "id": "science-5-2",
@@ -1513,7 +1637,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 782,
+    "sourceEnd": 783
   },
   {
     "id": "science-5-3",
@@ -1537,7 +1663,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 741,
+    "sourceEnd": 783
   },
   {
     "id": "science-5-4",
@@ -1561,7 +1689,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 784,
+    "sourceEnd": 784
   },
   {
     "id": "science-5-5",
@@ -1585,7 +1715,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 784,
+    "sourceEnd": 784
   },
   {
     "id": "science-5-6",
@@ -1609,7 +1741,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 785,
+    "sourceEnd": 786
   },
   {
     "id": "science-5-7",
@@ -1633,7 +1767,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 787,
+    "sourceEnd": 787
   },
   {
     "id": "science-5-8",
@@ -1657,7 +1793,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 788,
+    "sourceEnd": 789
   },
   {
     "id": "science-5-9",
@@ -1681,7 +1819,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 790,
+    "sourceEnd": 792
   },
   {
     "id": "science-5-10",
@@ -1705,7 +1845,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 793,
+    "sourceEnd": 799
   },
   {
     "id": "science-6-1",
@@ -1729,7 +1871,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 170,
+    "sourceEnd": 799
   },
   {
     "id": "science-6-2",
@@ -1753,7 +1897,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 800,
+    "sourceEnd": 802
   },
   {
     "id": "science-6-3",
@@ -1777,7 +1923,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 803,
+    "sourceEnd": 807
   },
   {
     "id": "science-6-4",
@@ -1801,7 +1949,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 284,
+    "sourceEnd": 807
   },
   {
     "id": "science-6-5",
@@ -1825,7 +1975,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 808,
+    "sourceEnd": 808
   },
   {
     "id": "science-6-6",
@@ -1849,7 +2001,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 809,
+    "sourceEnd": 809
   },
   {
     "id": "science-6-7",
@@ -1873,7 +2027,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 810,
+    "sourceEnd": 816
   },
   {
     "id": "science-6-8",
@@ -1897,7 +2053,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 742,
+    "sourceEnd": 816
   },
   {
     "id": "science-7-1",
@@ -1921,7 +2079,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 817,
+    "sourceEnd": 817
   },
   {
     "id": "science-7-2",
@@ -1945,7 +2105,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 818,
+    "sourceEnd": 821
   },
   {
     "id": "science-7-3",
@@ -1969,7 +2131,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 822,
+    "sourceEnd": 823
   },
   {
     "id": "science-7-4",
@@ -1993,7 +2157,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 824,
+    "sourceEnd": 826
   },
   {
     "id": "science-7-5",
@@ -2017,7 +2183,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 827,
+    "sourceEnd": 827
   },
   {
     "id": "science-7-6",
@@ -2041,7 +2209,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 827,
+    "sourceEnd": 827
   },
   {
     "id": "science-7-7",
@@ -2065,7 +2235,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 828,
+    "sourceEnd": 828
   },
   {
     "id": "science-7-8",
@@ -2089,7 +2261,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 829,
+    "sourceEnd": 830
   },
   {
     "id": "science-7-9",
@@ -2113,7 +2287,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 829,
+    "sourceEnd": 830
   },
   {
     "id": "science-7-10",
@@ -2137,7 +2313,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 831,
+    "sourceEnd": 831
   },
   {
     "id": "science-7-11",
@@ -2161,7 +2339,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 832,
+    "sourceEnd": 835
   },
   {
     "id": "science-8-1",
@@ -2185,7 +2365,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 836,
+    "sourceEnd": 845
   },
   {
     "id": "science-8-2",
@@ -2209,7 +2391,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 836,
+    "sourceEnd": 845
   },
   {
     "id": "science-8-3",
@@ -2233,7 +2417,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 110,
+    "sourceEnd": 740
   },
   {
     "id": "science-8-4",
@@ -2257,7 +2443,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 741,
+    "sourceEnd": 845
   },
   {
     "id": "science-8-5",
@@ -2281,7 +2469,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 846,
+    "sourceEnd": 850
   },
   {
     "id": "science-8-6",
@@ -2305,7 +2495,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 89,
+    "sourceEnd": 850
   },
   {
     "id": "science-9-1",
@@ -2329,7 +2521,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 851,
+    "sourceEnd": 854
   },
   {
     "id": "science-9-2",
@@ -2353,7 +2547,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 741,
+    "sourceEnd": 854
   },
   {
     "id": "science-9-3",
@@ -2377,7 +2573,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 855,
+    "sourceEnd": 856
   },
   {
     "id": "science-9-4",
@@ -2401,7 +2599,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 857,
+    "sourceEnd": 857
   },
   {
     "id": "science-9-5",
@@ -2425,7 +2625,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 741,
+    "sourceEnd": 857
   },
   {
     "id": "science-9-6",
@@ -2449,7 +2651,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 858,
+    "sourceEnd": 865
   },
   {
     "id": "science-9-7",
@@ -2473,7 +2677,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 816,
+    "sourceEnd": 865
   },
   {
     "id": "science-10-1",
@@ -2497,7 +2703,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 866,
+    "sourceEnd": 875
   },
   {
     "id": "science-10-2",
@@ -2521,7 +2729,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 110,
+    "sourceEnd": 297
   },
   {
     "id": "science-10-3",
@@ -2545,7 +2755,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 298,
+    "sourceEnd": 875
   },
   {
     "id": "science-11-1",
@@ -2569,7 +2781,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 876,
+    "sourceEnd": 876
   },
   {
     "id": "science-11-2",
@@ -2593,7 +2807,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 21,
+    "sourceEnd": 21
   },
   {
     "id": "science-11-3",
@@ -2617,7 +2833,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 21,
+    "sourceEnd": 21
   },
   {
     "id": "science-12-1",
@@ -2641,7 +2859,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 21,
+    "sourceEnd": 21
   },
   {
     "id": "science-12-2",
@@ -2665,7 +2885,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 21,
+    "sourceEnd": 21
   },
   {
     "id": "social-studies-1-1",
@@ -2689,7 +2911,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-1-2",
@@ -2713,7 +2937,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-1-3",
@@ -2737,7 +2963,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-1-4",
@@ -2761,7 +2989,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-1-5",
@@ -2785,7 +3015,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-1-6",
@@ -2809,7 +3041,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-1-7",
@@ -2833,7 +3067,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-1-8",
@@ -2857,7 +3093,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-1-9",
@@ -2881,7 +3119,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-1-10",
@@ -2905,7 +3145,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-2-1",
@@ -2929,7 +3171,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-2-2",
@@ -2953,7 +3197,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-2-3",
@@ -2977,7 +3223,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-2-4",
@@ -3001,7 +3249,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-2-5",
@@ -3025,7 +3275,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-2-6",
@@ -3049,7 +3301,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-2-7",
@@ -3073,7 +3327,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-2-8",
@@ -3097,7 +3353,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 22,
+    "sourceEnd": 22
   },
   {
     "id": "social-studies-2-9",
@@ -3121,7 +3379,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-2-10",
@@ -3145,7 +3405,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-2-11",
@@ -3169,7 +3431,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-2-12",
@@ -3193,7 +3457,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-2-13",
@@ -3217,7 +3483,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-2-14",
@@ -3241,7 +3509,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-2-15",
@@ -3265,7 +3535,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-2-16",
@@ -3289,7 +3561,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-3-1",
@@ -3313,7 +3587,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-3-2",
@@ -3337,7 +3613,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-3-3",
@@ -3361,7 +3639,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-3-4",
@@ -3385,7 +3665,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-3-5",
@@ -3409,7 +3691,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-3-6",
@@ -3433,7 +3717,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-3-7",
@@ -3457,7 +3743,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-4-1",
@@ -3481,7 +3769,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-4-2",
@@ -3505,7 +3795,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-4-3",
@@ -3529,7 +3821,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-4-4",
@@ -3553,7 +3847,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-4-5",
@@ -3577,7 +3873,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-5-1",
@@ -3601,7 +3899,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   },
   {
     "id": "social-studies-5-2",
@@ -3625,7 +3925,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   },
   {
     "id": "social-studies-5-3",
@@ -3649,7 +3951,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   },
   {
     "id": "social-studies-5-4",
@@ -3673,7 +3977,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   },
   {
     "id": "social-studies-5-5",
@@ -3697,7 +4003,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   },
   {
     "id": "social-studies-5-6",
@@ -3721,7 +4029,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   },
   {
     "id": "social-studies-5-7",
@@ -3745,7 +4055,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   },
   {
     "id": "social-studies-5-8",
@@ -3769,7 +4081,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   },
   {
     "id": "social-studies-5-9",
@@ -3793,7 +4107,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   },
   {
     "id": "social-studies-5-10",
@@ -3817,7 +4133,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   },
   {
     "id": "social-studies-5-11",
@@ -3841,7 +4159,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   },
   {
     "id": "social-studies-5-12",
@@ -3865,7 +4185,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 23,
+    "sourceEnd": 23
   },
   {
     "id": "social-studies-5-13",
@@ -3889,7 +4211,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   },
   {
     "id": "social-studies-5-14",
@@ -3913,7 +4237,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   },
   {
     "id": "social-studies-5-15",
@@ -3937,7 +4263,9 @@ export const sourceLessonContent: SourceLessonContent[] = [
     ],
     "answer": 0,
     "explanation": "The strongest GED response connects the skill to a clear process and uses evidence or mathematical reasoning rather than guessing.",
-    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time."
+    "finishRule": "Finish when you can explain the source idea aloud, complete the lesson check correctly, and describe one mistake you will avoid next time.",
+    "sourceStart": 24,
+    "sourceEnd": 24
   }
 ];
 

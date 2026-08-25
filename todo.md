@@ -78,3 +78,12 @@ Source constraint: do not use the PDF in the user’s local folder for lesson co
 - [x] Run type check, production build, and save a checkpoint.
 
 Source requirement: the uploaded McGraw Hill PDF is authoritative; local-folder access must not be required after publication.
+
+## Complete McGraw Hill lesson pages
+
+- [x] Map each Study Map lesson to its complete McGraw Hill source-page range.
+- [x] Render and bundle all lesson source pages as durable app assets.
+- [x] Replace shortened lesson excerpts with full page-sequence source viewing.
+- [x] Keep lesson practice and completion controls below the complete source content.
+- [x] Verify page order, attribution, full content coverage, and classroom readability.
+- [x] Run type check, production build, and save a checkpoint.

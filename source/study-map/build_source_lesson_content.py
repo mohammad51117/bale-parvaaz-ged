@@ -88,10 +88,16 @@ def render():
             for lesson in chapter['lessons']:
                 index = locate(pages, lesson['title'])
                 source = excerpt(pages, index)
-                record = {'id': lesson['id'], 'subject': subject['name'], 'chapter': chapter['title'], 'title': lesson['title'], 'sourcePage': page_at(pages, index), 'sourceExcerpt': source, **guidance(subject['name'], lesson['title'], source)}
+                record = {'id': lesson['id'], 'subject': subject['name'], 'chapter': chapter['title'], 'title': lesson['title'], 'sourcePage': page_at(pages, index), 'sourceExcerpt': source, '_sourceIndex': index if index is not None else 10**9, **guidance(subject['name'], lesson['title'], source)}
                 records.append(record)
+    for index, record in enumerate(records):
+        start = record['sourcePage']
+        next_start = next((item['sourcePage'] for item in records[index + 1:] if item['sourcePage'] and item['sourcePage'] > (start or 0)), None)
+        record['sourceStart'] = start
+        record['sourceEnd'] = (next_start - 1) if next_start and start else start
+        record.pop('_sourceIndex', None)
     payload = json.dumps(records, ensure_ascii=False, indent=2)
-    OUTPUT.write_text('/* Atlas Study Hall: lesson notes grounded in the uploaded McGraw Hill 4th-edition PDF and bundled as static data. */\n\nexport type SourceLessonContent = { id: string; subject: string; chapter: string; title: string; sourcePage: number | null; sourceExcerpt: string; lessonSummary: string; focusPoints: string[]; question: string; choices: string[]; answer: number; explanation: string; finishRule: string; };\n\nexport const sourceLessonContent: SourceLessonContent[] = ' + payload + ';\n\nexport const sourceLessonContentById = Object.fromEntries(sourceLessonContent.map((item) => [item.id, item]));\n', encoding='utf-8')
+    OUTPUT.write_text('/* Atlas Study Hall: complete lesson page ranges grounded in the uploaded McGraw Hill 4th-edition PDF and bundled as static data. */\n\nexport type SourceLessonContent = { id: string; subject: string; chapter: string; title: string; sourcePage: number | null; sourceStart: number | null; sourceEnd: number | null; sourceExcerpt: string; lessonSummary: string; focusPoints: string[]; question: string; choices: string[]; answer: number; explanation: string; finishRule: string; };\n\nexport const sourceLessonContent: SourceLessonContent[] = ' + payload + ';\n\nexport const sourceLessonContentById = Object.fromEntries(sourceLessonContent.map((item) => [item.id, item]));\n', encoding='utf-8')
     print(json.dumps({'lessons': len(records), 'withSourcePage': sum(1 for item in records if item['sourcePage']), 'output': str(OUTPUT)}, indent=2))
 
 
