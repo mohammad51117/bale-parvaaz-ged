@@ -28,6 +28,7 @@ import { supplementalMcGrawHillGroups, supplementalMcGrawHillQuestions } from "@
 import { supplementalMcGrawHillVisuals } from "@/lib/supplementalMcGrawHillVisuals";
 import { getInitialWorkbookFilter, getWorkbookSource, matchesWorkbook, persistWorkbookFilter, type WorkbookFilter, workbookFilterOptions } from "@/lib/workbookSources";
 import { demoLessons } from "@/lib/lessonDemos";
+import { socialStudiesLessons } from "@/lib/socialStudiesLessons";
 import { useLocation } from "wouter";
 
 type PageRecord = { page: number; title: string; section: string; kind: string; hasVisual: boolean; content: string; wordCount: number };
@@ -148,6 +149,8 @@ export default function Home() {
               <span className="rail-count">01</span>
             </button>
           ))}
+          <div className="rail-link lesson-rail-summary"><BookOpen size={15} style={{ color: subjectColors["Social Studies"] }} /><span>Social Studies chapters</span><span className="rail-count">04</span></div>
+          <div className="lesson-rail-sublist">{socialStudiesLessons.map((lesson) => <button key={lesson.id} className="rail-link lesson-rail-subitem" onClick={() => { setMobileRail(false); setLocation(`/lesson/${lesson.id}`); }}><span className="lesson-rail-line" style={{ backgroundColor: lesson.accent }} /><span>{lesson.shortSubject}</span><span className="rail-count">01</span></button>)}</div>
           <div className="rail-section-label">The four sections</div>
           {bookData.subjects.map((item) => (
             <button key={item.name} className={`rail-link subject-link ${subject === item.name ? "active" : ""}`} onClick={() => { setLocation(`/subject/${item.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "")}`); }}>

@@ -59,7 +59,16 @@
 
 ## Sidebar lessons navigation correction
 
-- [ ] Add a dedicated Lessons item above the four question sections in the left sidebar.
-- [ ] Show the four demo lessons under the Lessons item or open a lesson index from it.
-- [ ] Preserve active states and mobile sidebar behavior.
-- [ ] Verify, build, and save the navigation correction.
+- [x] Add a dedicated Lessons item above the four question sections in the left sidebar.
+- [x] Show the four demo lessons under the Lessons item or open a lesson index from it.
+- [x] Preserve active states and mobile sidebar behavior.
+- [x] Verify, build, and save the navigation correction.
+
+## McGraw Hill Social Studies lessons
+
+- [x] Read the McGraw Hill Social Studies chapter text and map chapter folios.
+- [x] Prepare source-grounded lesson records for Civics and Government, U.S. History, Economics, and Geography and the World.
+- [x] Render and upload complete durable source folios for each lesson.
+- [x] Update the Social Studies lesson count and sidebar links.
+- [x] Verify chapter lesson readers, source visuals, and practice handoffs.
+- [ ] Run checks and save a checkpoint.

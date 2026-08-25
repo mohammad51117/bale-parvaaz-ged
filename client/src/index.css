@@ -302,3 +302,10 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
 .lesson-next-nav a:hover { color: #B77F2B; }
 @media (max-width: 900px) { .lesson-dashboard-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }.lesson-hero-grid, .lesson-notes-grid { grid-template-columns: 1fr; gap: 22px; } }
 @media (max-width: 760px) { .lesson-dashboard { margin-top: 30px; padding-top: 25px; }.lesson-dashboard-grid { gap: 8px; }.lesson-dashboard-card { min-height: 190px; padding: 14px; }.lesson-dashboard-card strong { font-size: 18px; }.lesson-hero { padding: 20px 16px 22px; }.lesson-hero h1 { font-size: 39px; }.lesson-lede { font-size: 13px; }.lesson-intent { padding: 16px; }.lesson-folio-frame { padding: 8px; box-shadow: 5px 5px 0 #DED3C3; }.lesson-folio-figure figcaption { font-size: 8px; }.lesson-notes-card, .lesson-practice-card { padding: 18px; }.lesson-reading-steps { grid-template-columns: 1fr; gap: 13px; }.lesson-next-nav { align-items: flex-start; flex-direction: column; } }
+
+/* Atlas Study Hall sidebar extension: Social Studies chapter lessons sit visibly under the Lessons group. */
+.lesson-rail-summary { margin-top: 2px; color: #D7D1C4; cursor: default; }
+.lesson-rail-sublist { margin: -1px 0 8px 9px; padding-left: 10px; border-left: 1px solid rgba(235, 224, 201, .25); }
+.lesson-rail-subitem { min-height: 28px; padding: 5px 8px; color: #AEB8B4; font-size: 10px; }
+.lesson-rail-subitem:hover { color: #FFF9EB; background: rgba(255, 255, 255, .06); }
+.lesson-rail-line { width: 5px; height: 5px; flex: 0 0 auto; border-radius: 50%; }
