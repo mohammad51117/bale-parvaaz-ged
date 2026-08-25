@@ -1,4 +1,4 @@
-export const completeSocialLessons = [
+[
   {
     "id": "social-types-of-historical-and-modern-governments",
     "chapter": "Civics and Government",
@@ -1051,4 +1051,4 @@ export const completeSocialLessons = [
     ],
     "accent": "#6F7D55"
   }
-] as const;
+]

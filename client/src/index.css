@@ -346,3 +346,11 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
 .social-lesson-row > svg { color: #C39343; }
 @media (max-width: 900px) { .social-lesson-chapter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 760px) { .social-lesson-catalog { margin-top: 22px; padding-top: 21px; }.social-lesson-catalog-heading { align-items: flex-start; flex-direction: column; gap: 9px; }.social-lesson-catalog-heading h2 { font-size: 25px; }.social-lesson-catalog-heading p { max-width: 100%; text-align: left; }.social-lesson-chapter-grid { grid-template-columns: 1fr; gap: 9px; }.social-lesson-chapter > header { min-height: 57px; }.social-lesson-row { min-height: 42px; } }
+
+/* Atlas Study Hall lesson prose: the source is taught as a readable article before the folio viewer. */
+.lesson-text-intro { margin-bottom: 25px; padding-bottom: 19px; border-bottom: 1px solid #E7DED1; }
+.lesson-text-intro p { max-width: 720px; margin: 8px 0 0; color: #6C7B76; font: 500 15px/1.55 "DM Sans", sans-serif; }
+.lesson-prose { max-width: 820px; }
+.lesson-prose p { margin: 0 0 17px; color: #40565E; font: 15px/1.82 "DM Sans", sans-serif; letter-spacing: .002em; }
+.lesson-prose p:last-child { margin-bottom: 0; }
+@media (max-width: 760px) { .lesson-text-intro p { font-size: 13px; }.lesson-prose p { font-size: 13px; line-height: 1.72; margin-bottom: 14px; } }

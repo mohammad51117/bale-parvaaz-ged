@@ -85,7 +85,15 @@
 
 ## Social Studies lesson catalog visibility
 
-- [ ] Inspect the Social Studies subject-page structure and lesson catalog imports.
-- [ ] Show all four McGraw Hill chapter groups and lesson titles directly on Social Studies.
-- [ ] Connect visible lessons to text-first readers and grouped source folios.
-- [ ] Verify desktop/mobile navigation, run checks, and save a checkpoint.
+- [x] Inspect the Social Studies subject-page structure and lesson catalog imports.
+- [x] Show all four McGraw Hill chapter groups and lesson titles directly on Social Studies.
+- [x] Connect visible lessons to text-first readers and grouped source folios.
+- [x] Verify desktop/mobile navigation, run checks, and save a checkpoint.
+
+## Social Studies lesson body quality
+
+- [x] Audit raw lesson extraction and formatting artifacts.
+- [x] Clean lesson text and remove question/answer noise.
+- [x] Present lesson content as readable teaching sections with key ideas.
+- [x] Verify representative lesson bodies and responsive readability.
+- [ ] Run checks and save a checkpoint.
