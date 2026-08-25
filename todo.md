@@ -95,3 +95,11 @@ Source requirement: the uploaded McGraw Hill PDF is authoritative; local-folder 
 - [x] Replace the iframe with an in-app canvas page renderer and fallback state.
 - [x] Verify source folios load and remain readable on desktop and mobile.
 - [x] Run type check, production build, and save a checkpoint.
+
+## Lesson source-page pipeline consistency
+
+- [x] Compare the working question visual pipeline with the lesson viewer.
+- [x] Render and upload the lesson source-page images.
+- [x] Replace the lesson PDF.js viewer with durable source-page images.
+- [x] Remove the inconsistent lesson PDF dependency and verify page navigation.
+- [x] Run type check, production build, and save a checkpoint.

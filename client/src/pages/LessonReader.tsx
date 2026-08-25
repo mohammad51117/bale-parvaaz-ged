@@ -2,60 +2,13 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { ArrowLeft, ArrowRight, BookOpen, Check, CheckCircle2, CircleHelp, Clock3, Lightbulb, RotateCcw, Target } from "lucide-react";
 import { Link, useLocation, useRoute } from "wouter";
-import { getDocument, GlobalWorkerOptions, type PDFDocumentProxy, type RenderTask } from "pdfjs-dist";
-import pdfWorker from "pdfjs-dist/build/pdf.worker.min.mjs?url";
+import { sourceMcGrawHillLessonVisuals } from "@/lib/sourceMcGrawHillLessonVisuals";
 import { studyMap } from "@/lib/studyMap";
 import { studyLessonContentById } from "@/lib/studyLessonContent";
 import { sourceLessonContentById } from "@/lib/sourceLessonContent";
 
 const COMPLETION_KEY = "bale-parvaaz-lesson-complete";
-const MCGRAW_HILL_PDF = "/manus-storage/MC_Graw_Hill_Education_Preparation_for_thr_GED_test_4th_edition_52156f0a.pdf";
-GlobalWorkerOptions.workerSrc = pdfWorker;
 
-function PdfFolio({ pageNumber }: { pageNumber: number }) {
-  const canvasRef = useRef<HTMLCanvasElement>(null);
-  const [status, setStatus] = useState<"loading" | "ready" | "error">("loading");
-  const [errorMessage, setErrorMessage] = useState("");
-
-  useEffect(() => {
-    let cancelled = false;
-    let renderTask: RenderTask | null = null;
-    let pdf: PDFDocumentProxy | null = null;
-    const renderPage = async () => {
-      setStatus("loading");
-      setErrorMessage("");
-      try {
-        pdf = await getDocument({ url: MCGRAW_HILL_PDF }).promise;
-        const page = await pdf.getPage(pageNumber);
-        const canvas = canvasRef.current;
-        if (!canvas || cancelled) return;
-        const baseViewport = page.getViewport({ scale: 1 });
-        const containerWidth = canvas.parentElement?.clientWidth || 900;
-        const scale = Math.min(Math.max(containerWidth / baseViewport.width, 1.15), 2.1);
-        const viewport = page.getViewport({ scale });
-        const dpr = Math.min(window.devicePixelRatio || 1, 2);
-        canvas.width = Math.floor(viewport.width * dpr);
-        canvas.height = Math.floor(viewport.height * dpr);
-        canvas.style.width = `${viewport.width}px`;
-        canvas.style.height = `${viewport.height}px`;
-        const context = canvas.getContext("2d");
-        if (!context) throw new Error("Canvas rendering is unavailable in this browser.");
-        renderTask = page.render({ canvas, canvasContext: context, viewport, transform: dpr === 1 ? undefined : [dpr, 0, 0, dpr, 0, 0] });
-        await renderTask.promise;
-        if (!cancelled) setStatus("ready");
-      } catch (error) {
-        if (!cancelled) {
-          setErrorMessage(error instanceof Error ? error.message : "The source folio could not be rendered.");
-          setStatus("error");
-        }
-      }
-    };
-    void renderPage();
-    return () => { cancelled = true; renderTask?.cancel(); pdf?.cleanup(); };
-  }, [pageNumber]);
-
-  return <div className={`pdf-canvas-stage ${status}`}><canvas ref={canvasRef} aria-label={`Rendered McGraw Hill source folio ${pageNumber}`} />{status === "loading" ? <div className="pdf-canvas-message"><BookOpen size={20} /><span>Loading source folio {pageNumber}…</span></div> : null}{status === "error" ? <div className="pdf-canvas-message error"><CircleHelp size={20} /><strong>Folio could not load in the reader.</strong><span>{errorMessage}</span><a href={MCGRAW_HILL_PDF} target="_blank" rel="noreferrer">Open the bundled workbook</a></div> : null}</div>;
-}
 
 function getCompleted(): string[] {
   try {
@@ -96,6 +49,7 @@ export default function LessonReader() {
   const sourceEnd = Math.max(sourceStart, content.sourceEnd || sourceStart);
   const sourcePages = Array.from({ length: sourceEnd - sourceStart + 1 }, (_, index) => sourceStart + index);
   const activeSourcePage = sourcePages[Math.min(sourcePageIndex, sourcePages.length - 1)] || sourceStart;
+  const activeSourceImage = sourceMcGrawHillLessonVisuals[activeSourcePage];
   const canComplete = checked && isCorrect;
   const saveCompletion = () => {
     if (!canComplete) return;
@@ -110,7 +64,7 @@ export default function LessonReader() {
     <main className="lesson-reader-main">
       <div className="lesson-reader-kicker"><Link href="/study-map">Study Map</Link><span>/</span><span>{subject.shortName}</span><span>/</span><strong>Lesson</strong></div>
       <section className="lesson-reader-hero"><div><div className="eyebrow" style={{ color: subject.color }}><BookOpen size={15} /> {subject.shortName} · CHAPTER {chapter.number}</div><h1>{lesson.title}</h1><p>Learn the idea, use the key move, then prove your understanding with one focused practice question.</p><div className="lesson-reader-meta"><span><Clock3 size={14} /> {lesson.time}</span><span><Target size={14} /> {completed ? "Completed" : "In progress"}</span><span>{chapter.title}</span>{content.sourcePage ? <span>Source folio {content.sourcePage}</span> : null}</div></div><div className={`lesson-status-card ${completed ? "complete" : ""}`}><span>{completed ? "LESSON COMPLETE" : "YOUR NEXT STOP"}</span><strong>{completed ? <CheckCircle2 size={26} /> : `${String(chapter.number).padStart(2, "0")}`}</strong><small>{completed ? "A saved mark on your mastery path." : "Read with purpose, then practise."}</small></div></section>
-      <section className="lesson-source-reader"><div className="lesson-source-reader-heading"><div><div className="eyebrow"><BookOpen size={15} /> COMPLETE SOURCE PAGES</div><h2>Read the McGraw Hill lesson in full.</h2><p>These pages are bundled into the app from the uploaded 4th-edition workbook. Nothing is loaded from your local folder.</p></div><span>{sourcePages.length} {sourcePages.length === 1 ? "folio" : "folios"}</span></div><div className="lesson-source-pager"><button className="button-secondary" disabled={sourcePageIndex === 0} onClick={() => setSourcePageIndex((value) => Math.max(0, value - 1))}><ArrowLeft size={15} /> Previous page</button><strong>Folio {activeSourcePage} of {sourceEnd}</strong><button className="button-secondary" disabled={sourcePageIndex === sourcePages.length - 1} onClick={() => setSourcePageIndex((value) => Math.min(sourcePages.length - 1, value + 1))}>Next page <ArrowRight size={15} /></button></div><div className="lesson-pdf-frame"><PdfFolio pageNumber={activeSourcePage} /></div><div className="lesson-source-strip"><span className="eyebrow">SOURCE NOTE</span><p>{content.workedExample || "This lesson is built from the Study Map title and its chapter guidance."}</p><small>{content.sourcePage ? `McGraw Hill 4th edition · source folio ${content.sourcePage}` : "Title-based study guidance"}</small></div></section><section className="lesson-learning-grid"><article className="lesson-learning-card lesson-learning-wide"><div className="lesson-card-heading"><span className="lesson-card-icon"><Lightbulb size={17} /></span><div><span className="eyebrow">THE LESSON</span><h2>What you are learning</h2></div></div><p>{content.lesson}</p><div className="lesson-key-move"><strong>Key move</strong><span>{content.keyMove}</span></div></article><article className="lesson-learning-card"><div className="lesson-card-heading"><span className="lesson-card-icon"><BookOpen size={17} /></span><div><span className="eyebrow">SEE IT WORK</span><h2>Worked example</h2></div></div><p>{content.workedExample}</p></article></section>
+      <section className="lesson-source-reader"><div className="lesson-source-reader-heading"><div><div className="eyebrow"><BookOpen size={15} /> COMPLETE SOURCE PAGES</div><h2>Read the McGraw Hill lesson in full.</h2><p>These pages are bundled into the app from the uploaded 4th-edition workbook. Nothing is loaded from your local folder.</p></div><span>{sourcePages.length} {sourcePages.length === 1 ? "folio" : "folios"}</span></div><div className="lesson-source-pager"><button className="button-secondary" disabled={sourcePageIndex === 0} onClick={() => setSourcePageIndex((value) => Math.max(0, value - 1))}><ArrowLeft size={15} /> Previous page</button><strong>Folio {activeSourcePage} of {sourceEnd}</strong><button className="button-secondary" disabled={sourcePageIndex === sourcePages.length - 1} onClick={() => setSourcePageIndex((value) => Math.min(sourcePages.length - 1, value + 1))}>Next page <ArrowRight size={15} /></button></div><div className="lesson-pdf-frame">{activeSourceImage ? <img className="lesson-source-page-image" src={activeSourceImage} alt={`Complete McGraw Hill 4th edition source folio ${activeSourcePage}`} /> : <div className="pdf-canvas-message error"><CircleHelp size={20} /><strong>This source folio image is not available.</strong><span>Return to the Study Map and choose another lesson.</span></div>}</div><div className="lesson-source-strip"><span className="eyebrow">SOURCE NOTE</span><p>{content.workedExample || "This lesson is built from the Study Map title and its chapter guidance."}</p><small>{content.sourcePage ? `McGraw Hill 4th edition · source folio ${content.sourcePage}` : "Title-based study guidance"}</small></div></section><section className="lesson-learning-grid"><article className="lesson-learning-card lesson-learning-wide"><div className="lesson-card-heading"><span className="lesson-card-icon"><Lightbulb size={17} /></span><div><span className="eyebrow">THE LESSON</span><h2>What you are learning</h2></div></div><p>{content.lesson}</p><div className="lesson-key-move"><strong>Key move</strong><span>{content.keyMove}</span></div></article><article className="lesson-learning-card"><div className="lesson-card-heading"><span className="lesson-card-icon"><BookOpen size={17} /></span><div><span className="eyebrow">SEE IT WORK</span><h2>Worked example</h2></div></div><p>{content.workedExample}</p></article></section>
       <section className="lesson-practice-card"><div className="lesson-practice-heading"><div><div className="eyebrow"><CircleHelp size={15} /> PROVE YOUR UNDERSTANDING</div><h2>{content.question}</h2></div><span className="lesson-practice-label">1 focused question</span></div><div className="lesson-choice-list">{content.choices.map((choice, index) => <button key={choice} className={`lesson-choice ${selected === index ? "selected" : ""} ${checked && index === content.answer ? "correct" : ""} ${checked && selected === index && !isCorrect ? "incorrect" : ""}`} onClick={() => { setSelected(index); setChecked(false); }}><span>{String.fromCharCode(65 + index)}</span><strong>{choice}</strong>{checked && index === content.answer ? <Check size={18} /> : null}</button>)}</div><div className="lesson-practice-actions"><button className="button-primary" disabled={selected === null} onClick={() => setChecked(true)}>Check answer <Check size={16} /></button>{checked ? <button className="button-secondary" onClick={resetLesson}><RotateCcw size={15} /> Try again</button> : null}</div>{checked ? <div className={`lesson-feedback ${isCorrect ? "success" : "retry"}`}><strong>{isCorrect ? "That is correct." : "Not quite yet."}</strong><p>{content.explanation}</p></div> : null}</section>
       <section className="lesson-finish"><div><div className="eyebrow">FINISH THIS LESSON</div><h2>{completed ? "You have marked this lesson complete." : "Ready to put it on your map?"}</h2><p>{content.finishRule}</p></div><button className="button-primary" disabled={!canComplete && !completed} onClick={saveCompletion}>{completed ? <><CheckCircle2 size={16} /> Completed</> : <><Check size={16} /> Finish lesson</>}</button></section>
       <nav className="lesson-next-nav" aria-label="Lesson navigation"><div>{previous ? <Link href={`/lesson/${previous.lesson.id}`}><ArrowLeft size={15} /><span><small>PREVIOUS</small><strong>{previous.lesson.title}</strong></span></Link> : <span />}</div><div>{next ? <Link href={`/lesson/${next.lesson.id}`}><span><small>NEXT LESSON</small><strong>{next.lesson.title}</strong></span><ArrowRight size={15} /></Link> : <Link href="/study-map"><span><small>ROADMAP</small><strong>Return to Study Map</strong></span><ArrowRight size={15} /></Link>}</div></nav>
