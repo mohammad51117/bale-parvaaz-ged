@@ -91,3 +91,7 @@ The new Study Map route renders as an Atlas Study Hall roadmap with a clear hero
 ## Source-grounded lesson verification
 
 The lesson reader now uses bundled content generated from the uploaded McGraw Hill 4th-edition PDF. The representative RLA lesson shows a real source excerpt, McGraw Hill 4th edition attribution, source folio 278, lesson guidance, and the focused practice flow. Desktop and mobile layouts remain readable, and no user-local folder path is referenced by the published lesson data or reader.
+
+## PDF viewer repair verification
+
+The browser iframe failure was resolved by rendering McGraw Hill folios directly with PDF.js on a canvas. The complete source page is visibly loaded in the lesson reader, with page controls, source attribution, lesson guidance, practice, and completion below it. Full-page desktop and mobile captures confirm the page is readable and the lesson flow remains vertically ordered.

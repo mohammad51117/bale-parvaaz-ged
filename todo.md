@@ -87,3 +87,11 @@ Source requirement: the uploaded McGraw Hill PDF is authoritative; local-folder 
 - [x] Keep lesson practice and completion controls below the complete source content.
 - [x] Verify page order, attribution, full content coverage, and classroom readability.
 - [x] Run type check, production build, and save a checkpoint.
+
+## McGraw Hill PDF viewer repair
+
+- [x] Diagnose why the embedded PDF folio is not loading in the lesson reader.
+- [x] Add a client-side PDF rendering dependency and worker configuration.
+- [x] Replace the iframe with an in-app canvas page renderer and fallback state.
+- [x] Verify source folios load and remain readable on desktop and mobile.
+- [x] Run type check, production build, and save a checkpoint.
