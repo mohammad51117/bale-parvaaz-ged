@@ -1,0 +1,381 @@
+
+=== SocialStudiesEconomicsQuestion1.pdf | pages=19 | chars=19 ===
+question markers: 0 first: [] last: []
+ranges: []
+Answer Key hits: 0 first_offsets: []
+Answers and Explanations hits: 0 first_offsets: []
+Answers hits: 0 first_offsets: []
+Economics hits: 0 first_offsets: []
+sample question lines:
+
+=== DummiesGEDSocialStudies.pdf | pages=421 | chars=629,741 ===
+question markers: 363 first: ['1', '2', '3', '4', '1', '2', '3', '4', '5', '6', '7', '8'] last: ['44', '45', '46', '47', '48', '49', '50', '1', '2', '3', '4', '5']
+ranges: [('1', '3'), ('4', '6'), ('7', '9'), ('10', '12'), ('13', '14'), ('17', '19'), ('20', '21'), ('23', '24'), ('27', '28'), ('29', '30'), ('31', '32'), ('36', '37'), ('39', '40'), ('2', '3'), ('4', '5'), ('6', '7'), ('9', '10'), ('11', '12'), ('15', '17'), ('18', '19')]
+Answer Key hits: 4 first_offsets: [495579, 548661, 572048, 628655]
+Answers and Explanations hits: 11 first_offsets: [2938, 69267, 69868, 107594, 108272]
+Answers hits: 103 first_offsets: [2938, 2975, 3038, 7498, 7631]
+Economics hits: 78 first_offsets: [1052, 7309, 15037, 15048, 15104]
+sample question lines:
+ 1. Contact your local GED test administrator to make sure you’re
+ 2. Ask the office for an application (if needed) or an appointment.
+ 3. Complete the application (if needed).
+ 4. Return the application to the proper office, with payment, if
+1. Why was the term Amerindian not accepted by historians and others?
+2. Why was the term aborigine rejected?
+3. The French, British, Germans, and others all agree to call each other
+4. By how much was Columbus’s estimate of the distance to the Indies
+5. Why did Isabella of Spain finally agree to sponsor Columbus’s
+6. In what way was the timing of landfall lucky for Columbus?
+7. Why is the disappearance of the Anasazi mysterious?
+8. What suggests that the Anasazi were attacked by hostile tribes from
+9. What evidence supports the statement that the tribes in what is now
+   10. Which state shows the greatest gains in seats in the House of
+   11. Which state lost the most representatives?
+   12. What is the underlying population shift leading to this
+   13. Which group shows the fastest increase in college enrollment?
+14. What was the approximate overall enrollment of men 14–24 in
+15. What statement in this passage suggests a problem with colonists
+16. Many people hundreds of years ago lived just as long as people
+17. What does self-evident mean?
+18. When should people rebel against an unjust government?
+19. According to the Declaration of Independence, what did King
+   20. What do these tombstones for revolutions represent?
+21. What point is the cartoon making?
+22. Name one country, according to this image, involved in the slave
+23. What was one of the main reasons slaves ran away from their
+24. How successful was the fabled Underground Railroad?
+25. What does the phrase institutionalize slavery mean?
+26. Why did the Greeks not make use of the ideas of steam engines or
+27. What is the big P?
+28. What is a temperature inversion?
+29. How long ago did the Greek scholar Eratosthenes calculate the
+30. What information did Eratosthenes have with which to calculate the
+31. Which of these statements is true?
+32. What was the effect of the end of the Yugoslav Federation?
+33. What process do geographers use when they divide the Earth into
+34. Under what circumstances are monopolies encouraged?
+35. When did women receive the right to vote?
+36. What was the role of paper money in the economic collapse in
+37. What was Grant’s position on paper money?
+38. What were some of the requirements used by local authorities to
+ 39. Which state experienced the greatest decrease on real GDP in 2013?
+ 40. Which region among those listed showed the greatest increase in
+ 1. D. It had no connection with native people. The term derived from
+ 2. C. It incorrectly suggested all native people were primitive.
+ 3. A. There was no collective name for all native people. According
+ 4. B. He underestimated by more than half. The total distance,
+ 5. C. She thought she would never have to honor Columbus’s
+ 6. B. His crew was ready to mutiny. According to the passage,
+ 7. C. Archaeologists have not yet found a clear explanation. The
+ 8. A. Their towns had high, easily defended walls. The text states
+ 9. A. No evidence supports that claim. There is no link between the
+10. D. Texas (TX). The labels indicate the greatest gains are made in the
+11. B. New York (NY). The states losing representatives are in the
+12. C. The states around the Great Lakes are losing population
+13. B. Female 14–24. The graph shows that the overall increase in
+14. B. 5,800,000. The graph indicates enrollment for men in the
+15. C. He had to institute a rule requiring work from everyone who
+16. B. The 25 years is an average. The large numbers of children
+17. C. These points are so obvious they need no explanation. The
+18. B. only when government tries to reduce the people under
+19. D. All of the above. The Declaration of Independence lists many
+20. B. strategies that never worked out. The German government tried
+21. D. German strategies have failed again and again. The
+22. C. the Netherlands. The caption beneath the drawing states that the
+23. C. They wanted to find wives or children that had been sold to
+24. B. It was important mainly because it offered hope to all slaves of
+25. A. establish laws defining and controlling slavery. The term
+26. A. They never developed sufficient technology to apply these
+27. B. pollution. The whole discussion is about pollution. The forecast
+28. A. hot air holding down cooler air, trapping pollution.
+29. C. about 2,300 years ago. The calculations were made in 300 BC,
+30. A. two angles and the distance between two points. He had two
+31. D. None of the above. None of these statements is correct.
+32. A. years of violence and ethnic cleansing. According to the
+33. B. generalization. The process of dividing the Earth into areas that
+34. C. both of the above. Both Choices (A) and (B) are correct
+35. C. 1919. The text states all the dates and times mentioned in the
+36. A. It triggered the collapse. The text indicates that the greenback,
+37. B. He was opposed. Grant “ultimately opposed” the printing of
+38. A and B. The states used poll taxes and literacy tests to discourage
+39. B. Alaska. According to the chart, Alaska’s GDP declined by 2.5
+ 40. B. Southwest. This question is somewhat tricky. According to the
+ 1. Read the passage.
+ 2. Test each answer choice by comparing it to the evidence in the
+ 3. Eliminate answer choices that are obviously not supported by
+ 4. Choose the answer that has the most supporting evidence.
+ 1. Unless the United States and the United Kingdom maintain their
+ 2. Illegal international fishing practices are decimating fisheries.
+3. More than a billion people eat fish for their primary source of protein.
+4. U.S. exports to Russia represent less than 1 percent of its global
+5. U.S.–Russian bilateral trade isn’t reaching anything close to its full
+ 1. Opinion. This statement is speculative. Nobody can tell the future,
+ 2. Opinion. Although this statement may be true, without evidence to
+ 3. Fact. You could verify this statement through statistical evidence.
+ 4. Fact. You could verify this statement by looking at data regarding
+ 5. Opinion. This statement may be true, but you need evidence to
+1. Christopher Hitchens was well known for his acerbic wit, which was
+2. The appellate court granted the defense a retrial.
+3. The suffrage movement did have some early successes. New Zealand
+4. As more businesses hire part-time employees, workers are
+5. To counteract efforts to disenfranchise voters, some politicians
+ 1. You probably know what acid means, and the sentence ends by
+ 2. From context you can work out that appellate must have something
+ 3. From the second sentence, you can surmise that the suffrage
+ 4. Ancillary means “subsidiary” or “supplemental,” Choice (C).
+5. If politicians are promoting a system that enables more people to
+  1. Start reading the passage to identify the main idea or thesis.
+  2. Continue reading the passage to identify any sub-claims that
+  3. Read the question and any and all answer choices.
+ 4. Determine whether you know the answer.
+ 5. Select or enter the correct answer.
+1.         What point does the author make in this passage?
+2. What determines the price of goods?
+3. What will make prices for televisions drop?
+ 1. All the choices are at least partially true. Choice (A) is implied in the
+ 2. The choices offered here are all true; you need to determine which is
+  3. Answering this question requires you to make a deduction based on
+1.         Which of the following enabled humans to adopt a more
+2. Why did farming and sedentary living lead to government?
+3. The earliest societies could be classified as
+  1. Farming, Choice (D), enabled people to stay in one place longer
+  2. The last paragraph explains that sedentary living allowed
+  3. The passage begins with the comment that the most basic cultures
+1.         What evidence does the chronology show to support the idea
+2. When did the United States declare war on Germany?
+3. What in the sequence of events shows that the United States, despite
+ 1. Though all the choices indicate preparations for war, only the Lend-
+ 2. Nowhere in the timeline does the United States declare war on
+ 3. Choice (C) is wrong because the Lend-Lease Act didn’t involve
+1.         What is the effect of the caucus system on individual voters’
+2. In what way does the primary process affect the way candidates
+ 3. The purpose of front-loading is to
+  1. The correct answer is Choice (C). Voters make up only the initial
+  2. Look to the last sentence of the third paragraph for the answer.
+  3. Front-loading is described in the third paragraph as a way to give
+1.         Which of the following is not mentioned as a contributing
+2. According to this passage, which of the following emotional factors
+3. Which of the following historical events mentioned in the passage
+ 1. Although growing nationalism (country-related pride) was certainly
+ 2. The passage touches on both greed and anger, but it mentions fear,
+  3. Choice (B) is the correct answer because the passage notes that
+1.         Many historians suggest Hitler’s constant speeches against
+2. Why might the Germans have been particularly upset by the repeal of
+3. Why was the War Guilt clause a major issue for the Germans?
+ 1. The text states that Hitler and the Nazi party didn’t make electoral
+  2. The text discusses that the Germans saw their victory over Russia
+  3. The text states that the Germans remembered that the assassination
+1.         What has Adams learned from Confucius, Zoroaster,
+2. Modern thinkers have convinced Adams that
+  1. The answer is in the first paragraph, where Adams states that
+  2. In the last paragraph, Adams describes the highest purpose of a
+   1.         What two states or territories show a decline in population?
+   2. Which state had the largest population in 2012?
+ 1. The only areas to show a decline are Michigan and Puerto Rico. The
+ 2. This map doesn’t show total population, only changes in population,
+1.         Who is threatening to enslave half the world, according to
+2. What part of the image reinforces the idea of enslavement?
+ 1. The oppressor is a shadowy figure with a peaked military cap, which
+ 2. The whip has been a symbol of slavery and oppression for centuries,
+   1.           What is the correlation between education and income?
+2. Which of these groups is least likely to be unemployed?
+ 1. The correct answer is Choice (B). Higher education almost always
+ 2. The unemployment rate chart shows the lowest unemployment is
+1.      What is the point of the checks and balances system in
+2. What effect does the system of checks and balances have on the
+3. How can the legislative branch overrule a presidential veto?
+ 1. The system of checks and balances is just that: It allows for a
+  2. The system of checks and balances enables the legislature
+  3. Choice (A) is only partially correct, while Choices (B) and (D) are
+1.         Who can introduce a bill?
+2. After either chamber of Congress passes a bill, it is sent to
+ 1. The correct answer is Choice (B). Any member of Congress —
+ 2. After passing one chamber of Congress, the bill goes to the other
+1.         An amendment is a
+2. Why is the phrase “previous condition of servitude” included in the
+ 1. An amendment is a modification to the U.S. Constitution (not to
+ 2. The phrase “previous condition of servitude” refers specifically to
+1.        Why are citizens in the United States not allowed to vote on
+2. What is a special-interest group?
+ 1. The U.S. government is a representative democracy, meaning that
+ 2. The best answer is Choice (D), all of the above. Interest groups all
+   1. One who has confessed a debt, or against whom judgment has been
+ 2. On the third market day let them divide his body among them. If
+ 1. Introduction with thesis statement and, possibly, evidence
+ 2. Premise 1 with supporting evidence.
+ 3. Premise 2 with supporting evidence.
+  4. (Optional) Premise 3 with supporting evidence.
+  5. Conclusion with restatement of thesis and evidence recap.
+1. Only after careful consideration did President Obama settle on a
+2. The union movement was seen as incompatible with modern
+3. The founding fathers established a set of principles to guide the
+4. Protestors practiced resistance.
+5. If a person is not at least 35 years old, she cannot be elected president
+ 1. After careful consideration, President Obama chose a course of
+ 2. Opponents considered the union movement incompatible with
+ 3. The founding fathers established a set of principles to form a
+ 4. Protestors resisted.
+ 5. To be elected president of the United States, a person must be at least
+1. There are many constituents who would disagree with the senator.
+2. It is obvious that unenforced laws promote criminal activity.
+3. The protesters were the people who looted the store.
+4. Environmentalists were the major proponents of the new regulations.
+ 1. Many constituents would disagree with the senator.
+ 2. Obviously, unenforced laws promote crime.
+ 3. The protesters looted the store.
+ 4. Environmentalists promoted the new regulations.
+1. What is the purpose of the Constitution?
+2. If the last federal election was in 2014, in what year will the next
+3. George immigrated to the United States and became a citizen in
+4. How can Congress force the implementation of a bill the president
+5. What happens to an unsigned bill if it spends more time than ten days
+6. What does “The Citizens of each State shall be entitled to all
+7. The police in New York State discover someone in their state has
+8. Why are American citizens not allowed to directly elect their
+9. Which city has shown the greatest percentage increase in this graph?
+10. Over what period was the population increase measured?
+11. What generalization can you make based on this graph?
+12. What can you infer about the date of the recession mentioned in the
+13. What connection does the passage suggest between the president’s
+14. Why is it important that the United States and Canada use a
+15. The passage refers to the Mayflower colonists as squatters. Why?
+16. How much smaller was the pilgrim party when it arrived in
+17. What is the best description of the Mayflower Compact?
+18. What does this passage suggest about the colonists’ demands for
+19. Who created the famous phrase “taxation without representation is
+20. Why does the passage suggest that underpopulation is a problem in
+21. What is the main argument in this passage?
+22. This passage has a relatively narrow focus. What is one key area it
+23. How will climate change affect available water supplies?
+24. What effects have higher temperatures had on California?
+25. How does the number of states in which each candidate won the
+26. According to the maps, which party do New England states most
+27. Which two states gave the lowest popular vote to Obama?
+28. What made the Port of Hood River a suitable area for an economic
+29. What was one complication making industrial development more
+30. How has the grant changed availability of manufacturing space?
+31. Who took office first, Abraham Lincoln or Jefferson Davis?
+32. Which side fired the first shot in the Civil War?
+33. Which Constitutional amendment did the Court use to justify their
+34. Why did the Court hold that in this particular case a signed
+35. Which state gained three seats in the House of Representatives?
+36. What is the difference between a loan and a grant in the Department
+37. Based on the graph, what is the general trend of the number of
+38. What was the most likely source of the outbreak in the California
+39. What are austerity programs?
+40. How would bailing out Greece help preserve the world economy in
+41. Would Keynes have considered the steps taken by Greece a
+42. Why does Kennedy suggest people should visit West Berlin?
+43. Why does Kennedy say he takes pride in the phrase “Ich bin ein
+44. If an election campaign wanted to change possible election
+45. Bill Clinton’s first presidential campaign was in 1992. How can you
+46. Why is this statement rather ironic?
+47. Why did the United States not have an income tax until after 1913?
+48. Why do many critics today consider the invasion of Iraq during the
+49. What here indicates that some form of government medical care has
+50. Which internal debate in the United States is reflected in this
+  1. C. It defines the responsibilities of the three branches of
+  2. A. 2016. Elections for members of the House of Representatives take
+  3. C. 2022. George may run for election to the House of
+ 4. B. The presidential objection can be overturned if the bill in
+ 5. C. It automatically becomes law if Congress is in session. If the
+ 6. A. The citizens of any state of the United States will have the
+ 7. D. New York State must return the individual to Texas. The
+ 8. D. All of the above. The framers of the Constitution wrote that
+ 9. C. San Antonio. The upper graph shows the actual population
+10. A. one year. The information you need to find is the subtitle of the
+11. C. The migration rate of young adults has decreased since 2009.
+12. A. A recession occurred between 2007 and 2009. The correct
+13. D. The American government suspects the Chinese are involved
+14. D. All of the above. All three other options are valid choices, so the
+15. A. They built their settlement outside the area they were granted
+16. C. four fewer people. One passenger and four crew members died,
+17. D. None of the above. The Mayflower Compact was a set of rules to
+18. A. Most American colonists were quite happy to be living in
+19. B. James Otis. You can find the answer in the first paragraph. The
+20. D. All of the above. The passage lists all of these concerns as factors
+21. C. We will not breed ourselves into subsistence. The author of the
+22. A. the rapid population growth in the developing world. The
+23. B. It will increase the risk of drought. The passage states that if
+24. C. It reduced winter snowpack, decreasing spring-summer
+25. A. Obama won the popular vote in more states than Romney.
+26. A. the Democrats. Obama won all the New England states with 50
+27. C. Wyoming and Utah. Only two states are marked in that
+28. C. The area had economic difficulties and could not provide the
+29. B. the proximity of recreational land to the industrial areas.
+30. A. It brought in an additional 133,000 square feet of space. A
+31. B. Jefferson Davis. Abraham Lincoln was elected before Jefferson
+32. A. the South. According to the timeline, Confederate forces fired
+33. D. the Fifth Amendment. The Fifth Amendment states that no one
+34. D. All of the above. The court starts by suggesting that Fifth
+35. D. no state. This question is something of a trick question that
+36. D. Grants do not have to be repaid under most circumstances.
+37. A. increasing. The graph shows more peaks toward more recent
+38. C. an unvaccinated traveler from the Philippines. The text states
+39. A. government restructuring whereby governments reduce the
+40. D. None of the above. None of these answers applies. Bailing out
+41. B. No. Keynes’s aim was to shorten the time it takes for an economy
+42. B. People could see the contrast between capitalism and
+43. A. West Berliners have become a strong symbol of free people’s
+44. D. 18 to 24 years old. The least engaged group of eligible voters is
+45. D. Voter participation of all age groups increased in 1992. The
+46. C. both Choice (A) and Choice (B). FDR’s statement certainly
+ 47. D. Congress did not have the power to create a federal income
+ 48. A. There was no comprehensive plan to rebuild Iraq after the
+ 49. C. FDR was talking about it in 1941, and it’s still a major debate
+ 50. A. interventionism versus isolationism. In the United States, those
+  1. C
+  2. A
+  3. C
+  4. B
+  5. C
+  6. A
+  7. D
+  8. D
+  9. C
+ 10. A
+ 11. C
+ 12. A
+ 13. D
+ 14. D
+ 15. A
+ 16. C
+ 17. D
+ 18. A
+ 19. B
+ 20. D
+ 21. C
+22. A
+23. B
+24. C
+25. A
+26. A
+27. C
+28. C
+29. B
+30. A
+31. B
+32. A
+33. D
+34. D
+35. D
+36. D
+37. A
+38. C
+39. A
+40. D
+41. B
+42. B
+43. A
+44. D
+45. D
+46. C
+47. D
+48. A
+49. C
+50. A
+  1. Read the document from beginning to end.
+  2. Go back and highlight the points that strike you as important.
+  3. Look for bold, italicized, or highlighted words.
+  4. Go through your points and divide them into two groups:
+  5. Now look for and note any information that elaborates on those

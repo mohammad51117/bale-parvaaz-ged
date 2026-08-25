@@ -1,0 +1,22 @@
+/* Atlas Study Hall: scanned Economics source pages use reserved visual keys 1001–1019 to avoid collisions with the main GED folio map. */
+export const supplementalEconomicsVisuals: Record<number, string> = {
+  1001: "/manus-storage/page-01_68d3fb09.png",
+  1002: "/manus-storage/page-02_724551ff.png",
+  1003: "/manus-storage/page-03_94563b26.png",
+  1004: "/manus-storage/page-04_81d45503.png",
+  1005: "/manus-storage/page-05_778e7da5.png",
+  1006: "/manus-storage/page-06_49da1227.png",
+  1007: "/manus-storage/page-07_6e3d5501.png",
+  1008: "/manus-storage/page-08_68df26b0.png",
+  1009: "/manus-storage/page-09_3652b1b9.png",
+  1010: "/manus-storage/page-10_f9d77dbb.png",
+  1011: "/manus-storage/page-11_6fa32503.png",
+  1012: "/manus-storage/page-12_27f27a51.png",
+  1013: "/manus-storage/page-13_2cdccfa5.png",
+  1014: "/manus-storage/page-14_b3d82afd.png",
+  1015: "/manus-storage/page-15_2df8fbf9.png",
+  1016: "/manus-storage/page-16_4f8917cb.png",
+  1017: "/manus-storage/page-17_6d3934ef.png",
+  1018: "/manus-storage/page-18_4e26a036.png",
+  1019: "/manus-storage/page-19_7fc84d8d.png",
+};

@@ -41,3 +41,11 @@ The question number and bookmark remain together in the compact header, while th
 ## Classroom readability verification
 
 Answer choices now use larger, heavier type with taller choice boxes and larger answer letters. The shared-source header, subject-part label, context marker, and extracted context copy have also been enlarged and darkened for projection readability. Desktop and mobile captures of the figure set and Question 508 confirm the typography is more legible while the responsive layout remains intact.
+
+## New Social Studies Economics source audit
+
+SocialStudiesEconomicsQuestion1.pdf is a 19-page scanned/image PDF with no usable text layer. Page 1 introduces Chapter 3, Economics, and Question 1; it also declares Questions 2–4 as based on a following illustration. Page 2 contains the four-worker illustration (Donna, Julian, Gerald, Marina) and three written-response questions. The source must be integrated using OCR/manual transcription plus the original page images for fidelity. DummiesGEDSocialStudies.pdf is a 421-page text-extractable Social Studies workbook with Economics references and answer/explanation material.
+
+## Social Studies Economics supplement verification
+
+The scanned 19-page Economics workbook has been added as a distinct supplemental source under Social Studies → Economics, preserving its original Questions 1–49 numbering without overwriting the main 1,001-question library. The subject library now includes the added sets. Desktop and mobile captures verify the standalone worker illustration for Questions 2–4 and the pie-chart source visual for Questions 5–7, with the source marker above the image and the reader inside the Bale Parvaaz shell.

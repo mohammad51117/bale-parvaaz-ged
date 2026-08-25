@@ -1,0 +1,80 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-01.png (size: 58274 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-01_68d3fb09.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-02.png (size: 327785 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-02_724551ff.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-03.png (size: 233722 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-03_94563b26.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-04.png (size: 146225 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-04_81d45503.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-05.png (size: 92758 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-05_778e7da5.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-06.png (size: 150108 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-06_49da1227.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-07.png (size: 254036 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-07_6e3d5501.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-08.png (size: 114353 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-08_68df26b0.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-09.png (size: 129344 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-09_3652b1b9.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-10.png (size: 141520 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-10_f9d77dbb.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-11.png (size: 117421 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-11_6fa32503.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-12.png (size: 190009 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-12_27f27a51.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-13.png (size: 127815 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-13_2cdccfa5.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-14.png (size: 263492 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-14_b3d82afd.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-15.png (size: 44109 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-15_2df8fbf9.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-16.png (size: 234839 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-16_4f8917cb.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-17.png (size: 40712 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-17_6d3934ef.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-18.png (size: 234079 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-18_4e26a036.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/economics-source/pages/page-19.png (size: 139718 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/page-19_7fc84d8d.png
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-01.png -> /manus-storage/page-01_68d3fb09.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-02.png -> /manus-storage/page-02_724551ff.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-03.png -> /manus-storage/page-03_94563b26.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-04.png -> /manus-storage/page-04_81d45503.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-05.png -> /manus-storage/page-05_778e7da5.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-06.png -> /manus-storage/page-06_49da1227.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-07.png -> /manus-storage/page-07_6e3d5501.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-08.png -> /manus-storage/page-08_68df26b0.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-09.png -> /manus-storage/page-09_3652b1b9.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-10.png -> /manus-storage/page-10_f9d77dbb.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-11.png -> /manus-storage/page-11_6fa32503.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-12.png -> /manus-storage/page-12_27f27a51.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-13.png -> /manus-storage/page-13_2cdccfa5.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-14.png -> /manus-storage/page-14_b3d82afd.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-15.png -> /manus-storage/page-15_2df8fbf9.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-16.png -> /manus-storage/page-16_4f8917cb.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-17.png -> /manus-storage/page-17_6d3934ef.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-18.png -> /manus-storage/page-18_4e26a036.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/economics-source/pages/page-19.png -> /manus-storage/page-19_7fc84d8d.png
+=====================================
+Total: 19, Success: 19, Failed: 0

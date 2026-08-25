@@ -4,9 +4,10 @@ import { ArrowLeft, ArrowUpRight, BookOpen, Search, Table2 } from "lucide-react"
 import { Link, useLocation } from "wouter";
 import { questionGroups } from "@/lib/questionGroups";
 import { interactiveQuestions } from "@/lib/interactiveQuestions";
+import { supplementalEconomicsGroups, supplementalEconomicsQuestions } from "@/lib/supplementalEconomics";
 
-type Group = typeof questionGroups.groups[number];
-type InteractiveQuestion = { number: number; topic: string; reference: string };
+type Group = { id: string; section: string; questionStart: number; questionEnd: number; rangeLabel: string; contextType: string; marker: string; context: string; sourcePages: readonly number[]; visualPage?: number | null; questions: readonly { number: number; text: string }[] };
+type InteractiveQuestion = { number: number; groupId: string; topic: string; reference: string };
 
 const subjects: Record<string, string> = {
   math: "Mathematical Reasoning",
@@ -27,11 +28,15 @@ export default function SubjectPage() {
   const subject = subjects[slug] || subjects.math;
   const [query, setQuery] = useState("");
   const [topic, setTopic] = useState("All parts");
-  const groups = questionGroups.groups as readonly Group[];
-  const questions = interactiveQuestions.questions as readonly InteractiveQuestion[];
-  const topicMap = useMemo(() => new Map(questions.map((question) => [question.number, question])), [questions]);
+  const baseGroups = questionGroups.groups as readonly Group[];
+  const addedGroups = supplementalEconomicsGroups as readonly Group[];
+  const groups = [...baseGroups, ...addedGroups] as readonly Group[];
+  const baseQuestions = interactiveQuestions.questions as readonly InteractiveQuestion[];
+  const addedQuestions = supplementalEconomicsQuestions as readonly InteractiveQuestion[];
+  const questions = [...baseQuestions, ...addedQuestions] as readonly InteractiveQuestion[];
+  const topicMap = useMemo(() => new Map(questions.map((question) => [`${question.groupId}-${question.number}`, question])), [questions]);
   const topicForGroup = (group: Group) => {
-    const topics = Array.from(new Set(group.questions.map((question) => topicMap.get(question.number)?.topic).filter((value): value is string => Boolean(value))));
+    const topics = Array.from(new Set(group.questions.map((question) => topicMap.get(`${group.id}-${question.number}`)?.topic).filter((value): value is string => Boolean(value))));
     return topics.length === 1 ? topics[0] : topics.length > 1 ? "Mixed parts" : "General practice";
   };
   const topicOptions = useMemo(() => ["All parts", ...Array.from(new Set(groups.filter((group) => group.section === subject).map(topicForGroup)))], [groups, subject, topicMap]);

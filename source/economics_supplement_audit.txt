@@ -1,0 +1,10 @@
+Social Studies Economics supplement audit
+
+Groups: 22
+Questions: 49, numbered 1–49 in the supplemental workbook
+Multiple-choice questions: 31
+Written-response questions: 18
+Groups with original scanned visual assets: 12
+Subject: Social Studies
+Part: Economics
+Source: SocialStudiesEconomicsQuestion1.pdf, with DummiesGEDSocialStudies.pdf used for source-structure cross-checking.
