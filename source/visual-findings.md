@@ -25,3 +25,7 @@ The question reader now uses a single vertical column: extracted shared context 
 ## Question labeling verification
 
 The subject index now displays the full source reference, for example “1,001 GED Practice Questions For Dummies · Social Studies library,” and each set shows a subject-to-part label such as “Social Studies → Civics and Government.” Focused readers show the same hierarchy in the breadcrumb and context panel, with Science → Physical Science visible for Questions 506–507. Desktop and mobile captures confirm the labels remain legible and the part filter is usable.
+
+## Grouped subject-library verification
+
+Subject libraries now render visible part sections instead of one flat list. Social Studies opens with a labeled “Civics and Government” section showing its set and question count, followed by the other parts in book-aligned order. Science similarly begins with “Physical Science.” The part filter and search remain available above the sections, and desktop/mobile captures confirm the section headers remain readable.
