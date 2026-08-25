@@ -82,3 +82,10 @@
 - [x] Add grouped source-page viewing below each lesson’s text.
 - [x] Verify responsive lesson navigation and source-page fidelity.
 - [ ] Run checks and save a checkpoint.
+
+## Social Studies lesson catalog visibility
+
+- [ ] Inspect the Social Studies subject-page structure and lesson catalog imports.
+- [ ] Show all four McGraw Hill chapter groups and lesson titles directly on Social Studies.
+- [ ] Connect visible lessons to text-first readers and grouped source folios.
+- [ ] Verify desktop/mobile navigation, run checks, and save a checkpoint.
