@@ -1,4 +1,5 @@
 /* Atlas Study Hall: page-faithful editorial study reader with a book-spine rail, parchment surfaces, ink-blue hierarchy, and Parvaaz saffron progress accents. */
+import { useAuth } from "@/_core/hooks/useAuth";
 import { useMemo, useState } from "react";
 import {
   ArrowLeft,
@@ -38,6 +39,7 @@ import { getInitialWorkbookFilter, getWorkbookSource, matchesWorkbook, persistWo
 import { getSupplementalSocialStudiesSourcePage } from "@/lib/supplementalSocialStudiesSourcePages";
 import { useLocation } from "wouter";
 import { brandLogoAlt, brandLogoUrl } from "@/lib/branding";
+import { usePersistentStudyLibrary } from "@/lib/persistentLibrary";
 
 type PageRecord = { page: number; title: string; section: string; kind: string; hasVisual: boolean; content: string; wordCount: number };
 type QuestionGroup = { id: string; section: string; questionStart: number; questionEnd: number; rangeLabel: string; contextType: string; marker: string; context: string; sourcePages: readonly number[]; visualPage?: number | null; questions: readonly { number: number; text: string }[] };
@@ -62,9 +64,18 @@ function formatNumber(value: number) {
 }
 
 export default function Home() {
+  // The useAuth hook provides authentication state.
+  // To implement login/logout, call logout(), or start login from an event
+  // handler: onClick={() => startLogin()} (imported from "@/const"). Never call
+  // startLogin() during render (no href={startLogin()}) — it mints a one-time
+  // nonce cookie and must run only at the moment of navigation.
+  let { user, loading, error, isAuthenticated, logout } = useAuth();
+  const { data: persistentLibrary } = usePersistentStudyLibrary();
+
   const [, setLocation] = useLocation();
   const pages = bookData.pages as readonly PageRecord[];
-  const groups = [...questionGroups.groups, ...supplementalEconomicsGroups, ...supplementalMcGrawHillGroups, ...supplementalBatterySocialStudiesGroups, ...supplementalKaplanSocialStudiesGroups, ...supplementalKaplanSocialStudiesPretestGroups, ...supplementalPrincetonSocialStudiesTest2Groups] as readonly QuestionGroup[];
+  const bundledGroups = [...questionGroups.groups, ...supplementalEconomicsGroups, ...supplementalMcGrawHillGroups, ...supplementalBatterySocialStudiesGroups, ...supplementalKaplanSocialStudiesGroups, ...supplementalKaplanSocialStudiesPretestGroups, ...supplementalPrincetonSocialStudiesTest2Groups] as readonly QuestionGroup[];
+  const groups = (persistentLibrary?.groups.length ? persistentLibrary.groups : bundledGroups) as readonly QuestionGroup[];
   const sectionQuestionCounts = useMemo(() => bookData.subjects.map((item) => ({
     ...item,
     questionCount: groups.filter((group) => group.section === item.name).reduce((sum, group) => sum + group.questions.length, 0),

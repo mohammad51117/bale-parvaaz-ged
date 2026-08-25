@@ -13,6 +13,7 @@ import { supplementalPrincetonSocialStudiesTest2Groups, supplementalPrincetonSoc
 import { getInitialWorkbookFilter, getWorkbookSource, matchesWorkbook, persistWorkbookFilter, type WorkbookFilter, workbookFilterOptions } from "@/lib/workbookSources";
 import { getSupplementalSocialStudiesSourcePage } from "@/lib/supplementalSocialStudiesSourcePages";
 import { brandLogoAlt, brandLogoUrl } from "@/lib/branding";
+import { usePersistentStudyLibrary } from "@/lib/persistentLibrary";
 
 type Group = { id: string; section: string; questionStart: number; questionEnd: number; rangeLabel: string; contextType: string; marker: string; context: string; sourcePages: readonly number[]; visualPage?: number | null; questions: readonly { number: number; text: string }[] };
 type InteractiveQuestion = { number: number; groupId: string; topic: string; reference: string };
@@ -32,6 +33,7 @@ const partOrder: Record<string, string[]> = {
 
 export default function SubjectPage() {
   const [location, setLocation] = useLocation();
+  const { data: persistentLibrary } = usePersistentStudyLibrary();
   const slug = location.split("/")[2] || "math";
   const subject = subjects[slug] || subjects.math;
   const [query, setQuery] = useState("");
@@ -39,10 +41,12 @@ export default function SubjectPage() {
   const [workbookFilter, setWorkbookFilter] = useState<WorkbookFilter>(getInitialWorkbookFilter);
   const baseGroups = questionGroups.groups as readonly Group[];
   const addedGroups = [...supplementalEconomicsGroups, ...supplementalMcGrawHillGroups, ...supplementalBatterySocialStudiesGroups, ...supplementalKaplanSocialStudiesGroups, ...supplementalKaplanSocialStudiesPretestGroups, ...supplementalPrincetonSocialStudiesTest2Groups] as readonly Group[];
-  const groups = [...baseGroups, ...addedGroups] as readonly Group[];
+  const bundledGroups = [...baseGroups, ...addedGroups] as readonly Group[];
+  const groups = (persistentLibrary?.groups.length ? persistentLibrary.groups : bundledGroups) as readonly Group[];
   const baseQuestions = interactiveQuestions.questions as readonly InteractiveQuestion[];
   const addedQuestions = [...supplementalEconomicsQuestions, ...supplementalMcGrawHillQuestions, ...supplementalBatterySocialStudiesQuestions, ...supplementalKaplanSocialStudiesQuestions, ...supplementalKaplanSocialStudiesPretestQuestions, ...supplementalPrincetonSocialStudiesTest2Questions] as readonly InteractiveQuestion[];
-  const questions = [...baseQuestions, ...addedQuestions] as readonly InteractiveQuestion[];
+  const bundledQuestions = [...baseQuestions, ...addedQuestions] as readonly InteractiveQuestion[];
+  const questions = (persistentLibrary?.questions.length ? persistentLibrary.questions : bundledQuestions) as readonly InteractiveQuestion[];
   const topicMap = useMemo(() => new Map(questions.map((question) => [`${question.groupId}-${question.number}`, question])), [questions]);
   const topicForGroup = (group: Group) => {
     const topics = Array.from(new Set(group.questions.map((question) => topicMap.get(`${group.id}-${question.number}`)?.topic).filter((value): value is string => Boolean(value))));
@@ -68,8 +72,11 @@ export default function SubjectPage() {
     persistWorkbookFilter(next);
   };
   const openReader = (group: Group) => setLocation(`/reader/${group.id}`);
-  const sourceForGroup = (group: Group) => getWorkbookSource(group.id);
-  const hasOriginalSourceFolio = (group: Group) => Boolean(getSupplementalSocialStudiesSourcePage(group.id, group.sourcePages[0]) || group.visualPage);
+  const sourceForGroup = (group: Group) => {
+    const bundledSource = getWorkbookSource(group.id);
+    return persistentLibrary?.sourcesById[bundledSource.id] ?? bundledSource;
+  };
+  const hasOriginalSourceFolio = (group: Group) => Boolean(persistentLibrary?.sourcePageUrls[`${sourceForGroup(group).id}:${group.sourcePages[0]}`] || getSupplementalSocialStudiesSourcePage(group.id, group.sourcePages[0]) || group.visualPage);
 
   return <div className="subject-page-shell">
     <header className="subject-page-header"><div className="subject-brand"><span className="brand-mark brand-mark-photo"><img src={brandLogoUrl} alt={brandLogoAlt} /></span><div><strong>Bale Parvaaz</strong><small>GED / TEACHER MOMENI</small></div></div><Link href="/" className="back-link"><ArrowLeft size={16} /> Study desk</Link></header>

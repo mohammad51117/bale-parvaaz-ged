@@ -1,0 +1,20 @@
+import { describe, expect, it } from "vitest";
+
+describe("Supabase connection", () => {
+  it("accepts the configured publishable key at the REST endpoint", async () => {
+    const url = process.env.VITE_SUPABASE_URL;
+    const key = process.env.VITE_SUPABASE_PUBLISHABLE_KEY;
+
+    expect(url).toBeTruthy();
+    expect(key).toBeTruthy();
+
+    const response = await fetch(`${url}/rest/v1/ged_books?select=id&limit=1`, {
+      headers: {
+        apikey: key!,
+        Authorization: `Bearer ${key!}`,
+      },
+    });
+
+    expect(response.status).toBe(200);
+  }, 15_000);
+});

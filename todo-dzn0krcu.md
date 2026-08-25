@@ -84,3 +84,13 @@
 - [x] Update the question reader so every group displays its original source folio when available.
 - [x] Verify text-only, table/map, and multi-page groups on desktop and mobile.
 - [x] Save a checkpoint so the complete source-page coverage is live.
+
+## Supabase persistence migration
+
+- [x] Inspect Supabase project `rmglelcdiumvwpiurtjj` and confirm current tables and migrations.
+- [x] Upgrade the static site to the full-stack database-enabled template.
+- [x] Design and apply Supabase tables for books, workbook sources, groups, questions, source pages, and branding assets.
+- [x] Migrate all existing static study-library records into Supabase without losing answer keys or source metadata.
+- [x] Wire the frontend to persistent backend reads with a safe fallback during migration.
+- [x] Verify database counts, representative reader routes, and asset URLs.
+- [x] Save a checkpoint so the Supabase-backed version is live.

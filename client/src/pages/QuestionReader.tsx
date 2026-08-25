@@ -20,6 +20,7 @@ import { supplementalPrincetonSocialStudiesTest2Visuals } from "@/lib/supplement
 import { getWorkbookSource } from "@/lib/workbookSources";
 import { getSupplementalSocialStudiesSourcePage } from "@/lib/supplementalSocialStudiesSourcePages";
 import { brandLogoAlt, brandLogoUrl } from "@/lib/branding";
+import { usePersistentStudyLibrary } from "@/lib/persistentLibrary";
 
 type Group = { id: string; section: string; questionStart: number; questionEnd: number; rangeLabel: string; contextType: string; marker: string; context: string; sourcePages: readonly number[]; visualPage?: number | null; questions: readonly { number: number; text: string }[] };
 type InteractiveQuestion = { number: number; groupId: string; section: string; topic: string; reference: string; prompt: string; choices: readonly { label: string; text: string }[]; correctLabel: string | null; answerLine: string; explanation: string; sourcePage: number };
@@ -53,11 +54,14 @@ function PracticeQuestion({ question, selected, response, submitted, onSelect, o
 
 export default function QuestionReader() {
   const [location, setLocation] = useLocation();
+  const { data: persistentLibrary } = usePersistentStudyLibrary();
   const groupId = decodeURIComponent(location.split("/").pop() || "");
-  const groups = [...(questionGroups.groups as readonly Group[]), ...(supplementalEconomicsGroups as readonly Group[]), ...(supplementalMcGrawHillGroups as readonly Group[]), ...(supplementalBatterySocialStudiesGroups as readonly Group[]), ...(supplementalKaplanSocialStudiesGroups as readonly Group[]), ...(supplementalKaplanSocialStudiesPretestGroups as readonly Group[]), ...(supplementalPrincetonSocialStudiesTest2Groups as readonly Group[])];
+  const bundledGroups = [...(questionGroups.groups as readonly Group[]), ...(supplementalEconomicsGroups as readonly Group[]), ...(supplementalMcGrawHillGroups as readonly Group[]), ...(supplementalBatterySocialStudiesGroups as readonly Group[]), ...(supplementalKaplanSocialStudiesGroups as readonly Group[]), ...(supplementalKaplanSocialStudiesPretestGroups as readonly Group[]), ...(supplementalPrincetonSocialStudiesTest2Groups as readonly Group[])];
+  const groups = (persistentLibrary?.groups.length ? persistentLibrary.groups : bundledGroups) as readonly Group[];
   const groupIndex = Math.max(0, groups.findIndex((item) => item.id === groupId));
   const group = groups[groupIndex] || groups[0];
-  const allInteractiveQuestions = [...(interactiveQuestions.questions as readonly InteractiveQuestion[]), ...(supplementalEconomicsQuestions as readonly InteractiveQuestion[]), ...(supplementalMcGrawHillQuestions as readonly InteractiveQuestion[]), ...(supplementalBatterySocialStudiesQuestions as readonly InteractiveQuestion[]), ...(supplementalKaplanSocialStudiesQuestions as readonly InteractiveQuestion[]), ...(supplementalKaplanSocialStudiesPretestQuestions as readonly InteractiveQuestion[]), ...(supplementalPrincetonSocialStudiesTest2Questions as readonly InteractiveQuestion[])];
+  const bundledQuestions = [...(interactiveQuestions.questions as readonly InteractiveQuestion[]), ...(supplementalEconomicsQuestions as readonly InteractiveQuestion[]), ...(supplementalMcGrawHillQuestions as readonly InteractiveQuestion[]), ...(supplementalBatterySocialStudiesQuestions as readonly InteractiveQuestion[]), ...(supplementalKaplanSocialStudiesQuestions as readonly InteractiveQuestion[]), ...(supplementalKaplanSocialStudiesPretestQuestions as readonly InteractiveQuestion[]), ...(supplementalPrincetonSocialStudiesTest2Questions as readonly InteractiveQuestion[])];
+  const allInteractiveQuestions = (persistentLibrary?.questions.length ? persistentLibrary.questions : bundledQuestions) as readonly InteractiveQuestion[];
   const questionMap = useMemo(() => new Map(allInteractiveQuestions.map((question) => [`${question.groupId}-${question.number}`, question])), [allInteractiveQuestions]);
   const activeQuestions = group.questions.map((question) => questionMap.get(`${group.id}-${question.number}`)).filter(Boolean) as InteractiveQuestion[];
   const [selected, setSelected] = useState<Record<number, string>>({});
@@ -69,12 +73,14 @@ export default function QuestionReader() {
   const next = groups[groupIndex + 1];
   const subjectSlug = useMemo(() => group.section.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, ""), [group.section]);
   const topic = activeQuestions[0]?.topic || "General practice";
-  const workbookSource = getWorkbookSource(group.id);
+  const bundledWorkbookSource = getWorkbookSource(group.id);
+  const workbookSource = persistentLibrary?.sourcesById[bundledWorkbookSource.id] ?? bundledWorkbookSource;
   const reference = workbookSource.title;
   const allVisualAssets = { ...visualAssets, ...supplementalEconomicsVisuals, ...supplementalMcGrawHillVisuals, ...supplementalBatterySocialStudiesVisuals, ...supplementalKaplanSocialStudiesVisuals, ...supplementalKaplanSocialStudiesPretestVisuals, ...supplementalPrincetonSocialStudiesTest2Visuals };
   const sourcePageNumbers = group.sourcePages.length > 1 ? Array.from({ length: Math.max(...group.sourcePages) - Math.min(...group.sourcePages) + 1 }, (_, index) => Math.min(...group.sourcePages) + index) : [...group.sourcePages];
   const sourcePageVisuals = sourcePageNumbers.map((page) => {
-    const url = getSupplementalSocialStudiesSourcePage(group.id, page);
+    const persistentUrl = persistentLibrary?.sourcePageUrls[`${workbookSource.id}:${page}`];
+    const url = persistentUrl || getSupplementalSocialStudiesSourcePage(group.id, page);
     return url ? { page, url } : null;
   }).filter((item): item is { page: number; url: string } => Boolean(item));
   const legacyVisualUrl = group.visualPage ? allVisualAssets[group.visualPage] : undefined;
