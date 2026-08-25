@@ -29,3 +29,7 @@ The subject index now displays the full source reference, for example “1,001 G
 ## Grouped subject-library verification
 
 Subject libraries now render visible part sections instead of one flat list. Social Studies opens with a labeled “Civics and Government” section showing its set and question count, followed by the other parts in book-aligned order. Science similarly begins with “Physical Science.” The part filter and search remain available above the sections, and desktop/mobile captures confirm the section headers remain readable.
+
+## Source and question-card visual refinement
+
+The shared-context block now uses a premium folio header with a labeled “SHARED SOURCE CONTEXT · figure/information/standalone” treatment, a clean subject-to-part badge, and a framed source visual beneath. Question cards no longer have the heavy rectangular outer edge; they use quiet printed rules instead. The question number remains in its existing position, with the save icon immediately beside it. Desktop and mobile captures of Questions 506–507 and 508 confirm the intended hierarchy.
