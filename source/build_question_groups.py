@@ -114,6 +114,8 @@ for index, marker in enumerate(markers):
     else:
         context_type = 'information'
     end_page = max([item['sourcePage'] for item in questions], default=marker['page'])
+    # The extracted stream starts after the PDF’s leading blank page; add one to get the actual PDF folio.
+    visual_page = questions[0]['sourcePage'] + 1 if context_type in {'map', 'graph', 'chart', 'figure', 'table'} else None
     if not context:
         context = f"The shared source material for this set appears on source folio {marker['page']}. Keep that visual context in view while answering the linked questions."
     groups.append({
@@ -126,6 +128,7 @@ for index, marker in enumerate(markers):
         'marker': marker['marker'],
         'context': context,
         'sourcePages': [marker['page'], end_page],
+        'visualPage': visual_page,
         'questions': questions,
     })
 
