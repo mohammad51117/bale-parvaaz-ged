@@ -73,3 +73,7 @@ McGraw Hill verification passed on desktop and mobile. The Social Studies librar
 ## Home question total correction
 
 The Home desk now calculates the visible question-bank total from grouped records rather than the original 1,001-only label. The default All sources total is 1,429 questions: 1,000 main-book interactive records, 49 Economics-supplement questions, and 380 McGraw Hill workbook questions. The same dynamic number appears in the hero reference, Question Bank statistic, and filtered result summary.
+
+## Teacher Momeni logo verification
+
+The generated portrait-based Teacher Momeni logo is applied to the Home rail, SubjectPage header, QuestionReader header, browser favicon, and Apple touch icon metadata. Desktop and mobile screenshots show the mark remains recognizable and proportionate beside the Bale Parvaaz wordmark without crowding navigation. The rendered logo uses a simplified professional portrait inside the existing ink-blue and saffron brand language.

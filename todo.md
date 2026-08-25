@@ -31,3 +31,11 @@
 - [x] Replace static Home question totals with dynamic source-aware values.
 - [x] Verify All sources, main-book, Economics supplement, and McGraw Hill states on desktop and mobile.
 - [x] Run type check, production build, and save a checkpoint.
+
+## Teacher Momeni app logo
+
+- [x] Define the portrait-based logo treatment and required app icon sizes.
+- [x] Generate a polished logo asset from the supplied portrait.
+- [x] Apply the logo to the app shell, browser metadata, and favicon.
+- [x] Verify the logo at desktop and mobile header sizes.
+- [x] Run type check, production build, and save a checkpoint.

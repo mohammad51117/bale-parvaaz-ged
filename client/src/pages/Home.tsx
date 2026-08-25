@@ -123,7 +123,7 @@ export default function Home() {
     <div className="app-shell">
       <aside className={`book-rail ${mobileRail ? "book-rail-open" : ""}`}>
         <div className="rail-brand">
-          <div className="brand-mark"><span className="brand-wing" /></div>
+          <img className="brand-logo" src="/manus-storage/teacher-momeni-logo_2d3d1795.png" alt="Teacher Momeni logo" />
           <div>
             <div className="brand-name">Bale Parvaaz</div>
             <div className="brand-subtitle">GED / Teacher Momeni</div>

@@ -65,7 +65,7 @@ export default function SubjectPage() {
   const sourceForGroup = (group: Group) => getWorkbookSource(group.id);
 
   return <div className="subject-page-shell">
-    <header className="subject-page-header"><div className="subject-brand"><span className="brand-mark">✶</span><div><strong>Bale Parvaaz</strong><small>GED / TEACHER MOMENI</small></div></div><Link href="/" className="back-link"><ArrowLeft size={16} /> Study desk</Link></header>
+    <header className="subject-page-header"><div className="subject-brand"><img className="brand-logo" src="/manus-storage/teacher-momeni-logo_2d3d1795.png" alt="Teacher Momeni logo" /><div><strong>Bale Parvaaz</strong><small>GED / TEACHER MOMENI</small></div></div><Link href="/" className="back-link"><ArrowLeft size={16} /> Study desk</Link></header>
     <main className="subject-page-main">
       <div className="subject-crumb"><span>QUESTION LIBRARY</span><span>/</span><strong>{subject}</strong></div>
       <section className="subject-hero"><div><div className="eyebrow"><BookOpen size={14} /> DEDICATED SUBJECT INDEX</div><h1>{subject}</h1><p>Choose a question set to open its own focused reader view. Every shared passage, table, map, graph, chart, or figure stays above the questions it supports.</p><div className="reference-line">{subject} library · {activeWorkbookOption.shortLabel} · source labels remain visible on every set</div></div><div className="subject-summary"><strong>{subjectGroups.length}</strong><span>question sets</span><small>{subjectGroups.reduce((sum, group) => sum + group.questions.length, 0)} linked questions</small></div></section>
