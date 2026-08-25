@@ -31,10 +31,10 @@ def page_at(global_offset):
     return current
 
 def section_for(page):
-    if page <= 107: return 'Mathematical Reasoning'
-    if page <= 208: return 'Reasoning Through Language Arts'
-    if page <= 295: return 'Social Studies'
-    return 'Science'
+    if page <= 106: return 'Mathematical Reasoning'
+    if page <= 207: return 'Social Studies'
+    if page <= 294: return 'Science'
+    return 'Reasoning Through Language Arts'
 
 def clean(value):
     value = value.replace('\f', '\n')
@@ -131,6 +131,38 @@ for index, marker in enumerate(markers):
         'visualPage': visual_page,
         'questions': questions,
     })
+
+# Add standalone questions that do not have a preceding shared-context marker.
+covered_numbers = {number for group in groups for number in range(group['questionStart'], group['questionEnd'] + 1)}
+practice_matches = []
+for match in question_re.finditer(full_text):
+    number = int(match.group(1))
+    page_num = page_at(match.start())
+    if 1 <= number <= 1001 and 8 <= page_num <= 433:
+        practice_matches.append((number, match, page_num))
+for index, (number, match, page_num) in enumerate(practice_matches):
+    if number in covered_numbers:
+        continue
+    next_match = practice_matches[index + 1][1] if index + 1 < len(practice_matches) else None
+    next_marker_offsets = [marker['offset'] for marker in markers if marker['offset'] > match.start()]
+    next_marker_offset = min(next_marker_offsets) if next_marker_offsets else len(full_text)
+    candidate_end = next_match.start() if next_match else len(full_text)
+    end_pos = min(candidate_end, next_marker_offset)
+    question_text = clean(full_text[match.start():end_pos])
+    groups.append({
+        'id': f'group-standalone-{number}',
+        'section': section_for(page_num),
+        'questionStart': number,
+        'questionEnd': number,
+        'rangeLabel': f'Question {number}',
+        'contextType': 'standalone',
+        'marker': 'Standalone question',
+        'context': '',
+        'sourcePages': [page_num, page_num],
+        'visualPage': None,
+        'questions': [{'number': number, 'text': question_text, 'sourcePage': page_num}],
+    })
+    covered_numbers.add(number)
 
 # Keep the first occurrence of each question range; the answer section is excluded by page cutoff.
 unique_groups = {}

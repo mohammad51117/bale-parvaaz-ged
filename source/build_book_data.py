@@ -10,9 +10,9 @@ raw_pages = text.split('\f')
 
 chapter_names = {
     1: 'Mathematical Reasoning',
-    2: 'Reasoning Through Language Arts',
-    3: 'Social Studies',
-    4: 'Science',
+    2: 'Social Studies',
+    3: 'Science',
+    4: 'Reasoning Through Language Arts',
 }
 
 def clean_page(raw: str) -> str:
@@ -26,24 +26,24 @@ def clean_page(raw: str) -> str:
 def detect_section(page_num: int, content: str):
     if page_num <= 7:
         return 'Opening'
-    if 8 <= page_num <= 107:
+    if 8 <= page_num <= 106:
         return 'Mathematical Reasoning'
-    if 108 <= page_num <= 208:
-        return 'Reasoning Through Language Arts'
-    if 209 <= page_num <= 295:
+    if 107 <= page_num <= 207:
         return 'Social Studies'
-    if 296 <= page_num <= 433:
+    if 208 <= page_num <= 294:
         return 'Science'
+    if 295 <= page_num <= 433:
+        return 'Reasoning Through Language Arts'
     if 434 <= page_num <= 435:
         return 'Answer Key & Explanations'
     if 436 <= page_num <= 520:
         return 'Mathematical Reasoning · Explanations'
     if 521 <= page_num <= 566:
-        return 'Reasoning Through Language Arts · Explanations'
-    if 567 <= page_num <= 615:
         return 'Social Studies · Explanations'
-    if 616 <= page_num <= 682:
+    if 567 <= page_num <= 615:
         return 'Science · Explanations'
+    if 616 <= page_num <= 682:
+        return 'Reasoning Through Language Arts · Explanations'
     return 'Closing'
 
 def detect_kind(content: str):

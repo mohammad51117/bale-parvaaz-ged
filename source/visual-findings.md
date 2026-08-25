@@ -13,3 +13,7 @@ The grouped dataset now records `visualPage: 210` for Questions 506–507, and t
 ## Final verification
 
 The latest grouped-reader screenshot for `/?group=group-506-507` confirms the question set is linked directly to the corrected actual visual folio asset. The dataset records `visualPage: 210`, the asset map contains the folio-210 upload, and the placeholder sentence is no longer rendered for that visual group.
+
+## Subject route verification
+
+The corrected chapter order maps the science practice pages to Science. Questions 508 and 509 appear as explicit standalone records in Science, each with clean source text and no accidental inclusion of the following Questions 510–512 context. `/subject/social-studies` renders a dedicated searchable question-set library, and `/reader/group-standalone-508` plus `/reader/group-standalone-509` render focused standalone readers. Desktop and mobile screenshots confirm the dedicated layouts are responsive and professional.
