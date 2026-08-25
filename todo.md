@@ -47,3 +47,12 @@
 - [x] Replace static rail counts with dynamic all-workbook question totals for the four GED sections.
 - [x] Verify the shortened Home layout and counts on desktop and mobile.
 - [x] Run type check, production build, and save a checkpoint.
+
+## Student Study Map roadmap
+
+- [x] Review the supplied course titles and define subject/chapter/lesson roadmap structure.
+- [x] Generate structured study guidance for every supplied title: time, method, mastery, and practice.
+- [x] Add a Study Map route under the Study Desk with subject and chapter navigation.
+- [x] Design attractive roadmap cards and detail panels for desktop and mobile students.
+- [x] Verify all subject titles are covered and the roadmap remains usable on narrow screens.
+- [x] Run type check, production build, and save a checkpoint.

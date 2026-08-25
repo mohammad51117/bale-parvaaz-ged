@@ -83,3 +83,7 @@ The generated portrait-based Teacher Momeni logo is applied to the Home rail, Su
 The Home question-set browser and Home reader panel are hidden from the landing desk, leaving detailed question browsing on subject routes. The Home rail now shows the all-workbook question totals: Math Reasoning 285, Language Arts 269, Social Studies 650, and Science 225. Desktop and mobile screenshots confirm the compact layout, with the hero and stats remaining visible without the long question list.
 
 Final Home verification passed on desktop and mobile. The old Home question-set browser and reader no longer render on the landing desk, so the page ends after the hero, progress stats, four-section dashboard, and footer. The dashboard and rail show all-workbook question totals: Math Reasoning 285, Language Arts 269, Social Studies 650, and Science 225. Each section card links to its dedicated subject library.
+
+## Study Map verification
+
+The new Study Map route renders as an Atlas Study Hall roadmap with a clear hero, four subject route tabs, a vertical chapter path, and a detail panel containing time-to-master, study method, mastery standard, practice routine, and lesson titles. Desktop and mobile screenshots passed; the mobile view stacks the hero, subject routes, chapters, and guidance without losing readable hierarchy.

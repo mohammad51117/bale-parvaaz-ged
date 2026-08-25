@@ -12,6 +12,7 @@ import {
   Filter,
   GraduationCap,
   LayoutDashboard,
+  MapPinned,
   Menu,
   Search,
   Sparkles,
@@ -138,6 +139,7 @@ export default function Home() {
         <div className="rail-rule" />
         <nav className="rail-nav" aria-label="Study navigation">
           <button className="rail-link active" onClick={() => { setSubject("All subjects"); setShowOpening(false); }}><LayoutDashboard size={17} /><span>Study desk</span><span className="rail-key">⌘ 1</span></button>
+          <button className="rail-link" onClick={() => setLocation("/study-map")}><MapPinned size={17} /><span>Study map</span><span className="rail-count">PATH</span></button>
           <button className={`rail-link ${showOpening ? "active" : ""}`} onClick={() => setShowOpening(true)}><BookOpen size={17} /><span>Opening pages</span><span className="rail-count">05</span></button>
           <div className="rail-section-label">The four sections</div>
           {bookData.subjects.map((item) => (
