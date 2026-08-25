@@ -151,3 +151,87 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
     text-align: left;
   }
 }
+
+/* Atlas Study Hall workbook filtering: source selection reads as an editorial control, with concise counts and a calm responsive stack. */
+.section-heading-tools {
+  display: flex;
+  align-items: end;
+  justify-content: flex-end;
+  gap: 16px;
+}
+
+.workbook-filter-control {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-width: 210px;
+}
+
+.workbook-filter-control > span {
+  color: #A07B3F;
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.workbook-filter-control select {
+  width: 100%;
+  min-height: 38px;
+  padding: 8px 32px 8px 11px;
+  border: 1px solid #D8CDBD;
+  background: #FFFDF8;
+  color: #536A6D;
+  font: 11px "DM Sans", sans-serif;
+}
+
+.subject-tools .workbook-filter-control {
+  min-width: 235px;
+}
+
+.clear-library-filters {
+  margin-top: 8px;
+  padding: 9px 13px;
+  border: 1px solid #D8B66B;
+  background: #F0B13D;
+  color: #354F59;
+  font-size: 11px;
+  font-weight: 800;
+}
+
+.clear-library-filters:hover {
+  background: #E3A033;
+  transform: translateY(-1px);
+}
+
+@media (max-width: 900px) {
+  .section-heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .section-heading-tools {
+    width: 100%;
+    align-items: end;
+    justify-content: space-between;
+  }
+}
+
+@media (max-width: 760px) {
+  .section-heading-tools {
+    align-items: stretch;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .section-heading-tools .workbook-filter-control,
+  .subject-tools .workbook-filter-control {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .section-heading-tools .result-count {
+    order: -1;
+  }
+}

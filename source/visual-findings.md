@@ -55,3 +55,9 @@ The scanned 19-page Economics workbook has been added as a distinct supplemental
 The Social Studies library now shows per-set workbook titles and source-page ranges. Supplemental readers display “Social Studies Economics Question 1,” use “source page” labels, and identify “Social Studies Economics workbook.” Main-book readers display “1001 GED Practice Questions For Dummies by Stuart Donnelly,” use “source folio” labels, and identify the main workbook. Desktop verification passed for the subject library and representative readers.
 
 Mobile verification also passed at 390×844: the Social Studies library keeps its workbook-source note readable, and the Economics reader wraps the supplemental workbook title and “source page 1–1” label cleanly without horizontal overflow.
+
+## Workbook filter verification
+
+The new workbook selector renders in both the Home study desk and subject libraries. Shareable URLs with `?workbook=economics` and `?workbook=main` correctly initialize the selected source. Social Studies shows 22 supplemental Economics sets / 49 linked questions in supplement mode and 110 main-book sets / 221 linked questions in main-book mode. The selector remains visually aligned with the subject search and part filter at desktop width.
+
+Final desktop pass confirms concise selector labels: “Economics supplement · 22 sets” shows only Social Studies → Economics, while “Main 1,001-question book · 110 sets” shows the main Social Studies parts and their question counts. Both states keep the source attribution line and part filter aligned.
