@@ -352,6 +352,10 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
 .reader-context-layout { display: block; }
 .reader-margin-notes-bottom { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; margin-top: 22px; padding-top: 0; }
 .reader-margin-notes-bottom .margin-note { min-height: 100%; }
+.standalone-source-pages { display: grid; gap: 18px; width: 100%; }
+.source-page-visual { margin: 0; padding: 10px 10px 0; background: #F1ECE2; border: 1px solid #DED3C2; box-shadow: 0 0 0 1px #EFE6D6, 0 12px 24px rgba(62, 73, 67, .07); }
+.source-page-visual img { display: block; width: 100%; height: auto; max-height: none; object-fit: contain; object-position: center top; background: #FFF; }
+.source-page-visual figcaption { padding: 10px 4px 12px; color: #8F928B; font-size: 10px; line-height: 1.4; }
 @media (max-width: 760px) {
   .brand-mark-photo { width: 40px; height: 40px; }
   .subject-brand .brand-mark-photo, .reader-page-header .brand-mark-photo { width: 38px; height: 38px; }

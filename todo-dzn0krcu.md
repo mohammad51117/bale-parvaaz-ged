@@ -74,3 +74,13 @@
 - [x] Add collapsed-state styling and a way to reopen the sidebar.
 - [x] Verify expanded and collapsed desktop/mobile behavior.
 - [x] Save a checkpoint so the toggle is live.
+
+## Universal Social Studies PDF folios
+
+- [x] Audit every imported Social Studies question group for source-page metadata and existing visual coverage.
+- [x] Locate the original PDFs and identify the correct PDF page span for each text-only question group.
+- [x] Render and upload missing original source-page images outside the project directory.
+- [x] Add universal source-page references to all Social Studies question groups and source registries.
+- [x] Update the question reader so every group displays its original source folio when available.
+- [x] Verify text-only, table/map, and multi-page groups on desktop and mobile.
+- [x] Save a checkpoint so the complete source-page coverage is live.
