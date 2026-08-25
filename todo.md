@@ -47,3 +47,12 @@
 - [x] Replace static rail counts with dynamic all-workbook question totals for the four GED sections.
 - [x] Verify the shortened Home layout and counts on desktop and mobile.
 - [x] Run type check, production build, and save a checkpoint.
+
+## Four-subject lesson demo
+
+- [ ] Audit the rolled-back Home screen and available source-grounded lesson assets.
+- [ ] Select one PDF-grounded demo lesson for Math, Language Arts, Social Studies, and Science.
+- [ ] Add a Lessons section above the four question sections with subject names and lesson counts.
+- [ ] Add in-app demo lesson readers with the matching source-page visual and practice action.
+- [ ] Verify Home hierarchy and all four lesson demos on desktop and mobile.
+- [ ] Run type check, production build, and save a checkpoint.

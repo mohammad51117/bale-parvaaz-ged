@@ -7,13 +7,15 @@ import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
 import SubjectPage from "./pages/SubjectPage";
-import QuestionReader from "./pages/QuestionReader";
+import QuestionReader from "@/pages/QuestionReader";
+import LessonDemo from "@/pages/LessonDemo";
 
 function Router() {
   return <Switch>
     <Route path="/" component={Home} />
     <Route path="/subject/:slug" component={SubjectPage} />
     <Route path="/reader/:groupId" component={QuestionReader} />
+    <Route path="/lesson/:lessonId" component={LessonDemo} />
     <Route path="/404" component={NotFound} />
     <Route component={NotFound} />
   </Switch>;
