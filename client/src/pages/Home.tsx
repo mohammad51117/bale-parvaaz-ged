@@ -36,6 +36,7 @@ import { supplementalPrincetonSocialStudiesTest2Groups, supplementalPrincetonSoc
 import { supplementalPrincetonSocialStudiesTest2Visuals } from "@/lib/supplementalPrincetonSocialStudiesTest2Visuals";
 import { getInitialWorkbookFilter, getWorkbookSource, matchesWorkbook, persistWorkbookFilter, type WorkbookFilter, workbookFilterOptions } from "@/lib/workbookSources";
 import { useLocation } from "wouter";
+import { brandLogoAlt, brandLogoUrl } from "@/lib/branding";
 
 type PageRecord = { page: number; title: string; section: string; kind: string; hasVisual: boolean; content: string; wordCount: number };
 type QuestionGroup = { id: string; section: string; questionStart: number; questionEnd: number; rangeLabel: string; contextType: string; marker: string; context: string; sourcePages: readonly number[]; visualPage?: number | null; questions: readonly { number: number; text: string }[] };
@@ -136,7 +137,7 @@ export default function Home() {
     <div className="app-shell">
       <aside className={`book-rail ${mobileRail ? "book-rail-open" : ""}`}>
         <div className="rail-brand">
-          <span className="brand-mark brand-mark-wing" aria-hidden="true"><BookOpen size={22} strokeWidth={2.4} /></span>
+          <span className="brand-mark brand-mark-photo"><img src={brandLogoUrl} alt={brandLogoAlt} /></span>
           <div>
             <div className="brand-name">Bale Parvaaz</div>
             <div className="brand-subtitle">GED / Teacher Momeni</div>
@@ -158,7 +159,7 @@ export default function Home() {
         </nav>
         <div className="rail-bottom">
           <div className="rail-mini-note"><Sparkles size={15} /><span>Keep going. Your next page is waiting.</span></div>
-          <div className="rail-user"><div className="avatar">TM</div><div><strong>Teacher Momeni</strong><span>Personal study desk</span></div><ChevronDown size={15} /></div>
+          <div className="rail-user"><div className="avatar avatar-photo"><img src={brandLogoUrl} alt="" /></div><div><strong>Teacher Momeni</strong><span>Personal study desk</span></div><ChevronDown size={15} /></div>
         </div>
       </aside>
 

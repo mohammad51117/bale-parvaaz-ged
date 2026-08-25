@@ -11,6 +11,7 @@ import { supplementalKaplanSocialStudiesGroups, supplementalKaplanSocialStudiesQ
 import { supplementalKaplanSocialStudiesPretestGroups, supplementalKaplanSocialStudiesPretestQuestions } from "@/lib/supplementalKaplanSocialStudiesPretest";
 import { supplementalPrincetonSocialStudiesTest2Groups, supplementalPrincetonSocialStudiesTest2Questions } from "@/lib/supplementalPrincetonSocialStudiesTest2";
 import { getInitialWorkbookFilter, getWorkbookSource, matchesWorkbook, persistWorkbookFilter, type WorkbookFilter, workbookFilterOptions } from "@/lib/workbookSources";
+import { brandLogoAlt, brandLogoUrl } from "@/lib/branding";
 
 type Group = { id: string; section: string; questionStart: number; questionEnd: number; rangeLabel: string; contextType: string; marker: string; context: string; sourcePages: readonly number[]; visualPage?: number | null; questions: readonly { number: number; text: string }[] };
 type InteractiveQuestion = { number: number; groupId: string; topic: string; reference: string };
@@ -68,9 +69,8 @@ export default function SubjectPage() {
   const openReader = (group: Group) => setLocation(`/reader/${group.id}`);
   const sourceForGroup = (group: Group) => getWorkbookSource(group.id);
 
-  return <div className="subject-page-shell route-with-spine">
-    <aside className="route-spine" aria-label="Workbook orientation"><span className="brand-mark brand-mark-wing" aria-hidden="true"><BookOpen size={22} strokeWidth={2.4} /></span><strong>Bale Parvaaz</strong><span className="route-spine-section">{subject}</span><i className="route-spine-rule" /><span className="route-spine-folio">CATALOG<br />FOLIO</span></aside>
-    <header className="subject-page-header"><div className="subject-brand"><span className="brand-mark brand-mark-wing" aria-hidden="true"><BookOpen size={21} strokeWidth={2.2} /></span><div><strong>Bale Parvaaz</strong><small>GED / TEACHER MOMENI</small></div></div><Link href="/" className="back-link"><ArrowLeft size={16} /> Study desk</Link></header>
+  return <div className="subject-page-shell">
+    <header className="subject-page-header"><div className="subject-brand"><span className="brand-mark brand-mark-photo"><img src={brandLogoUrl} alt={brandLogoAlt} /></span><div><strong>Bale Parvaaz</strong><small>GED / TEACHER MOMENI</small></div></div><Link href="/" className="back-link"><ArrowLeft size={16} /> Study desk</Link></header>
     <main className="subject-page-main">
       <div className="subject-crumb"><span>QUESTION LIBRARY</span><span>/</span><strong>{subject}</strong></div>
       <section className="subject-hero"><div><div className="eyebrow"><BookOpen size={14} /> DEDICATED SUBJECT INDEX</div><h1>{subject}</h1><p>Choose a question set to open its own focused reader view. Every shared passage, table, map, graph, chart, or figure stays above the questions it supports.</p><div className="reference-line">{subject} library · {activeWorkbookOption.shortLabel} · source labels remain visible on every set</div></div><div className="subject-summary"><strong>{subjectGroups.length}</strong><span>question sets</span><small>{subjectGroups.reduce((sum, group) => sum + group.questions.length, 0)} linked questions</small></div></section>

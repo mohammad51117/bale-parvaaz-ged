@@ -32,4 +32,21 @@
 - [x] Prepare any required Princeton source-page visuals outside the project and upload them.
 - [x] Add Princeton question groups, interactive records, source registry entries, and reader visuals.
 - [x] Verify source counts, navigation, answer checking, and responsive presentation.
-- [ ] Save a checkpoint so the published Princeton update is live.
+- [x] Save a checkpoint so the published Princeton update is live.
+
+## Restore original subject and reader layout
+
+- [ ] Inspect the current logo references and route-shell markup.
+- [ ] Restore the original photo-based Bale Parvaaz logo on the affected routes.
+- [ ] Remove the route sidebar from the Subject Index and reader pages.
+- [ ] Move reader margin notes below or outside the source/PDF layout so the source page keeps its width.
+- [ ] Verify subject index and reader desktop/mobile layouts and navigation.
+- [ ] Save a checkpoint so the restored interface is live.
+
+## Portrait logo restoration
+
+- [x] Inspect current route branding and existing logo references.
+- [x] Prepare the supplied portrait as a polished logo asset.
+- [x] Apply the portrait logo consistently to the study desk, subject index, and reader.
+- [x] Verify crop, contrast, legibility, and responsive behavior.
+- [ ] Save a checkpoint so the logo update is live.

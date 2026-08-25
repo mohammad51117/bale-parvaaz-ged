@@ -332,3 +332,19 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
   .reader-page-nav { padding-left: 8px; }
   .choice-option, .fill-answer input, .fill-answer textarea { box-shadow: 3px 3px 0 #EFE6D8; }
 }
+
+
+/* Bale Parvaaz portrait identity and full-width source folio treatment. */
+.brand-mark-photo { display: inline-flex; align-items: center; justify-content: center; overflow: hidden; flex: 0 0 auto; width: 46px; height: 46px; border: 2px solid #E5A23A; border-radius: 50%; background: #F8F1E4; box-shadow: 0 4px 12px rgba(31,60,81,.14); }
+.brand-mark-photo img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.avatar-photo { overflow: hidden; padding: 0 !important; border: 1px solid rgba(229,162,58,.7); border-radius: 50%; background: #F8F1E4; }
+.avatar-photo img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.subject-brand .brand-mark-photo, .reader-page-header .brand-mark-photo { width: 42px; height: 42px; }
+.reader-context-layout { display: block; }
+.reader-margin-notes-bottom { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; margin-top: 22px; padding-top: 0; }
+.reader-margin-notes-bottom .margin-note { min-height: 100%; }
+@media (max-width: 760px) {
+  .brand-mark-photo { width: 40px; height: 40px; }
+  .subject-brand .brand-mark-photo, .reader-page-header .brand-mark-photo { width: 38px; height: 38px; }
+  .reader-margin-notes-bottom { grid-template-columns: 1fr; gap: 10px; margin-top: 16px; }
+}
