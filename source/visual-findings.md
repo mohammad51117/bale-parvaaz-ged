@@ -37,3 +37,7 @@ The shared-context block now uses a premium folio header with a labeled “SHARE
 ## Full-width question content verification
 
 The question number and bookmark remain together in the compact header, while the prompt, choices, fill-in field, and feedback now begin below the header at the full available width. Desktop and mobile captures of Questions 506–507 and 508 confirm that the former empty column beneath the number has been removed.
+
+## Classroom readability verification
+
+Answer choices now use larger, heavier type with taller choice boxes and larger answer letters. The shared-source header, subject-part label, context marker, and extracted context copy have also been enlarged and darkened for projection readability. Desktop and mobile captures of the figure set and Question 508 confirm the typography is more legible while the responsive layout remains intact.

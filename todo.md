@@ -1,4 +1,13 @@
-# Full-width question content
+# Classroom readability pass
+
+- [x] Increase answer-option font size, weight, line height, and choice-letter scale.
+- [x] Increase shared-source heading, marker, and extracted-context readability.
+- [x] Preserve comfortable box sizing and accessible contrast on desktop and mobile.
+- [x] Verify the reader at a classroom-sized viewport and on mobile.
+- [x] Run type check, production build, screenshots, and checkpoint the readability update.
+
+## Previous full-width question content
+
 
 - [x] Remove the reserved column beneath the question number.
 - [x] Keep the question number and save icon together at the top.
