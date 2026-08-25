@@ -27,9 +27,6 @@ import { supplementalEconomicsVisuals } from "@/lib/supplementalEconomicsVisuals
 import { supplementalMcGrawHillGroups, supplementalMcGrawHillQuestions } from "@/lib/supplementalMcGrawHill";
 import { supplementalMcGrawHillVisuals } from "@/lib/supplementalMcGrawHillVisuals";
 import { getInitialWorkbookFilter, getWorkbookSource, matchesWorkbook, persistWorkbookFilter, type WorkbookFilter, workbookFilterOptions } from "@/lib/workbookSources";
-import { demoLessons } from "@/lib/lessonDemos";
-import { socialStudiesLessons } from "@/lib/socialStudiesLessons";
-import { completeSocialLessons } from "@/lib/completeSocialLessons";
 import { useLocation } from "wouter";
 
 type PageRecord = { page: number; title: string; section: string; kind: string; hasVisual: boolean; content: string; wordCount: number };
@@ -142,16 +139,6 @@ export default function Home() {
         <nav className="rail-nav" aria-label="Study navigation">
           <button className="rail-link active" onClick={() => { setSubject("All subjects"); setShowOpening(false); }}><LayoutDashboard size={17} /><span>Study desk</span><span className="rail-key">⌘ 1</span></button>
           <button className={`rail-link ${showOpening ? "active" : ""}`} onClick={() => setShowOpening(true)}><BookOpen size={17} /><span>Opening pages</span><span className="rail-count">05</span></button>
-          <div className="rail-section-label">Lessons</div>
-          {demoLessons.map((lesson) => (
-            <button key={lesson.id} className="rail-link subject-link lesson-rail-link" onClick={() => { setMobileRail(false); setLocation(`/lesson/${lesson.id}`); }}>
-              <BookOpen size={15} style={{ color: lesson.accent }} />
-              <span>{lesson.shortSubject}</span>
-              <span className="rail-count">01</span>
-            </button>
-          ))}
-          <div className="rail-link lesson-rail-summary"><BookOpen size={15} style={{ color: subjectColors["Social Studies"] }} /><span>McGraw Hill lessons</span><span className="rail-count">{completeSocialLessons.length}</span></div>
-          <div className="lesson-rail-sublist">{socialStudiesLessons.map((lesson) => <button key={lesson.id} className="rail-link lesson-rail-subitem" onClick={() => { setMobileRail(false); setLocation(`/lesson/${lesson.id}`); }}><span className="lesson-rail-line" style={{ backgroundColor: lesson.accent }} /><span>{lesson.shortSubject}</span><span className="rail-count">01</span></button>)}</div>
           <div className="rail-section-label">The four sections</div>
           {bookData.subjects.map((item) => (
             <button key={item.name} className={`rail-link subject-link ${subject === item.name ? "active" : ""}`} onClick={() => { setLocation(`/subject/${item.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "")}`); }}>
@@ -189,8 +176,6 @@ export default function Home() {
               </section>
 
               <section className="stats-row" aria-label="Study progress"><div className="stat-card stat-card-primary"><div className="stat-label">BOOK CONVERSION</div><div className="stat-value">{formatNumber(pages.length)} <small>pages</small></div><div className="stat-progress"><span style={{ width: `${Math.round((activePage / 683) * 100)}%` }} /></div><div className="stat-foot"><span>Current folio {activePage} of 683</span><strong>{Math.round((activePage / 683) * 100)}%</strong></div></div><div className="stat-card"><div className="stat-label">BOOKMARKED</div><div className="stat-value">{String(bookmarked.length).padStart(2, "0")} <small>pages</small></div><div className="stat-foot"><span>Saved for a second pass</span><Bookmark size={16} /></div></div><div className="stat-card"><div className="stat-label">QUESTION BANK</div><div className="stat-value">{formatNumber(totalQuestionCount)} <small>questions</small></div><div className="stat-foot"><span>{activeWorkbookCount?.shortLabel || "All sources"}</span><strong>{formatNumber(filteredGroups.length)} sets</strong></div></div></section>
-
-              <section className="lesson-dashboard" aria-labelledby="lesson-dashboard-title"><div className="section-dashboard-heading"><div><div className="eyebrow"><BookOpen size={14} /> LESSONS</div><h2 id="lesson-dashboard-title">Start with one clear lesson.</h2></div><p>One carefully grounded demo from the source book for each GED section.</p></div><div className="lesson-dashboard-grid">{demoLessons.map((lesson) => <button key={lesson.id} className="lesson-dashboard-card" onClick={() => setLocation(`/lesson/${lesson.id}`)}><span className="lesson-card-top"><span className="section-dashboard-dot" style={{ backgroundColor: lesson.accent }} /><span className="lesson-count">01 LESSON</span></span><span className="section-dashboard-name">{lesson.shortSubject}</span><strong>{lesson.title}</strong><span className="lesson-card-source">Source folio {lesson.sourcePage} · PDF page preserved</span><ArrowRight size={16} /></button>)}</div></section>
 
               <section className="section-dashboard" aria-labelledby="section-dashboard-title"><div className="section-dashboard-heading"><div><div className="eyebrow">THE FOUR SECTIONS</div><h2 id="section-dashboard-title">Choose a subject, then study by label.</h2></div><p>All counts include the main book and both supplemental workbooks.</p></div><div className="section-dashboard-grid">{sectionQuestionCounts.map((item) => { const slug = item.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, ""); return <button key={item.name} className="section-dashboard-card" onClick={() => setLocation(`/subject/${slug}`)}><span className="section-dashboard-dot" style={{ backgroundColor: subjectColors[item.name] }} /><span className="section-dashboard-name">{item.name.replace("Reasoning Through ", "").replace("Mathematical ", "Math ")}</span><strong>{formatNumber(item.questionCount)}</strong><span className="section-dashboard-label">questions across all books</span><ArrowRight size={16} /></button>; })}</div></section>
 
