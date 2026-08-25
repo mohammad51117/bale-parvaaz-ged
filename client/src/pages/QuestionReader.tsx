@@ -20,6 +20,7 @@ import { supplementalPrincetonSocialStudiesTest2Visuals } from "@/lib/supplement
 import { getWorkbookSource } from "@/lib/workbookSources";
 import { getSupplementalSocialStudiesSourcePage } from "@/lib/supplementalSocialStudiesSourcePages";
 import { brandLogoAlt, brandLogoUrl } from "@/lib/branding";
+import { publicGedVisualAsset } from "@/lib/publicAssetUrls";
 import { usePersistentStudyLibrary } from "@/lib/persistentLibrary";
 
 type Group = { id: string; section: string; questionStart: number; questionEnd: number; rangeLabel: string; contextType: string; marker: string; context: string; sourcePages: readonly number[]; visualPage?: number | null; questions: readonly { number: number; text: string }[] };
@@ -83,7 +84,9 @@ export default function QuestionReader() {
     const url = persistentUrl || getSupplementalSocialStudiesSourcePage(group.id, page);
     return url ? { page, url } : null;
   }).filter((item): item is { page: number; url: string } => Boolean(item));
-  const legacyVisualUrl = group.visualPage ? allVisualAssets[group.visualPage] : undefined;
+  const legacyVisualUrl = group.visualPage
+    ? publicGedVisualAsset(group.visualPage, allVisualAssets[group.visualPage] || "")
+    : undefined;
   const visualSourceLabel = group.visualPage ? group.visualPage >= 6000 ? group.visualPage - 6000 : group.visualPage >= 4000 ? group.visualPage - 4000 : group.visualPage >= 3000 ? group.visualPage - 3000 : group.visualPage >= 2000 ? group.visualPage - 2000 : group.visualPage >= 1000 ? group.visualPage - 1000 : group.visualPage : group.sourcePages[0];
   const sourceVisuals = sourcePageVisuals.length > 0 ? sourcePageVisuals : legacyVisualUrl ? [{ page: visualSourceLabel, url: legacyVisualUrl }] : [];
   const answeredCount = activeQuestions.filter((question) => submitted[question.number]).length;

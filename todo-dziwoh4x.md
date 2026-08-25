@@ -13,3 +13,9 @@
 - [x] Write a complete Bolt-ready implementation brief with media and Supabase requirements
 - [x] Identify the exact books and supplemental workbooks represented in the current GED app
 - [x] Prepare the Supabase Storage upload checklist for the user
+- [x] Inspect the user-provided logo and eight source PDFs
+- [x] Map the provided files to the GED workbook and page model
+- [x] Upload or prepare the provided media for Supabase and update app asset URLs
+- [x] Verify image, logo, and PDF/page loading in the reader
+- [x] Resolve the stale `asset-book-steck-vaughn-pdf` record, which referenced a book not included in the provided attachments
+- [x] Remove and verify the stale Steck-Vaughn PDF asset after the user confirmed the intended action

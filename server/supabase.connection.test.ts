@@ -17,4 +17,21 @@ describe("Supabase connection", () => {
 
     expect(response.status).toBe(200);
   }, 15_000);
+
+  it("accepts the configured service role key at the Storage endpoint", async () => {
+    const url = process.env.VITE_SUPABASE_URL;
+    const serviceRoleKey = process.env.SUPABASE_SERVICE_ROLE_KEY?.replace(/\\s/g, "");
+
+    expect(url).toBeTruthy();
+    expect(serviceRoleKey).toBeTruthy();
+
+    const response = await fetch(`${url}/storage/v1/bucket`, {
+      headers: {
+        apikey: serviceRoleKey!,
+        Authorization: `Bearer ${serviceRoleKey!}`,
+      },
+    });
+
+    expect(response.status).toBe(200);
+  }, 15_000);
 });

@@ -39,6 +39,7 @@ import { getInitialWorkbookFilter, getWorkbookSource, matchesWorkbook, persistWo
 import { getSupplementalSocialStudiesSourcePage } from "@/lib/supplementalSocialStudiesSourcePages";
 import { useLocation } from "wouter";
 import { brandLogoAlt, brandLogoUrl } from "@/lib/branding";
+import { publicGedPageAsset, publicGedVisualAsset } from "@/lib/publicAssetUrls";
 import { usePersistentStudyLibrary } from "@/lib/persistentLibrary";
 
 type PageRecord = { page: number; title: string; section: string; kind: string; hasVisual: boolean; content: string; wordCount: number };
@@ -51,13 +52,14 @@ const subjectColors: Record<string, string> = {
   Science: "#5C7399",
 };
 
-const openingPages = [
+const openingPageFallbacks = [
   "/manus-storage/page-01_ded85030.jpg",
   "/manus-storage/page-02_03bca7f4.jpg",
   "/manus-storage/page-03_7ca5a70e.jpg",
   "/manus-storage/page-04_8b9f1476.jpg",
   "/manus-storage/page-05_20410d7d.jpg",
 ];
+const openingPages = openingPageFallbacks.map((fallback, index) => publicGedPageAsset("main/opening", index + 1, fallback, 2));
 
 function formatNumber(value: number) {
   return new Intl.NumberFormat("en-US").format(value);
@@ -127,8 +129,13 @@ export default function Home() {
   const isSupplementWorkbook = workbookFilter === "economics" || workbookFilter === "mcgraw" || workbookFilter === "battery" || workbookFilter === "kaplan" || workbookFilter === "kaplan-pretest" || workbookFilter === "princeton";
   const visibleActiveGroup = filteredGroups.find((group) => group.id === activeGroupId) ?? filteredGroups[0];
   const visibleActiveWorkbookSource = visibleActiveGroup ? getWorkbookSource(visibleActiveGroup.id) : null;
-  const visibleLegacyVisual = visibleActiveGroup?.visualPage ? allVisualAssets[visibleActiveGroup.visualPage] : undefined;
-  const visibleSourcePageImage = visibleActiveGroup ? getSupplementalSocialStudiesSourcePage(visibleActiveGroup.id, visibleActiveGroup.sourcePages[0]) : undefined;
+  const visibleLegacyVisual = visibleActiveGroup?.visualPage
+    ? publicGedVisualAsset(visibleActiveGroup.visualPage, allVisualAssets[visibleActiveGroup.visualPage] || "")
+    : undefined;
+  const visibleSourcePageImage = visibleActiveGroup
+    ? (visibleActiveWorkbookSource ? persistentLibrary?.sourcePageUrls[`${visibleActiveWorkbookSource.id}:${visibleActiveGroup.sourcePages[0]}`] : undefined)
+      ?? getSupplementalSocialStudiesSourcePage(visibleActiveGroup.id, visibleActiveGroup.sourcePages[0])
+    : undefined;
   const visibleVisualUrl = visibleSourcePageImage ?? visibleLegacyVisual;
   const visibleVisualPage = visibleSourcePageImage ? visibleActiveGroup?.sourcePages[0] : visibleActiveGroup?.visualPage;
   const filteredQuestionCount = filteredGroups.reduce((sum, group) => sum + group.questions.length, 0);
@@ -208,7 +215,7 @@ export default function Home() {
           ) : (
             <>
               <section className="desk-hero">
-                <div className="hero-copy"><div className="eyebrow"><GraduationCap size={15} /> YOUR GED PRACTICE DESK</div><h1>Pick up where your pencil left off.</h1><p>One question closer to test day. Browse the original book page by page, or jump straight into a section that needs your attention.</p><div className="hero-actions"><button className="button-primary" onClick={() => goToPage(activePage)}><BookOpen size={17} /> Continue reading</button><button className="button-text" onClick={() => setShowOpening(true)}>View the opening <ArrowRight size={16} /></button></div></div><div className="hero-art"><img src="/manus-storage/parvaaz-hero_e37cae69.jpg" alt="Open GED workbook and pencil on a warm study desk" /><div className="hero-art-caption"><span>QUESTION BANK / {formatNumber(totalQuestionCount)} QUESTIONS</span><strong>Page-faithful practice, made navigable.</strong></div></div>
+                <div className="hero-copy"><div className="eyebrow"><GraduationCap size={15} /> YOUR GED PRACTICE DESK</div><h1>Pick up where your pencil left off.</h1><p>One question closer to test day. Browse the original book page by page, or jump straight into a section that needs your attention.</p><div className="hero-actions"><button className="button-primary" onClick={() => goToPage(activePage)}><BookOpen size={17} /> Continue reading</button><button className="button-text" onClick={() => setShowOpening(true)}>View the opening <ArrowRight size={16} /></button></div></div><div className="hero-art"><img src={openingPages[0]} alt="Opening page from the GED practice workbook" /><div className="hero-art-caption"><span>QUESTION BANK / {formatNumber(totalQuestionCount)} QUESTIONS</span><strong>Page-faithful practice, made navigable.</strong></div></div>
               </section>
 
               <section className="stats-row" aria-label="Study progress"><div className="stat-card stat-card-primary"><div className="stat-label">BOOK CONVERSION</div><div className="stat-value">{formatNumber(pages.length)} <small>pages</small></div><div className="stat-progress"><span style={{ width: `${Math.round((activePage / 683) * 100)}%` }} /></div><div className="stat-foot"><span>Current folio {activePage} of 683</span><strong>{Math.round((activePage / 683) * 100)}%</strong></div></div><div className="stat-card"><div className="stat-label">BOOKMARKED</div><div className="stat-value">{String(bookmarked.length).padStart(2, "0")} <small>pages</small></div><div className="stat-foot"><span>Saved for a second pass</span><Bookmark size={16} /></div></div><div className="stat-card"><div className="stat-label">QUESTION BANK</div><div className="stat-value">{formatNumber(totalQuestionCount)} <small>questions</small></div><div className="stat-foot"><span>{activeWorkbookCount?.shortLabel || "All sources"}</span><strong>{formatNumber(filteredGroups.length)} sets</strong></div></div></section>
@@ -236,7 +243,7 @@ export default function Home() {
                   <div className={`group-context-panel ${activeGroup?.contextType}`}>
                     <div className="eyebrow">{activeGroup?.contextType} · {activeGroup?.rangeLabel}</div>
                     <h3>{activeGroup?.marker}</h3>
-                    {activeContextText && <pre>{activeContextText}</pre>}{activeGroup?.visualPage && allVisualAssets[activeGroup.visualPage] && <img className="source-visual-image reader-visual-image" src={allVisualAssets[activeGroup.visualPage]} alt={`Original ${activeGroup.contextType} for ${activeGroup.rangeLabel}, source folio ${activeGroup.visualPage}`} />}
+                    {activeContextText && <pre>{activeContextText}</pre>}{visibleVisualUrl && <img className="source-visual-image reader-visual-image" src={visibleVisualUrl} alt={`Original ${activeGroup?.contextType} for ${activeGroup?.rangeLabel}, source folio ${visibleVisualPage ?? activeGroup?.visualPage ?? activeGroup?.sourcePages[0]}`} />}
                     <div className="group-context-foot"><span>Source pages {activeGroup?.sourcePages[0]}–{activeGroup?.sourcePages[1]}</span><span>{activeGroup?.questions.length} linked questions</span></div>
                   </div>
                   <div className="group-questions">

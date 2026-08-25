@@ -1,4 +1,5 @@
 import { getWorkbookKey } from "./workbookSources";
+import { publicGedPageAsset } from "./publicAssetUrls";
 
 export const supplementalSocialStudiesSourcePages = {
   battery: {
@@ -124,5 +125,7 @@ export const supplementalSocialStudiesSourcePages = {
 export function getSupplementalSocialStudiesSourcePage(groupId: string, page: number): string | undefined {
   const workbookKey = getWorkbookKey(groupId);
   const sourcePages = supplementalSocialStudiesSourcePages[workbookKey as keyof typeof supplementalSocialStudiesSourcePages];
-  return sourcePages ? (sourcePages as Record<number, string>)[page] : undefined;
+  const fallback = sourcePages ? (sourcePages as Record<number, string>)[page] : undefined;
+  const folder = workbookKey === "kaplan-pretest" ? "kaplan-pretest" : workbookKey;
+  return fallback ? publicGedPageAsset(folder, page, fallback) : undefined;
 }
