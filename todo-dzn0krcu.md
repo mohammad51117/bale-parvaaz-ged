@@ -50,3 +50,11 @@
 - [x] Apply the portrait logo consistently to the study desk, subject index, and reader.
 - [x] Verify crop, contrast, legibility, and responsive behavior.
 - [ ] Save a checkpoint so the logo update is live.
+
+## Remove unwanted logo mark
+
+- [x] Inspect the portrait logo treatment and identify the unwanted cross-like mark.
+- [x] Create a clean portrait-only logo asset with no decorative cross or accent.
+- [x] Replace the shared logo reference and verify all route placements.
+- [x] Check desktop and mobile logo rendering.
+- [ ] Save a checkpoint so the corrected logo is live.
