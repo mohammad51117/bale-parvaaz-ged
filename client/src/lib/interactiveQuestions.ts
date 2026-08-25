@@ -7,6 +7,8 @@ export const interactiveQuestions = {
       "number": 1,
       "groupId": "group-standalone-1",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If              , what is the value of     when x is –5?",
       "choices": [
         {
@@ -35,6 +37,8 @@ export const interactiveQuestions = {
       "number": 2,
       "groupId": "group-standalone-2",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the correct way of writing “x is less than 5 but greater than or\n  equal to –3”?",
       "choices": [
         {
@@ -55,6 +59,8 @@ export const interactiveQuestions = {
       "number": 3,
       "groupId": "group-standalone-3",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If             , which of the following is a possible value of x?",
       "choices": [
         {
@@ -83,6 +89,8 @@ export const interactiveQuestions = {
       "number": 4,
       "groupId": "group-standalone-4",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Jim rented a lawnmower from 9:00 a.m. until 5:30 p.m. He paid a\n  total of $53.04. What was the hourly rental fee? (Note: You may not\n  use a calculator for this problem.)",
       "choices": [
         {
@@ -111,6 +119,8 @@ export const interactiveQuestions = {
       "number": 5,
       "groupId": "group-standalone-5",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the value of           when        and       ?",
       "choices": [
         {
@@ -139,6 +149,8 @@ export const interactiveQuestions = {
       "number": 6,
       "groupId": "group-standalone-6",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Alex earns a weekly base salary of $650 as a car salesman. He also\n earns a 9% commission on his monthly sales after the first $10,000.\n What was his total salary this month if he sold 7 cars whose average\n price was $4,500 each?",
       "choices": [
         {
@@ -167,6 +179,8 @@ export const interactiveQuestions = {
       "number": 7,
       "groupId": "group-standalone-7",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Simplify the expression completely.",
       "choices": [
         {
@@ -187,6 +201,8 @@ export const interactiveQuestions = {
       "number": 8,
       "groupId": "group-standalone-8",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A human hair has an average diameter of           meters. What is the\n maximum number of human hairs that could fit side by side (without\n overlapping) on a microscope slide that is 50 millimeters wide? Write\n your answer in scientific notation.",
       "choices": [
         {
@@ -207,6 +223,8 @@ export const interactiveQuestions = {
       "number": 9,
       "groupId": "group-standalone-9",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Bob is planning a birthday party for his son and has a maximum\n   budget of $475 to spend. He intends to rent a party room that costs\n   $125 for the day. He expects a total of 35 people to attend the party\n   and plans to provide them all with lunch. Which of the following\n   inequalities shows how to calculate the amount x that Bob can spend\n   on lunch for each person?",
       "choices": [
         {
@@ -227,6 +245,8 @@ export const interactiveQuestions = {
       "number": 10,
       "groupId": "group-standalone-10",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Four years ago, Jenny’s annual salary was $22,625. This year, her\n    salary was $32,433. What will her new salary be in 5 years if it\n    continues to rise at the same linear rate?",
       "choices": [
         {
@@ -255,6 +275,8 @@ export const interactiveQuestions = {
       "number": 11,
       "groupId": "group-standalone-11",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Mr. White’s math class has n students. Mrs. Black’s math class has\n    22 students fewer than triple the number of students in Mr. White’s\n    class. Which expression shows the number of students in Mrs.\n    Black’s class in terms of n?",
       "choices": [
         {
@@ -275,6 +297,8 @@ export const interactiveQuestions = {
       "number": 12,
       "groupId": "group-12-14",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Denise plots the data on a coordinate grid. She begins by plotting the\n     data for Week 3 and Week 11.\n     What are the coordinates of the two points that Denise plots?",
       "choices": [
         {
@@ -303,6 +327,8 @@ export const interactiveQuestions = {
       "number": 13,
       "groupId": "group-12-14",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Denise creates an equation that will allow her to predict the height\n     of the sunflower in the future, where x is the week and y is the height.\n     Which of the following gives the correct equation?",
       "choices": [
         {
@@ -323,6 +349,8 @@ export const interactiveQuestions = {
       "number": 14,
       "groupId": "group-12-14",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the sunflower continues to grow at the same rate, at what week\n     will it reach a height of 16.6 cm?",
       "choices": [
         {
@@ -351,6 +379,8 @@ export const interactiveQuestions = {
       "number": 15,
       "groupId": "group-standalone-15",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A doctor measured the blood sugar levels of one of her patients\n   shortly after giving the patient a candy bar to eat. The graph below\n   shows the patient’s blood sugar level (y) x hours after she ate the\n   candy bar.\n\n  How long after eating the candy bar was the patient’s blood sugar\n  level the highest?",
       "choices": [
         {
@@ -379,6 +409,8 @@ export const interactiveQuestions = {
       "number": 16,
       "groupId": "group-standalone-16",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A candy store sells soda in cone-shaped cups with the dimensions\n   shown here:\n\n    What volume of soda can each cup hold? Give your answer to the\n    nearest tenth of a cubic inch. The formula for the volume V of a cone\n    with radius r and height h is          .",
       "choices": [
         {
@@ -407,6 +439,8 @@ export const interactiveQuestions = {
       "number": 17,
       "groupId": "group-standalone-17",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Anne plans to spend no more than $60 ordering socks for school.\n    The online sock company charges a shipping fee of $15 for any order.\n    The inequality             represents the number of pairs of socks\n    Anne can order from the company. What is the maximum number of\n    pairs of socks that Anne can buy?\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -418,6 +452,8 @@ export const interactiveQuestions = {
       "number": 18,
       "groupId": "group-18-19",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the average score of the first nine students whose scores\n    were represented on the line plot? Give your answer to one decimal\n    place.",
       "choices": [
         {
@@ -446,6 +482,8 @@ export const interactiveQuestions = {
       "number": 19,
       "groupId": "group-18-19",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What score did the tenth student get in the quiz?",
       "choices": [
         {
@@ -474,6 +512,8 @@ export const interactiveQuestions = {
       "number": 20,
       "groupId": "group-20-22",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the probability that it will not snow on Tuesday?",
       "choices": [
         {
@@ -502,6 +542,8 @@ export const interactiveQuestions = {
       "number": 21,
       "groupId": "group-20-22",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the probability that it will snow on all three days?\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -513,6 +555,8 @@ export const interactiveQuestions = {
       "number": 22,
       "groupId": "group-20-22",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the probability that it will snow on two out of three days?\n    Round your answer to the nearest whole number.",
       "choices": [
         {
@@ -541,6 +585,8 @@ export const interactiveQuestions = {
       "number": 23,
       "groupId": "group-standalone-23",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Using the information in the following chart, estimate to the nearest\n    thousand the total number of tickets sold at the concert hall. (Note:\n    You may not use a calculator.)\n  Concert            Tickets Sold\n\n The Ghastly Girls   4,721\n Two Directions      5,301\n Taylor Speedy       8,783\n Maroon 6            270\n The Subdominants 11,802",
       "choices": [
         {
@@ -569,6 +615,8 @@ export const interactiveQuestions = {
       "number": 24,
       "groupId": "group-standalone-24",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Egypt’s Great Pyramid is 150 m tall and has a square base with a\n    length of 225 m. What is the approximate volume of the pyramid in\n    cubic meters? The formula for the volume V of a pyramid of base\n    area B and height h is given by       .",
       "choices": [
         {
@@ -597,6 +645,8 @@ export const interactiveQuestions = {
       "number": 25,
       "groupId": "group-25-27",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the range of Set A?",
       "choices": [
         {
@@ -625,6 +675,8 @@ export const interactiveQuestions = {
       "number": 26,
       "groupId": "group-25-27",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the median of Set A?",
       "choices": [
         {
@@ -653,6 +705,8 @@ export const interactiveQuestions = {
       "number": 27,
       "groupId": "group-25-27",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the arithmetic mean (average) of Set A?",
       "choices": [
         {
@@ -681,6 +735,8 @@ export const interactiveQuestions = {
       "number": 28,
       "groupId": "group-standalone-28",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Four hundred eighty yards is what fraction of a mile? (1 mile =\n   1,760 yards)",
       "choices": [
         {
@@ -701,6 +757,8 @@ export const interactiveQuestions = {
       "number": 29,
       "groupId": "group-standalone-29",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Tim measures the lengths of four cats’ tails and records his results in\n   the following table.\nCat             Tail Length (Inches)\n\nMrs. Whiskers\n\nCat                Tail Length (Inches)\n\nBootsie\n\nMr. Bigglesworth\n\nCatty McCatface\n\n    Which cat has the longest tail? (Note: You may not use a calculator.)",
       "choices": [
         {
@@ -729,6 +787,8 @@ export const interactiveQuestions = {
       "number": 30,
       "groupId": "group-standalone-30",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The U.S. Senate has 100 senators. In 2015, only 20 senators were\n    female. What is the ratio of female senators to male senators? (Note:\n    You may not use a calculator.)",
       "choices": [
         {
@@ -757,6 +817,8 @@ export const interactiveQuestions = {
       "number": 31,
       "groupId": "group-standalone-31",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Alex test drives four cars and records the distance traveled and the\n    gallons of gas used in each case in the following table.\n\nCar Distance Driven (Miles) Gas Used (Gallons)\n\nA     102.3                    11.5\nB     78.1                     7.9\nC     57.8                     6.2\nD     142.9                    15.9\n\n    Which car has the best gas mileage (miles per gallon)?",
       "choices": [
         {
@@ -785,6 +847,8 @@ export const interactiveQuestions = {
       "number": 32,
       "groupId": "group-32-33",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Suppose you roll the die 66 times. How many times are you likely to\n    roll a 6?",
       "choices": [
         {
@@ -813,6 +877,8 @@ export const interactiveQuestions = {
       "number": 33,
       "groupId": "group-32-33",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Suppose you roll the die three times. What is the probability of not\n    rolling any 1s during the three rolls? Express your answer as a\n    fraction reduced to its lowest terms.\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -824,6 +890,8 @@ export const interactiveQuestions = {
       "number": 34,
       "groupId": "group-standalone-34",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Monthly sales of a particular brand of smartphone are inversely\n    proportional to the number of occurrences of exploding cellphone\n    batteries during that month. If 88 million phones were sold when\n    there were 2 exploding batteries, how many cell phones would be\n    sold during a month in which 22 batteries exploded?",
       "choices": [
         {
@@ -852,6 +920,8 @@ export const interactiveQuestions = {
       "number": 35,
       "groupId": "group-standalone-35",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The scale on a blueprint for a boat is 2 cm = 5 meters. If the length\n    of the boat on the blueprint measures 7.5 cm, how long is the actual\n\n    boat?",
       "choices": [
         {
@@ -880,6 +950,8 @@ export const interactiveQuestions = {
       "number": 36,
       "groupId": "group-standalone-36",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A New York City taxi charges an initial fee of $2.50 plus $0.50 for\n    every    of a mile traveled. If Jim’s total fare (not including tip)\n    equals $14.50, how many miles did Jim travel?",
       "choices": [
         {
@@ -908,6 +980,8 @@ export const interactiveQuestions = {
       "number": 37,
       "groupId": "group-standalone-37",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Arnold invested $700 in a savings account. After one year, his\n    account balance was $726.25. What percent annual interest did his\n    bank pay?\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -919,6 +993,8 @@ export const interactiveQuestions = {
       "number": 38,
       "groupId": "group-38-39",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following functions represents the total payroll (P) that\n    Becky’s restaurant pays for all of these types of workers?",
       "choices": [
         {
@@ -939,6 +1015,8 @@ export const interactiveQuestions = {
       "number": 39,
       "groupId": "group-38-39",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Becky employs 5 cooks and can spend no more than $9,825 per\n    week on the payroll for all her cooks and waiters. What is the\n    maximum number of waiters that she can employ?",
       "choices": [
         {
@@ -967,6 +1045,8 @@ export const interactiveQuestions = {
       "number": 40,
       "groupId": "group-standalone-40",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If         , what does   equal?",
       "choices": [
         {
@@ -995,6 +1075,8 @@ export const interactiveQuestions = {
       "number": 41,
       "groupId": "group-41-42",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Sid rents a large van with 3 professional movers for 5 hours and\n    drives a total of 42 miles. How much will the company charge him\n    (not including tips or taxes)?\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -1006,6 +1088,8 @@ export const interactiveQuestions = {
       "number": 42,
       "groupId": "group-41-42",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Jenny’s moving bill was $450 before taxes and tips. If taxes are 6%\n    and she also wants to tip her three professional movers $20 each,\n    what does her total bill equal?",
       "choices": [
         {
@@ -1034,6 +1118,8 @@ export const interactiveQuestions = {
       "number": 43,
       "groupId": "group-43-45",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What are the coordinates of point A?",
       "choices": [
         {
@@ -1062,6 +1148,8 @@ export const interactiveQuestions = {
       "number": 44,
       "groupId": "group-43-45",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the slope of the line?",
       "choices": [
         {
@@ -1082,6 +1170,8 @@ export const interactiveQuestions = {
       "number": 45,
       "groupId": "group-43-45",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the equation of the line?",
       "choices": [
         {
@@ -1102,6 +1192,8 @@ export const interactiveQuestions = {
       "number": 46,
       "groupId": "group-standalone-46",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A car dealership offers 45% off all its cars during its annual sale.\n  Jessica pays $7,150 for her discounted vehicle. What was the original\n  price of the car? Round your answer to the nearest dollar.",
       "choices": [
         {
@@ -1130,6 +1222,8 @@ export const interactiveQuestions = {
       "number": 47,
       "groupId": "group-standalone-47",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "On a sunny day, a tree casts a shadow that is 33 feet long. At the\n  same time, a nearby 4-foot-tall mailbox casts a shadow that is 5.5 feet\n  long. What is the height of the tree? Round your answer to the nearest\n  foot.",
       "choices": [
         {
@@ -1158,6 +1252,8 @@ export const interactiveQuestions = {
       "number": 48,
       "groupId": "group-standalone-48",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The hypotenuse of a right triangle is 17 inches. If one of the legs of\n    the triangle is 8 inches long, what is the length of the other leg?",
       "choices": [
         {
@@ -1186,6 +1282,8 @@ export const interactiveQuestions = {
       "number": 49,
       "groupId": "group-49-51",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the value of A minus E?",
       "choices": [
         {
@@ -1214,6 +1312,8 @@ export const interactiveQuestions = {
       "number": 50,
       "groupId": "group-49-51",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the product of A times C times D times E?",
       "choices": [
         {
@@ -1242,6 +1342,8 @@ export const interactiveQuestions = {
       "number": 51,
       "groupId": "group-49-51",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is true?",
       "choices": [
         {
@@ -1262,6 +1364,8 @@ export const interactiveQuestions = {
       "number": 52,
       "groupId": "group-standalone-52",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If            , which of the following is a possible value of x?",
       "choices": [
         {
@@ -1290,6 +1394,8 @@ export const interactiveQuestions = {
       "number": 53,
       "groupId": "group-standalone-53",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "is equivalent to which of the following?",
       "choices": [
         {
@@ -1310,6 +1416,8 @@ export const interactiveQuestions = {
       "number": 54,
       "groupId": "group-standalone-54",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A cube has a surface area of 216 square inches. What is its volume\n    in cubic inches?",
       "choices": [
         {
@@ -1338,6 +1446,8 @@ export const interactiveQuestions = {
       "number": 55,
       "groupId": "group-standalone-55",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "is equivalent to which of the following?",
       "choices": [
         {
@@ -1358,6 +1468,8 @@ export const interactiveQuestions = {
       "number": 56,
       "groupId": "group-standalone-56",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "is between which numbers?",
       "choices": [
         {
@@ -1386,6 +1498,8 @@ export const interactiveQuestions = {
       "number": 57,
       "groupId": "group-57-59",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What fraction of the nuts were cashews? Reduce your answer to its\n   lowest terms.",
       "choices": [
         {
@@ -1406,6 +1520,8 @@ export const interactiveQuestions = {
       "number": 58,
       "groupId": "group-57-59",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Steven takes 2 nuts out of the bag without looking at them or\n   replacing them. What is the probability that both of the nuts are\n   peanuts? Reduce your answer to its lowest terms.",
       "choices": [
         {
@@ -1426,6 +1542,8 @@ export const interactiveQuestions = {
       "number": 59,
       "groupId": "group-57-59",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the bag of nuts cost Steven $5.20, what was the average cost per\n  nut?",
       "choices": [
         {
@@ -1454,6 +1572,8 @@ export const interactiveQuestions = {
       "number": 60,
       "groupId": "group-standalone-60",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Solve the following equation for x:\n   __________",
       "choices": [],
       "correctLabel": null,
@@ -1465,6 +1585,8 @@ export const interactiveQuestions = {
       "number": 61,
       "groupId": "group-61-62",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Point A lies on the line. If the y-coordinate of point A is 5, what is\n    the value of the corresponding x-coordinate?",
       "choices": [
         {
@@ -1493,6 +1615,8 @@ export const interactiveQuestions = {
       "number": 62,
       "groupId": "group-61-62",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fill in the blanks by choosing the correct values from the brackets:\n    The value of the slope of the line is _____ [–13, –4, 4, 13], and the\n    value of the y-intercept is _____ [–13, –4, 4, 13].",
       "choices": [],
       "correctLabel": null,
@@ -1504,6 +1628,8 @@ export const interactiveQuestions = {
       "number": 63,
       "groupId": "group-standalone-63",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A company manufactures light bulbs. If 1 out of 25 light bulbs\n    produced by the company is found to be defective, how many\n    defective light bulbs will there be in a batch of 3,075 light bulbs?",
       "choices": [
         {
@@ -1532,6 +1658,8 @@ export const interactiveQuestions = {
       "number": 64,
       "groupId": "group-64-66",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the area of the rectangle? (Give your answer to the nearest\n   square inch.)",
       "choices": [
         {
@@ -1560,6 +1688,8 @@ export const interactiveQuestions = {
       "number": 65,
       "groupId": "group-64-66",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the rectangle were enlarged by a factor of 3 (so that its sides\n   became 3 times as long as they were previously), what would be the\n   ratio of the new perimeter to the old perimeter?",
       "choices": [
         {
@@ -1588,6 +1718,8 @@ export const interactiveQuestions = {
       "number": 66,
       "groupId": "group-64-66",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If rectangle ABCD were enlarged by a factor of 3 (so that its sides\n   became 3 times as long as they were previously), what would be the\n   ratio of the new area to the old area?",
       "choices": [
         {
@@ -1616,6 +1748,8 @@ export const interactiveQuestions = {
       "number": 67,
       "groupId": "group-standalone-67",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the decimal equivalent of ? (Note: You may not use a\n   calculator.)\n   __________",
       "choices": [],
       "correctLabel": null,
@@ -1627,6 +1761,8 @@ export const interactiveQuestions = {
       "number": 68,
       "groupId": "group-standalone-68",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the sum of                    ? (Note: You may not use a\n   calculator.)",
       "choices": [
         {
@@ -1647,6 +1783,8 @@ export const interactiveQuestions = {
       "number": 69,
       "groupId": "group-standalone-69",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the product of                   ? Write your answer in\n   scientific notation. (Note: You may not use a calculator.)",
       "choices": [
         {
@@ -1667,6 +1805,8 @@ export const interactiveQuestions = {
       "number": 70,
       "groupId": "group-standalone-70",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select from the options to correctly fill in the blanks.\n   Two lines that never meet are called __________ lines, and their\n   slopes are __________. Two lines that meet at right angles are called\n   ___________ lines, and their slopes are ____________.\n   Options:\n        parallel\n        perpendicular\n        equal\n        negative reciprocals",
       "choices": [],
       "correctLabel": null,
@@ -1678,6 +1818,8 @@ export const interactiveQuestions = {
       "number": 71,
       "groupId": "group-71-73",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the range of the prices in the table? (Round your answer to\n    the nearest cent.)\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -1689,6 +1831,8 @@ export const interactiveQuestions = {
       "number": 72,
       "groupId": "group-71-73",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the average price of a gallon of gasoline during the given 4-\n    week period? (Give your answer to the nearest cent.)",
       "choices": [
         {
@@ -1717,6 +1861,8 @@ export const interactiveQuestions = {
       "number": 73,
       "groupId": "group-71-73",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the average price of a gallon of gasoline continues to rise at the\n    same rate, what will 3 gallons of gasoline cost during Week 8?",
       "choices": [
         {
@@ -1745,6 +1891,8 @@ export const interactiveQuestions = {
       "number": 74,
       "groupId": "group-74-76",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following expresses       in terms of p?",
       "choices": [
         {
@@ -1765,6 +1913,8 @@ export const interactiveQuestions = {
       "number": 75,
       "groupId": "group-74-76",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following expresses           in terms of p?",
       "choices": [
         {
@@ -1789,6 +1939,8 @@ export const interactiveQuestions = {
       "number": 76,
       "groupId": "group-74-76",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following expresses             in terms of p?",
       "choices": [
         {
@@ -1813,6 +1965,8 @@ export const interactiveQuestions = {
       "number": 77,
       "groupId": "group-standalone-77",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the value of    when x is –3?",
       "choices": [
         {
@@ -1837,6 +1991,8 @@ export const interactiveQuestions = {
       "number": 78,
       "groupId": "group-78-80",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select from the options to correctly fill in the blanks.\n   Angle 2 is a/an __________ angle and is __________ to angle 1.\n   Angle 5 is a/an __________ angle and is __________ to angle 8.\n   Options:\n       acute\n       obtuse\n       reflex\n       complementary\n       supplementary\n       congruent",
       "choices": [],
       "correctLabel": null,
@@ -1848,6 +2004,8 @@ export const interactiveQuestions = {
       "number": 79,
       "groupId": "group-78-80",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the measure of angle 1? (Note: You may not use a\n   calculator.)",
       "choices": [
         {
@@ -1876,6 +2034,8 @@ export const interactiveQuestions = {
       "number": 80,
       "groupId": "group-78-80",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the value of x?\n   __________",
       "choices": [],
       "correctLabel": null,
@@ -1887,6 +2047,8 @@ export const interactiveQuestions = {
       "number": 81,
       "groupId": "group-standalone-81",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A boat’s sail is in the shape of an isosceles triangle. If the largest\n   angle of the sail is 90°, what is the measure of the smallest angle in\n   degrees?\n   __________",
       "choices": [],
       "correctLabel": null,
@@ -1898,6 +2060,8 @@ export const interactiveQuestions = {
       "number": 82,
       "groupId": "group-standalone-82",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The angles of a triangle are in a ratio of         . What is the measure\n   of the largest angle?",
       "choices": [
         {
@@ -1926,6 +2090,8 @@ export const interactiveQuestions = {
       "number": 83,
       "groupId": "group-standalone-83",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A recipe for cookies calls for    cup of brown sugar to make 2 dozen\n   cookies. If Sasha has 4.5 cups of brown sugar available and enough\n   of all the other ingredients, how many dozen cookies can he make?",
       "choices": [
         {
@@ -1954,6 +2120,8 @@ export const interactiveQuestions = {
       "number": 84,
       "groupId": "group-standalone-84",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Simplify:",
       "choices": [
         {
@@ -1974,6 +2142,8 @@ export const interactiveQuestions = {
       "number": 85,
       "groupId": "group-standalone-85",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which number equals 7 thousandths?",
       "choices": [
         {
@@ -2002,6 +2172,8 @@ export const interactiveQuestions = {
       "number": 86,
       "groupId": "group-standalone-86",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A newspaper charges advertisers a total of $5.50 for the first ten\n    words and $0.70 for each additional word. What is the cost of a 27-\n    word advert?",
       "choices": [
         {
@@ -2030,6 +2202,8 @@ export const interactiveQuestions = {
       "number": 87,
       "groupId": "group-87-88",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the average number of calories used per hour per pound of\n    weight for the four sports listed in the table? Give your answer to the\n    nearest one hundredth of a calorie.\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -2041,6 +2215,8 @@ export const interactiveQuestions = {
       "number": 88,
       "groupId": "group-87-88",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following could be used to calculate how many\n    calories a 170-pound man would use by cycling for 20 minutes?",
       "choices": [
         {
@@ -2061,6 +2237,8 @@ export const interactiveQuestions = {
       "number": 89,
       "groupId": "group-89-91",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the innermost angle of one slice of the pizza?\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -2072,6 +2250,8 @@ export const interactiveQuestions = {
       "number": 90,
       "groupId": "group-89-91",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the perimeter of one slice of the pizza?",
       "choices": [
         {
@@ -2092,6 +2272,8 @@ export const interactiveQuestions = {
       "number": 91,
       "groupId": "group-89-91",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the total area of two slices of the pizza?",
       "choices": [
         {
@@ -2112,6 +2294,8 @@ export const interactiveQuestions = {
       "number": 92,
       "groupId": "group-92-93",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Find the values of x and y, respectively.",
       "choices": [
         {
@@ -2140,6 +2324,8 @@ export const interactiveQuestions = {
       "number": 93,
       "groupId": "group-92-93",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If lawn fertilizer costs $0.15 per square meter, how much will it cost\n  Jack to fertilize his lawn? Round your answer to the nearest dollar.",
       "choices": [
         {
@@ -2168,6 +2354,8 @@ export const interactiveQuestions = {
       "number": 94,
       "groupId": "group-standalone-94",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the radius (in cm) of a circle whose circumference happens\n  to equal its area (in cm2)?",
       "choices": [
         {
@@ -2196,6 +2384,8 @@ export const interactiveQuestions = {
       "number": 95,
       "groupId": "group-standalone-95",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the probability of tossing 5 heads in a row when using a fair\n   coin?",
       "choices": [
         {
@@ -2216,6 +2406,8 @@ export const interactiveQuestions = {
       "number": 96,
       "groupId": "group-standalone-96",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The temperature at 5:00 a.m. was –11 degrees. By 8:00 a.m., the\n  temperature is –2 degrees. If the temperature continues to rise at the\n  same rate, what will the temperature be at 2:00 p.m.?",
       "choices": [
         {
@@ -2244,6 +2436,8 @@ export const interactiveQuestions = {
       "number": 97,
       "groupId": "group-standalone-97",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If sales tax is 6 percent, what would be the tax on a shirt that cost\n    $68.30? Round your answer to the nearest cent.",
       "choices": [
         {
@@ -2272,6 +2466,8 @@ export const interactiveQuestions = {
       "number": 98,
       "groupId": "group-standalone-98",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The dimensions of a rectangular prism are 9 inches wide by 18\n    inches long by 2 feet tall. What is the volume of the prism in cubic\n    feet?",
       "choices": [
         {
@@ -2300,6 +2496,8 @@ export const interactiveQuestions = {
       "number": 99,
       "groupId": "group-99-101",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the length of the hypotenuse of the prism’s triangular base?\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -2311,6 +2509,8 @@ export const interactiveQuestions = {
       "number": 100,
       "groupId": "group-99-101",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the area of the triangular base of the prism?",
       "choices": [
         {
@@ -2339,6 +2539,8 @@ export const interactiveQuestions = {
       "number": 101,
       "groupId": "group-99-101",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the volume of the prism?",
       "choices": [
         {
@@ -2367,6 +2569,8 @@ export const interactiveQuestions = {
       "number": 102,
       "groupId": "group-standalone-102",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If       and      , what is the value of         ?",
       "choices": [
         {
@@ -2395,6 +2599,8 @@ export const interactiveQuestions = {
       "number": 103,
       "groupId": "group-standalone-103",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the next term in the following geometric sequence?",
       "choices": [
         {
@@ -2419,6 +2625,8 @@ export const interactiveQuestions = {
       "number": 104,
       "groupId": "group-104-106",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the average score? (Round your answer to the nearest\n      whole number)",
       "choices": [
         {
@@ -2447,6 +2655,8 @@ export const interactiveQuestions = {
       "number": 105,
       "groupId": "group-104-106",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the lowest two scores are omitted, what is the new average\n      score? (Round your answer to the nearest whole number)",
       "choices": [
         {
@@ -2475,6 +2685,8 @@ export const interactiveQuestions = {
       "number": 106,
       "groupId": "group-104-106",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Simplify the expression:",
       "choices": [
         {
@@ -2495,6 +2707,8 @@ export const interactiveQuestions = {
       "number": 107,
       "groupId": "group-standalone-107",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If your daily commute equals 95 minutes, how long, in hours and\n      minutes, do you spend commuting during a 5-day work week?",
       "choices": [
         {
@@ -2523,6 +2737,8 @@ export const interactiveQuestions = {
       "number": 108,
       "groupId": "group-standalone-108",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the base of a triangle is 6 inches and its area is 60 square inches,\n    what is the height of the triangle?",
       "choices": [
         {
@@ -2551,6 +2767,8 @@ export const interactiveQuestions = {
       "number": 109,
       "groupId": "group-standalone-109",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The speed of sound in air is 320 meters per second. If you see a\n    flash of lightning and it takes 8 seconds before you hear the thunder,\n    how many kilometers away was the lightning strike? (Assume that\n    the light reaches you instantly.)",
       "choices": [
         {
@@ -2579,6 +2797,8 @@ export const interactiveQuestions = {
       "number": 110,
       "groupId": "group-standalone-110",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the slope of the line that passes through the coordinates\n    (1, –7) and (8, 5)?",
       "choices": [
         {
@@ -2599,6 +2819,8 @@ export const interactiveQuestions = {
       "number": 111,
       "groupId": "group-standalone-111",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "On Monday, Andrea finished        of her homework assignment. On\n    Tuesday, she completed      of the remaining work. What fraction of\n    her assignment does Andrea still have left to complete?",
       "choices": [
         {
@@ -2619,6 +2841,8 @@ export const interactiveQuestions = {
       "number": 112,
       "groupId": "group-standalone-112",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Norman is determining what his gross pay at the end of the week\n      should be. If he gets paid $13.15 per hour and works 18 hours, what\n      should his gross pay be? (Note: You may not use a calculator.)\n      __________",
       "choices": [],
       "correctLabel": null,
@@ -2630,6 +2854,8 @@ export const interactiveQuestions = {
       "number": 113,
       "groupId": "group-113-114",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fill in the blanks with the correct values to complete the sentence\n      below:\n      The mode of set A equals ____, whereas the median of set A equals\n      ____.",
       "choices": [],
       "correctLabel": null,
@@ -2641,6 +2867,8 @@ export const interactiveQuestions = {
       "number": 114,
       "groupId": "group-113-114",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Find the arithmetic mean (average) of set A.",
       "choices": [
         {
@@ -2669,6 +2897,8 @@ export const interactiveQuestions = {
       "number": 115,
       "groupId": "group-standalone-115",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Simplify              .",
       "choices": [
         {
@@ -2697,6 +2927,8 @@ export const interactiveQuestions = {
       "number": 116,
       "groupId": "group-standalone-116",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the solution to the equation?",
       "choices": [
         {
@@ -2721,6 +2953,8 @@ export const interactiveQuestions = {
       "number": 117,
       "groupId": "group-standalone-117",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Children’s tickets to the zoo cost $9 each, and adult tickets cost\n     $16 each. On Monday, the zoo sold a total of 95 tickets and made\n     $1,380 on ticket sales. Which of the following systems of equations\n     could be used to find out how many of each ticket type was sold?\n     Let a equal the number of adult tickets, and let c equal the number\n     of child tickets.",
       "choices": [
         {
@@ -2741,6 +2975,8 @@ export const interactiveQuestions = {
       "number": 118,
       "groupId": "group-standalone-118",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fred’s wallet contains coins with a total worth of $1.45. Suppose\n     he has three times as many dimes as quarters and has exactly 7\n     nickels and no pennies. How many dimes does he have?",
       "choices": [
         {
@@ -2769,6 +3005,8 @@ export const interactiveQuestions = {
       "number": 119,
       "groupId": "group-119-120",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the value of the function when         ?",
       "choices": [
         {
@@ -2797,6 +3035,8 @@ export const interactiveQuestions = {
       "number": 120,
       "groupId": "group-119-120",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "For what value of x does            ?",
       "choices": [
         {
@@ -2825,6 +3065,8 @@ export const interactiveQuestions = {
       "number": 121,
       "groupId": "group-standalone-121",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The formula for the volume of a cylinder is            , where r is the\n    radius of the base and h is the height of the cylinder. Which formula\n    could be used to find h if you’re given V and r?",
       "choices": [
         {
@@ -2845,6 +3087,8 @@ export const interactiveQuestions = {
       "number": 122,
       "groupId": "group-standalone-122",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Three friends are going to the theater. They arrive just in time to\n    get the last 3 seats that are available together in a row. How many\n    different seating arrangements can the friends sit in?",
       "choices": [],
       "correctLabel": null,
@@ -2856,6 +3100,8 @@ export const interactiveQuestions = {
       "number": 123,
       "groupId": "group-standalone-123",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "On a sunny day, a clock tower casts a shadow that is 50 feet long.\n    At the same time, a nearby 3-foot-tall stick casts a shadow that is 2.5\n    feet long. What is the height of the clock tower? Round your answer\n    to the nearest foot.",
       "choices": [
         {
@@ -2884,6 +3130,8 @@ export const interactiveQuestions = {
       "number": 124,
       "groupId": "group-standalone-124",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The hypotenuse of a right triangle is 10 inches. If one of the legs of\n     the triangle is 8 inches long, what is the length of the other leg?",
       "choices": [
         {
@@ -2912,6 +3160,8 @@ export const interactiveQuestions = {
       "number": 125,
       "groupId": "group-125-127",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which line would be parallel to the given line?",
       "choices": [
         {
@@ -2932,6 +3182,8 @@ export const interactiveQuestions = {
       "number": 126,
       "groupId": "group-125-127",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which line would be perpendicular to the given line?",
       "choices": [
         {
@@ -2952,6 +3204,8 @@ export const interactiveQuestions = {
       "number": 127,
       "groupId": "group-125-127",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following sets of coordinates lies on the given line?",
       "choices": [
         {
@@ -2980,6 +3234,8 @@ export const interactiveQuestions = {
       "number": 128,
       "groupId": "group-standalone-128",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Lisa and Erica were investigating the relationship of their ages.\n     They figured out that Erica’s age is currently 5 less than twice Lisa’s\n     age. In addition, the sum of their ages is 73. How old are Erica and\n     Lisa?",
       "choices": [
         {
@@ -3008,6 +3264,8 @@ export const interactiveQuestions = {
       "number": 129,
       "groupId": "group-129-130",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What fraction of the marbles is blue?",
       "choices": [
         {
@@ -3028,6 +3286,8 @@ export const interactiveQuestions = {
       "number": 130,
       "groupId": "group-129-130",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If 2 marbles are removed from the bag one at a time, without being\n    replaced, what is the probability of selecting 2 red marbles in a row?",
       "choices": [
         {
@@ -3048,6 +3308,8 @@ export const interactiveQuestions = {
       "number": 131,
       "groupId": "group-standalone-131",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Soup is sold in both rectangular cardboard cartons and large\n   cylindrical cans. The carton has dimensions of 3 inches by 4 inches\n   by 7 inches and costs $4.20. The can has a radius of 3 inches and a\n   height of 4 inches and costs $6.79. Which is a better buy?",
       "choices": [
         {
@@ -3076,6 +3338,8 @@ export const interactiveQuestions = {
       "number": 132,
       "groupId": "group-standalone-132",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Tamara goes for a dental checkup every 6 months and gets her\n    eyesight checked every 8 months. If she visited her dentist and her\n    optician this week, how many months will it be until she visits them\n    both in the same week again?\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -3087,6 +3351,8 @@ export const interactiveQuestions = {
       "number": 133,
       "groupId": "group-standalone-133",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Meg can swim 4 laps in 11 minutes. How long should she plan to\n    practice if she needs to swim 10 laps, assuming her speed is\n\n      constant?",
       "choices": [
         {
@@ -3115,6 +3381,8 @@ export const interactiveQuestions = {
       "number": 134,
       "groupId": "group-134-136",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Barney plots the data on a coordinate grid. He begins by plotting\n      the data for Week 4 and Week 16.\n      What are the coordinates of the two points?\n      __________",
       "choices": [],
       "correctLabel": null,
@@ -3126,6 +3394,8 @@ export const interactiveQuestions = {
       "number": 135,
       "groupId": "group-134-136",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following equations allows Barney to predict the\n      maximum weight he will be able to lift in the future?",
       "choices": [
         {
@@ -3146,6 +3416,8 @@ export const interactiveQuestions = {
       "number": 136,
       "groupId": "group-134-136",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If Barney’s strength continues to grow at the same rate, at what\n   week will he be able to lift 100 pounds?",
       "choices": [
         {
@@ -3174,6 +3446,8 @@ export const interactiveQuestions = {
       "number": 137,
       "groupId": "group-standalone-137",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A box has the dimensions shown here:\n\n   If the volume of the box is 1,368 cubic inches, what is the height of\n   the box? Give your answer to the nearest tenth of an inch.",
       "choices": [
         {
@@ -3202,6 +3476,8 @@ export const interactiveQuestions = {
       "number": 138,
       "groupId": "group-standalone-138",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following graphs shows all the possible numbers\n    represented by the inequality             .",
       "choices": [
         {
@@ -3222,6 +3498,8 @@ export const interactiveQuestions = {
       "number": 139,
       "groupId": "group-139-141",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the average number of fish caught by the first 10\n      fishermen represented on the line plot?",
       "choices": [
         {
@@ -3250,6 +3528,8 @@ export const interactiveQuestions = {
       "number": 140,
       "groupId": "group-139-141",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the number of fish caught by the 11th fisherman?",
       "choices": [
         {
@@ -3278,6 +3558,8 @@ export const interactiveQuestions = {
       "number": 141,
       "groupId": "group-139-141",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the range of the number of fish caught by the 11\n         fishermen?\n         __________",
       "choices": [],
       "correctLabel": null,
@@ -3289,6 +3571,8 @@ export const interactiveQuestions = {
       "number": 142,
       "groupId": "group-142-143",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the probability that Daryl will not pass his chemistry test?",
       "choices": [
         {
@@ -3317,6 +3601,8 @@ export const interactiveQuestions = {
       "number": 143,
       "groupId": "group-142-143",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the chance that Daryl will pass all three tests? __________",
       "choices": [],
       "correctLabel": null,
@@ -3328,6 +3614,8 @@ export const interactiveQuestions = {
       "number": 144,
       "groupId": "group-standalone-144",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the probability that Daryl will pass two out of the three\n         tests? Round your answer to the nearest whole percentage.",
       "choices": [
         {
@@ -3356,6 +3644,8 @@ export const interactiveQuestions = {
       "number": 145,
       "groupId": "group-standalone-145",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Using the information in the following table, estimate to the\n      nearest hundred the total number of tickets sold at the movie theater\n      last week. (Note: You may not use a calculator.)\n  Movie                  Tickets Sold\n\n The Godmother           721\n Moon Wars               391\n The Silence of the Goats 813\n A Clockwork Lemon       270\n Pulp Fake News          602",
       "choices": [
         {
@@ -3384,6 +3674,8 @@ export const interactiveQuestions = {
       "number": 146,
       "groupId": "group-146-148",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the range of the prices in the table? Give your answer to\n      the nearest cent.\n      __________",
       "choices": [],
       "correctLabel": null,
@@ -3395,6 +3687,8 @@ export const interactiveQuestions = {
       "number": 147,
       "groupId": "group-146-148",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the average price of a pound of candy during the given\n     four-week period? Give your answer to the nearest cent.",
       "choices": [
         {
@@ -3423,6 +3717,8 @@ export const interactiveQuestions = {
       "number": 148,
       "groupId": "group-146-148",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the average price of a pound of candy continues to decrease at\n     the same rate, what will 4 pounds of candy cost six weeks after\n     Halloween?",
       "choices": [
         {
@@ -3451,6 +3747,8 @@ export const interactiveQuestions = {
       "number": 149,
       "groupId": "group-149-150",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following expresses          in terms of p?",
       "choices": [
         {
@@ -3479,6 +3777,8 @@ export const interactiveQuestions = {
       "number": 150,
       "groupId": "group-149-150",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following expresses              in terms of p?",
       "choices": [
         {
@@ -3507,6 +3807,8 @@ export const interactiveQuestions = {
       "number": 151,
       "groupId": "group-151-153",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the perimeter of the rectangular picture frame?\n      __________",
       "choices": [],
       "correctLabel": null,
@@ -3518,6 +3820,8 @@ export const interactiveQuestions = {
       "number": 152,
       "groupId": "group-151-153",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Sammy has a 12-inch by 9-inch photo that he wants to put in the\n     frame. What is the length of the diagonal of the rectangular photo?",
       "choices": [
         {
@@ -3546,6 +3850,8 @@ export const interactiveQuestions = {
       "number": 153,
       "groupId": "group-151-153",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Jeff has a different photo that he wants to put in the frame. If the\n    wooden border of the frame (shown by the shaded region in the\n    figure) is x inches wide all the way around, which of the following\n    represents the area A of Jeff’s photo (the non-shaded region)?",
       "choices": [
         {
@@ -3566,6 +3872,8 @@ export const interactiveQuestions = {
       "number": 154,
       "groupId": "group-standalone-154",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the measure of the obtuse angle shown in the figure?",
       "choices": [
         {
@@ -3594,6 +3902,8 @@ export const interactiveQuestions = {
       "number": 155,
       "groupId": "group-standalone-155",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If 3 out of 8 drivers exceed the speed limit on a given stretch of\n    highway, what is the chance that a speed camera will catch a speeder\n\n      if it photographs a car at random? Give your answer to the nearest\n      tenth of a percent.",
       "choices": [
         {
@@ -3622,6 +3932,8 @@ export const interactiveQuestions = {
       "number": 156,
       "groupId": "group-standalone-156",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the base of a triangle is 8 inches and the area of the triangle is 48\n      square inches, what is the height of the triangle?",
       "choices": [
         {
@@ -3650,6 +3962,8 @@ export const interactiveQuestions = {
       "number": 157,
       "groupId": "group-standalone-157",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which number equals 2 hundredths?",
       "choices": [
         {
@@ -3678,6 +3992,8 @@ export const interactiveQuestions = {
       "number": 158,
       "groupId": "group-standalone-158",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A limo company charges $25.50 for the first 8 miles plus an\n      additional $3.50 for each extra mile. What is the cost of a 13-mile\n      limo ride?",
       "choices": [
         {
@@ -3706,6 +4022,8 @@ export const interactiveQuestions = {
       "number": 159,
       "groupId": "group-159-160",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How long does a 23-pound turkey take to cook at an oven\n      temperature of 375°F?",
       "choices": [
         {
@@ -3734,6 +4052,8 @@ export const interactiveQuestions = {
       "number": 160,
       "groupId": "group-159-160",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Venus is cooking a Thanksgiving turkey that weighs 16 pounds.\n      Her oven has only two temperature settings: 325°F or 375°F. If she\n      wants to serve a juicy turkey to her family at 2:00 p.m., what is the\n      latest time that she can begin to cook the turkey?",
       "choices": [
         {
@@ -3762,6 +4082,8 @@ export const interactiveQuestions = {
       "number": 161,
       "groupId": "group-standalone-161",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If         , what is       ? (Note: You may not use a calculator.)\n      __________",
       "choices": [],
       "correctLabel": null,
@@ -3773,6 +4095,8 @@ export const interactiveQuestions = {
       "number": 162,
       "groupId": "group-162-164",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fill in the blanks with the appropriate values to complete the\n      sentence below.\n      During the 5-year period, the mode of Jack’s salary equaled\n      __________, and the range equaled __________.",
       "choices": [],
       "correctLabel": null,
@@ -3784,6 +4108,8 @@ export const interactiveQuestions = {
       "number": 163,
       "groupId": "group-162-164",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the median value of Jack’s salary during the 5-year\n     period?",
       "choices": [
         {
@@ -3812,6 +4138,8 @@ export const interactiveQuestions = {
       "number": 164,
       "groupId": "group-162-164",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the mean value of Jack’s salary during the 5-year\n      period?\n      __________",
       "choices": [],
       "correctLabel": null,
@@ -3823,6 +4151,8 @@ export const interactiveQuestions = {
       "number": 165,
       "groupId": "group-165-167",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the slope of the line?",
       "choices": [
         {
@@ -3843,6 +4173,8 @@ export const interactiveQuestions = {
       "number": 166,
       "groupId": "group-165-167",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the length of the line segment joining the two data points\n    shown on the figure?",
       "choices": [
         {
@@ -3867,6 +4199,8 @@ export const interactiveQuestions = {
       "number": 167,
       "groupId": "group-165-167",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the location of the midpoint of the segment joining the two\n   data points shown in the figure?",
       "choices": [
         {
@@ -3895,6 +4229,8 @@ export const interactiveQuestions = {
       "number": 168,
       "groupId": "group-standalone-168",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Anne asks the butcher for     pounds of ham. The butcher places\n   some ham on the digital scale, which reads 1.95. How much ham\n   must the butcher remove to give Anne the amount that she asked\n   for? (Note: You may not use a calculator.)",
       "choices": [
         {
@@ -3923,6 +4259,8 @@ export const interactiveQuestions = {
       "number": 169,
       "groupId": "group-standalone-169",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Tom’s gross weekly salary is $840. His salary is taxed at 17%.\n   What is Tom’s net salary? Round your answer to the nearest cent.",
       "choices": [
         {
@@ -3951,6 +4289,8 @@ export const interactiveQuestions = {
       "number": 170,
       "groupId": "group-standalone-170",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The dimensions of a fish tank are 1 foot, 6 inches wide by 1 foot, 8\n    inches tall by 4 feet long. What is the volume of the tank in cubic\n    feet?",
       "choices": [
         {
@@ -3975,6 +4315,8 @@ export const interactiveQuestions = {
       "number": 171,
       "groupId": "group-standalone-171",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The distance between two planets is 4,560,000,000 miles. Express\n   this in scientific notation.",
       "choices": [
         {
@@ -3995,6 +4337,8 @@ export const interactiveQuestions = {
       "number": 172,
       "groupId": "group-standalone-172",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A hiker walks 16 miles due north and then turns and walks 12\n    miles due west. How many miles is the hiker from his starting\n    point?",
       "choices": [],
       "correctLabel": null,
@@ -4006,6 +4350,8 @@ export const interactiveQuestions = {
       "number": 173,
       "groupId": "group-standalone-173",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Jeff currently weighs 214 pounds. He plans to go on a diet and lose\n   4.5 pounds per month. How many pounds should he weigh after 5\n   months of dieting? (Note: You may not use a calculator.)",
       "choices": [
         {
@@ -4034,6 +4380,8 @@ export const interactiveQuestions = {
       "number": 174,
       "groupId": "group-standalone-174",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following lists the solutions to the equation\n                ?",
       "choices": [
         {
@@ -4062,6 +4410,8 @@ export const interactiveQuestions = {
       "number": 175,
       "groupId": "group-standalone-175",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Last season, a soccer team won five times as many games as it\n      lost, with 8 games ending in a draw. If there were 38 games in the\n      season, how many games did the team win?",
       "choices": [
         {
@@ -4090,6 +4440,8 @@ export const interactiveQuestions = {
       "number": 176,
       "groupId": "group-standalone-176",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the next term in the following sequence?\n\n      __________",
       "choices": [],
       "correctLabel": null,
@@ -4101,6 +4453,8 @@ export const interactiveQuestions = {
       "number": 177,
       "groupId": "group-177-178",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the average speed of the 12 cars in miles per hour? Round\n      your answer to the nearest whole number.",
       "choices": [
         {
@@ -4129,6 +4483,8 @@ export const interactiveQuestions = {
       "number": 178,
       "groupId": "group-177-178",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "By what percent is the fastest recorded speed greater than the\n      slowest recorded speed?",
       "choices": [
         {
@@ -4157,6 +4513,8 @@ export const interactiveQuestions = {
       "number": 179,
       "groupId": "group-standalone-179",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Simplify the expression:",
       "choices": [
         {
@@ -4177,6 +4535,8 @@ export const interactiveQuestions = {
       "number": 180,
       "groupId": "group-standalone-180",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If 2 cookies cost y dollars, how many dollars do x cookies cost?",
       "choices": [
         {
@@ -4201,6 +4561,8 @@ export const interactiveQuestions = {
       "number": 181,
       "groupId": "group-standalone-181",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The square root of 73 lies between which two integers? (Note: You\n   may not use a calculator.)",
       "choices": [
         {
@@ -4229,6 +4591,8 @@ export const interactiveQuestions = {
       "number": 182,
       "groupId": "group-standalone-182",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If two sides of a triangle are 10.2 and 5.8 inches long, which of the\n   following cannot be the length of the other side?",
       "choices": [
         {
@@ -4257,6 +4621,8 @@ export const interactiveQuestions = {
       "number": 183,
       "groupId": "group-standalone-183",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the value of             ? (Note: You may not use a\n     calculator.)",
       "choices": [
         {
@@ -4285,6 +4651,8 @@ export const interactiveQuestions = {
       "number": 184,
       "groupId": "group-standalone-184",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following rectangular metal boxes can hold the most\n     dice if each die has a volume of one cubic inch and the lid of the\n     box fits tightly?",
       "choices": [
         {
@@ -4313,6 +4681,8 @@ export const interactiveQuestions = {
       "number": 185,
       "groupId": "group-standalone-185",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In the number line, the vertical marks are equally spaced. What is\n      the value at point A?",
       "choices": [],
       "correctLabel": null,
@@ -4324,6 +4694,8 @@ export const interactiveQuestions = {
       "number": 186,
       "groupId": "group-186-187",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the ratio of the number of dogs to cats to rabbits that the\n   students prefer? Simplify your answer as much as possible.",
       "choices": [
         {
@@ -4344,6 +4716,8 @@ export const interactiveQuestions = {
       "number": 187,
       "groupId": "group-186-187",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How many more students preferred fish than rodents?\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -4355,6 +4729,8 @@ export const interactiveQuestions = {
       "number": 188,
       "groupId": "group-standalone-188",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If              , which of the following represents the value of p?",
       "choices": [
         {
@@ -4379,6 +4755,8 @@ export const interactiveQuestions = {
       "number": 189,
       "groupId": "group-standalone-189",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If      and      , which of the following is true for all cases?",
       "choices": [
         {
@@ -4399,6 +4777,8 @@ export const interactiveQuestions = {
       "number": 190,
       "groupId": "group-standalone-190",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Regular tickets to a concert cost $25 each, and VIP tickets cost $45\n    each. The concert hall sold a total of 270 tickets and made $7,650 on\n    ticket sales.\n    The number of VIP tickets sold was __________, and the number of\n    regular tickets sold was __________.",
       "choices": [],
       "correctLabel": null,
@@ -4410,6 +4790,8 @@ export const interactiveQuestions = {
       "number": 191,
       "groupId": "group-standalone-191",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The product of the first six prime numbers is divisible by which of\n   the following?",
       "choices": [
         {
@@ -4438,6 +4820,8 @@ export const interactiveQuestions = {
       "number": 192,
       "groupId": "group-192-193",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the value of the function when ?",
       "choices": [
         {
@@ -4466,6 +4850,8 @@ export const interactiveQuestions = {
       "number": 193,
       "groupId": "group-192-193",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "For what value of x does         ?",
       "choices": [
         {
@@ -4494,6 +4880,8 @@ export const interactiveQuestions = {
       "number": 194,
       "groupId": "group-standalone-194",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Simplify the following expression:",
       "choices": [
         {
@@ -4514,6 +4902,8 @@ export const interactiveQuestions = {
       "number": 195,
       "groupId": "group-standalone-195",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In this triangle, angle x equals ______ and angle y equals ________.",
       "choices": [],
       "correctLabel": null,
@@ -4525,6 +4915,8 @@ export const interactiveQuestions = {
       "number": 196,
       "groupId": "group-standalone-196",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A cube with 3-inch sides is painted blue and then cut into 27\n      smaller cubes with 1-inch sides. How many of the new smaller\n      cubes have exactly two faces that are painted blue?\n      __________",
       "choices": [],
       "correctLabel": null,
@@ -4536,6 +4928,8 @@ export const interactiveQuestions = {
       "number": 197,
       "groupId": "group-standalone-197",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The lengths of the legs of a right triangle are 4 inches and 5 inches,\n     respectively. What is the length of the hypotenuse?",
       "choices": [
         {
@@ -4564,6 +4958,8 @@ export const interactiveQuestions = {
       "number": 198,
       "groupId": "group-198-200",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which line would be parallel to the given line?",
       "choices": [
         {
@@ -4584,6 +4980,8 @@ export const interactiveQuestions = {
       "number": 199,
       "groupId": "group-198-200",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which line would be perpendicular to the given line?",
       "choices": [
         {
@@ -4604,6 +5002,8 @@ export const interactiveQuestions = {
       "number": 200,
       "groupId": "group-198-200",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What are the coordinates of the point of intersection of the given\n   line with the line            ?",
       "choices": [
         {
@@ -4632,6 +5032,8 @@ export const interactiveQuestions = {
       "number": 201,
       "groupId": "group-standalone-201",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Two years ago, Sammy was 5 years younger than Michael is today.\n   If Michael is currently M years old, how old will Sammy be 10\n   years from now?",
       "choices": [
         {
@@ -4652,6 +5054,8 @@ export const interactiveQuestions = {
       "number": 202,
       "groupId": "group-standalone-202",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "(Note: You may not use a calculator.)",
       "choices": [
         {
@@ -4680,6 +5084,8 @@ export const interactiveQuestions = {
       "number": 203,
       "groupId": "group-standalone-203",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Mr. Burke’s class has twice as many girls as boys. If half of the\n   boys and a quarter of the girls are in the chess club, what is the ratio\n   of girls to boys who are in the chess club?",
       "choices": [
         {
@@ -4708,6 +5114,8 @@ export const interactiveQuestions = {
       "number": 204,
       "groupId": "group-standalone-204",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Beans are sold in small or large cylindrical cans. The small can has\n   a diameter of 4 inches and a height of 10 inches and costs $3.50.\n   The big can has a diameter of 8 inches and a height of 5 inches and\n   costs $6.50. Which is a better buy?",
       "choices": [
         {
@@ -4736,6 +5144,8 @@ export const interactiveQuestions = {
       "number": 205,
       "groupId": "group-standalone-205",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Two lighthouses flash their lights every 21 seconds and 77\n    seconds, respectively. If both lighthouses are switched on at the\n    same time so their lights begin by flashing simultaneously, after how\n    many seconds will both lights first flash in synch again?",
       "choices": [],
       "correctLabel": null,
@@ -4747,6 +5157,8 @@ export const interactiveQuestions = {
       "number": 206,
       "groupId": "group-standalone-206",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "This trapezoid has an area of 38 square feet. What is the length of\n    the unknown base of the trapezoid in feet?",
       "choices": [
         {
@@ -4775,6 +5187,8 @@ export const interactiveQuestions = {
       "number": 207,
       "groupId": "group-207-208",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In which year did the value of exports exceed the value of imports\n    by the greatest amount?",
       "choices": [
         {
@@ -4803,6 +5217,8 @@ export const interactiveQuestions = {
       "number": 208,
       "groupId": "group-207-208",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the average approximate value of the exports (in Rs.) for\n    the six years shown in the chart?",
       "choices": [
         {
@@ -4831,6 +5247,8 @@ export const interactiveQuestions = {
       "number": 209,
       "groupId": "group-standalone-209",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the average annual increase for imports (in Rs.) for the\n   six years shown in the chart?",
       "choices": [
         {
@@ -4859,6 +5277,8 @@ export const interactiveQuestions = {
       "number": 210,
       "groupId": "group-standalone-210",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Two square rugs have a combined area of 20 square meters. If the\n   area of the large rug is four times as large as the area of the small\n   rug, what is the perimeter of the smaller rug?",
       "choices": [
         {
@@ -4887,6 +5307,8 @@ export const interactiveQuestions = {
       "number": 211,
       "groupId": "group-standalone-211",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Forty percent of the students in Dr. Donnelly’s math class received\n   a grade of A. If 10 students received an A, how many students are in\n   Dr. Donnelly’s math class?",
       "choices": [
         {
@@ -4915,6 +5337,8 @@ export const interactiveQuestions = {
       "number": 212,
       "groupId": "group-standalone-212",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the acute angle between the hands of a clock when it is\n   exactly 10 p.m.?",
       "choices": [
         {
@@ -4943,6 +5367,8 @@ export const interactiveQuestions = {
       "number": 213,
       "groupId": "group-standalone-213",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the missing value in the following table?\n\n        __________\n\nx   f(x)\n\n–2 –10\n0   –4\n2   2\n4   ?\n6   14",
       "choices": [],
       "correctLabel": null,
@@ -4954,6 +5380,8 @@ export const interactiveQuestions = {
       "number": 214,
       "groupId": "group-standalone-214",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Janice’s car averages 32 miles per gallon (mpg) and holds\n     approximately 13 gallons of gas. If she is driving from Boston to\n     Arizona and the distance between the two locations is 2,220 miles,\n     how many tanks of gas will she need?",
       "choices": [
         {
@@ -4982,6 +5410,8 @@ export const interactiveQuestions = {
       "number": 215,
       "groupId": "group-standalone-215",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is equivalent to 45%?",
       "choices": [
         {
@@ -5006,6 +5436,8 @@ export const interactiveQuestions = {
       "number": 216,
       "groupId": "group-standalone-216",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Find the value of x in the figure.",
       "choices": [
         {
@@ -5034,6 +5466,8 @@ export const interactiveQuestions = {
       "number": 217,
       "groupId": "group-standalone-217",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Simplify   completely.",
       "choices": [
         {
@@ -5054,6 +5488,8 @@ export const interactiveQuestions = {
       "number": 218,
       "groupId": "group-standalone-218",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is listed in ascending order?",
       "choices": [
         {
@@ -5074,6 +5510,8 @@ export const interactiveQuestions = {
       "number": 219,
       "groupId": "group-standalone-219",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Emily’s garden has the same value for its perimeter and its area.\n   Which of the following could be the shape and dimensions of her\n   garden? (Note: You may not use a calculator.)",
       "choices": [
         {
@@ -5094,6 +5532,8 @@ export const interactiveQuestions = {
       "number": 220,
       "groupId": "group-standalone-220",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Ryan works at a coffee shop that sells an average of 107 cups of\n   coffee an hour. If one pot of coffee fills 10 cups, how many pots of\n   coffee will the shop go through on an average day if the shop opens\n   at 7:00 a.m. and closes at 4:00 p.m.?",
       "choices": [
         {
@@ -5122,6 +5562,8 @@ export const interactiveQuestions = {
       "number": 221,
       "groupId": "group-standalone-221",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Cory likes to ride his hoverboard and can travel at a speed of 11\n    miles per hour. How fast does Cory go in feet per minute?\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -5133,6 +5575,8 @@ export const interactiveQuestions = {
       "number": 222,
       "groupId": "group-standalone-222",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is equivalent to 3,888?",
       "choices": [
         {
@@ -5153,6 +5597,8 @@ export const interactiveQuestions = {
       "number": 223,
       "groupId": "group-standalone-223",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The surface area of a cube equals          . What is its volume in\n    cubic inches?",
       "choices": [
         {
@@ -5181,6 +5627,8 @@ export const interactiveQuestions = {
       "number": 224,
       "groupId": "group-standalone-224",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If      ,      , and      , simplify the following expression,\n    leaving your answer in terms of p.",
       "choices": [
         {
@@ -5205,6 +5653,8 @@ export const interactiveQuestions = {
       "number": 225,
       "groupId": "group-standalone-225",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In a triangle, the sides have a ratio of       . If the perimeter is\n    210 feet, what is the length of the longest side in feet?",
       "choices": [
         {
@@ -5233,6 +5683,8 @@ export const interactiveQuestions = {
       "number": 226,
       "groupId": "group-standalone-226",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If x is a positive integer and              , then",
       "choices": [
         {
@@ -5253,6 +5705,8 @@ export const interactiveQuestions = {
       "number": 227,
       "groupId": "group-227-228",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the perimeter of the shape?",
       "choices": [
         {
@@ -5273,6 +5727,8 @@ export const interactiveQuestions = {
       "number": 228,
       "groupId": "group-227-228",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the area of the shape?",
       "choices": [
         {
@@ -5293,6 +5749,8 @@ export const interactiveQuestions = {
       "number": 229,
       "groupId": "group-standalone-229",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Harry rents a power drill from 8:30 p.m. until 3:30 p.m. on the\n   same day. He paid a total of $25.06. What was the hourly rental fee,\n   rounded to the nearest penny? (Note: You may not use a calculator.)",
       "choices": [
         {
@@ -5321,6 +5779,8 @@ export const interactiveQuestions = {
       "number": 230,
       "groupId": "group-standalone-230",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the value of             when       ?",
       "choices": [
         {
@@ -5345,6 +5805,8 @@ export const interactiveQuestions = {
       "number": 231,
       "groupId": "group-standalone-231",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Sammy earns a weekly base salary of $750 as a shoe salesman. He\n   also earns a 6% commission on his monthly sales after the first\n   $1,000. What is his total salary this month if he sells $4,500 worth\n   of shoes?",
       "choices": [
         {
@@ -5373,6 +5835,8 @@ export const interactiveQuestions = {
       "number": 232,
       "groupId": "group-standalone-232",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Solve the following. You may use numbers, symbols, and/or text\n      in your answer.\n\n      Simplify the expression completely.\n      __________",
       "choices": [],
       "correctLabel": null,
@@ -5384,6 +5848,8 @@ export const interactiveQuestions = {
       "number": 233,
       "groupId": "group-standalone-233",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In scientific notation, what would the number 0.0408 be?",
       "choices": [
         {
@@ -5404,6 +5870,8 @@ export const interactiveQuestions = {
       "number": 234,
       "groupId": "group-standalone-234",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Jackson is planning his office’s annual party, and he has a\n      maximum budget of $2,825 to spend. He intends to rent a party\n      room that costs $375 per hour from 8:00 p.m. until 11:00 p.m. He\n      expects a total of 250 people to attend the party and plans to provide\n      each person with a bag of party favors. What is the maximum\n      average amount that Jackson can spend on party favors for each\n      person?\n      __________",
       "choices": [],
       "correctLabel": null,
@@ -5415,6 +5883,8 @@ export const interactiveQuestions = {
       "number": 235,
       "groupId": "group-235-237",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How much revenue does the airline gross if the plane is full?\n      __________",
       "choices": [],
       "correctLabel": null,
@@ -5426,6 +5896,8 @@ export const interactiveQuestions = {
       "number": 236,
       "groupId": "group-235-237",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If all the first-class tickets are sold but only half of the economy\n      tickets are sold, what is the ratio of the total revenue from the first-\n      class passengers to that of the economy-class passengers?",
       "choices": [
         {
@@ -5454,6 +5926,8 @@ export const interactiveQuestions = {
       "number": 237,
       "groupId": "group-235-237",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The price of each first-class ticket used to be $1,500. What percent\n      decrease does the current price represent?",
       "choices": [
         {
@@ -5482,6 +5956,8 @@ export const interactiveQuestions = {
       "number": 238,
       "groupId": "group-238-239",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is Janet’s take-home (net) salary? (Note: You may not use a\n      calculator.)\n      __________",
       "choices": [],
       "correctLabel": null,
@@ -5493,6 +5969,8 @@ export const interactiveQuestions = {
       "number": 239,
       "groupId": "group-238-239",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What percentage of her gross salary does Janet pay toward Social\n      Security? Round your answer to the nearest tenth of a percent.",
       "choices": [
         {
@@ -5521,6 +5999,8 @@ export const interactiveQuestions = {
       "number": 240,
       "groupId": "group-240-241",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What transformation maps triangle ODC onto triangle OBA?",
       "choices": [
         {
@@ -5549,6 +6029,8 @@ export const interactiveQuestions = {
       "number": 241,
       "groupId": "group-240-241",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following line segments has a slope of –1?",
       "choices": [
         {
@@ -5569,6 +6051,8 @@ export const interactiveQuestions = {
       "number": 242,
       "groupId": "group-standalone-242",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If       , what is x in terms of y?",
       "choices": [
         {
@@ -5589,6 +6073,8 @@ export const interactiveQuestions = {
       "number": 243,
       "groupId": "group-243-245",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the ratio of the number of books Brooke read to those\n   Rachel read?",
       "choices": [
         {
@@ -5617,6 +6103,8 @@ export const interactiveQuestions = {
       "number": 244,
       "groupId": "group-243-245",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If Steve wants to read the same number of books that Rachel read,\n    by what percentage would he need to increase his current number of\n\n   books read?",
       "choices": [
         {
@@ -5645,6 +6133,8 @@ export const interactiveQuestions = {
       "number": 245,
       "groupId": "group-243-245",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the graph, which of the following statements must be\n   true?",
       "choices": [
         {
@@ -5673,6 +6163,8 @@ export const interactiveQuestions = {
       "number": 246,
       "groupId": "group-standalone-246",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following represents the inequality?",
       "choices": [
         {
@@ -5693,6 +6185,8 @@ export const interactiveQuestions = {
       "number": 247,
       "groupId": "group-standalone-247",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If these two boxes have the same volume, what is the height of the\n    second box?",
       "choices": [
         {
@@ -5721,6 +6215,8 @@ export const interactiveQuestions = {
       "number": 248,
       "groupId": "group-standalone-248",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following numbers has the most unique prime\n   factors?",
       "choices": [
         {
@@ -5749,6 +6245,8 @@ export const interactiveQuestions = {
       "number": 249,
       "groupId": "group-standalone-249",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The following figure shows a piece of paper that is 15 inches long.\n    Peter folds it in half (along the dotted line) and then makes one cut\n    so that when he unfolds the paper, a perfect circle has been cut out.\n    If the circle’s diameter equals one-third of the length of the paper,\n    what was the length of the cut that Peter made?",
       "choices": [
         {
@@ -5773,6 +6271,8 @@ export const interactiveQuestions = {
       "number": 250,
       "groupId": "group-standalone-250",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Four frogs were entered in the annual charity High-Hop Contest.\n    The highest jump of each frog is recorded in the table.\nFrog                Jump Height (Inches)\n\nMrs. Croak\n\nKermit\n\nMr. Hopswell\n\nFroggy McFrogface\n\n    Which frog hopped the highest? (Note: You may not use a\n    calculator.)",
       "choices": [
         {
@@ -5801,6 +6301,8 @@ export const interactiveQuestions = {
       "number": 251,
       "groupId": "group-standalone-251",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "This irregular polygon has sides of unequal lengths. If the polygon\n    has a perimeter equal to 52 inches, what is the value of x?",
       "choices": [
         {
@@ -5829,6 +6331,8 @@ export const interactiveQuestions = {
       "number": 252,
       "groupId": "group-standalone-252",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The top four runners to finish a 100-meter race had the following\n    times.\n\n  Runner Time (Seconds)\n\n Tom         10.9192\n Kenneth 11.0021\n Rupert      10.9289\n Usain       10.9191\n\n       Based on the above information, which of the following is a true\n       statement?",
       "choices": [
         {
@@ -5857,6 +6361,8 @@ export const interactiveQuestions = {
       "number": 253,
       "groupId": "group-253-254",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If Ian rolls the die and tosses the coin, what is the probability that\n       he will get a 6 and tails?",
       "choices": [
         {
@@ -5877,6 +6383,8 @@ export const interactiveQuestions = {
       "number": 254,
       "groupId": "group-253-254",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Suppose Ian rolled the die ten times and got ten consecutive 6s.\n       What is the probability of rolling a 6 on the next roll?",
       "choices": [
         {
@@ -5901,6 +6409,8 @@ export const interactiveQuestions = {
       "number": 255,
       "groupId": "group-standalone-255",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "When an unbalanced force is applied to a body, the acceleration of\n   the body is inversely proportional to its mass. If a force applied to a\n   5 kg body gives it an acceleration of       , what acceleration would\n   the same force produce when applied to a 15 kg body?",
       "choices": [
         {
@@ -5921,6 +6431,8 @@ export const interactiveQuestions = {
       "number": 256,
       "groupId": "group-standalone-256",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The scale on Blackbeard’s treasure map is                  .\n   According to the map, the treasure is buried 13 inches away from\n   the old hanging tree. If Blackbeard is currently standing under the\n   tree, how many feet away from the treasure is he? (Note: You may\n   not use a calculator.)",
       "choices": [
         {
@@ -5949,6 +6461,8 @@ export const interactiveQuestions = {
       "number": 257,
       "groupId": "group-standalone-257",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A rental car company charges a daily fee of $50 plus $0.50 for\n   every mile traveled. Jane rents a car and returns it after three days. If\n   her total charge (not including tax) equals $225.50, how many miles\n   did she drive?",
       "choices": [
         {
@@ -5977,6 +6491,8 @@ export const interactiveQuestions = {
       "number": 258,
       "groupId": "group-standalone-258",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Amy invested $500 in a savings account that pays a fixed simple\n     interest rate. After three years, her account balance is $552.50. What\n     percent annual interest did her bank pay?",
       "choices": [
         {
@@ -6005,6 +6521,8 @@ export const interactiveQuestions = {
       "number": 259,
       "groupId": "group-standalone-259",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If           , what does   equal? (Note: You may not use a\n     calculator.)",
       "choices": [
         {
@@ -6033,6 +6551,8 @@ export const interactiveQuestions = {
       "number": 260,
       "groupId": "group-260-262",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What are the coordinates of the midpoint of the two points marked\n   on the graph?",
       "choices": [
         {
@@ -6061,6 +6581,8 @@ export const interactiveQuestions = {
       "number": 261,
       "groupId": "group-260-262",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the slope of the line?",
       "choices": [
         {
@@ -6085,6 +6607,8 @@ export const interactiveQuestions = {
       "number": 262,
       "groupId": "group-260-262",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the equation of the line?",
       "choices": [
         {
@@ -6105,6 +6629,8 @@ export const interactiveQuestions = {
       "number": 263,
       "groupId": "group-standalone-263",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A clothing store has a 20% off sale. If the sale price of a sweater is\n    $64, what was the original price of the sweater?",
       "choices": [
         {
@@ -6133,6 +6659,8 @@ export const interactiveQuestions = {
       "number": 264,
       "groupId": "group-standalone-264",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The figure shows two similar triangles: the smaller triangle has a\n    base length of 8 feet and a height of 5 feet (the height of the boy),\n    whereas the second triangle has a base length of 24 feet and a height\n    equal to that of the tree.\n    How tall is the tree?",
       "choices": [
         {
@@ -6161,6 +6689,8 @@ export const interactiveQuestions = {
       "number": 265,
       "groupId": "group-standalone-265",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "An isosceles triangle has an obtuse angle equal to 110°. What is\n     the value of each of the other two angles?",
       "choices": [
         {
@@ -6189,6 +6719,8 @@ export const interactiveQuestions = {
       "number": 266,
       "groupId": "group-266-268",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the value of E minus A?",
       "choices": [
         {
@@ -6217,6 +6749,8 @@ export const interactiveQuestions = {
       "number": 267,
       "groupId": "group-266-268",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the product of A times B times C?",
       "choices": [
         {
@@ -6245,6 +6779,8 @@ export const interactiveQuestions = {
       "number": 268,
       "groupId": "group-266-268",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is true?",
       "choices": [
         {
@@ -6265,6 +6801,8 @@ export const interactiveQuestions = {
       "number": 269,
       "groupId": "group-standalone-269",
       "section": "Mathematical Reasoning",
+      "topic": "Algebra, Functions, and Patterns",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following shows the correct factorization of the\n   quadratic equation                  ?",
       "choices": [
         {
@@ -6285,6 +6823,8 @@ export const interactiveQuestions = {
       "number": 270,
       "groupId": "group-standalone-270",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "is equivalent to which of the following?",
       "choices": [
         {
@@ -6305,6 +6845,8 @@ export const interactiveQuestions = {
       "number": 271,
       "groupId": "group-standalone-271",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A can of beans has a circular base whose area is         square inches.\n    If the height of the can is 8 inches, what is the area of the label that\n    covers the entire side of the can? (Assume the label fits the can\n    perfectly with no overlap.)",
       "choices": [
         {
@@ -6329,6 +6871,8 @@ export const interactiveQuestions = {
       "number": 272,
       "groupId": "group-272-274",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the results shown in the table, which of the following is\n      true?",
       "choices": [
         {
@@ -6357,6 +6901,8 @@ export const interactiveQuestions = {
       "number": 273,
       "groupId": "group-272-274",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the bush’s average height during the five-year period?",
       "choices": [
         {
@@ -6385,6 +6931,8 @@ export const interactiveQuestions = {
       "number": 274,
       "groupId": "group-272-274",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If Jacob’s bush continues to grow at the same rate, how tall will\n      the bush be when Jacob is 17 years old?",
       "choices": [
         {
@@ -6413,6 +6961,8 @@ export const interactiveQuestions = {
       "number": 275,
       "groupId": "group-standalone-275",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A company manufactures widgets. If 3 out of every 50 widgets\n     produced by the company are found to be defective, how many\n     defective widgets will there be in a batch of 2,050 widgets?",
       "choices": [
         {
@@ -6441,6 +6991,8 @@ export const interactiveQuestions = {
       "number": 276,
       "groupId": "group-276-277",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the outer circumference of the donut?",
       "choices": [
         {
@@ -6465,6 +7017,8 @@ export const interactiveQuestions = {
       "number": 277,
       "groupId": "group-276-277",
       "section": "Mathematical Reasoning",
+      "topic": "Measurement and Geometry",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the ratio of the area of the donut (the shaded area) to the\n   area of the hole?",
       "choices": [
         {
@@ -6493,6 +7047,8 @@ export const interactiveQuestions = {
       "number": 278,
       "groupId": "group-standalone-278",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How many square yards of carpet would it take to completely\n     cover a rectangular floor that has dimensions of 12 feet wide by 21\n     feet long?",
       "choices": [
         {
@@ -6521,6 +7077,8 @@ export const interactiveQuestions = {
       "number": 279,
       "groupId": "group-standalone-279",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the maximum safe weight w for a person entering a\n     crowded elevator if               ?\n     __________",
       "choices": [],
       "correctLabel": null,
@@ -6532,6 +7090,8 @@ export const interactiveQuestions = {
       "number": 280,
       "groupId": "group-standalone-280",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In scientific notation, what would the number 0.00502 be? (Note:\n     You may not use a calculator.)",
       "choices": [
         {
@@ -6552,6 +7112,8 @@ export const interactiveQuestions = {
       "number": 281,
       "groupId": "group-281-283",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fill in the blanks to complete the sentence.\n    The most popular fruit is __________, whereas the least popular\n    fruit is __________.",
       "choices": [],
       "correctLabel": null,
@@ -6563,6 +7125,8 @@ export const interactiveQuestions = {
       "number": 282,
       "groupId": "group-281-283",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How many more people prefer oranges than bananas?",
       "choices": [
         {
@@ -6591,6 +7155,8 @@ export const interactiveQuestions = {
       "number": 283,
       "groupId": "group-281-283",
       "section": "Mathematical Reasoning",
+      "topic": "Data Analysis, Statistics, and Probability",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the ratio of the number of people who prefer apples to\n   those who prefer oranges?",
       "choices": [
         {
@@ -6619,6 +7185,8 @@ export const interactiveQuestions = {
       "number": 284,
       "groupId": "group-standalone-284",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the decimal equivalent to    ? (Note: You may not use a\n    calculator.)\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -6630,6 +7198,8 @@ export const interactiveQuestions = {
       "number": 285,
       "groupId": "group-standalone-285",
       "section": "Mathematical Reasoning",
+      "topic": "Number Operations and Number Sense",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If             , for what value of x does       ?",
       "choices": [
         {
@@ -6658,6 +7228,8 @@ export const interactiveQuestions = {
       "number": 286,
       "groupId": "group-286-288",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What did Abigail mean when she asked her husband to “remember\n      the ladies”?",
       "choices": [
         {
@@ -6686,6 +7258,8 @@ export const interactiveQuestions = {
       "number": 287,
       "groupId": "group-286-288",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How best could you describe John Adams’s reply to his wife’s\n   request?",
       "choices": [
         {
@@ -6714,6 +7288,8 @@ export const interactiveQuestions = {
       "number": 288,
       "groupId": "group-286-288",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which amendment finally resulted in the fulfillment of Abigail\n   Adams’s request when it was passed in 1920?",
       "choices": [
         {
@@ -6742,6 +7318,8 @@ export const interactiveQuestions = {
       "number": 289,
       "groupId": "group-standalone-289",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The early colonists of North America sought out settlements that\n   had easy access by ship and adequate water supplies. This helps\n   explain why many of the early North American towns were built\n   near",
       "choices": [
         {
@@ -6770,6 +7348,8 @@ export const interactiveQuestions = {
       "number": 290,
       "groupId": "group-standalone-290",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why did President Truman decide that the United States should\n   use atomic weapons against Japan on August 6, 1945?",
       "choices": [
         {
@@ -6798,6 +7378,8 @@ export const interactiveQuestions = {
       "number": 291,
       "groupId": "group-291-294",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which choice correctly completes the following sentence?\n     Congress has _____ members, including _____ senators and _____\n     representatives.",
       "choices": [
         {
@@ -6826,6 +7408,8 @@ export const interactiveQuestions = {
       "number": 292,
       "groupId": "group-291-294",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which branch of government is responsible for deciding whether a\n      law is constitutional?\n      ____________________",
       "choices": [],
       "correctLabel": null,
@@ -6837,6 +7421,8 @@ export const interactiveQuestions = {
       "number": 293,
       "groupId": "group-291-294",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why did the Founding Fathers divide the federal government into\n     three distinct branches?",
       "choices": [
         {
@@ -6865,6 +7451,8 @@ export const interactiveQuestions = {
       "number": 294,
       "groupId": "group-291-294",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "All of the following are reasons the Supreme Court justices are\n     given lifetime appointments EXCEPT",
       "choices": [
         {
@@ -6893,6 +7481,8 @@ export const interactiveQuestions = {
       "number": 295,
       "groupId": "group-295-297",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the result of the 1896 Supreme Court decision Plessy v.\n    Ferguson?",
       "choices": [
         {
@@ -6921,6 +7511,8 @@ export const interactiveQuestions = {
       "number": 296,
       "groupId": "group-295-297",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the impact of the Brown v. Board of Education decision?",
       "choices": [
         {
@@ -6949,6 +7541,8 @@ export const interactiveQuestions = {
       "number": 297,
       "groupId": "group-295-297",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a factual statement rather than an\n     opinion regarding the Brown v. Board of Education decision?",
       "choices": [
         {
@@ -6977,6 +7571,8 @@ export const interactiveQuestions = {
       "number": 298,
       "groupId": "group-standalone-298",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What can you conclude about these two landmark Supreme Court\n     decisions?",
       "choices": [
         {
@@ -7005,6 +7601,8 @@ export const interactiveQuestions = {
       "number": 299,
       "groupId": "group-299-302",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is not guaranteed by the First Amendment?",
       "choices": [
         {
@@ -7033,6 +7631,8 @@ export const interactiveQuestions = {
       "number": 300,
       "groupId": "group-299-302",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The First Amendment",
       "choices": [
         {
@@ -7061,6 +7661,8 @@ export const interactiveQuestions = {
       "number": 301,
       "groupId": "group-299-302",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following laws would be permitted by the First\n     Amendment?",
       "choices": [
         {
@@ -7089,6 +7691,8 @@ export const interactiveQuestions = {
       "number": 302,
       "groupId": "group-299-302",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What overall effect has the First Amendment had on the United\n     States?",
       "choices": [
         {
@@ -7117,6 +7721,8 @@ export const interactiveQuestions = {
       "number": 303,
       "groupId": "group-303-305",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the map, which European country controlled the\n   largest amount of territory?",
       "choices": [
         {
@@ -7145,6 +7751,8 @@ export const interactiveQuestions = {
       "number": 304,
       "groupId": "group-303-305",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, all of the following reasons provided\n     motivation to European counties to gain control of more territories\n     in the New World EXCEPT",
       "choices": [
         {
@@ -7173,6 +7781,8 @@ export const interactiveQuestions = {
       "number": 305,
       "groupId": "group-303-305",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why did the European nations eventually give up control of their\n     newly gained territories and leave the New World?",
       "choices": [
         {
@@ -7201,6 +7811,8 @@ export const interactiveQuestions = {
       "number": 306,
       "groupId": "group-standalone-306",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What languages are the most commonly spoken in North America,\n     South America, and Central America today?",
       "choices": [
         {
@@ -7229,6 +7841,8 @@ export const interactiveQuestions = {
       "number": 307,
       "groupId": "group-307-311",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "With which country does the United States have the smallest trade\n    deficit?",
       "choices": [
         {
@@ -7257,6 +7871,8 @@ export const interactiveQuestions = {
       "number": 308,
       "groupId": "group-307-311",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the table, which of the following is a true statement?",
       "choices": [
         {
@@ -7285,6 +7901,8 @@ export const interactiveQuestions = {
       "number": 309,
       "groupId": "group-307-311",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The value of Japan’s trade deficit is what percentage of the value\n   of the U.S. exports to Japan?",
       "choices": [
         {
@@ -7313,6 +7931,8 @@ export const interactiveQuestions = {
       "number": 310,
       "groupId": "group-307-311",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the given information, which of the following is a true\n   statement?",
       "choices": [
         {
@@ -7341,6 +7961,8 @@ export const interactiveQuestions = {
       "number": 311,
       "groupId": "group-307-311",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the given information, which of the following is an\n   opinion rather than a factual statement?",
       "choices": [
         {
@@ -7369,6 +7991,8 @@ export const interactiveQuestions = {
       "number": 312,
       "groupId": "group-312-316",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What problem was Dr. Martin Luther King Jr. trying to highlight?",
       "choices": [
         {
@@ -7397,6 +8021,8 @@ export const interactiveQuestions = {
       "number": 313,
       "groupId": "group-312-316",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to Dr. King’s speech in 1963, African Americans were\n   discriminated against in each of the following ways EXCEPT",
       "choices": [
         {
@@ -7425,6 +8051,8 @@ export const interactiveQuestions = {
       "number": 314,
       "groupId": "group-312-316",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Toward the end of his speech, Dr. King used the quote “We hold\n   these truths to be self-evident: that all men are created equal,” taken\n   from the Declaration of Independence. Why did Dr. King include\n   this quote in his speech?",
       "choices": [
         {
@@ -7453,6 +8081,8 @@ export const interactiveQuestions = {
       "number": 315,
       "groupId": "group-312-316",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Dr. Martin Luther King Jr. also led many protests for civil rights\n   during this period of history. What does the term “civil rights” mean\n   in this context?",
       "choices": [
         {
@@ -7481,6 +8111,8 @@ export const interactiveQuestions = {
       "number": 316,
       "groupId": "group-312-316",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Dr. Martin Luther King Jr. was eventually successful in helping to\n     bring an end to racial segregation in the United States. Which of the\n     following best describes racial segregation?",
       "choices": [
         {
@@ -7509,6 +8141,8 @@ export const interactiveQuestions = {
       "number": 317,
       "groupId": "group-standalone-317",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Every decade, the United States Census Bureau takes a census of\n     the population. Which of the following best describes the U.S.\n     Census?",
       "choices": [
         {
@@ -7537,6 +8171,8 @@ export const interactiveQuestions = {
       "number": 318,
       "groupId": "group-318-321",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which important amendment did the case refer to?",
       "choices": [
         {
@@ -7565,6 +8201,8 @@ export const interactiveQuestions = {
       "number": 319,
       "groupId": "group-318-321",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Under which special circumstances did the Supreme Court state\n    that limits to freedom of speech would apply?",
       "choices": [
         {
@@ -7593,6 +8231,8 @@ export const interactiveQuestions = {
       "number": 320,
       "groupId": "group-318-321",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based upon the outcome of this Supreme Court decision, would\n    you have the right to falsely shout, “Fire!” in a crowded cinema?",
       "choices": [
         {
@@ -7621,6 +8261,8 @@ export const interactiveQuestions = {
       "number": 321,
       "groupId": "group-318-321",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which war did the United States enter in 1917?",
       "choices": [
         {
@@ -7649,6 +8291,8 @@ export const interactiveQuestions = {
       "number": 322,
       "groupId": "group-standalone-322",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the name of the period from 1917 until 1933 during\n     which the sale or consumption of alcohol was illegal in the United\n     States?",
       "choices": [
         {
@@ -7677,6 +8321,8 @@ export const interactiveQuestions = {
       "number": 323,
       "groupId": "group-323-324",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The graph suggests that which of the following statements is true?",
       "choices": [
         {
@@ -7705,6 +8351,8 @@ export const interactiveQuestions = {
       "number": 324,
       "groupId": "group-323-324",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What caused the sharp decline in the Native-American population\n     during the 16th century?",
       "choices": [
         {
@@ -7733,6 +8381,8 @@ export const interactiveQuestions = {
       "number": 325,
       "groupId": "group-325-329",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which candidate did most Americans vote for?",
       "choices": [
         {
@@ -7761,6 +8411,8 @@ export const interactiveQuestions = {
       "number": 326,
       "groupId": "group-325-329",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How many Electoral College votes does a candidate need to\n   become president?",
       "choices": [
         {
@@ -7789,6 +8441,8 @@ export const interactiveQuestions = {
       "number": 327,
       "groupId": "group-325-329",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements is FALSE?",
       "choices": [
         {
@@ -7817,6 +8471,8 @@ export const interactiveQuestions = {
       "number": 328,
       "groupId": "group-325-329",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the information in the passage, which of the following is\n     a true statement?",
       "choices": [
         {
@@ -7845,6 +8501,8 @@ export const interactiveQuestions = {
       "number": 329,
       "groupId": "group-325-329",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "When a senator is elected, how long is his or her term in office?",
       "choices": [
         {
@@ -7873,6 +8531,8 @@ export const interactiveQuestions = {
       "number": 330,
       "groupId": "group-330-334",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which amendment prohibits the President of the United States\n        from running for a third term during an election?",
       "choices": [
         {
@@ -7901,6 +8561,8 @@ export const interactiveQuestions = {
       "number": 331,
       "groupId": "group-330-334",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a true statement regarding the U.S.\n        Constitution and its amendments?",
       "choices": [
         {
@@ -7929,6 +8591,8 @@ export const interactiveQuestions = {
       "number": 332,
       "groupId": "group-330-334",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The first ten amendments were collectively known as the Bill of\n     Rights. What was the main purpose of the Bill of Rights?",
       "choices": [
         {
@@ -7957,6 +8621,8 @@ export const interactiveQuestions = {
       "number": 333,
       "groupId": "group-330-334",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The National Rifle Association (NRA) strongly supports which\n     amendment?",
       "choices": [
         {
@@ -7985,6 +8651,8 @@ export const interactiveQuestions = {
       "number": 334,
       "groupId": "group-330-334",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which amendment allows a defendant to remain silent when they\n     are being questioned about an issue that might incriminate them?",
       "choices": [
         {
@@ -8013,6 +8681,8 @@ export const interactiveQuestions = {
       "number": 335,
       "groupId": "group-335-338",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following best describes gross domestic product\n   (GDP)?",
       "choices": [
         {
@@ -8041,6 +8711,8 @@ export const interactiveQuestions = {
       "number": 336,
       "groupId": "group-335-338",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which country spends the highest percentage of its GDP on\n   healthcare?",
       "choices": [
         {
@@ -8069,6 +8741,8 @@ export const interactiveQuestions = {
       "number": 337,
       "groupId": "group-335-338",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which country spends the smallest percentage of its GDP on social\n   care?",
       "choices": [
         {
@@ -8097,6 +8771,8 @@ export const interactiveQuestions = {
       "number": 338,
       "groupId": "group-335-338",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Regarding the 11 countries listed, which of the following is a true\n   statement?",
       "choices": [
         {
@@ -8125,6 +8801,8 @@ export const interactiveQuestions = {
       "number": 339,
       "groupId": "group-standalone-339",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Laissez-faire capitalism is defined as the separation of the state\n   and the economy. This economic policy leaves individuals and\n   businesses alone and allows economic events to occur without\n   interference from the government. Most Libertarians and some\n   Republicans believe that laissez-faire capitalism is the best\n   economic policy for the U.S. to follow.\n   Which of the following is an opinion rather than a fact about laissez-\n   faire capitalism?",
       "choices": [
         {
@@ -8153,6 +8831,8 @@ export const interactiveQuestions = {
       "number": 340,
       "groupId": "group-standalone-340",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fossil fuels, such as coal and natural gas, consist of hydrocarbons\n     that are derived from the remains of organisms. Many countries\n     obtain most of their energy needs by burning fossil fuels. The\n     combustion of fossil fuels produces heat, carbon dioxide, and water.\n     Carbon dioxide is a greenhouse gas that contributes to global\n     warming when present in excess in the atmosphere.\n     Which of the following is a fact rather than an opinion about fossil\n     fuels?",
       "choices": [
         {
@@ -8181,6 +8861,8 @@ export const interactiveQuestions = {
       "number": 341,
       "groupId": "group-341-343",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the name of the period of economic decline that lasted\n     from 1929 until 1939?",
       "choices": [
         {
@@ -8209,6 +8891,8 @@ export const interactiveQuestions = {
       "number": 342,
       "groupId": "group-341-343",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the name of the series of reforms issued by President\n     Roosevelt in the 1930s that were intended to improve the economy?",
       "choices": [
         {
@@ -8237,6 +8921,8 @@ export const interactiveQuestions = {
       "number": 343,
       "groupId": "group-341-343",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What global event in 1939 helped the United States finally recover\n     from its economic decline?",
       "choices": [
         {
@@ -8265,6 +8951,8 @@ export const interactiveQuestions = {
       "number": 344,
       "groupId": "group-344-346",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the main purpose of the First Amendment?",
       "choices": [
         {
@@ -8293,6 +8981,8 @@ export const interactiveQuestions = {
       "number": 345,
       "groupId": "group-344-346",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following laws would NOT be permitted by the First\n   Amendment?",
       "choices": [
         {
@@ -8321,6 +9011,8 @@ export const interactiveQuestions = {
       "number": 346,
       "groupId": "group-344-346",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which choice correctly completes the following sentence?\n   The First Amendment guarantees __________, __________,\n   __________, and __________.",
       "choices": [
         {
@@ -8349,6 +9041,8 @@ export const interactiveQuestions = {
       "number": 347,
       "groupId": "group-standalone-347",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is the riskiest investment?",
       "choices": [
         {
@@ -8377,6 +9071,8 @@ export const interactiveQuestions = {
       "number": 348,
       "groupId": "group-standalone-348",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The Emancipation Proclamation of 1863",
       "choices": [
         {
@@ -8405,6 +9101,8 @@ export const interactiveQuestions = {
       "number": 349,
       "groupId": "group-standalone-349",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "All of the following are valid reasons monopolies are not allowed\n   to exist in the United States EXCEPT",
       "choices": [
         {
@@ -8433,6 +9131,8 @@ export const interactiveQuestions = {
       "number": 350,
       "groupId": "group-standalone-350",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The slave trade from Africa to the New World from the mid-1500s\n   to the mid-1800s resulted in",
       "choices": [
         {
@@ -8461,6 +9161,8 @@ export const interactiveQuestions = {
       "number": 351,
       "groupId": "group-standalone-351",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A worker’s total compensation usually consists of which\n   components?",
       "choices": [
         {
@@ -8489,6 +9191,8 @@ export const interactiveQuestions = {
       "number": 352,
       "groupId": "group-standalone-352",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "When workers are trying to gain higher wages or improvements in\n   their working conditions, why is the threat of going on strike such\n   an effective bargaining tool for the workers?",
       "choices": [
         {
@@ -8517,6 +9221,8 @@ export const interactiveQuestions = {
       "number": 353,
       "groupId": "group-standalone-353",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "All of the following are examples of essential infrastructure that\n   supports economic activity EXCEPT",
       "choices": [
         {
@@ -8545,6 +9251,8 @@ export const interactiveQuestions = {
       "number": 354,
       "groupId": "group-standalone-354",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "All the following are features of a communist economy EXCEPT",
       "choices": [
         {
@@ -8573,6 +9281,8 @@ export const interactiveQuestions = {
       "number": 355,
       "groupId": "group-standalone-355",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Inflation generally occurs when wages remain stagnant while the\n   prices of goods and services continue to rise. During times of high\n   inflation, which of the following is likely to happen?",
       "choices": [
         {
@@ -8601,6 +9311,8 @@ export const interactiveQuestions = {
       "number": 356,
       "groupId": "group-standalone-356",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "When it is discovered that a particular company is engaged in\n    unethical behavior, many people decide to boycott the company by\n    refusing to buy their services or products. How does boycotting a\n    company put pressure on it to change its ways?",
       "choices": [
         {
@@ -8629,6 +9341,8 @@ export const interactiveQuestions = {
       "number": 357,
       "groupId": "group-standalone-357",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why would American automobile workers generally support\n   tariffs being placed on foreign imported cars?",
       "choices": [
         {
@@ -8657,6 +9371,8 @@ export const interactiveQuestions = {
       "number": 358,
       "groupId": "group-standalone-358",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The Cold War began at the end of World War II due to mistrust\n   between the democratic United States and the communist Soviet\n   Union. Each nation feared each other’s style of government and\n   began to build an arsenal of nuclear weapons to intimidate the other.\n   Which of the following statements is NOT true about the early part\n   of the Cold War?",
       "choices": [
         {
@@ -8685,6 +9401,8 @@ export const interactiveQuestions = {
       "number": 359,
       "groupId": "group-standalone-359",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "During the Industrial Revolution, Great Britain quickly became the\n    world’s top producer of goods. Which of the following was NOT a\n\n   factor in Britain’s rise to dominance in world trade during the\n   1800s?",
       "choices": [
         {
@@ -8713,6 +9431,8 @@ export const interactiveQuestions = {
       "number": 360,
       "groupId": "group-standalone-360",
       "section": "Social Studies",
+      "topic": "World History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "During World War II, women on the U.S. home front made a\n   significant contribution to the war effort by",
       "choices": [
         {
@@ -8741,6 +9461,8 @@ export const interactiveQuestions = {
       "number": 361,
       "groupId": "group-standalone-361",
       "section": "Social Studies",
+      "topic": "World History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "During the Cold War, the United States’ fear of the spread of\n   communism was expressed in its foreign policy known as the\n   Domino Theory. This fear was heightened when China became\n   communist in 1949 and the Korean War broke out in 1950, followed\n   by the U.S. entering the conflict in Vietnam in 1964.\n   Which of the following statements best summarizes the Domino\n   Theory as it applied to actions in Asia from 1945 through 1975?",
       "choices": [
         {
@@ -8769,6 +9491,8 @@ export const interactiveQuestions = {
       "number": 362,
       "groupId": "group-standalone-362",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In October 1963, the United States and the Soviet Union faced a\n     13-day standoff known as the Cuban Missile Crisis after the United\n     States discovered Soviet nuclear missiles in Cuba, just 90 miles\n     away from the continental United States. President Kennedy ordered\n     an immediate naval blockade of Cuba and warned the American\n     people that he was willing to use whatever force necessary to\n     neutralize this threat to national security.\n     The standoff ended when",
       "choices": [
         {
@@ -8797,6 +9521,8 @@ export const interactiveQuestions = {
       "number": 363,
       "groupId": "group-363-365",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What danger did John Adams foresee with regard to the American\n    political system?",
       "choices": [
         {
@@ -8825,6 +9551,8 @@ export const interactiveQuestions = {
       "number": 364,
       "groupId": "group-363-365",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the two quotes, were John Adams and George\n    Washington in agreement regarding this issue?",
       "choices": [
         {
@@ -8853,6 +9581,8 @@ export const interactiveQuestions = {
       "number": 365,
       "groupId": "group-363-365",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the two quotes and the current prevailing attitudes of\n   many Republicans and Democrats with regard to each other’s party,\n   were Washington and Adams right to worry about the possible\n   dangers of the two-party system?",
       "choices": [
         {
@@ -8881,6 +9611,8 @@ export const interactiveQuestions = {
       "number": 366,
       "groupId": "group-standalone-366",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In 1917, some women, who became known as suffragettes, began\n   protesting outside the White House. What were these women trying\n   to achieve?",
       "choices": [
         {
@@ -8909,6 +9641,8 @@ export const interactiveQuestions = {
       "number": 367,
       "groupId": "group-standalone-367",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "After the United States won the Spanish-American War in 1898,\n   President Teddy Roosevelt began taking a more aggressive approach\n   to his foreign policy regarding the countries in Latin America. In an\n   effort to extend U.S. influence in the area,",
       "choices": [
         {
@@ -8937,6 +9671,8 @@ export const interactiveQuestions = {
       "number": 368,
       "groupId": "group-standalone-368",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "During 1965, support for America’s involvement in the war in\n   Vietnam was strong, but in less than two years, the war became\n   unpopular at home, leading to student protests across the country.\n   All the following would be a valid reason for students to protest the\n   war EXCEPT",
       "choices": [
         {
@@ -8965,6 +9701,8 @@ export const interactiveQuestions = {
       "number": 369,
       "groupId": "group-standalone-369",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which amendment to the Constitution stated that the powers not\n   delegated to the federal government or prohibited to the states were\n   “reserved to the states”?",
       "choices": [
         {
@@ -8993,6 +9731,8 @@ export const interactiveQuestions = {
       "number": 370,
       "groupId": "group-standalone-370",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What trend in the media has NOT been a major factor in the U.S.\n   presidential elections since 1960?",
       "choices": [
         {
@@ -9021,6 +9761,8 @@ export const interactiveQuestions = {
       "number": 371,
       "groupId": "group-standalone-371",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is an example of capital?",
       "choices": [
         {
@@ -9049,6 +9791,8 @@ export const interactiveQuestions = {
       "number": 372,
       "groupId": "group-standalone-372",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements describes a result of the\n   increase in globalization over the past half century?",
       "choices": [
         {
@@ -9077,6 +9821,8 @@ export const interactiveQuestions = {
       "number": 373,
       "groupId": "group-standalone-373",
       "section": "Social Studies",
+      "topic": "World History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The continued reliance of the world’s leading economies (the\n   United States and China) upon fossil fuels such as coal and\n   petroleum could lead to all of the following result EXCEPT",
       "choices": [
         {
@@ -9105,6 +9851,8 @@ export const interactiveQuestions = {
       "number": 374,
       "groupId": "group-standalone-374",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "President Roosevelt issued Executive Order 9066 in 1942, just\n    over two months after the Japanese attacked Pearl Harbor. The\n\n     executive order had serious consequences for over 120,000 people\n     of Japanese ancestry who were living in the United States. What\n     was the intent of this order?",
       "choices": [
         {
@@ -9133,6 +9881,8 @@ export const interactiveQuestions = {
       "number": 375,
       "groupId": "group-standalone-375",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In the late 1800s, J. D. Rockefeller, the owner of Standard Oil,\n     incorporated vertical and horizontal business practices into his\n     business model by controlling the drilling, production,\n     transportation, and sale of his products. As a result, he was able to",
       "choices": [
         {
@@ -9161,6 +9911,8 @@ export const interactiveQuestions = {
       "number": 376,
       "groupId": "group-376-378",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements best describes the rate of\n   immigration into the United Stated throughout the 20th century?",
       "choices": [
         {
@@ -9189,6 +9941,8 @@ export const interactiveQuestions = {
       "number": 377,
       "groupId": "group-376-378",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following best explains why the immigration rate fell\n   sharply between 1914 and 1918?",
       "choices": [
         {
@@ -9217,6 +9971,8 @@ export const interactiveQuestions = {
       "number": 378,
       "groupId": "group-376-378",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements, if true, would best explain why\n     the immigration rate began to rise in the second half of the 20th\n     century?",
       "choices": [
         {
@@ -9245,6 +10001,8 @@ export const interactiveQuestions = {
       "number": 379,
       "groupId": "group-379-384",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Who did the Founding Fathers declare independence from in\n    1776?",
       "choices": [
         {
@@ -9273,6 +10031,8 @@ export const interactiveQuestions = {
       "number": 380,
       "groupId": "group-379-384",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "All of the following reasons provided motivation for the American\n    colonies to declare independence from the king in 1776 EXCEPT",
       "choices": [
         {
@@ -9301,6 +10061,8 @@ export const interactiveQuestions = {
       "number": 381,
       "groupId": "group-379-384",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the best meaning of the phrase “we hold these truths to be\n    self-evident”?",
       "choices": [
         {
@@ -9329,6 +10091,8 @@ export const interactiveQuestions = {
       "number": 382,
       "groupId": "group-379-384",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why did Elizabeth Cady Stanton model her document after the\n   Declaration of Independence?",
       "choices": [
         {
@@ -9357,6 +10121,8 @@ export const interactiveQuestions = {
       "number": 383,
       "groupId": "group-379-384",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why did Elizabeth Cady Stanton change the first few lines from\n   the Declaration of Independence to “we hold these truths to be self-\n   evident: that all men and women are created equal”?",
       "choices": [
         {
@@ -9385,6 +10151,8 @@ export const interactiveQuestions = {
       "number": 384,
       "groupId": "group-379-384",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What ultimate goal did Elizabeth Cady Stanton and Susan B.\n   Anthony hope to achieve?",
       "choices": [
         {
@@ -9413,6 +10181,8 @@ export const interactiveQuestions = {
       "number": 385,
       "groupId": "group-385-389",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What were the African-American protestors hoping to achieve?",
       "choices": [
         {
@@ -9441,6 +10211,8 @@ export const interactiveQuestions = {
       "number": 386,
       "groupId": "group-385-389",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why did Alabama state police violently attack the peaceful\n    protestors during Bloody Sunday?",
       "choices": [
         {
@@ -9469,6 +10241,8 @@ export const interactiveQuestions = {
       "number": 387,
       "groupId": "group-385-389",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Who was George Wallace?",
       "choices": [
         {
@@ -9497,6 +10271,8 @@ export const interactiveQuestions = {
       "number": 388,
       "groupId": "group-385-389",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why did President Johnson address Congress one week after\n   Bloody Sunday?",
       "choices": [
         {
@@ -9525,6 +10301,8 @@ export const interactiveQuestions = {
       "number": 389,
       "groupId": "group-385-389",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the most likely reason that President Johnson decided to\n   end his speech to Congress with the phrase “And we shall\n   overcome”?",
       "choices": [
         {
@@ -9553,6 +10331,8 @@ export const interactiveQuestions = {
       "number": 390,
       "groupId": "group-standalone-390",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the passage, which of the following is a true statement\n   regarding the voting rights of African Americans?",
       "choices": [
         {
@@ -9581,6 +10361,8 @@ export const interactiveQuestions = {
       "number": 391,
       "groupId": "group-391-392",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What can Congress do to pass a bill that has been vetoed by the\n     president?",
       "choices": [
         {
@@ -9609,6 +10391,8 @@ export const interactiveQuestions = {
       "number": 392,
       "groupId": "group-391-392",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What happens if the president tries to return an unsigned bill to\n   Congress while its members are on a month-long vacation?",
       "choices": [
         {
@@ -9637,6 +10421,8 @@ export const interactiveQuestions = {
       "number": 393,
       "groupId": "group-standalone-393",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The U.S. Constitution has little to say about reasons for\n   impeachment and removal from office: “treason, bribery, or other\n   high crimes and misdemeanors,” including bribery, intimidation,\n   refusal to obey a lawful order, dereliction of duty, perjury, abuse of\n   authority, failure to supervise, conduct unbecoming, and misuse of\n   assets. Which of the following would be grounds for presidential\n   impeachment?",
       "choices": [
         {
@@ -9665,6 +10451,8 @@ export const interactiveQuestions = {
       "number": 394,
       "groupId": "group-standalone-394",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The free market system depends on entrepreneurship.\n   Entrepreneurs start businesses to produce goods and services that\n   are in short supply and then sell those goods and services at a profit.\n   Which of the following is NOT true about the free market system?",
       "choices": [
         {
@@ -9693,6 +10481,8 @@ export const interactiveQuestions = {
       "number": 395,
       "groupId": "group-395-396",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "This speech is historically significant for all these reasons\n      EXCEPT",
       "choices": [
         {
@@ -9721,6 +10511,8 @@ export const interactiveQuestions = {
       "number": 396,
       "groupId": "group-395-396",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why did so many people risk their lives trying to escape from East\n      Germany to West Germany (but not the other way around)?",
       "choices": [
         {
@@ -9749,6 +10541,8 @@ export const interactiveQuestions = {
       "number": 397,
       "groupId": "group-standalone-397",
       "section": "Social Studies",
+      "topic": "World History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which war did the United States enter in 1941 shortly after the\n     bombing of Pearl Harbor?",
       "choices": [
         {
@@ -9777,6 +10571,8 @@ export const interactiveQuestions = {
       "number": 398,
       "groupId": "group-standalone-398",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is likely to be highly valued in a free-\n     market economy?",
       "choices": [
         {
@@ -9805,6 +10601,8 @@ export const interactiveQuestions = {
       "number": 399,
       "groupId": "group-399-401",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In what war did the Battle of Gettysburg take place?",
       "choices": [
         {
@@ -9833,6 +10631,8 @@ export const interactiveQuestions = {
       "number": 400,
       "groupId": "group-399-401",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The Battle of Gettysburg was fought on July 1–3, 1863, by the\n    Union and Confederate forces, resulting in the largest number of\n    casualties of the war. Which of the following correctly describes\n    how the battle ended?",
       "choices": [
         {
@@ -9861,6 +10661,8 @@ export const interactiveQuestions = {
       "number": 401,
       "groupId": "group-399-401",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the excerpt, what was the main purpose of Lincoln’s\n    speech?",
       "choices": [
         {
@@ -9889,6 +10691,8 @@ export const interactiveQuestions = {
       "number": 402,
       "groupId": "group-standalone-402",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The repeal of the Eighteenth Amendment, known as Prohibition,\n   meant that alcohol could once again be legally bought and sold.\n   What was the main economic reason the federal government favored\n   its repeal?",
       "choices": [
         {
@@ -9917,6 +10721,8 @@ export const interactiveQuestions = {
       "number": 403,
       "groupId": "group-standalone-403",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a true statement?",
       "choices": [
         {
@@ -9945,6 +10751,8 @@ export const interactiveQuestions = {
       "number": 404,
       "groupId": "group-standalone-404",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The First Amendment protects freedom of speech and is one of the\n    most important rights needed in a true democracy. Which of the\n    following Supreme Court decisions is one of the best examples of\n    protecting freedom of speech?",
       "choices": [
         {
@@ -9973,6 +10781,8 @@ export const interactiveQuestions = {
       "number": 405,
       "groupId": "group-standalone-405",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is most likely to be studied by a\n     macroeconomist?",
       "choices": [
         {
@@ -10001,6 +10811,8 @@ export const interactiveQuestions = {
       "number": 406,
       "groupId": "group-406-408",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the graph, which of the following statements is accurate?",
       "choices": [
         {
@@ -10029,6 +10841,8 @@ export const interactiveQuestions = {
       "number": 407,
       "groupId": "group-406-408",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following provides the best explanation for the\n   higher electricity consumption rate in Canada compared to the rate\n   in Australia?",
       "choices": [
         {
@@ -10057,6 +10871,8 @@ export const interactiveQuestions = {
       "number": 408,
       "groupId": "group-406-408",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is meant by laissez-faire economics?",
       "choices": [
         {
@@ -10085,6 +10901,8 @@ export const interactiveQuestions = {
       "number": 408,
       "groupId": "group-408-413",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is meant by laissez-faire economics?",
       "choices": [
         {
@@ -10113,6 +10931,8 @@ export const interactiveQuestions = {
       "number": 409,
       "groupId": "group-408-413",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what was at least partially responsible\n   for causing the Stock Market Crash of 1929?",
       "choices": [
         {
@@ -10141,6 +10961,8 @@ export const interactiveQuestions = {
       "number": 410,
       "groupId": "group-408-413",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The Social Security programs of the New Deal provided all of the\n   following EXCEPT",
       "choices": [
         {
@@ -10169,6 +10991,8 @@ export const interactiveQuestions = {
       "number": 411,
       "groupId": "group-408-413",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the graph, what year did unemployment reach a\n   maximum in the United States?",
       "choices": [
         {
@@ -10197,6 +11021,8 @@ export const interactiveQuestions = {
       "number": 412,
       "groupId": "group-408-413",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the graph, what effect did the New Deal have on the\n   unemployment rate between 1933 and 1937?",
       "choices": [
         {
@@ -10225,6 +11051,8 @@ export const interactiveQuestions = {
       "number": 413,
       "groupId": "group-408-413",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The United States’ involvement in which war during the early\n   1940s finally helped bring the unemployment rate back down to\n   below 5 percent?",
       "choices": [
         {
@@ -10253,6 +11081,8 @@ export const interactiveQuestions = {
       "number": 414,
       "groupId": "group-standalone-414",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following concepts is NOT related to the American\n   concept of liberty as protected by the First Amendment?",
       "choices": [
         {
@@ -10281,6 +11111,8 @@ export const interactiveQuestions = {
       "number": 415,
       "groupId": "group-standalone-415",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What does the systems of “checks and balances” do with regard to\n     the federal government?",
       "choices": [
         {
@@ -10309,6 +11141,8 @@ export const interactiveQuestions = {
       "number": 416,
       "groupId": "group-416-419",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In what year were African-American women first allowed to\n      legally vote?",
       "choices": [
         {
@@ -10337,6 +11171,8 @@ export const interactiveQuestions = {
       "number": 417,
       "groupId": "group-416-419",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why was there a need to pass the Twenty-Fourth Amendment and\n   the Voting Rights Act when the rights of American men and women\n   of all races were already protected by the Fifteenth Amendment and\n   Nineteenth Amendment, respectively?",
       "choices": [
         {
@@ -10365,6 +11201,8 @@ export const interactiveQuestions = {
       "number": 418,
       "groupId": "group-416-419",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the information in the passage, what conclusion can be\n   made regarding the implementation of the U.S. Constitution and the\n   ideals described by the Declaration of Independence?",
       "choices": [
         {
@@ -10393,6 +11231,8 @@ export const interactiveQuestions = {
       "number": 419,
       "groupId": "group-416-419",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What spurred the debate about lowering the voting age that led to\n    the passing of the Twenty-Sixth Amendment in 1972?",
       "choices": [
         {
@@ -10421,6 +11261,8 @@ export const interactiveQuestions = {
       "number": 420,
       "groupId": "group-420-422",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The Sixth Amendment guarantees a citizen all of the following\n     EXCEPT",
       "choices": [
         {
@@ -10449,6 +11291,8 @@ export const interactiveQuestions = {
       "number": 421,
       "groupId": "group-420-422",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the passage information, which of the following is a true\n      statement regarding the Fifth and Sixth Amendments?",
       "choices": [
         {
@@ -10477,6 +11321,8 @@ export const interactiveQuestions = {
       "number": 422,
       "groupId": "group-420-422",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The outcome of the Miranda v. Arizona Supreme Court case in\n   1964 is significant for those under arrest because now, once\n   someone is both in police custody and about to be interrogated,\n   police are required to",
       "choices": [
         {
@@ -10505,6 +11351,8 @@ export const interactiveQuestions = {
       "number": 423,
       "groupId": "group-standalone-423",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How do the president’s Supreme Court justice selections help\n   secure his own legacy even after he is out of office?",
       "choices": [
         {
@@ -10533,6 +11381,8 @@ export const interactiveQuestions = {
       "number": 424,
       "groupId": "group-standalone-424",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Taxes at local, state, and federal levels allow the government to\n   provide goods and services for the general population. Which of the\n   following is NOT true about taxation?",
       "choices": [
         {
@@ -10561,6 +11411,8 @@ export const interactiveQuestions = {
       "number": 425,
       "groupId": "group-standalone-425",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Globalization, which occurs whenever companies shift their focus\n   from a local or regional basis to an international basis, can lead to\n   the outsourcing of jobs overseas. Which of the following is an\n   example of globalization?",
       "choices": [
         {
@@ -10589,6 +11441,8 @@ export const interactiveQuestions = {
       "number": 426,
       "groupId": "group-standalone-426",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the map, which of the following statements is true?",
       "choices": [
         {
@@ -10617,6 +11471,8 @@ export const interactiveQuestions = {
       "number": 427,
       "groupId": "group-standalone-427",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What effect has the Mississippi River had on the development of\n   the American Midwest?",
       "choices": [
         {
@@ -10645,6 +11501,8 @@ export const interactiveQuestions = {
       "number": 428,
       "groupId": "group-standalone-428",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A tariff is a special tax that is imposed on imported goods and\n     services to restrict trade and increase the price of imported goods\n     and services. The United States occasionally imposes tariffs in an\n     attempt to persuade Americans to buy American-made goods and\n     services.\n     According to the given information, which of the following is an\n     example of a tariff?",
       "choices": [
         {
@@ -10673,6 +11531,8 @@ export const interactiveQuestions = {
       "number": 429,
       "groupId": "group-429-431",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the graph, which year were the GDPs of each region\n   the most similar?",
       "choices": [
         {
@@ -10701,6 +11561,8 @@ export const interactiveQuestions = {
       "number": 430,
       "groupId": "group-429-431",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the graph, which of the following is a true statement?",
       "choices": [
         {
@@ -10729,6 +11591,8 @@ export const interactiveQuestions = {
       "number": 431,
       "groupId": "group-429-431",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the graph, which of the following is an opinion rather\n     than a factual statement?",
       "choices": [
         {
@@ -10757,6 +11621,8 @@ export const interactiveQuestions = {
       "number": 432,
       "groupId": "group-432-434",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What percentage of the total U.S. energy consumption comes from\n   fossil fuels?",
       "choices": [
         {
@@ -10785,6 +11651,8 @@ export const interactiveQuestions = {
       "number": 433,
       "groupId": "group-432-434",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What percentage of the total U.S. energy consumption comes from\n   hydroelectric power?",
       "choices": [
         {
@@ -10813,6 +11681,8 @@ export const interactiveQuestions = {
       "number": 434,
       "groupId": "group-432-434",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a factual statement that is supported by\n    the graph?",
       "choices": [
         {
@@ -10841,6 +11711,8 @@ export const interactiveQuestions = {
       "number": 435,
       "groupId": "group-standalone-435",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which war resulted in the United States gaining control of Texas?",
       "choices": [
         {
@@ -10869,6 +11741,8 @@ export const interactiveQuestions = {
       "number": 436,
       "groupId": "group-436-440",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the graph, in what year will the world population reach 8\n     billion people?",
       "choices": [
         {
@@ -10897,6 +11771,8 @@ export const interactiveQuestions = {
       "number": 437,
       "groupId": "group-436-440",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the tables, which country’s population is expected to\n   grow by the biggest percentage by 2050?",
       "choices": [
         {
@@ -10925,6 +11801,8 @@ export const interactiveQuestions = {
       "number": 438,
       "groupId": "group-436-440",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the graph, which of the following is a true statement\n   regarding the predicted global population growth?",
       "choices": [
         {
@@ -10953,6 +11831,8 @@ export const interactiveQuestions = {
       "number": 439,
       "groupId": "group-436-440",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the given information, which of the following is a factual\n   statement?",
       "choices": [
         {
@@ -10981,6 +11861,8 @@ export const interactiveQuestions = {
       "number": 440,
       "groupId": "group-436-440",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the given information, which of the following is an\n    opinion rather than a factual statement?",
       "choices": [
         {
@@ -11009,6 +11891,8 @@ export const interactiveQuestions = {
       "number": 441,
       "groupId": "group-standalone-441",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Cities that lie along the Gulf of Mexico or along the coast of the\n     Atlantic Ocean face a serious threat from hurricanes. Based on this\n     information, which city would you NOT expect to be seriously\n     threatened by hurricanes?",
       "choices": [
         {
@@ -11037,6 +11921,8 @@ export const interactiveQuestions = {
       "number": 442,
       "groupId": "group-442-446",
       "section": "Social Studies",
+      "topic": "World History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the chart, approximately how many years longer\n   does a person born in India live compared to a person born in\n   Nepal?",
       "choices": [
         {
@@ -11065,6 +11951,8 @@ export const interactiveQuestions = {
       "number": 443,
       "groupId": "group-442-446",
       "section": "Social Studies",
+      "topic": "World History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the chart, which of the following is a true statement?",
       "choices": [
         {
@@ -11093,6 +11981,8 @@ export const interactiveQuestions = {
       "number": 444,
       "groupId": "group-442-446",
       "section": "Social Studies",
+      "topic": "World History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements would best explain the high\n   level of illiteracy among women compared to men in Nepal?",
       "choices": [
         {
@@ -11121,6 +12011,8 @@ export const interactiveQuestions = {
       "number": 445,
       "groupId": "group-442-446",
       "section": "Social Studies",
+      "topic": "World History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the table, what general trend appears to be true\n   regarding life expectancy and illiteracy rates in these three\n   countries?",
       "choices": [
         {
@@ -11149,6 +12041,8 @@ export const interactiveQuestions = {
       "number": 446,
       "groupId": "group-442-446",
       "section": "Social Studies",
+      "topic": "World History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the chart, all of the following statements are opinions\n   rather factual statements EXCEPT",
       "choices": [
         {
@@ -11177,6 +12071,8 @@ export const interactiveQuestions = {
       "number": 447,
       "groupId": "group-standalone-447",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In 1803, the United States vastly increased its territory when\n     Thomas Jefferson paid 50 million francs to France for the land that\n     now includes North Dakota, South Dakota, Arkansas, Iowa, Kansas,\n     Oklahoma, Nebraska, Montana, Wyoming, northern Texas, and\n     Louisiana.\n     What was the name of this transaction?",
       "choices": [
         {
@@ -11205,6 +12101,8 @@ export const interactiveQuestions = {
       "number": 448,
       "groupId": "group-448-450",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the given information, which of the following was likely\n     set up by President Roosevelt between 1901 and 1909 to preserve\n     the United States natural treasures for future generations?",
       "choices": [
         {
@@ -11233,6 +12131,8 @@ export const interactiveQuestions = {
       "number": 449,
       "groupId": "group-448-450",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the practice of preserving natural resources known as?",
       "choices": [
         {
@@ -11261,6 +12161,8 @@ export const interactiveQuestions = {
       "number": 450,
       "groupId": "group-448-450",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which current U.S. agency plays an important role in ensuring that\n   U.S. companies do not pollute the country’s natural environment?",
       "choices": [
         {
@@ -11289,6 +12191,8 @@ export const interactiveQuestions = {
       "number": 451,
       "groupId": "group-standalone-451",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In 1794, inventor Eli Whitney patented the modern cotton gin,\n   which made it much easier to separate cotton fibers from their seeds.\n   Why was the cotton gin such an important invention during that\n   period of American history?",
       "choices": [
         {
@@ -11317,6 +12221,8 @@ export const interactiveQuestions = {
       "number": 452,
       "groupId": "group-standalone-452",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The quote below is from Alexander Hamilton, one of the Founding\n   Fathers.\n   “Constitutions should consist only of general provisions; the reason\n   is that they must necessarily be permanent, and that they cannot\n   calculate for the possible change of things.”\n   How does the Constitution of the United States “calculate for the\n   possible change of things”?",
       "choices": [
         {
@@ -11345,6 +12251,8 @@ export const interactiveQuestions = {
       "number": 453,
       "groupId": "group-453-455",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the main message President John Quincy Adams was\n     trying to convey to the American colonists?",
       "choices": [
         {
@@ -11373,6 +12281,8 @@ export const interactiveQuestions = {
       "number": 454,
       "groupId": "group-453-455",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the meaning of Manifest Destiny?",
       "choices": [
         {
@@ -11401,6 +12311,8 @@ export const interactiveQuestions = {
       "number": 455,
       "groupId": "group-453-455",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the information in the passage, the attitude of Manifest\n     Destiny helped to encourage which two atrocities?",
       "choices": [
         {
@@ -11429,6 +12341,8 @@ export const interactiveQuestions = {
       "number": 456,
       "groupId": "group-standalone-456",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements is true regarding the Bill of\n     Rights?",
       "choices": [
         {
@@ -11457,6 +12371,8 @@ export const interactiveQuestions = {
       "number": 457,
       "groupId": "group-457-459",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a true statement regarding the Boston\n   Massacre?",
       "choices": [
         {
@@ -11485,6 +12401,8 @@ export const interactiveQuestions = {
       "number": 458,
       "groupId": "group-457-459",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "All of the following features of Paul Revere’s engraving help\n   explain why it’s considered propaganda rather than a true depiction\n   of events EXCEPT",
       "choices": [
         {
@@ -11513,6 +12431,8 @@ export const interactiveQuestions = {
       "number": 459,
       "groupId": "group-457-459",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What effect did the Boston Massacre and Paul Revere’s engraving\n   have on the American colonists?",
       "choices": [
         {
@@ -11541,6 +12461,8 @@ export const interactiveQuestions = {
       "number": 460,
       "groupId": "group-460-462",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is one of the provisions of this system of\n     checks and balances?",
       "choices": [
         {
@@ -11569,6 +12491,8 @@ export const interactiveQuestions = {
       "number": 461,
       "groupId": "group-460-462",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "To which branch of government does the president belong?",
       "choices": [
         {
@@ -11597,6 +12521,8 @@ export const interactiveQuestions = {
       "number": 462,
       "groupId": "group-460-462",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which branch of government is responsible for introducing and\n     passing new laws?",
       "choices": [
         {
@@ -11625,6 +12551,8 @@ export const interactiveQuestions = {
       "number": 463,
       "groupId": "group-463-466",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "European explorers traveled around the world for all of the\n     following reasons EXCEPT",
       "choices": [
         {
@@ -11653,6 +12581,8 @@ export const interactiveQuestions = {
       "number": 464,
       "groupId": "group-463-466",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the map, which of the following statements is true\n     regarding Christopher Columbus?",
       "choices": [
         {
@@ -11681,6 +12611,8 @@ export const interactiveQuestions = {
       "number": 465,
       "groupId": "group-463-466",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the map, which of the following statements is true\n     regarding Magellan’s circumnavigation of the world?",
       "choices": [
         {
@@ -11709,6 +12641,8 @@ export const interactiveQuestions = {
       "number": 466,
       "groupId": "group-463-466",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the map, which of the following is a true statement rather\n     than an opinion regarding European exploration during the 30-year\n     period from 1492 to 1522.",
       "choices": [
         {
@@ -11737,6 +12671,8 @@ export const interactiveQuestions = {
       "number": 467,
       "groupId": "group-467-471",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the excerpt, what had just happened the day before\n    Roosevelt’s speech to Congress?",
       "choices": [
         {
@@ -11765,6 +12701,8 @@ export const interactiveQuestions = {
       "number": 468,
       "groupId": "group-467-471",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the excerpt, why was the attack on Pearl Harbor so\n    surprising?",
       "choices": [
         {
@@ -11793,6 +12731,8 @@ export const interactiveQuestions = {
       "number": 469,
       "groupId": "group-467-471",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which war was the attack on Pearl Harbor part of?",
       "choices": [
         {
@@ -11821,6 +12761,8 @@ export const interactiveQuestions = {
       "number": 470,
       "groupId": "group-467-471",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the excerpt, what was President Roosevelt trying to\n   convince Congress to do?",
       "choices": [
         {
@@ -11849,6 +12791,8 @@ export const interactiveQuestions = {
       "number": 471,
       "groupId": "group-467-471",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the excerpt, why was Pearl Harbor chosen as the location\n   for the surprise attack?",
       "choices": [
         {
@@ -11877,6 +12821,8 @@ export const interactiveQuestions = {
       "number": 472,
       "groupId": "group-standalone-472",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The United Nations (UN) is an international organization based in\n    New York City. Its member countries include 193 out of the 195\n    countries in the world. The UN was founded at the end of World\n\n     War II and is dedicated to global peace, human rights, and\n     international law.\n     Which of the following is a fact rather than an opinion regarding the\n     United Nations?",
       "choices": [
         {
@@ -11905,6 +12851,8 @@ export const interactiveQuestions = {
       "number": 473,
       "groupId": "group-473-476",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the figures, during which month does Tampa experience\n   the highest average temperature?",
       "choices": [
         {
@@ -11933,6 +12881,8 @@ export const interactiveQuestions = {
       "number": 474,
       "groupId": "group-473-476",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which choice correctly completes the following sentence?\n   Tampa’s driest month is __________, whereas its coldest month is\n   __________.",
       "choices": [
         {
@@ -11961,6 +12911,8 @@ export const interactiveQuestions = {
       "number": 475,
       "groupId": "group-473-476",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the figures, what appears to be the relationship between\n   the average temperature and the rainfall in Tampa?",
       "choices": [
         {
@@ -11989,6 +12941,8 @@ export const interactiveQuestions = {
       "number": 476,
       "groupId": "group-473-476",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which segment of the economy would be affected the most by an\n   unusually long spell of dry weather?",
       "choices": [
         {
@@ -12017,6 +12971,8 @@ export const interactiveQuestions = {
       "number": 477,
       "groupId": "group-standalone-477",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A monarchy is a system of government in which one person\n   reigns, usually a king or queen. Which country has never had a\n   monarchy?",
       "choices": [
         {
@@ -12045,6 +13001,8 @@ export const interactiveQuestions = {
       "number": 478,
       "groupId": "group-standalone-478",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "John Adams once said, “The proposition that the people are the\n    best keepers of their own liberties is not true. They are the worst\n\n     conceivable, they are no keepers at all; they can neither judge, act,\n     think, or will, as a political body.”\n     What is the main point the Adams was trying to get across?",
       "choices": [
         {
@@ -12073,6 +13031,8 @@ export const interactiveQuestions = {
       "number": 479,
       "groupId": "group-479-480",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following explains the sudden drop in unemployment\n   during 1917 and 1918?",
       "choices": [
         {
@@ -12101,6 +13061,8 @@ export const interactiveQuestions = {
       "number": 480,
       "groupId": "group-479-480",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is an opinion rather than factual statement\n   regarding the graph?",
       "choices": [
         {
@@ -12129,6 +13091,8 @@ export const interactiveQuestions = {
       "number": 481,
       "groupId": "group-481-484",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the excerpt, before a new president officially\n    becomes the President of the United States, he must swear an oath to\n    do what?",
       "choices": [
         {
@@ -12157,6 +13121,8 @@ export const interactiveQuestions = {
       "number": 482,
       "groupId": "group-481-484",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the excerpt, to be eligible to be President of the\n    United States, a person must meet all of the following criteria\n    EXCEPT",
       "choices": [
         {
@@ -12185,6 +13151,8 @@ export const interactiveQuestions = {
       "number": 483,
       "groupId": "group-481-484",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the term for the filing charges by the House of\n    Representatives that accuse either the president or vice president of\n    committing offenses that could lead to his legal removal from office\n    before the official end of his term?",
       "choices": [
         {
@@ -12213,6 +13181,8 @@ export const interactiveQuestions = {
       "number": 484,
       "groupId": "group-481-484",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If a president is removed from office or is unable to carry out his\n    or her duties due to illness or death, who becomes the new\n    president?",
       "choices": [
         {
@@ -12241,6 +13211,8 @@ export const interactiveQuestions = {
       "number": 485,
       "groupId": "group-485-486",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Some areas of the United States receive less than 10 inches of\n     precipitation per year. What are these areas known as?",
       "choices": [
         {
@@ -12269,6 +13241,8 @@ export const interactiveQuestions = {
       "number": 486,
       "groupId": "group-485-486",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which states receive the most precipitation per year?",
       "choices": [
         {
@@ -12297,6 +13271,8 @@ export const interactiveQuestions = {
       "number": 487,
       "groupId": "group-standalone-487",
       "section": "Social Studies",
+      "topic": "U.S. History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why were Native-American tribes forcibly relocated from their\n   tribal lands in the 1830s?",
       "choices": [
         {
@@ -12325,6 +13301,8 @@ export const interactiveQuestions = {
       "number": 488,
       "groupId": "group-standalone-488",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the name of the forced relocation of Native Americans\n   in the 1830s, ordered by President Jackson, that resulted in the\n   deaths of thousands of Native American men, women, and children?",
       "choices": [
         {
@@ -12353,6 +13331,8 @@ export const interactiveQuestions = {
       "number": 489,
       "groupId": "group-standalone-489",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which Supreme Court decision overturned the doctrine of\n   “separate but equal” and led to the desegregation of United States\n   public schools?",
       "choices": [
         {
@@ -12381,6 +13361,8 @@ export const interactiveQuestions = {
       "number": 490,
       "groupId": "group-standalone-490",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which branch of government is the Senate part of?",
       "choices": [
         {
@@ -12409,6 +13391,8 @@ export const interactiveQuestions = {
       "number": 491,
       "groupId": "group-491-493",
       "section": "Social Studies",
+      "topic": "World History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the chart, which of the following best describes the\n     general trend of foreign direct investment inflow to Africa during\n     the indicated time period?",
       "choices": [
         {
@@ -12437,6 +13421,8 @@ export const interactiveQuestions = {
       "number": 492,
       "groupId": "group-491-493",
       "section": "Social Studies",
+      "topic": "Geography",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why would some American companies want to invest in various\n     African nations?",
       "choices": [
         {
@@ -12465,6 +13451,8 @@ export const interactiveQuestions = {
       "number": 493,
       "groupId": "group-491-493",
       "section": "Social Studies",
+      "topic": "World History",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the figure, which of the following is an opinion rather\n     than a factual statement regarding foreign direct investment inflow\n     to Africa?",
       "choices": [
         {
@@ -12493,6 +13481,8 @@ export const interactiveQuestions = {
       "number": 494,
       "groupId": "group-494-499",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What does a candidate need to do before he or she becomes\n    president of the United States?",
       "choices": [
         {
@@ -12521,6 +13511,8 @@ export const interactiveQuestions = {
       "number": 495,
       "groupId": "group-494-499",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why do some states like California (with 55 electors) and Texas\n    (34) have a lot more electors than states like Utah (5) or Montana\n    (3)?",
       "choices": [
         {
@@ -12549,6 +13541,8 @@ export const interactiveQuestions = {
       "number": 496,
       "groupId": "group-494-499",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a true statement?",
       "choices": [
         {
@@ -12577,6 +13571,8 @@ export const interactiveQuestions = {
       "number": 497,
       "groupId": "group-494-499",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "When does the winning candidate officially become president of\n    the United States?",
       "choices": [
         {
@@ -12605,6 +13601,8 @@ export const interactiveQuestions = {
       "number": 498,
       "groupId": "group-494-499",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which amendment to the U.S. Constitution determines the rules\n     for electing a new president?",
       "choices": [
         {
@@ -12633,6 +13631,8 @@ export const interactiveQuestions = {
       "number": 499,
       "groupId": "group-494-499",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, if no candidate receives an absolute\n     majority of the electoral vote, who will select the next president?",
       "choices": [
         {
@@ -12661,6 +13661,8 @@ export const interactiveQuestions = {
       "number": 500,
       "groupId": "group-500-501",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does the Constitution have a preamble?",
       "choices": [
         {
@@ -12689,6 +13691,8 @@ export const interactiveQuestions = {
       "number": 501,
       "groupId": "group-500-501",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The preamble mentions that in order to form a more perfect union,\n   the people must do all of the following EXCEPT",
       "choices": [
         {
@@ -12717,6 +13721,8 @@ export const interactiveQuestions = {
       "number": 502,
       "groupId": "group-standalone-502",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What does NAFTA stand for?",
       "choices": [
         {
@@ -12745,6 +13751,8 @@ export const interactiveQuestions = {
       "number": 503,
       "groupId": "group-standalone-503",
       "section": "Social Studies",
+      "topic": "Civics and Government",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The Jim Crow laws sought to",
       "choices": [
         {
@@ -12773,6 +13781,8 @@ export const interactiveQuestions = {
       "number": 504,
       "groupId": "group-standalone-504",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fill in the blank to correctly complete the sentence:\n    A __________ is a market containing a single firm that has almost\n    total control of the market.",
       "choices": [],
       "correctLabel": null,
@@ -12784,6 +13794,8 @@ export const interactiveQuestions = {
       "number": 505,
       "groupId": "group-standalone-505",
       "section": "Social Studies",
+      "topic": "Economics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements correctly summarizes\n   communism and capitalism?",
       "choices": [
         {
@@ -12812,6 +13824,8 @@ export const interactiveQuestions = {
       "number": 506,
       "groupId": "group-506-507",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which force is responsible for keeping the plane in the air?",
       "choices": [
         {
@@ -12840,6 +13854,8 @@ export const interactiveQuestions = {
       "number": 507,
       "groupId": "group-506-507",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the plane maintains a constant speed and altitude and travels in a\n     straight line, which of the following must be true according to\n     Newton’s law of inertia?",
       "choices": [
         {
@@ -12868,6 +13884,8 @@ export const interactiveQuestions = {
       "number": 508,
       "groupId": "group-standalone-508",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Complete the sentence by filling in the blanks.\n\n      As an object falls from a table to the floor, it loses its stored\n      (__________) energy and gains __________ energy as it begins to\n      speed up. When the object hits the ground, it loses its energy of\n      motion, which is converted into __________ energy.",
       "choices": [],
       "correctLabel": null,
@@ -12879,6 +13897,8 @@ export const interactiveQuestions = {
       "number": 509,
       "groupId": "group-standalone-509",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which organelle is found only in plant cells and helps the plant to\n     produce its own food via photosynthesis?",
       "choices": [
         {
@@ -12907,6 +13927,8 @@ export const interactiveQuestions = {
       "number": 510,
       "groupId": "group-510-512",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the probability that an offspring will be tall?",
       "choices": [
         {
@@ -12935,6 +13957,8 @@ export const interactiveQuestions = {
       "number": 511,
       "groupId": "group-510-512",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fill in the blanks to correctly complete the sentence:\n    The genotype of both parent plants is __________, which means\n    that both parents will be __________.",
       "choices": [],
       "correctLabel": null,
@@ -12946,6 +13970,8 @@ export const interactiveQuestions = {
       "number": 512,
       "groupId": "group-510-512",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The gardener now chooses two new parent plants, both with the\n     genotype TT. What is the probability that one of their offspring,\n     chosen at random, will be short?",
       "choices": [
         {
@@ -12974,6 +14000,8 @@ export const interactiveQuestions = {
       "number": 513,
       "groupId": "group-standalone-513",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What causes a solar eclipse?",
       "choices": [
         {
@@ -13002,6 +14030,8 @@ export const interactiveQuestions = {
       "number": 514,
       "groupId": "group-standalone-514",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fill in the blanks to correctly complete the sentence:\n      An astronaut standing on the moon weighs __________ [more than,\n      less than, the same as] she does on Earth but has __________ [more,\n      less, the same] mass than/as she has on Earth.\nUse the following information for",
       "choices": [],
       "correctLabel": null,
@@ -13013,6 +14043,8 @@ export const interactiveQuestions = {
       "number": 515,
       "groupId": "group-515-517",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What biochemical process does the equation show?",
       "choices": [
         {
@@ -13041,6 +14073,8 @@ export const interactiveQuestions = {
       "number": 516,
       "groupId": "group-515-517",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What type of chemical reaction does the equation show?",
       "choices": [
         {
@@ -13069,6 +14103,8 @@ export const interactiveQuestions = {
       "number": 517,
       "groupId": "group-515-517",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fill in the blanks to correctly complete the sentence:\n    Plants use the energy from __________ to convert __________ and\n    __________ into __________ and __________.",
       "choices": [],
       "correctLabel": null,
@@ -13080,6 +14116,8 @@ export const interactiveQuestions = {
       "number": 518,
       "groupId": "group-standalone-518",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which element is the basis of all living organisms on Earth?",
       "choices": [
         {
@@ -13108,6 +14146,8 @@ export const interactiveQuestions = {
       "number": 519,
       "groupId": "group-standalone-519",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why is the light that the Hubble telescope detects from distant\n   galaxies red-shifted?",
       "choices": [
         {
@@ -13136,6 +14176,8 @@ export const interactiveQuestions = {
       "number": 520,
       "groupId": "group-standalone-520",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which type of particle is emitted in the nuclear decay reaction\n    shown here?",
       "choices": [
         {
@@ -13164,6 +14206,8 @@ export const interactiveQuestions = {
       "number": 521,
       "groupId": "group-standalone-521",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fill in the blanks to correctly complete the sentence:\n      The nuclei of two isotopes of an element contains the same number\n      of __________ but a different number of __________.\nUse the following information for",
       "choices": [],
       "correctLabel": null,
@@ -13175,6 +14219,8 @@ export const interactiveQuestions = {
       "number": 522,
       "groupId": "group-522-525",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The light from the sun takes approximately 8 minutes to reach us.\n     Approximately how far away is the sun from the Earth?",
       "choices": [
         {
@@ -13203,6 +14249,8 @@ export const interactiveQuestions = {
       "number": 523,
       "groupId": "group-522-525",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which statement best explains how the energy from the sun\n     reaches Earth?",
       "choices": [
         {
@@ -13231,6 +14279,8 @@ export const interactiveQuestions = {
       "number": 524,
       "groupId": "group-522-525",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How does the sun produce its energy?",
       "choices": [
         {
@@ -13259,6 +14309,8 @@ export const interactiveQuestions = {
       "number": 525,
       "groupId": "group-522-525",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why is it usually much colder at the North Pole and the South Pole\n   compared to places nearer the equator?",
       "choices": [
         {
@@ -13287,6 +14339,8 @@ export const interactiveQuestions = {
       "number": 526,
       "groupId": "group-standalone-526",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements describes the role of DNA in a\n   cell?",
       "choices": [
         {
@@ -13315,6 +14369,8 @@ export const interactiveQuestions = {
       "number": 527,
       "groupId": "group-standalone-527",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a way to combat global warming?",
       "choices": [
         {
@@ -13343,6 +14399,8 @@ export const interactiveQuestions = {
       "number": 528,
       "groupId": "group-standalone-528",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The number of which subatomic particle determines the identity of\n   an element?",
       "choices": [
         {
@@ -13371,6 +14429,8 @@ export const interactiveQuestions = {
       "number": 529,
       "groupId": "group-529-530",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the main cause of continental drift?",
       "choices": [
         {
@@ -13399,6 +14459,8 @@ export const interactiveQuestions = {
       "number": 530,
       "groupId": "group-529-530",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements does NOT support the Pangaea\n     theory?",
       "choices": [
         {
@@ -13427,6 +14489,8 @@ export const interactiveQuestions = {
       "number": 531,
       "groupId": "group-531-532",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "This figure shows an example of which phenomenon?",
       "choices": [
         {
@@ -13455,6 +14519,8 @@ export const interactiveQuestions = {
       "number": 532,
       "groupId": "group-531-532",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fill in the blanks to correctly complete the sentence.\n    As the ambulance moves away from the stationary observer, the\n    frequency of the siren appears to __________. As the ambulance\n    moves toward the stationary observer, the frequency of the siren\n    appears to __________.",
       "choices": [],
       "correctLabel": null,
@@ -13466,6 +14532,8 @@ export const interactiveQuestions = {
       "number": 533,
       "groupId": "group-standalone-533",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following correctly represents the hierarchy in living\n   organisms, classified from smallest to the largest?",
       "choices": [
         {
@@ -13494,6 +14562,8 @@ export const interactiveQuestions = {
       "number": 534,
       "groupId": "group-standalone-534",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following always stays the same when a chemical\n   reaction takes place?",
       "choices": [
         {
@@ -13522,6 +14592,8 @@ export const interactiveQuestions = {
       "number": 535,
       "groupId": "group-standalone-535",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following correctly represents the progression of life\n   on Earth according to the fossil record, from earliest life forms to\n   the most recent?",
       "choices": [
         {
@@ -13550,6 +14622,8 @@ export const interactiveQuestions = {
       "number": 536,
       "groupId": "group-536-537",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which recent event led to a sharp increase in the amount of carbon\n     dioxide released into the atmosphere, contributing to global\n     warming?",
       "choices": [
         {
@@ -13578,6 +14652,8 @@ export const interactiveQuestions = {
       "number": 537,
       "groupId": "group-536-537",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following processes releases carbon dioxide to the\n     atmosphere?",
       "choices": [
         {
@@ -13606,6 +14682,8 @@ export const interactiveQuestions = {
       "number": 538,
       "groupId": "group-standalone-538",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fill in the blanks to correctly complete the sentence:\n      The normal number of chromosomes in a human body cell is\n      __________. When the sex cells (sperm and egg) are created during\n      __________, the haploid number of chromosomes, __________,\n      results.\nUse the following information for",
       "choices": [],
       "correctLabel": null,
@@ -13617,6 +14695,8 @@ export const interactiveQuestions = {
       "number": 539,
       "groupId": "group-539-540",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What type of energy does the bob have when it swings to its\n    highest point?\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -13628,6 +14708,8 @@ export const interactiveQuestions = {
       "number": 540,
       "groupId": "group-539-540",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the mass of the bob is 4 kg and the maximum height it reaches is\n   1.8 m, what is the speed of the bob as it swings through the lowest\n   position?",
       "choices": [
         {
@@ -13656,6 +14738,8 @@ export const interactiveQuestions = {
       "number": 541,
       "groupId": "group-standalone-541",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the chemical equation that is correctly balanced.",
       "choices": [
         {
@@ -13676,6 +14760,8 @@ export const interactiveQuestions = {
       "number": 542,
       "groupId": "group-542-545",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How many valence electrons does a carbon atom (symbol C)\n     have?",
       "choices": [
         {
@@ -13704,6 +14790,8 @@ export const interactiveQuestions = {
       "number": 543,
       "groupId": "group-542-545",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following elements is the least chemically reactive?",
       "choices": [
         {
@@ -13732,6 +14820,8 @@ export const interactiveQuestions = {
       "number": 544,
       "groupId": "group-542-545",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements about sodium (symbol Na) is\n     NOT true?",
       "choices": [
         {
@@ -13760,6 +14850,8 @@ export const interactiveQuestions = {
       "number": 545,
       "groupId": "group-542-545",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements is true?",
       "choices": [
         {
@@ -13788,6 +14880,8 @@ export const interactiveQuestions = {
       "number": 546,
       "groupId": "group-standalone-546",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements is FALSE?",
       "choices": [
         {
@@ -13816,6 +14910,8 @@ export const interactiveQuestions = {
       "number": 547,
       "groupId": "group-547-550",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the value of the unbalanced force acting on the green car?",
       "choices": [
         {
@@ -13844,6 +14940,8 @@ export const interactiveQuestions = {
       "number": 548,
       "groupId": "group-547-550",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which car has the greatest unbalanced force acting on it?",
       "choices": [
         {
@@ -13872,6 +14970,8 @@ export const interactiveQuestions = {
       "number": 549,
       "groupId": "group-547-550",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements is true?",
       "choices": [
         {
@@ -13900,6 +15000,8 @@ export const interactiveQuestions = {
       "number": 550,
       "groupId": "group-547-550",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "At the end of the 3-second period, the red car collides with the\n     green car, causing the red car to stop suddenly. What speed does the\n     green car move off at?",
       "choices": [
         {
@@ -13928,6 +15030,8 @@ export const interactiveQuestions = {
       "number": 551,
       "groupId": "group-standalone-551",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The year can be split into four seasons (spring, summer, autumn,\n     and winter), which are marked by particular weather patterns and\n     daylight hours. What is the main factor that causes the change in the\n     seasons?",
       "choices": [
         {
@@ -13956,6 +15060,8 @@ export const interactiveQuestions = {
       "number": 552,
       "groupId": "group-standalone-552",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the best scientific estimates, approximately how old\n     is the Earth?",
       "choices": [
         {
@@ -13984,6 +15090,8 @@ export const interactiveQuestions = {
       "number": 553,
       "groupId": "group-553-555",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fossils are produced when a plant or animal dies and its remains\n   become buried in mud, silt, or sand, which then gets compacted and\n   compressed into rock. Which of the following types of rock is most\n   likely to contain fossils?",
       "choices": [
         {
@@ -14012,6 +15120,8 @@ export const interactiveQuestions = {
       "number": 554,
       "groupId": "group-553-555",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements does this figure support?",
       "choices": [
         {
@@ -14040,6 +15150,8 @@ export const interactiveQuestions = {
       "number": 555,
       "groupId": "group-553-555",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the correct words from the given options to fill in the\n      blanks:\n      Magma is molten rock beneath the Earth’s surface. Magma is\n      sometimes expelled via a __________ up to the surface, where it is\n      known as __________.\n      Options:\n          tidal wave\n          flash flood\n          volcano\n          sediment\n          lava\n          coal",
       "choices": [],
       "correctLabel": null,
@@ -14051,6 +15163,8 @@ export const interactiveQuestions = {
       "number": 556,
       "groupId": "group-standalone-556",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why is there a greater level of genetic diversity for species that\n     reproduce sexually compared to those that reproduce asexually?",
       "choices": [
         {
@@ -14079,6 +15193,8 @@ export const interactiveQuestions = {
       "number": 557,
       "groupId": "group-557-560",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements is supported by the diagram of\n   the electromagnetic spectrum?",
       "choices": [
         {
@@ -14107,6 +15223,8 @@ export const interactiveQuestions = {
       "number": 558,
       "groupId": "group-557-560",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following colors in the visible part of the spectrum\n   has the lowest energy?",
       "choices": [
         {
@@ -14135,6 +15253,8 @@ export const interactiveQuestions = {
       "number": 559,
       "groupId": "group-557-560",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the correct words from the given options to fill in the\n    blanks:\n    Gamma rays have __________ wavelengths and __________\n    frequencies, whereas radio waves have __________ wavelengths\n    and __________ frequencies.\n    Options:\n         long\n         short\n\n          high\n          low",
       "choices": [],
       "correctLabel": null,
@@ -14146,6 +15266,8 @@ export const interactiveQuestions = {
       "number": 560,
       "groupId": "group-557-560",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following best explains why we use radio waves for\n     our communications applications?",
       "choices": [
         {
@@ -14174,6 +15296,8 @@ export const interactiveQuestions = {
       "number": 561,
       "groupId": "group-standalone-561",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following systems includes the surface of the Earth?",
       "choices": [
         {
@@ -14202,6 +15326,8 @@ export const interactiveQuestions = {
       "number": 562,
       "groupId": "group-standalone-562",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which two events listed are highly predictable?\n     [A] lunar eclipses\n     [B] hurricanes\n     [C] earthquakes\n     [D] the appearance of Haley’s comet\n\nUse the following information for",
       "choices": [],
       "correctLabel": "A",
@@ -14213,6 +15339,8 @@ export const interactiveQuestions = {
       "number": 563,
       "groupId": "group-563-566",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a true statement?",
       "choices": [
         {
@@ -14241,6 +15369,8 @@ export const interactiveQuestions = {
       "number": 564,
       "groupId": "group-563-566",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If a virus were to suddenly wipe out most of the frog population,\n   which species in the food web would increase in number?",
       "choices": [
         {
@@ -14269,6 +15399,8 @@ export const interactiveQuestions = {
       "number": 565,
       "groupId": "group-563-566",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements regarding a food web is NOT\n     true?",
       "choices": [
         {
@@ -14297,6 +15429,8 @@ export const interactiveQuestions = {
       "number": 566,
       "groupId": "group-563-566",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The maximum number of individuals of a particular species that\n     the ecosystem can handle is known as",
       "choices": [
         {
@@ -14325,6 +15459,8 @@ export const interactiveQuestions = {
       "number": 567,
       "groupId": "group-standalone-567",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following did not play a significant part in Charles\n     Darwin’s theories of evolution?",
       "choices": [
         {
@@ -14353,6 +15489,8 @@ export const interactiveQuestions = {
       "number": 568,
       "groupId": "group-568-571",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Sirius is the name of a star that is approximately 86 trillion\n    kilometers (8.6 light-years) away from the Earth. How long does the\n    light from Sirius take to reach the Earth?",
       "choices": [
         {
@@ -14381,6 +15519,8 @@ export const interactiveQuestions = {
       "number": 569,
       "groupId": "group-568-571",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What can you deduce about a star if the light from it has been\n    blue-shifted?",
       "choices": [
         {
@@ -14409,6 +15549,8 @@ export const interactiveQuestions = {
       "number": 570,
       "groupId": "group-568-571",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "All the following statements provide evidence supporting the Big\n    Bang theory EXCEPT",
       "choices": [
         {
@@ -14437,6 +15579,8 @@ export const interactiveQuestions = {
       "number": 571,
       "groupId": "group-568-571",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the correct order from smallest to largest.",
       "choices": [
         {
@@ -14465,6 +15609,8 @@ export const interactiveQuestions = {
       "number": 572,
       "groupId": "group-standalone-572",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements does NOT provide evidence\n     supporting the common ancestry theory?",
       "choices": [
         {
@@ -14493,6 +15639,8 @@ export const interactiveQuestions = {
       "number": 573,
       "groupId": "group-standalone-573",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What name is given to a substance that speeds up the rate of a\n     reaction by decreasing the activation energy needed for the reactants\n     to turn into products?",
       "choices": [
         {
@@ -14521,6 +15669,8 @@ export const interactiveQuestions = {
       "number": 574,
       "groupId": "group-standalone-574",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is an example of a positive feedback\n     mechanism in the climate system of Earth?",
       "choices": [
         {
@@ -14549,6 +15699,8 @@ export const interactiveQuestions = {
       "number": 575,
       "groupId": "group-575-578",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What happens when the student closes the switch in Circuit 1?",
       "choices": [
         {
@@ -14577,6 +15729,8 @@ export const interactiveQuestions = {
       "number": 576,
       "groupId": "group-575-578",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What happens when the student positions the two strong magnets\n    near each other with one north pole and one south pole facing each\n    other?",
       "choices": [
         {
@@ -14605,6 +15759,8 @@ export const interactiveQuestions = {
       "number": 577,
       "groupId": "group-575-578",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What happens when the student moves one of the magnets into and\n    out of the coil in Circuit 2?",
       "choices": [
         {
@@ -14633,6 +15789,8 @@ export const interactiveQuestions = {
       "number": 578,
       "groupId": "group-575-578",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which direction will the plotting compass point when the student\n   places it at the north pole of one of the bar magnets?",
       "choices": [
         {
@@ -14661,6 +15819,8 @@ export const interactiveQuestions = {
       "number": 579,
       "groupId": "group-standalone-579",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the name of the human body system consisting of the skin,\n   hair, and nails that serves to protect the body from various kinds of\n   damage, such as loss of water or abrasion, from the outside?",
       "choices": [
         {
@@ -14689,6 +15849,8 @@ export const interactiveQuestions = {
       "number": 580,
       "groupId": "group-standalone-580",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Groundwater often drips from the ceilings of underground caves,\n   leaving behind tiny deposits of minerals (such as calcium carbonate)\n   that were dissolved in the water. Over millions of years, these tiny\n   deposits build up to form stalactites.\n   Which of the following questions can be answered using this\n   information?",
       "choices": [
         {
@@ -14717,6 +15879,8 @@ export const interactiveQuestions = {
       "number": 581,
       "groupId": "group-standalone-581",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Daisy was conducting an investigation using two liquids. Both\n    liquids were clear and were at the same temperature, 25°C. When\n    she combined the liquids in a large beaker, gas bubbles were\n    produced and the liquid turned blue. The student took the\n    temperature of the beaker, which now measured 27°C. All of the\n\n     following show that a chemical reaction may have occurred\n     EXCEPT",
       "choices": [
         {
@@ -14745,6 +15909,8 @@ export const interactiveQuestions = {
       "number": 582,
       "groupId": "group-582-585",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the block has a mass of 2 kg, what is the approximate force on it\n     due to gravity?",
       "choices": [
         {
@@ -14773,6 +15939,8 @@ export const interactiveQuestions = {
       "number": 583,
       "groupId": "group-582-585",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the block has a mass of 2 kg and the pulling force and the\n      frictional force acting on the block both equal 20 N, what is the\n      acceleration of the block?",
       "choices": [
         {
@@ -14801,6 +15969,8 @@ export const interactiveQuestions = {
       "number": 584,
       "groupId": "group-582-585",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the block is moving at a constant velocity, then which of the\n     following is a true statement?",
       "choices": [
         {
@@ -14829,6 +15999,8 @@ export const interactiveQuestions = {
       "number": 585,
       "groupId": "group-582-585",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the block has a mass of 2 kg, and a pulling force of 20 N acting\n     on the block causes it to accelerate at 4 m/s2, what is the value of the\n     frictional force acting on the block?",
       "choices": [
         {
@@ -14857,6 +16029,8 @@ export const interactiveQuestions = {
       "number": 586,
       "groupId": "group-586-589",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the probability that their offspring will have wrinkled\n    seeds?",
       "choices": [
         {
@@ -14885,6 +16059,8 @@ export const interactiveQuestions = {
       "number": 587,
       "groupId": "group-586-589",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the given Punnett square, which of the following is a true\n     statement?",
       "choices": [
         {
@@ -14913,6 +16089,8 @@ export const interactiveQuestions = {
       "number": 588,
       "groupId": "group-586-589",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the gardener cross-breeds two pea plants that have wrinkly\n     seeds, what is the probability that their offspring will have round\n     seeds?",
       "choices": [
         {
@@ -14941,6 +16119,8 @@ export const interactiveQuestions = {
       "number": 589,
       "groupId": "group-586-589",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the gardener cross-breeds two pea plants that are heterozygous,\n     what is the probability that their offspring will have round seeds?",
       "choices": [
         {
@@ -14969,6 +16149,8 @@ export const interactiveQuestions = {
       "number": 590,
       "groupId": "group-standalone-590",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following arranges the units in ascending order (from\n     smallest to largest)?",
       "choices": [
         {
@@ -14997,6 +16179,8 @@ export const interactiveQuestions = {
       "number": 591,
       "groupId": "group-591-593",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which graph shows strong positive correlation between the\n   variables?",
       "choices": [
         {
@@ -15025,6 +16209,8 @@ export const interactiveQuestions = {
       "number": 592,
       "groupId": "group-591-593",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which graph shows strong negative correlation between the\n   variables?",
       "choices": [
         {
@@ -15053,6 +16239,8 @@ export const interactiveQuestions = {
       "number": 593,
       "groupId": "group-591-593",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which graph shows no correlation between the variables?",
       "choices": [
         {
@@ -15081,6 +16269,8 @@ export const interactiveQuestions = {
       "number": 594,
       "groupId": "group-standalone-594",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements is correct?",
       "choices": [
         {
@@ -15109,6 +16299,8 @@ export const interactiveQuestions = {
       "number": 595,
       "groupId": "group-standalone-595",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following correctly lists the atoms in the following\n   compounds?",
       "choices": [
         {
@@ -15137,6 +16329,8 @@ export const interactiveQuestions = {
       "number": 596,
       "groupId": "group-standalone-596",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which type of particle is emitted in the nuclear decay reaction\n    shown here?",
       "choices": [
         {
@@ -15165,6 +16359,8 @@ export const interactiveQuestions = {
       "number": 597,
       "groupId": "group-standalone-597",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The mass number of an element is the sum of the number of\n     __________ within the nucleus of the atom.",
       "choices": [
         {
@@ -15193,6 +16389,8 @@ export const interactiveQuestions = {
       "number": 598,
       "groupId": "group-598-600",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following best explains how natural selection is\n     involved in the evolution of the Arctic fox’s thick fur coat?",
       "choices": [
         {
@@ -15221,6 +16419,8 @@ export const interactiveQuestions = {
       "number": 599,
       "groupId": "group-598-600",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How does the Arctic fox’s thick fur coat help to keep the animal\n     warm in the frigid Arctic conditions?",
       "choices": [
         {
@@ -15249,6 +16449,8 @@ export const interactiveQuestions = {
       "number": 600,
       "groupId": "group-598-600",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Black fur emits more body heat to the colder surroundings than\n   white fur does. Which of the following does NOT help explain why\n   the Arctic fox has white fur rather than black fur?",
       "choices": [
         {
@@ -15277,6 +16479,8 @@ export const interactiveQuestions = {
       "number": 601,
       "groupId": "group-standalone-601",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is the best example of Newton’s first law\n   (the law of inertia), which states that an object at rest stays at rest\n   and an object in motion stays in motion at the same speed in the\n   same direction unless acted upon by an unbalanced force?",
       "choices": [
         {
@@ -15305,6 +16509,8 @@ export const interactiveQuestions = {
       "number": 602,
       "groupId": "group-standalone-602",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What will happen if an atom gains an electron?",
       "choices": [
         {
@@ -15333,6 +16539,8 @@ export const interactiveQuestions = {
       "number": 603,
       "groupId": "group-standalone-603",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following places each type of chemical bond in\n     ascending order from weakest to strongest?",
       "choices": [
         {
@@ -15361,6 +16569,8 @@ export const interactiveQuestions = {
       "number": 604,
       "groupId": "group-standalone-604",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is NOT a unit of weight or mass?",
       "choices": [
         {
@@ -15389,6 +16599,8 @@ export const interactiveQuestions = {
       "number": 605,
       "groupId": "group-605-608",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is true about the experimental drug trial?",
       "choices": [
         {
@@ -15417,6 +16629,8 @@ export const interactiveQuestions = {
       "number": 606,
       "groupId": "group-605-608",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the results of the experiment showed no change in the blood\n     pressure for the members of either group, what conclusion can be\n     made?",
       "choices": [
         {
@@ -15445,6 +16659,8 @@ export const interactiveQuestions = {
       "number": 607,
       "groupId": "group-605-608",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following could lead to an error in this experiment?",
       "choices": [
         {
@@ -15473,6 +16689,8 @@ export const interactiveQuestions = {
       "number": 608,
       "groupId": "group-605-608",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How could the design of the experiment be improved to eliminate\n     this potential source of error?",
       "choices": [
         {
@@ -15501,6 +16719,8 @@ export const interactiveQuestions = {
       "number": 609,
       "groupId": "group-609-611",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Scientists inferred that the fish raised in elevated carbon dioxide\n    levels suffered from a loss of hearing. What evidence suggests this?",
       "choices": [
         {
@@ -15529,6 +16749,8 @@ export const interactiveQuestions = {
       "number": 610,
       "groupId": "group-609-611",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements is the best hypothesis for this\n    experiment?",
       "choices": [
         {
@@ -15557,6 +16779,8 @@ export const interactiveQuestions = {
       "number": 611,
       "groupId": "group-609-611",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a true statement?",
       "choices": [
         {
@@ -15585,6 +16809,8 @@ export const interactiveQuestions = {
       "number": 612,
       "groupId": "group-612-615",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which is the name of the compound whose formula is C6H12O6?",
       "choices": [
         {
@@ -15613,6 +16839,8 @@ export const interactiveQuestions = {
       "number": 613,
       "groupId": "group-612-615",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which is the name of the compound whose formula is H2O?",
       "choices": [
         {
@@ -15641,6 +16869,8 @@ export const interactiveQuestions = {
       "number": 614,
       "groupId": "group-612-615",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which is the name of the compound whose formula is CO2?",
       "choices": [
         {
@@ -15669,6 +16899,8 @@ export const interactiveQuestions = {
       "number": 615,
       "groupId": "group-612-615",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which reaction is shown by the earlier equation?",
       "choices": [
         {
@@ -15697,6 +16929,8 @@ export const interactiveQuestions = {
       "number": 616,
       "groupId": "group-standalone-616",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the chemical equation that is NOT correctly balanced.",
       "choices": [
         {
@@ -15717,6 +16951,8 @@ export const interactiveQuestions = {
       "number": 617,
       "groupId": "group-standalone-617",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the best scientific estimates, approximately how old\n     is the universe?",
       "choices": [
         {
@@ -15745,6 +16981,8 @@ export const interactiveQuestions = {
       "number": 618,
       "groupId": "group-618-620",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements is true?",
       "choices": [
         {
@@ -15773,6 +17011,8 @@ export const interactiveQuestions = {
       "number": 619,
       "groupId": "group-618-620",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "On a hot, sunny day, why does wearing a white shirt keep you\n   cooler than wearing a black shirt made from the same material?",
       "choices": [
         {
@@ -15801,6 +17041,8 @@ export const interactiveQuestions = {
       "number": 620,
       "groupId": "group-618-620",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Compared to red light, blue light has",
       "choices": [
         {
@@ -15829,6 +17071,8 @@ export const interactiveQuestions = {
       "number": 621,
       "groupId": "group-standalone-621",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which method can be used to determine whether two sisters are\n   identical twins?",
       "choices": [
         {
@@ -15857,6 +17101,8 @@ export const interactiveQuestions = {
       "number": 622,
       "groupId": "group-standalone-622",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Sammy was boiling some brine (seawater) but forgot that he left\n     the heat on. When he returned to the pan 40 minutes later, he noticed\n     a white residue left at the bottom of the pan.\n     Which of the following best explains the white residue?",
       "choices": [
         {
@@ -15885,6 +17131,8 @@ export const interactiveQuestions = {
       "number": 623,
       "groupId": "group-623-626",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In which direction is the unbalanced force acting as the elevator\n     begins to accelerate downward?",
       "choices": [
         {
@@ -15913,6 +17161,8 @@ export const interactiveQuestions = {
       "number": 624,
       "groupId": "group-623-626",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In which direction is the unbalanced force acting during the part of\n     the trip where the elevator is traveling at 6 m/s?",
       "choices": [
         {
@@ -15941,6 +17191,8 @@ export const interactiveQuestions = {
       "number": 625,
       "groupId": "group-623-626",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "As the elevator is accelerating downward, the reading of Angela’s\n     weight according to the scale will be",
       "choices": [
         {
@@ -15969,6 +17221,8 @@ export const interactiveQuestions = {
       "number": 626,
       "groupId": "group-623-626",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If Angela usually weighs 750 N, what will the reading on the scale\n      be during the part of the trip when the elevator is traveling down at\n      6 m/s?\n      _________________________",
       "choices": [],
       "correctLabel": null,
@@ -15980,6 +17234,8 @@ export const interactiveQuestions = {
       "number": 627,
       "groupId": "group-standalone-627",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is an example of an organism?",
       "choices": [
         {
@@ -16008,6 +17264,8 @@ export const interactiveQuestions = {
       "number": 628,
       "groupId": "group-standalone-628",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The acceleration due to gravity on the moon is much smaller than\n     it is on Earth. There is also no air resistance on the moon (because\n     there is no air on the moon).\n     If an astronaut hits a golf ball on the moon, how will the ball’s path\n     differ compared to its path if the ball had been hit here on Earth?",
       "choices": [
         {
@@ -16036,6 +17294,8 @@ export const interactiveQuestions = {
       "number": 629,
       "groupId": "group-629-632",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why did the temperature remain constant during the period\n    marked by the letter B on the graph?",
       "choices": [
         {
@@ -16064,6 +17324,8 @@ export const interactiveQuestions = {
       "number": 630,
       "groupId": "group-629-632",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was happening during the period marked with the letter D on\n   the graph?",
       "choices": [
         {
@@ -16092,6 +17354,8 @@ export const interactiveQuestions = {
       "number": 631,
       "groupId": "group-629-632",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which letter represents the part of the experiment in which the\n   entire sample was in the liquid phase?",
       "choices": [
         {
@@ -16120,6 +17384,8 @@ export const interactiveQuestions = {
       "number": 632,
       "groupId": "group-629-632",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Compared to either a liquid or a solid, a typical gas has",
       "choices": [
         {
@@ -16148,6 +17414,8 @@ export const interactiveQuestions = {
       "number": 633,
       "groupId": "group-standalone-633",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following explains why, every fourth year, we have a\n   leap year that has 366 days rather than the usual 365 days?",
       "choices": [
         {
@@ -16176,6 +17444,8 @@ export const interactiveQuestions = {
       "number": 634,
       "groupId": "group-standalone-634",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Jim likes to make fruit jelly. He uses a pressure cooker as part of\n   the process. If he follows the correct procedure, the jelly will be\n   properly sterilized and will be good to eat at a later date.\n   Why does Jim use the pressure cooker?",
       "choices": [
         {
@@ -16204,6 +17474,8 @@ export const interactiveQuestions = {
       "number": 635,
       "groupId": "group-standalone-635",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the force that keeps a roller coaster moving in a circular\n   path when the track makes a vertical circular loop?",
       "choices": [
         {
@@ -16232,6 +17504,8 @@ export const interactiveQuestions = {
       "number": 636,
       "groupId": "group-standalone-636",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is found in the nucleus of a hydrogen\n   atom?",
       "choices": [
         {
@@ -16260,6 +17534,8 @@ export const interactiveQuestions = {
       "number": 637,
       "groupId": "group-standalone-637",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following systems includes the plants and animals of\n   Earth?",
       "choices": [
         {
@@ -16288,6 +17564,8 @@ export const interactiveQuestions = {
       "number": 638,
       "groupId": "group-standalone-638",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a simple machine?",
       "choices": [
         {
@@ -16316,6 +17594,8 @@ export const interactiveQuestions = {
       "number": 639,
       "groupId": "group-639-640",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The bacteria population",
       "choices": [
         {
@@ -16344,6 +17624,8 @@ export const interactiveQuestions = {
       "number": 640,
       "groupId": "group-639-640",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is a reasonable explanation for why the bacteria population\n   did not continue to grow exponentially?",
       "choices": [
         {
@@ -16372,6 +17654,8 @@ export const interactiveQuestions = {
       "number": 641,
       "groupId": "group-standalone-641",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The following table shows the pH of several substances.\n\n  Substance pH\n\n Water        7\n Vinegar      2\n Baking soda 8\n Lime juice   3\n\n     Which of the substances is/are acidic?",
       "choices": [
         {
@@ -16400,6 +17684,8 @@ export const interactiveQuestions = {
       "number": 642,
       "groupId": "group-642-645",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the solubility of substance B at 20 degrees Celsius?",
       "choices": [
         {
@@ -16428,6 +17714,8 @@ export const interactiveQuestions = {
       "number": 643,
       "groupId": "group-642-645",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based upon the graph, as the temperature of the water increases,\n   the solubility of",
       "choices": [
         {
@@ -16456,6 +17744,8 @@ export const interactiveQuestions = {
       "number": 644,
       "groupId": "group-642-645",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If you place a cold glass of water on your bedside table before\n      going to sleep on a warm night, why do you see small bubbles on\n      the inside of the glass when you wake up the next morning? Write a\n      sentence or two to explain this phenomenon with reference to the\n      graph.\n      _________________________\n      _________________________\n      _________________________",
       "choices": [],
       "correctLabel": null,
@@ -16467,6 +17757,8 @@ export const interactiveQuestions = {
       "number": 645,
       "groupId": "group-642-645",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements is supported by the information\n     given in the graph?",
       "choices": [
         {
@@ -16495,6 +17787,8 @@ export const interactiveQuestions = {
       "number": 646,
       "groupId": "group-standalone-646",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A parasite is an organism that relies on another organism, called\n     the host, to survive. The parasite always causes harm to the host\n     organism.\n     Which of the following is an example of a parasite?",
       "choices": [
         {
@@ -16523,6 +17817,8 @@ export const interactiveQuestions = {
       "number": 647,
       "groupId": "group-647-649",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements correctly interprets the graph?",
       "choices": [
         {
@@ -16551,6 +17847,8 @@ export const interactiveQuestions = {
       "number": 648,
       "groupId": "group-647-649",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What type of reaction is this?",
       "choices": [
         {
@@ -16579,6 +17877,8 @@ export const interactiveQuestions = {
       "number": 649,
       "groupId": "group-647-649",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How does a catalyst speed up the reaction?",
       "choices": [
         {
@@ -16607,6 +17907,8 @@ export const interactiveQuestions = {
       "number": 650,
       "groupId": "group-standalone-650",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Evolutionary fitness is determined by how much an individual\n   contributes to the gene pool of the next generation. The more living\n   offspring an individual produces, the fitter that individual is.\n   According to this definition, which of the following individuals is\n   currently the fittest?",
       "choices": [
         {
@@ -16635,6 +17937,8 @@ export const interactiveQuestions = {
       "number": 651,
       "groupId": "group-standalone-651",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Sometimes, as different species evolve, they adapt in similar ways\n   to their environment. This occasionally results in different animals\n   developing different body parts that perform the same function, even\n   though they may look very different from each other. These body\n   parts are known as analogous structures.\n   Which of the following are analogous structures?",
       "choices": [
         {
@@ -16663,6 +17967,8 @@ export const interactiveQuestions = {
       "number": 652,
       "groupId": "group-standalone-652",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The following table shows the typical composition of human\n     blood.\nComponent             Percentage\n\nWater                52%\nRed blood cells      42%\nVitamins and nutrients 3%\nWhite blood cells    2%\nDissolved gases      1%\n\n    What percentage of human blood consists of cells?",
       "choices": [
         {
@@ -16691,6 +17997,8 @@ export const interactiveQuestions = {
       "number": 653,
       "groupId": "group-standalone-653",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "When a young bird is born, it learns to recognize its parent, which\n    is usually the first object that the baby bird sees when it first opens\n    its eyes. However, during this critical phase of the young bird’s\n    development, if the baby is exposed to a different object (other than\n    its real parent), it will learn to recognize this object as its mother.\n    This type of learned behavior during this critical period of the bird’s\n    development is called imprinting.\n    Which of the following is an example of imprinting?",
       "choices": [
         {
@@ -16719,6 +18027,8 @@ export const interactiveQuestions = {
       "number": 654,
       "groupId": "group-standalone-654",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "On a particular island, lions prey on zebras. If a deadly virus that\n    affects only zebras were to spread through the island, what effect\n    would that have on the lion population?",
       "choices": [
         {
@@ -16747,6 +18057,8 @@ export const interactiveQuestions = {
       "number": 655,
       "groupId": "group-standalone-655",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Bees serve as pollinators for many flowers and play an important\n    role in the ecosystem. Approximately one-third of the human food\n    supply consists of plants that bees pollinate. Recently, the global\n    population of bees began sharply declining. What is the most\n    important consequence of the declining bee population to humans?",
       "choices": [
         {
@@ -16775,6 +18087,8 @@ export const interactiveQuestions = {
       "number": 656,
       "groupId": "group-standalone-656",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If one side of a stemmed plant receives more sunlight than the\n    other side, a growth hormone called auxin will concentrate on the\n    shady side of the stem in order to stimulate more growth there.\n    As a result, the plant will",
       "choices": [
         {
@@ -16803,6 +18117,8 @@ export const interactiveQuestions = {
       "number": 657,
       "groupId": "group-standalone-657",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What type of intramolecular bonding occurs when carbon reacts\n     with hydrogen to make methane gas?",
       "choices": [
         {
@@ -16831,6 +18147,8 @@ export const interactiveQuestions = {
       "number": 658,
       "groupId": "group-658-661",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the probability that the flowers of an offspring chosen at\n   random will be white?",
       "choices": [
         {
@@ -16859,6 +18177,8 @@ export const interactiveQuestions = {
       "number": 659,
       "groupId": "group-658-661",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a true statement?",
       "choices": [
         {
@@ -16887,6 +18207,8 @@ export const interactiveQuestions = {
       "number": 660,
       "groupId": "group-658-661",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The scientist now cross-breeds two plants with white flowers.\n   What is the probability that one of their offspring, chosen at random,\n   will have purple flowers?",
       "choices": [
         {
@@ -16915,6 +18237,8 @@ export const interactiveQuestions = {
       "number": 661,
       "groupId": "group-658-661",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The scientist now cross-breeds a plant with white flowers with a\n   plant that has purple flowers. What is the probability that the\n   flowers of an offspring chosen at random will be pink?",
       "choices": [
         {
@@ -16943,6 +18267,8 @@ export const interactiveQuestions = {
       "number": 662,
       "groupId": "group-standalone-662",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The Earth’s magnetic field is caused by the rotation of the liquid\n   magma around the Earth’s iron core. Over the years, changes in this\n   rotation have caused the Earth’s magnetic North Pole to shift\n   position from its earliest recorded position in northern Canada to its\n   current position today.\n   What can you infer from this information?",
       "choices": [
         {
@@ -16971,6 +18297,8 @@ export const interactiveQuestions = {
       "number": 663,
       "groupId": "group-standalone-663",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the main genetic advantage that sexual reproduction has\n     over asexual reproduction?",
       "choices": [
         {
@@ -16999,6 +18327,8 @@ export const interactiveQuestions = {
       "number": 664,
       "groupId": "group-standalone-664",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following would you use to best view the features of\n     the moon’s surface?",
       "choices": [
         {
@@ -17027,6 +18357,8 @@ export const interactiveQuestions = {
       "number": 665,
       "groupId": "group-665-670",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which material is the heaviest?",
       "choices": [
         {
@@ -17055,6 +18387,8 @@ export const interactiveQuestions = {
       "number": 666,
       "groupId": "group-665-670",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which contestant had the most potential energy at the beginning of\n    the race?",
       "choices": [
         {
@@ -17083,6 +18417,8 @@ export const interactiveQuestions = {
       "number": 667,
       "groupId": "group-665-670",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements is true?",
       "choices": [
         {
@@ -17111,6 +18447,8 @@ export const interactiveQuestions = {
       "number": 668,
       "groupId": "group-665-670",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the gained kinetic energy of Contestant 1 at the end of the\n    race?",
       "choices": [
         {
@@ -17139,6 +18477,8 @@ export const interactiveQuestions = {
       "number": 669,
       "groupId": "group-665-670",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a true statement?",
       "choices": [
         {
@@ -17167,6 +18507,8 @@ export const interactiveQuestions = {
       "number": 670,
       "groupId": "group-665-670",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The conservation of energy states that energy is never created or\n    destroyed; however, some of the contestants in the soapbox car race\n    ended up with less kinetic energy than the potential energy they\n    began with. Write a sentence or two that explains what might have\n    happened to this “missing energy.”\n    _________________________\n    _________________________\n    _________________________",
       "choices": [],
       "correctLabel": null,
@@ -17178,6 +18520,8 @@ export const interactiveQuestions = {
       "number": 671,
       "groupId": "group-standalone-671",
       "section": "Science",
+      "topic": "Scientific Reasoning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A scientist measured the life spans of five fruit flies (labeled A to\n    E) and recorded her data in the following table; however, her data\n\n      for fruit fly E was lost.\n  Fruit Fly Life Span (Days)\n\n A          18\n B          12\n C          17\n D          11\n E          ?\n\n      Luckily, she remembered that the mean of the five life spans was 15\n      days. What must the missing value for the life span of fruit fly E\n      have been? _____\nUse the following information for",
       "choices": [],
       "correctLabel": null,
@@ -17189,6 +18533,8 @@ export const interactiveQuestions = {
       "number": 672,
       "groupId": "group-672-677",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the atomic number of fluorine?",
       "choices": [
         {
@@ -17217,6 +18563,8 @@ export const interactiveQuestions = {
       "number": 673,
       "groupId": "group-672-677",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the atomic mass number of sodium?",
       "choices": [
         {
@@ -17245,6 +18593,8 @@ export const interactiveQuestions = {
       "number": 674,
       "groupId": "group-672-677",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A scientist is trying to determine the identity of an unknown\n    element whose atoms contain 9 protons, 9 electrons, and 12\n    neutrons. Which of the following correctly determines the element’s\n    identity and gives the appropriate reasoning behind the\n    determination?",
       "choices": [
         {
@@ -17273,6 +18623,8 @@ export const interactiveQuestions = {
       "number": 675,
       "groupId": "group-672-677",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which element has the same value for its atomic number and\n    atomic mass number?",
       "choices": [
         {
@@ -17301,6 +18653,8 @@ export const interactiveQuestions = {
       "number": 676,
       "groupId": "group-672-677",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a true statement?",
       "choices": [
         {
@@ -17329,6 +18683,8 @@ export const interactiveQuestions = {
       "number": 677,
       "groupId": "group-672-677",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What will happen if a sodium atom loses an electron?",
       "choices": [
         {
@@ -17357,6 +18713,8 @@ export const interactiveQuestions = {
       "number": 678,
       "groupId": "group-standalone-678",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A comet is a small celestial body made of ice and dust that orbits\n   the sun in an elliptical or oval path. Because the path is not perfectly\n   circular, sometimes the comet is closer to the sun, and sometimes it\n   is farther away from the sun. As the comet approaches the sun, the\n   comet begins to warm up, and some of the dust and ice begins to\n   stream away, forming the long, distinctive comet tail. Some\n   scientists consider comets to be the most interesting of the celestial\n   bodies.\n   Based on this information, which of the following statements is an\n   opinion rather than a fact?",
       "choices": [
         {
@@ -17385,6 +18743,8 @@ export const interactiveQuestions = {
       "number": 679,
       "groupId": "group-standalone-679",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Earthworms help to break down the bodies of dead organisms such\n   as leaves, returning nutrients to the soil in the process.\n   Based on this information, what role do earthworms play in the food\n   chain?",
       "choices": [
         {
@@ -17413,6 +18773,8 @@ export const interactiveQuestions = {
       "number": 680,
       "groupId": "group-standalone-680",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The hydrosphere consists of all Earth’s water, including the\n   oceans, lakes, and rivers. The atmosphere consists of all Earth’s air,\n   such as the nitrogen and oxygen that surround the planet.\n   Which of the following scientists would be most likely to apply his\n   or her knowledge of the hydrosphere and the atmosphere while at\n   work?",
       "choices": [
         {
@@ -17441,6 +18803,8 @@ export const interactiveQuestions = {
       "number": 681,
       "groupId": "group-standalone-681",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following contains true statements?",
       "choices": [
         {
@@ -17469,6 +18833,8 @@ export const interactiveQuestions = {
       "number": 682,
       "groupId": "group-standalone-682",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following places the events in the correct order (from\n     the earliest to the most recent)?",
       "choices": [
         {
@@ -17497,6 +18863,8 @@ export const interactiveQuestions = {
       "number": 683,
       "groupId": "group-683-685",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Nitrogen accounts for approximately what percent of the air in the\n   atmosphere?",
       "choices": [
         {
@@ -17525,6 +18893,8 @@ export const interactiveQuestions = {
       "number": 684,
       "groupId": "group-683-685",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Many farmers who grow organic produce are against the use of\n   artificial fertilizers that contain synthetic nitrogen-containing\n   compounds. Which of the following is an alternative method that an\n   organic famer might use to increase the nitrogen content of the soil?",
       "choices": [
         {
@@ -17553,6 +18923,8 @@ export const interactiveQuestions = {
       "number": 685,
       "groupId": "group-683-685",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "When a farmer has grown corn in the same field for several years,\n     the nitrogen content of the soil can become severely depleted.\n     Nitrogen is necessary for healthy plant growth, so in order to\n     combat this problem, a farmer who grows organic produce may also\n     grow legumes such as soybeans in the same field, next to the corn.\n     How does the use of legumes help the farmer solve the problem?",
       "choices": [
         {
@@ -17581,6 +18953,8 @@ export const interactiveQuestions = {
       "number": 686,
       "groupId": "group-686-689",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What charge does an alpha particle have?",
       "choices": [
         {
@@ -17609,6 +18983,8 @@ export const interactiveQuestions = {
       "number": 687,
       "groupId": "group-686-689",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What charge does a gold nucleus have?",
       "choices": [
         {
@@ -17637,6 +19013,8 @@ export const interactiveQuestions = {
       "number": 688,
       "groupId": "group-686-689",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why did Rutherford prefer gold rather than a different metal such\n   as lead?",
       "choices": [
         {
@@ -17665,6 +19043,8 @@ export const interactiveQuestions = {
       "number": 689,
       "groupId": "group-686-689",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following statements provides evidence that an atom\n   has a nucleus that contains most of the atom’s mass and all of its\n   positive charge?",
       "choices": [
         {
@@ -17693,6 +19073,8 @@ export const interactiveQuestions = {
       "number": 690,
       "groupId": "group-standalone-690",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following physical changes involves the release of\n   heat?",
       "choices": [
         {
@@ -17721,6 +19103,8 @@ export const interactiveQuestions = {
       "number": 691,
       "groupId": "group-standalone-691",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "When Alex works out at the gym, he sometimes lifts weights. As\n   he lifts the barbell to its highest point, several energy transitions take\n   place. Which of the following lists these energy transitions in the\n   correct order?",
       "choices": [
         {
@@ -17749,6 +19133,8 @@ export const interactiveQuestions = {
       "number": 692,
       "groupId": "group-standalone-692",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why is copper used for electrical wiring in electric circuits?",
       "choices": [
         {
@@ -17777,6 +19163,8 @@ export const interactiveQuestions = {
       "number": 693,
       "groupId": "group-standalone-693",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the south poles of two strong magnets are placed close together\n   on a smooth table, what will happen?",
       "choices": [
         {
@@ -17805,6 +19193,8 @@ export const interactiveQuestions = {
       "number": 694,
       "groupId": "group-standalone-694",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Ohm’s law tells you that the electric current is inversely\n    proportional to the resistance within the circuit if the voltage\n\n     remains constant.\n     What will happen to the current in a circuit with a fixed voltage if\n     the resistance of a circuit is suddenly doubled?",
       "choices": [
         {
@@ -17833,6 +19223,8 @@ export const interactiveQuestions = {
       "number": 695,
       "groupId": "group-695-696",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In which layer of the atmosphere do most humans live?",
       "choices": [
         {
@@ -17861,6 +19253,8 @@ export const interactiveQuestions = {
       "number": 696,
       "groupId": "group-695-696",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which layer has the coldest average temperature?",
       "choices": [
         {
@@ -17889,6 +19283,8 @@ export const interactiveQuestions = {
       "number": 697,
       "groupId": "group-697-701",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which planet is farthest from the sun?",
       "choices": [
         {
@@ -17917,6 +19313,8 @@ export const interactiveQuestions = {
       "number": 698,
       "groupId": "group-697-701",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which planet is closest to Earth?",
       "choices": [
         {
@@ -17945,6 +19343,8 @@ export const interactiveQuestions = {
       "number": 699,
       "groupId": "group-697-701",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A day on which planet takes approximately the same amount of\n    time as a day on Earth?\n    __________",
       "choices": [],
       "correctLabel": null,
@@ -17956,6 +19356,8 @@ export const interactiveQuestions = {
       "number": 700,
       "groupId": "group-697-701",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the table and the given information, which of the\n   following is a true statement?",
       "choices": [
         {
@@ -17984,6 +19386,8 @@ export const interactiveQuestions = {
       "number": 701,
       "groupId": "group-697-701",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the table and the given information, which of the\n   following is a true statement?",
       "choices": [
         {
@@ -18012,6 +19416,8 @@ export const interactiveQuestions = {
       "number": 702,
       "groupId": "group-702-703",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the figure and the given information, which of the\n     following is a true statement?",
       "choices": [
         {
@@ -18040,6 +19446,8 @@ export const interactiveQuestions = {
       "number": 703,
       "groupId": "group-702-703",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "By approximately what percent did the number of deaths due to\n      cancer increase since 1950?",
       "choices": [
         {
@@ -18068,6 +19476,8 @@ export const interactiveQuestions = {
       "number": 704,
       "groupId": "group-704-707",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the given information, which organism has the fastest\n      metabolism?",
       "choices": [
         {
@@ -18096,6 +19506,8 @@ export const interactiveQuestions = {
       "number": 705,
       "groupId": "group-704-707",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Calculating the median metabolic rate gives scientists a way to\n   compare the basal or baseline metabolic rate of each species. Based\n   on the given information, which organism has the median body\n   weight?",
       "choices": [
         {
@@ -18124,6 +19536,8 @@ export const interactiveQuestions = {
       "number": 706,
       "groupId": "group-704-707",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a true statement?",
       "choices": [
         {
@@ -18152,6 +19566,8 @@ export const interactiveQuestions = {
       "number": 707,
       "groupId": "group-704-707",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A scientist calculated the average metabolic rate of the seven types\n   of animals shown on the graph. He then removed the data related to\n   the elephant and calculated the new average. How does the new\n   average compare to the old average?",
       "choices": [
         {
@@ -18180,6 +19596,8 @@ export const interactiveQuestions = {
       "number": 708,
       "groupId": "group-708-711",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Choose the correct words to correctly complete the sentence:\n   Grass and plants are __________, whereas rabbits are __________.",
       "choices": [
         {
@@ -18208,6 +19626,8 @@ export const interactiveQuestions = {
       "number": 709,
       "groupId": "group-708-711",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If a virus were to suddenly wipe out most of the fox population,\n   what effect would this have on the food web?",
       "choices": [
         {
@@ -18236,6 +19656,8 @@ export const interactiveQuestions = {
       "number": 710,
       "groupId": "group-708-711",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Approximately what percentage of the energy stored in a plant is\n   transferred to the biomass (flesh) of a primary consumer when the\n   plant is eaten?",
       "choices": [
         {
@@ -18264,6 +19686,8 @@ export const interactiveQuestions = {
       "number": 711,
       "groupId": "group-708-711",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the ultimate source of energy of a food web?",
       "choices": [
         {
@@ -18292,6 +19716,8 @@ export const interactiveQuestions = {
       "number": 712,
       "groupId": "group-standalone-712",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What does the theory of plate tectonics help explain?",
       "choices": [
         {
@@ -18320,6 +19746,8 @@ export const interactiveQuestions = {
       "number": 713,
       "groupId": "group-standalone-713",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a theory rather than a fact about tectonic\n   plates?",
       "choices": [
         {
@@ -18348,6 +19776,8 @@ export const interactiveQuestions = {
       "number": 714,
       "groupId": "group-standalone-714",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "When a gas is released into a container, it tends to expand until it\n      fills the entire container. This process is known as diffusion. Which\n      of the following shows an example of the diffusion of a gas?",
       "choices": [
         {
@@ -18376,6 +19806,8 @@ export const interactiveQuestions = {
       "number": 715,
       "groupId": "group-715-718",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the main function of the white blood cells?",
       "choices": [
         {
@@ -18404,6 +19836,8 @@ export const interactiveQuestions = {
       "number": 716,
       "groupId": "group-715-718",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the main function of the red blood cells?",
       "choices": [
         {
@@ -18432,6 +19866,8 @@ export const interactiveQuestions = {
       "number": 717,
       "groupId": "group-715-718",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the information in the passage, all of the following\n     statements are true statements regarding plasma EXCEPT",
       "choices": [
         {
@@ -18460,6 +19896,8 @@ export const interactiveQuestions = {
       "number": 718,
       "groupId": "group-715-718",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What percentage of the blood consists of cells?",
       "choices": [
         {
@@ -18488,6 +19926,8 @@ export const interactiveQuestions = {
       "number": 719,
       "groupId": "group-719-722",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a true statement?",
       "choices": [
         {
@@ -18516,6 +19956,8 @@ export const interactiveQuestions = {
       "number": 720,
       "groupId": "group-719-722",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the most likely reason that carbon-14 is not used for\n      biomedical imaging, whereas carbon-11 is used for this purpose?",
       "choices": [
         {
@@ -18544,6 +19986,8 @@ export const interactiveQuestions = {
       "number": 721,
       "groupId": "group-719-722",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In what way does the nucleus of an atom of carbon-14 differ from\n   the nucleus of an atom of carbon-11?",
       "choices": [
         {
@@ -18572,6 +20016,8 @@ export const interactiveQuestions = {
       "number": 722,
       "groupId": "group-719-722",
       "section": "Science",
+      "topic": "Earth and Space Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "A biomedical researcher prepared 2 kilograms of carbon-11 and\n   then went out to lunch. How many grams of carbon-11 would\n   remain by the time she returned from lunch an hour later?",
       "choices": [
         {
@@ -18600,6 +20046,8 @@ export const interactiveQuestions = {
       "number": 723,
       "groupId": "group-standalone-723",
       "section": "Science",
+      "topic": "Life Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The human body system that transports nutrients dissolved in the\n   blood to all the cells of the body is called the",
       "choices": [
         {
@@ -18628,6 +20076,8 @@ export const interactiveQuestions = {
       "number": 724,
       "groupId": "group-standalone-724",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is an example of a chemical change?",
       "choices": [
         {
@@ -18656,6 +20106,8 @@ export const interactiveQuestions = {
       "number": 725,
       "groupId": "group-725-727",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which city experienced the smallest increase in its record\n      temperature?",
       "choices": [
         {
@@ -18684,6 +20136,8 @@ export const interactiveQuestions = {
       "number": 726,
       "groupId": "group-725-727",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the chart, which of the following statements is true?",
       "choices": [
         {
@@ -18712,6 +20166,8 @@ export const interactiveQuestions = {
       "number": 727,
       "groupId": "group-725-727",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "By approximately what percentage did Adelaide’s record\n     temperature increase this year?",
       "choices": [
         {
@@ -18740,6 +20196,8 @@ export const interactiveQuestions = {
       "number": 728,
       "groupId": "group-728-729",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which statement is accurate concerning the forces acting on each\n   mass?",
       "choices": [
         {
@@ -18768,6 +20226,8 @@ export const interactiveQuestions = {
       "number": 729,
       "groupId": "group-728-729",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following is a true statement?",
       "choices": [
         {
@@ -18796,6 +20256,8 @@ export const interactiveQuestions = {
       "number": 730,
       "groupId": "group-standalone-730",
       "section": "Science",
+      "topic": "Physical Science",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If the distance between the two objects is doubled, what effect will\n   this have on the gravitational force between them?",
       "choices": [
         {
@@ -18824,6 +20286,8 @@ export const interactiveQuestions = {
       "number": 731,
       "groupId": "group-731-735",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the excerpt, what does Scrooge think about Christmas?",
       "choices": [
         {
@@ -18852,6 +20316,8 @@ export const interactiveQuestions = {
       "number": 732,
       "groupId": "group-731-735",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the passage, which of the following is an accurate\n    description of Scrooge and his nephew?",
       "choices": [
         {
@@ -18880,6 +20346,8 @@ export const interactiveQuestions = {
       "number": 733,
       "groupId": "group-731-735",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What does Scrooge mean when he turns to his employee and says,\n    “Let me hear another sound from you, and you’ll keep your\n    Christmas by losing your situation”?",
       "choices": [
         {
@@ -18908,6 +20376,8 @@ export const interactiveQuestions = {
       "number": 734,
       "groupId": "group-731-735",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is Scrooge doing when he tells his nephew, “You’re quite a\n     powerful speaker, sir. I wonder you don’t go into Parliament”?",
       "choices": [
         {
@@ -18936,6 +20406,8 @@ export const interactiveQuestions = {
       "number": 735,
       "groupId": "group-731-735",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does Scrooge repeat the phrase “good afternoon” several\n     times toward the end of the excerpt?",
       "choices": [
         {
@@ -18964,6 +20436,8 @@ export const interactiveQuestions = {
       "number": 736,
       "groupId": "group-736-738",
       "section": "Reasoning Through Language Arts",
+      "topic": "Language and Vocabulary",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What does the apple in the poem represent?",
       "choices": [
         {
@@ -18992,6 +20466,8 @@ export const interactiveQuestions = {
       "number": 737,
       "groupId": "group-736-738",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What are the main themes of the poem?",
       "choices": [
         {
@@ -19020,6 +20496,8 @@ export const interactiveQuestions = {
       "number": 738,
       "groupId": "group-736-738",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What advice would the author give to you if you were angry at a\n     friend’s actions?",
       "choices": [
         {
@@ -19048,6 +20526,8 @@ export const interactiveQuestions = {
       "number": 739,
       "groupId": "group-739-746",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the excerpt, cooking can be all of the following EXCEPT",
       "choices": [
         {
@@ -19076,6 +20556,8 @@ export const interactiveQuestions = {
       "number": 740,
       "groupId": "group-739-746",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the excerpt, cooking allows you to control all of the\n    following EXCEPT",
       "choices": [
         {
@@ -19104,6 +20586,8 @@ export const interactiveQuestions = {
       "number": 741,
       "groupId": "group-739-746",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the passage, which of the following is a true statement?",
       "choices": [
         {
@@ -19132,6 +20616,8 @@ export const interactiveQuestions = {
       "number": 742,
       "groupId": "group-739-746",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does the passage state, “If you want to spend the day running,\n   join a health club”?",
       "choices": [
         {
@@ -19160,6 +20646,8 @@ export const interactiveQuestions = {
       "number": 743,
       "groupId": "group-739-746",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fill in the blank to correctly complete the sentence:\n    The working space in a kitchen is also known as the __________.",
       "choices": [],
       "correctLabel": null,
@@ -19171,6 +20659,8 @@ export const interactiveQuestions = {
       "number": 744,
       "groupId": "group-739-746",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The triangular-shaped working space in a kitchen is formed by\n   which three items?",
       "choices": [
         {
@@ -19199,6 +20689,8 @@ export const interactiveQuestions = {
       "number": 745,
       "groupId": "group-739-746",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The working space described in the passage should be suitable for\n   all kitchen shapes EXCEPT",
       "choices": [
         {
@@ -19227,6 +20719,8 @@ export const interactiveQuestions = {
       "number": 746,
       "groupId": "group-739-746",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The author’s tone in the passage can best be described as",
       "choices": [
         {
@@ -19255,6 +20749,8 @@ export const interactiveQuestions = {
       "number": 747,
       "groupId": "group-747-752",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what is the first thing you need to know\n    before you buy a drone?",
       "choices": [
         {
@@ -19283,6 +20779,8 @@ export const interactiveQuestions = {
       "number": 748,
       "groupId": "group-747-752",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, which type of drone should you consider\n   if you intend to fly it fast in a straight line?",
       "choices": [
         {
@@ -19311,6 +20809,8 @@ export const interactiveQuestions = {
       "number": 749,
       "groupId": "group-747-752",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the information in the passage, if you intend to fly a\n   drone for extended periods, you need to find the right balance of",
       "choices": [
         {
@@ -19339,6 +20839,8 @@ export const interactiveQuestions = {
       "number": 750,
       "groupId": "group-747-752",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, a drone that costs hundreds of thousands\n   of dollars would be used for",
       "choices": [
         {
@@ -19367,6 +20869,8 @@ export const interactiveQuestions = {
       "number": 751,
       "groupId": "group-747-752",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In addition to the cost of buying the drone itself, what other factors\n   should you consider when working out your budget?",
       "choices": [
         {
@@ -19395,6 +20899,8 @@ export const interactiveQuestions = {
       "number": 752,
       "groupId": "group-747-752",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "As used in the passage, what is the best meaning of the word\n     litany?",
       "choices": [
         {
@@ -19423,6 +20929,8 @@ export const interactiveQuestions = {
       "number": 753,
       "groupId": "group-753-760",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, how does nanotechnology differ\n    compared to other sciences like biology or physics?",
       "choices": [
         {
@@ -19451,6 +20959,8 @@ export const interactiveQuestions = {
       "number": 754,
       "groupId": "group-753-760",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, there is no single agreed upon definition\n    of nanotechnology because",
       "choices": [
         {
@@ -19479,6 +20989,8 @@ export const interactiveQuestions = {
       "number": 755,
       "groupId": "group-753-760",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, the word nano means all of the\n    following EXCEPT",
       "choices": [
         {
@@ -19507,6 +21019,8 @@ export const interactiveQuestions = {
       "number": 756,
       "groupId": "group-753-760",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, about how wide is a human hair?",
       "choices": [
         {
@@ -19535,6 +21049,8 @@ export const interactiveQuestions = {
       "number": 757,
       "groupId": "group-753-760",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, nanotechnology will help to extend our\n   lifespans by doing all of the following EXCEPT",
       "choices": [
         {
@@ -19563,6 +21079,8 @@ export const interactiveQuestions = {
       "number": 758,
       "groupId": "group-753-760",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, how much will the market for\n   nanotechnology products grow during the current decade?",
       "choices": [
         {
@@ -19591,6 +21109,8 @@ export const interactiveQuestions = {
       "number": 759,
       "groupId": "group-753-760",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what appears to be the upper size limit\n   for structures, devices, and systems to be considered\n   nanotechnology?",
       "choices": [
         {
@@ -19619,6 +21139,8 @@ export const interactiveQuestions = {
       "number": 760,
       "groupId": "group-753-760",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What makes Thomas Theis’s definition of nanotechnology\n   different from the other definitions given in the passage?",
       "choices": [
         {
@@ -19647,6 +21169,8 @@ export const interactiveQuestions = {
       "number": 761,
       "groupId": "group-761-768",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What appears to have happened on the farm shortly before the\n    events detailed in the excerpt take place?",
       "choices": [
         {
@@ -19675,6 +21199,8 @@ export const interactiveQuestions = {
       "number": 762,
       "groupId": "group-761-768",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Who was in charge of coordinating the animals’ defenses?",
       "choices": [
         {
@@ -19703,6 +21229,8 @@ export const interactiveQuestions = {
       "number": 763,
       "groupId": "group-761-768",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the first line of defense that the animals employ against\n    Jones and his men?",
       "choices": [
         {
@@ -19731,6 +21259,8 @@ export const interactiveQuestions = {
       "number": 764,
       "groupId": "group-761-768",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How do the animals manage to ambush the men in the yard during\n    the attack?",
       "choices": [
         {
@@ -19759,6 +21289,8 @@ export const interactiveQuestions = {
       "number": 765,
       "groupId": "group-761-768",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the best meaning of the word ignominious as used in the\n     passage?",
       "choices": [
         {
@@ -19787,6 +21319,8 @@ export const interactiveQuestions = {
       "number": 766,
       "groupId": "group-761-768",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What type of animal is Boxer?",
       "choices": [
         {
@@ -19815,6 +21349,8 @@ export const interactiveQuestions = {
       "number": 767,
       "groupId": "group-761-768",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How do Boxer and Snowball react to the death of the stable lad?",
       "choices": [
         {
@@ -19843,6 +21379,8 @@ export const interactiveQuestions = {
       "number": 768,
       "groupId": "group-761-768",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which three words best describe Snowball’s personality?",
       "choices": [
         {
@@ -19871,6 +21409,8 @@ export const interactiveQuestions = {
       "number": 769,
       "groupId": "group-769-776",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Using the information in the passage, if you were in a room with\n    39 other typical adult U.S. citizens, how many of the people in the\n    room would have prediabetes?",
       "choices": [
         {
@@ -19899,6 +21439,8 @@ export const interactiveQuestions = {
       "number": 770,
       "groupId": "group-769-776",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the purpose of the first paragraph of the passage?",
       "choices": [
         {
@@ -19927,6 +21469,8 @@ export const interactiveQuestions = {
       "number": 771,
       "groupId": "group-769-776",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In the second paragraph, what point is the author trying to make\n   when he says, “This book will not make you younger, but it will\n   help you continue to get older”?",
       "choices": [
         {
@@ -19955,6 +21499,8 @@ export const interactiveQuestions = {
       "number": 772,
       "groupId": "group-769-776",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, there are three physical states of health.\n   They include each of the following EXCEPT",
       "choices": [
         {
@@ -19983,6 +21529,8 @@ export const interactiveQuestions = {
       "number": 773,
       "groupId": "group-769-776",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The passage warns that the United States is facing major health\n   epidemics, including each of the following EXCEPT",
       "choices": [
         {
@@ -20011,6 +21559,8 @@ export const interactiveQuestions = {
       "number": 774,
       "groupId": "group-769-776",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the best meaning of the word anecdote as used in the\n   passage?",
       "choices": [
         {
@@ -20039,6 +21589,8 @@ export const interactiveQuestions = {
       "number": 775,
       "groupId": "group-769-776",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In the paragraphs that describe how Jane Johnson discovered that\n     she was prediabetic, what is the most likely reason the author chose\n     the name Dr. Sugarfeld as the name of Jane’s doctor?",
       "choices": [
         {
@@ -20067,6 +21619,8 @@ export const interactiveQuestions = {
       "number": 776,
       "groupId": "group-769-776",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How is prediabetes diagnosed?",
       "choices": [
         {
@@ -20095,6 +21649,8 @@ export const interactiveQuestions = {
       "number": 777,
       "groupId": "group-777-786",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the most likely reason that the author began the passage\n    with a series of questions?",
       "choices": [
         {
@@ -20123,6 +21679,8 @@ export const interactiveQuestions = {
       "number": 778,
       "groupId": "group-777-786",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the first paragraph, all of the following are causes of\n    stress EXCEPT",
       "choices": [
         {
@@ -20151,6 +21709,8 @@ export const interactiveQuestions = {
       "number": 779,
       "groupId": "group-777-786",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What incident is the author referring to when he says, “Wasn’t it\n    stress that Adam felt when he was caught red-handed with little bits\n    of apple stuck between his teeth?”",
       "choices": [
         {
@@ -20179,6 +21739,8 @@ export const interactiveQuestions = {
       "number": 780,
       "groupId": "group-777-786",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the first paragraph, all of the following are symptoms\n   of stress EXCEPT",
       "choices": [
         {
@@ -20207,6 +21769,8 @@ export const interactiveQuestions = {
       "number": 781,
       "groupId": "group-777-786",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the economist Juliet Schor, why haven’t all the new\n   time-saving inventions that make our lives easier helped relieve the\n   stresses of doing household chores?",
       "choices": [
         {
@@ -20235,6 +21799,8 @@ export const interactiveQuestions = {
       "number": 782,
       "groupId": "group-777-786",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the American Psychological Association, what is the\n   number one cause of stress for most Americans?",
       "choices": [
         {
@@ -20263,6 +21829,8 @@ export const interactiveQuestions = {
       "number": 783,
       "groupId": "group-777-786",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "For some people, jobs and careers are a major source of stress.\n   Which of the following contains only the work-related potential\n   sources of stress listed in the passage?",
       "choices": [
         {
@@ -20291,6 +21859,8 @@ export const interactiveQuestions = {
       "number": 784,
       "groupId": "group-777-786",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, why is work-related stress more of a\n     problem today than it used to be?",
       "choices": [
         {
@@ -20319,6 +21889,8 @@ export const interactiveQuestions = {
       "number": 785,
       "groupId": "group-777-786",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the author, what is the best thing that you can do to\n     learn how to reduce your stress level?",
       "choices": [
         {
@@ -20347,6 +21919,8 @@ export const interactiveQuestions = {
       "number": 786,
       "groupId": "group-777-786",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following best describes the author’s tone throughout\n     the passage?",
       "choices": [
         {
@@ -20375,6 +21949,8 @@ export const interactiveQuestions = {
       "number": 787,
       "groupId": "group-787-794",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, day traders make money by executing",
       "choices": [
         {
@@ -20403,6 +21979,8 @@ export const interactiveQuestions = {
       "number": 788,
       "groupId": "group-787-794",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, how do day traders limit some of their\n    risks?",
       "choices": [
         {
@@ -20431,6 +22009,8 @@ export const interactiveQuestions = {
       "number": 789,
       "groupId": "group-787-794",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, high-frequency algorithms have all of\n   the following advantages over individual human day traders\n   EXCEPT",
       "choices": [
         {
@@ -20459,6 +22039,8 @@ export const interactiveQuestions = {
       "number": 790,
       "groupId": "group-787-794",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, why might a successful long-term\n   investor make a terrible day trader?",
       "choices": [
         {
@@ -20487,6 +22069,8 @@ export const interactiveQuestions = {
       "number": 791,
       "groupId": "group-787-794",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, which of the following would be an\n   example of a zero-sum game?",
       "choices": [
         {
@@ -20515,6 +22099,8 @@ export const interactiveQuestions = {
       "number": 792,
       "groupId": "group-787-794",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the information in the passage, which of the following\n    accurately describes the trading habits of day traders, swing traders,\n    and investors?",
       "choices": [
         {
@@ -20543,6 +22129,8 @@ export const interactiveQuestions = {
       "number": 793,
       "groupId": "group-787-794",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what is the main difference between\n     hedgers and speculators?",
       "choices": [
         {
@@ -20571,6 +22159,8 @@ export const interactiveQuestions = {
       "number": 794,
       "groupId": "group-787-794",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, which of the following would probably\n     have the best personality fit to be a successful day trader?",
       "choices": [
         {
@@ -20599,6 +22189,8 @@ export const interactiveQuestions = {
       "number": 795,
       "groupId": "group-795-802",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -20627,6 +22219,8 @@ export const interactiveQuestions = {
       "number": 796,
       "groupId": "group-795-802",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -20655,6 +22249,8 @@ export const interactiveQuestions = {
       "number": 797,
       "groupId": "group-795-802",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -20683,6 +22279,8 @@ export const interactiveQuestions = {
       "number": 798,
       "groupId": "group-795-802",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -20711,6 +22309,8 @@ export const interactiveQuestions = {
       "number": 799,
       "groupId": "group-795-802",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -20739,6 +22339,8 @@ export const interactiveQuestions = {
       "number": 800,
       "groupId": "group-795-802",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -20767,6 +22369,8 @@ export const interactiveQuestions = {
       "number": 801,
       "groupId": "group-795-802",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -20795,6 +22399,8 @@ export const interactiveQuestions = {
       "number": 802,
       "groupId": "group-795-802",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -20823,6 +22429,8 @@ export const interactiveQuestions = {
       "number": 803,
       "groupId": "group-803-808",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best completion of the sentence from among the given\n   choices.",
       "choices": [
         {
@@ -20851,6 +22459,8 @@ export const interactiveQuestions = {
       "number": 804,
       "groupId": "group-803-808",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best completion of the sentence from among the given\n   choices.",
       "choices": [
         {
@@ -20879,6 +22489,8 @@ export const interactiveQuestions = {
       "number": 805,
       "groupId": "group-803-808",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best completion of the sentence from among the given\n   choices.",
       "choices": [
         {
@@ -20907,6 +22519,8 @@ export const interactiveQuestions = {
       "number": 806,
       "groupId": "group-803-808",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -20935,6 +22549,8 @@ export const interactiveQuestions = {
       "number": 807,
       "groupId": "group-803-808",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best completion of the sentence from among the given\n     choices.",
       "choices": [
         {
@@ -20963,6 +22579,8 @@ export const interactiveQuestions = {
       "number": 808,
       "groupId": "group-803-808",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -20991,6 +22609,8 @@ export const interactiveQuestions = {
       "number": 809,
       "groupId": "group-809-816",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the narrator’s tone in the opening paragraph?",
       "choices": [
         {
@@ -21019,6 +22639,8 @@ export const interactiveQuestions = {
       "number": 810,
       "groupId": "group-809-816",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on its usage in the excerpt, what is the best definition of the\n    word prosaic?",
       "choices": [
         {
@@ -21047,6 +22669,8 @@ export const interactiveQuestions = {
       "number": 811,
       "groupId": "group-809-816",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "When the narrator is in his room shaving, why is he so surprised\n   when the Count puts his hand on the narrator’s shoulder?",
       "choices": [
         {
@@ -21075,6 +22699,8 @@ export const interactiveQuestions = {
       "number": 812,
       "groupId": "group-809-816",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the best definition of the word salutation as used in this\n   sentence: “Having answered the Count’s salutation, I turned to the\n   glass again to see how I had been mistaken”?",
       "choices": [
         {
@@ -21103,6 +22729,8 @@ export const interactiveQuestions = {
       "number": 813,
       "groupId": "group-809-816",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the Count’s initial reaction when the narrator cuts himself\n   while shaving?",
       "choices": [
         {
@@ -21131,6 +22759,8 @@ export const interactiveQuestions = {
       "number": 814,
       "groupId": "group-809-816",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the Count’s reaction when he sees the narrator’s crucifix?",
       "choices": [
         {
@@ -21159,6 +22789,8 @@ export const interactiveQuestions = {
       "number": 815,
       "groupId": "group-809-816",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Where is the castle located?",
       "choices": [
         {
@@ -21187,6 +22819,8 @@ export const interactiveQuestions = {
       "number": 816,
       "groupId": "group-809-816",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "When the narrator becomes afraid that he is locked inside the\n     castle, why doesn’t he simply jump out the window?",
       "choices": [
         {
@@ -21215,6 +22849,8 @@ export const interactiveQuestions = {
       "number": 817,
       "groupId": "group-standalone-817",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the best meaning of the word veritable in this sentence:\n     “The castle is a veritable prison, and I am a prisoner”?",
       "choices": [
         {
@@ -21243,6 +22879,8 @@ export const interactiveQuestions = {
       "number": 818,
       "groupId": "group-818-826",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The author’s tone in the passage can best be described as",
       "choices": [
         {
@@ -21271,6 +22909,8 @@ export const interactiveQuestions = {
       "number": 819,
       "groupId": "group-818-826",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "All of the following facts about chemistry first helped the author\n   become hooked on the subject EXCEPT",
       "choices": [
         {
@@ -21299,6 +22939,8 @@ export const interactiveQuestions = {
       "number": 820,
       "groupId": "group-818-826",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what is chemistry the study of?",
       "choices": [
         {
@@ -21327,6 +22969,8 @@ export const interactiveQuestions = {
       "number": 821,
       "groupId": "group-818-826",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, how have the definitions of the different\n   sciences changed recently?",
       "choices": [
         {
@@ -21355,6 +22999,8 @@ export const interactiveQuestions = {
       "number": 822,
       "groupId": "group-818-826",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does the author suggest that “a nose plug and an empty\n   stomach” is the best way to prepare for an experiment involving\n   dissection?",
       "choices": [
         {
@@ -21383,6 +23029,8 @@ export const interactiveQuestions = {
       "number": 823,
       "groupId": "group-818-826",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the information given in the passage, which of the\n     following could be properly tested by science?",
       "choices": [
         {
@@ -21411,6 +23059,8 @@ export const interactiveQuestions = {
       "number": 824,
       "groupId": "group-818-826",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "As it is used in the passage, what does the word skeptical mean?",
       "choices": [
         {
@@ -21439,6 +23089,8 @@ export const interactiveQuestions = {
       "number": 825,
       "groupId": "group-818-826",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In what way does the passage imply that scientists are like\n     children?",
       "choices": [
         {
@@ -21467,6 +23119,8 @@ export const interactiveQuestions = {
       "number": 826,
       "groupId": "group-818-826",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "As it is used in the passage, what does the word serendipity mean?",
       "choices": [
         {
@@ -21495,6 +23149,8 @@ export const interactiveQuestions = {
       "number": 827,
       "groupId": "group-827-835",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, why are TV shows about forensic\n    science so popular?",
       "choices": [
         {
@@ -21523,6 +23179,8 @@ export const interactiveQuestions = {
       "number": 828,
       "groupId": "group-827-835",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, forensic science can catch criminals by\n   all of the following methods EXCEPT",
       "choices": [
         {
@@ -21551,6 +23209,8 @@ export const interactiveQuestions = {
       "number": 829,
       "groupId": "group-827-835",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "As used in the passage, what is the best meaning of the word\n   enchantment?",
       "choices": [
         {
@@ -21579,6 +23239,8 @@ export const interactiveQuestions = {
       "number": 830,
       "groupId": "group-827-835",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does the author bring up the topic of ancient Rome in the\n   passage?",
       "choices": [
         {
@@ -21607,6 +23269,8 @@ export const interactiveQuestions = {
       "number": 831,
       "groupId": "group-827-835",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the information in the passage, which of the following is\n   a true statement?",
       "choices": [
         {
@@ -21635,6 +23299,8 @@ export const interactiveQuestions = {
       "number": 832,
       "groupId": "group-827-835",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following questions does forensic science NOT help\n   to resolve?",
       "choices": [
         {
@@ -21663,6 +23329,8 @@ export const interactiveQuestions = {
       "number": 833,
       "groupId": "group-827-835",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Before the advent of forensic science, what did investigators\n   primarily rely on in order to identify, capture, and convict criminals?",
       "choices": [
         {
@@ -21691,6 +23359,8 @@ export const interactiveQuestions = {
       "number": 834,
       "groupId": "group-827-835",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How did increased access to modern transportation reduce the\n   effectiveness of the old crime-solving methods?",
       "choices": [
         {
@@ -21719,6 +23389,8 @@ export const interactiveQuestions = {
       "number": 835,
       "groupId": "group-827-835",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why did it take time for forensic science to become widely\n   accepted in the courtroom?",
       "choices": [
         {
@@ -21747,6 +23419,8 @@ export const interactiveQuestions = {
       "number": 836,
       "groupId": "group-836-843",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what is the population of the United\n    States in the time period in which the story is set?",
       "choices": [
         {
@@ -21775,6 +23449,8 @@ export const interactiveQuestions = {
       "number": 837,
       "groupId": "group-836-843",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, why is Mr. Wehling the only person in\n    the waiting room at the maternity ward of the hospital?",
       "choices": [
         {
@@ -21803,6 +23479,8 @@ export const interactiveQuestions = {
       "number": 838,
       "groupId": "group-836-843",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does the passage refer to Edward K. Wehling, Jr. as “Young\n   Wehling” and describe him as “a mere stripling,” even though he is\n   56 years old?",
       "choices": [
         {
@@ -21831,6 +23509,8 @@ export const interactiveQuestions = {
       "number": 839,
       "groupId": "group-836-843",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, the wall of the hospital ward is being\n   decorated with a mural in honor of whom?",
       "choices": [
         {
@@ -21859,6 +23539,8 @@ export const interactiveQuestions = {
       "number": 840,
       "groupId": "group-836-843",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the best meaning of the word sardonic as used in the\n   passage?",
       "choices": [
         {
@@ -21887,6 +23569,8 @@ export const interactiveQuestions = {
       "number": 841,
       "groupId": "group-836-843",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why are the municipal gas chambers of the Federal Bureau of\n   Termination known by so many other nicknames, such as “Kiss-me-\n   quick” and “Why Worry?”",
       "choices": [
         {
@@ -21915,6 +23599,8 @@ export const interactiveQuestions = {
       "number": 842,
       "groupId": "group-836-843",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In the description of the mural titled “The Happy Garden of Life,”\n     the weeds and the refuge are used as metaphors for",
       "choices": [
         {
@@ -21943,6 +23629,8 @@ export const interactiveQuestions = {
       "number": 843,
       "groupId": "group-836-843",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does the artist of the mural reply with scorn when the orderly\n     comments on his work?",
       "choices": [
         {
@@ -21971,6 +23659,8 @@ export const interactiveQuestions = {
       "number": 844,
       "groupId": "group-standalone-844",
       "section": "Reasoning Through Language Arts",
+      "topic": "Language and Vocabulary",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What disease is the narrator referring to in the opening paragraph?",
       "choices": [
         {
@@ -21999,6 +23689,8 @@ export const interactiveQuestions = {
       "number": 845,
       "groupId": "group-standalone-845",
       "section": "Reasoning Through Language Arts",
+      "topic": "Language and Vocabulary",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The narrator’s personality can best be described as",
       "choices": [
         {
@@ -22027,6 +23719,8 @@ export const interactiveQuestions = {
       "number": 846,
       "groupId": "group-standalone-846",
       "section": "Reasoning Through Language Arts",
+      "topic": "Language and Vocabulary",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How does the narrator attempt to convince the reader that he is not\n    actually insane?",
       "choices": [
         {
@@ -22055,6 +23749,8 @@ export const interactiveQuestions = {
       "number": 847,
       "groupId": "group-standalone-847",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, why does the narrator want to kill the\n    old man?",
       "choices": [
         {
@@ -22083,6 +23779,8 @@ export const interactiveQuestions = {
       "number": 848,
       "groupId": "group-standalone-848",
       "section": "Reasoning Through Language Arts",
+      "topic": "Language and Vocabulary",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why was the narrator unable to carry out his decision to kill the\n   old man during the first week every time he opened the old man’s\n   bedroom door?",
       "choices": [
         {
@@ -22111,6 +23809,8 @@ export const interactiveQuestions = {
       "number": 849,
       "groupId": "group-standalone-849",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, each morning the narrator tried to hide\n   his intentions toward the old man by doing all of the following\n   EXCEPT",
       "choices": [
         {
@@ -22139,6 +23839,8 @@ export const interactiveQuestions = {
       "number": 850,
       "groupId": "group-standalone-850",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What does the word sagacity mean as used in the sentence: “Never\n   before that night had I felt the extent of my own powers—of my\n   sagacity”?",
       "choices": [
         {
@@ -22167,6 +23869,8 @@ export const interactiveQuestions = {
       "number": 851,
       "groupId": "group-standalone-851",
       "section": "Reasoning Through Language Arts",
+      "topic": "Language and Vocabulary",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What does the narrator do when the old man springs up in bed and\n     cries out, “Who’s there?”",
       "choices": [
         {
@@ -22195,6 +23899,8 @@ export const interactiveQuestions = {
       "number": 852,
       "groupId": "group-852-858",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -22223,6 +23929,8 @@ export const interactiveQuestions = {
       "number": 853,
       "groupId": "group-852-858",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -22251,6 +23959,8 @@ export const interactiveQuestions = {
       "number": 854,
       "groupId": "group-852-858",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -22279,6 +23989,8 @@ export const interactiveQuestions = {
       "number": 855,
       "groupId": "group-852-858",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -22307,6 +24019,8 @@ export const interactiveQuestions = {
       "number": 856,
       "groupId": "group-852-858",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -22335,6 +24049,8 @@ export const interactiveQuestions = {
       "number": 857,
       "groupId": "group-852-858",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -22363,6 +24079,8 @@ export const interactiveQuestions = {
       "number": 858,
       "groupId": "group-852-858",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -22391,6 +24109,8 @@ export const interactiveQuestions = {
       "number": 859,
       "groupId": "group-859-865",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The passage describes Sergeant-Major Morris as",
       "choices": [
         {
@@ -22419,6 +24139,8 @@ export const interactiveQuestions = {
       "number": 860,
       "groupId": "group-859-865",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does the son say “mate” to his father?",
       "choices": [
         {
@@ -22447,6 +24169,8 @@ export const interactiveQuestions = {
       "number": 861,
       "groupId": "group-859-865",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does Mr. White’s wife ignore her husband’s sudden\n    complaint about living so far out of the way and instead say, “Never\n    mind, dear, … perhaps you’ll win the next one”?",
       "choices": [
         {
@@ -22475,6 +24199,8 @@ export const interactiveQuestions = {
       "number": 862,
       "groupId": "group-859-865",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Where has Sergeant-Major Morris been living for the past twenty\n     years?",
       "choices": [
         {
@@ -22503,6 +24229,8 @@ export const interactiveQuestions = {
       "number": 863,
       "groupId": "group-859-865",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Mr. White expresses interest in seeing all of the following exotic\n     attractions EXCEPT",
       "choices": [
         {
@@ -22531,6 +24259,8 @@ export const interactiveQuestions = {
       "number": 864,
       "groupId": "group-859-865",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what is special about the monkey’s paw?",
       "choices": [
         {
@@ -22559,6 +24289,8 @@ export const interactiveQuestions = {
       "number": 865,
       "groupId": "group-859-865",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what was the old fakir’s purpose when\n     he placed the enchantment on the monkey’s paw?",
       "choices": [
         {
@@ -22587,6 +24319,8 @@ export const interactiveQuestions = {
       "number": 866,
       "groupId": "group-866-873",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does the author appear to misspell the words spoken by the\n   boy when he says phrases like “It’s a-movin’” and “I’m a-goin’\n   ’ome, I am”?",
       "choices": [
         {
@@ -22615,6 +24349,8 @@ export const interactiveQuestions = {
       "number": 867,
       "groupId": "group-866-873",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In the scene, who appears to be in a position of authority?",
       "choices": [
         {
@@ -22643,6 +24379,8 @@ export const interactiveQuestions = {
       "number": 868,
       "groupId": "group-866-873",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "As the occupants of the cylinder begin to emerge, the mood of the\n   spectators changes swiftly from",
       "choices": [
         {
@@ -22671,6 +24409,8 @@ export const interactiveQuestions = {
       "number": 869,
       "groupId": "group-866-873",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How does the crowd know that the cylinder has someone or\n   something alive inside of it?",
       "choices": [
         {
@@ -22699,6 +24439,8 @@ export const interactiveQuestions = {
       "number": 870,
       "groupId": "group-866-873",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What does the crowd expect to see emerging from the cylinder?",
       "choices": [
         {
@@ -22727,6 +24469,8 @@ export const interactiveQuestions = {
       "number": 871,
       "groupId": "group-866-873",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What feature of the alien’s appearance does the narrator find most\n     disturbing?",
       "choices": [
         {
@@ -22755,6 +24499,8 @@ export const interactiveQuestions = {
       "number": 872,
       "groupId": "group-866-873",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Where did the cylinder apparently come from?",
       "choices": [
         {
@@ -22783,6 +24529,8 @@ export const interactiveQuestions = {
       "number": 873,
       "groupId": "group-866-873",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following scenarios is LEAST likely to happen in the\n     next part of the story?",
       "choices": [
         {
@@ -22811,6 +24559,8 @@ export const interactiveQuestions = {
       "number": 874,
       "groupId": "group-874-880",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -22839,6 +24589,8 @@ export const interactiveQuestions = {
       "number": 875,
       "groupId": "group-874-880",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -22867,6 +24619,8 @@ export const interactiveQuestions = {
       "number": 876,
       "groupId": "group-874-880",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -22895,6 +24649,8 @@ export const interactiveQuestions = {
       "number": 877,
       "groupId": "group-874-880",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -22923,6 +24679,8 @@ export const interactiveQuestions = {
       "number": 878,
       "groupId": "group-874-880",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -22951,6 +24709,8 @@ export const interactiveQuestions = {
       "number": 879,
       "groupId": "group-874-880",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -22979,6 +24739,8 @@ export const interactiveQuestions = {
       "number": 880,
       "groupId": "group-874-880",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -23007,6 +24769,8 @@ export const interactiveQuestions = {
       "number": 881,
       "groupId": "group-881-888",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The passage says that all of the following factors affect your\n   choice of healthful foods EXCEPT",
       "choices": [
         {
@@ -23035,6 +24799,8 @@ export const interactiveQuestions = {
       "number": 882,
       "groupId": "group-881-888",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, nutrition is described as all of the\n   following EXCEPT",
       "choices": [
         {
@@ -23063,6 +24829,8 @@ export const interactiveQuestions = {
       "number": 883,
       "groupId": "group-881-888",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, all of the following are nutrients\n   EXCEPT",
       "choices": [
         {
@@ -23091,6 +24859,8 @@ export const interactiveQuestions = {
       "number": 884,
       "groupId": "group-881-888",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fill in the blanks to correctly complete the sentence:\n    __________ is defined as the ability to do work. __________ is the\n    fuel on which your body runs.",
       "choices": [],
       "correctLabel": null,
@@ -23102,6 +24872,8 @@ export const interactiveQuestions = {
       "number": 885,
       "groupId": "group-881-888",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what is produced when food is\n   metabolized in the body?",
       "choices": [
         {
@@ -23130,6 +24902,8 @@ export const interactiveQuestions = {
       "number": 886,
       "groupId": "group-881-888",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, essential nutrients for the human body\n     include",
       "choices": [
         {
@@ -23158,6 +24932,8 @@ export const interactiveQuestions = {
       "number": 887,
       "groupId": "group-881-888",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what is the author’s opinion regarding\n     food processing?",
       "choices": [
         {
@@ -23186,6 +24962,8 @@ export const interactiveQuestions = {
       "number": 888,
       "groupId": "group-881-888",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the best meaning of the word degrade as used in the\n     sentence fragment: “Or for the guys who invented the refrigeration\n     and freezing techniques that slow food’s natural tendency to\n     degrade”?",
       "choices": [
         {
@@ -23214,6 +24992,8 @@ export const interactiveQuestions = {
       "number": 889,
       "groupId": "group-889-896",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the initial paragraph of the passage, what two\n    advantages will additive manufacturing have over traditional\n    manufacturing methods?",
       "choices": [
         {
@@ -23242,6 +25022,8 @@ export const interactiveQuestions = {
       "number": 890,
       "groupId": "group-889-896",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why do the authors compare the advent of additive manufacturing\n    to the changes that brought about the Industrial Age?",
       "choices": [
         {
@@ -23270,6 +25052,8 @@ export const interactiveQuestions = {
       "number": 891,
       "groupId": "group-889-896",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why do the authors warn that the revolution brought about by this\n   new technology “will not be a ‘bloodless coup’”?",
       "choices": [
         {
@@ -23298,6 +25082,8 @@ export const interactiveQuestions = {
       "number": 892,
       "groupId": "group-889-896",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, 3D printers are",
       "choices": [
         {
@@ -23326,6 +25112,8 @@ export const interactiveQuestions = {
       "number": 893,
       "groupId": "group-889-896",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why do the authors compare 3D printers to the “replicators” in\n   Star Trek?",
       "choices": [
         {
@@ -23354,6 +25142,8 @@ export const interactiveQuestions = {
       "number": 894,
       "groupId": "group-889-896",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Who was Johannes Gutenberg?",
       "choices": [
         {
@@ -23382,6 +25172,8 @@ export const interactiveQuestions = {
       "number": 895,
       "groupId": "group-889-896",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, which of the following is a true\n     statement?",
       "choices": [
         {
@@ -23410,6 +25202,8 @@ export const interactiveQuestions = {
       "number": 896,
       "groupId": "group-889-896",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why do the authors end the excerpt with the sentence “It’s hard to\n     imagine what Johannes Gutenberg would have made of that”?",
       "choices": [
         {
@@ -23438,6 +25232,8 @@ export const interactiveQuestions = {
       "number": 897,
       "groupId": "group-897-904",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The authors suggest that learning more information about wine",
       "choices": [
         {
@@ -23466,6 +25262,8 @@ export const interactiveQuestions = {
       "number": 898,
       "groupId": "group-897-904",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, when yeasts are placed in grape juice,\n    they produce all of the following EXCEPT",
       "choices": [
         {
@@ -23494,6 +25292,8 @@ export const interactiveQuestions = {
       "number": 899,
       "groupId": "group-897-904",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, fermentation occurs naturally in",
       "choices": [
         {
@@ -23522,6 +25322,8 @@ export const interactiveQuestions = {
       "number": 900,
       "groupId": "group-897-904",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Who was Louis Pasteur?",
       "choices": [
         {
@@ -23550,6 +25352,8 @@ export const interactiveQuestions = {
       "number": 901,
       "groupId": "group-897-904",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why do the authors say, “Well, we don’t think it could have been\n   much of an Eden without wine!”?",
       "choices": [
         {
@@ -23578,6 +25382,8 @@ export const interactiveQuestions = {
       "number": 902,
       "groupId": "group-897-904",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, after all the ingredients have been\n   collected and prepared, winemakers can still control the taste of the\n   wine produced during the fermentation process by selecting all of\n   the following factors EXCEPT",
       "choices": [
         {
@@ -23606,6 +25412,8 @@ export const interactiveQuestions = {
       "number": 903,
       "groupId": "group-897-904",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, how do winemakers affect the flavor of\n   the wine after the fermentation process is complete?",
       "choices": [
         {
@@ -23634,6 +25442,8 @@ export const interactiveQuestions = {
       "number": 904,
       "groupId": "group-897-904",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What determines whether a particular wine is considered a\n     Chardonnay, a Cabernet Sauvignon, or a Merlot?",
       "choices": [
         {
@@ -23662,6 +25472,8 @@ export const interactiveQuestions = {
       "number": 905,
       "groupId": "group-905-912",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the information in the passage, which of the following is\n    a true statement?",
       "choices": [
         {
@@ -23690,6 +25502,8 @@ export const interactiveQuestions = {
       "number": 906,
       "groupId": "group-905-912",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what is an iconic or natural sign?",
       "choices": [
         {
@@ -23718,6 +25532,8 @@ export const interactiveQuestions = {
       "number": 907,
       "groupId": "group-905-912",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "If you are having trouble understanding someone’s signs, which of\n   the following actions would be unacceptable?",
       "choices": [
         {
@@ -23746,6 +25562,8 @@ export const interactiveQuestions = {
       "number": 908,
       "groupId": "group-905-912",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what is ASL?",
       "choices": [
         {
@@ -23774,6 +25592,8 @@ export const interactiveQuestions = {
       "number": 909,
       "groupId": "group-905-912",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the information in the passage, which of the following is\n   a true statement?",
       "choices": [
         {
@@ -23802,6 +25622,8 @@ export const interactiveQuestions = {
       "number": 910,
       "groupId": "group-905-912",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the information in the passage, what is fingerspelling?",
       "choices": [
         {
@@ -23830,6 +25652,8 @@ export const interactiveQuestions = {
       "number": 911,
       "groupId": "group-905-912",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what should you do if you want to\n     fingerspell more than one word?",
       "choices": [
         {
@@ -23858,6 +25682,8 @@ export const interactiveQuestions = {
       "number": 912,
       "groupId": "group-905-912",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, why would a person with perfectly good\n     hearing bother to learn how to sign?",
       "choices": [
         {
@@ -23886,6 +25712,8 @@ export const interactiveQuestions = {
       "number": 913,
       "groupId": "group-913-920",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the author’s tone in the first poem?",
       "choices": [
         {
@@ -23914,6 +25742,8 @@ export const interactiveQuestions = {
       "number": 914,
       "groupId": "group-913-920",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following best summarizes the main theme that both\n    poems share?",
       "choices": [
         {
@@ -23942,6 +25772,8 @@ export const interactiveQuestions = {
       "number": 915,
       "groupId": "group-913-920",
       "section": "Reasoning Through Language Arts",
+      "topic": "Language and Vocabulary",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The phrase “These boys with old, scared faces, learning to walk”\n   could mean all of the following EXCEPT",
       "choices": [
         {
@@ -23970,6 +25802,8 @@ export const interactiveQuestions = {
       "number": 916,
       "groupId": "group-913-920",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the most likely reason that the author included the fact that\n   he had written the first poem in a hospital?",
       "choices": [
         {
@@ -23998,6 +25832,8 @@ export const interactiveQuestions = {
       "number": 917,
       "groupId": "group-913-920",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "In the second poem, what is the author’s attitude toward the\n   supporters of the war?",
       "choices": [
         {
@@ -24026,6 +25862,8 @@ export const interactiveQuestions = {
       "number": 918,
       "groupId": "group-913-920",
       "section": "Reasoning Through Language Arts",
+      "topic": "Language and Vocabulary",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "At the end of the first poem, what does the phrase “Men who went\n    out to battle, grim and glad; Children, with eyes that hate you,\n    broken and mad” mean?",
       "choices": [
         {
@@ -24054,6 +25892,8 @@ export const interactiveQuestions = {
       "number": 919,
       "groupId": "group-913-920",
       "section": "Reasoning Through Language Arts",
+      "topic": "Language and Vocabulary",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the “hell” that is referred to in the phrase “The hell where\n     youth and laughter go”?",
       "choices": [
         {
@@ -24082,6 +25922,8 @@ export const interactiveQuestions = {
       "number": 920,
       "groupId": "group-913-920",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What would the author’s opinion be about people who organize a\n     parade titled “Our brave soldiers’ return from the war”?",
       "choices": [
         {
@@ -24110,6 +25952,8 @@ export const interactiveQuestions = {
       "number": 921,
       "groupId": "group-921-928",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, all of the following are reasons many\n    potential writers never achieve their dream of getting a children’s\n    book published EXCEPT",
       "choices": [
         {
@@ -24138,6 +25982,8 @@ export const interactiveQuestions = {
       "number": 922,
       "groupId": "group-921-928",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what should you do if your idea for a\n    children’s story is rejected?",
       "choices": [
         {
@@ -24166,6 +26012,8 @@ export const interactiveQuestions = {
       "number": 923,
       "groupId": "group-921-928",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the first thing you should do after deciding to write a\n   children’s book?",
       "choices": [
         {
@@ -24194,6 +26042,8 @@ export const interactiveQuestions = {
       "number": 924,
       "groupId": "group-921-928",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the information in the passage, fill in the blanks to\n    correctly complete the sentence:\n    Formats involve the __________ characteristics of a book,\n    including page count, __________ (width and height), and the cover\n    type (__________).",
       "choices": [],
       "correctLabel": null,
@@ -24205,6 +26055,8 @@ export const interactiveQuestions = {
       "number": 925,
       "groupId": "group-921-928",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the best way to prevent your other responsibilities from\n   intruding upon your writing time?",
       "choices": [
         {
@@ -24233,6 +26085,8 @@ export const interactiveQuestions = {
       "number": 926,
       "groupId": "group-921-928",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is writer’s block?",
       "choices": [
         {
@@ -24261,6 +26115,8 @@ export const interactiveQuestions = {
       "number": 927,
       "groupId": "group-921-928",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Once you have a good idea for your children’s story, what should\n     you do next?",
       "choices": [
         {
@@ -24289,6 +26145,8 @@ export const interactiveQuestions = {
       "number": 928,
       "groupId": "group-921-928",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the author’s tone throughout the passage?",
       "choices": [
         {
@@ -24317,6 +26175,8 @@ export const interactiveQuestions = {
       "number": 929,
       "groupId": "group-929-937",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the opening paragraph, what strange custom does the\n    king have?",
       "choices": [
         {
@@ -24345,6 +26205,8 @@ export const interactiveQuestions = {
       "number": 930,
       "groupId": "group-929-937",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does the trusted servant take the dish to his own room instead\n    of bringing it directly to the king?",
       "choices": [
         {
@@ -24373,6 +26235,8 @@ export const interactiveQuestions = {
       "number": 931,
       "groupId": "group-929-937",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What happens as soon as the servant tries the snake?",
       "choices": [
         {
@@ -24401,6 +26265,8 @@ export const interactiveQuestions = {
       "number": 932,
       "groupId": "group-929-937",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "When the queen’s ring goes missing, why does suspicion of the\n   theft fall on the trusted servant?",
       "choices": [
         {
@@ -24429,6 +26295,8 @@ export const interactiveQuestions = {
       "number": 933,
       "groupId": "group-929-937",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How does the servant learn the whereabouts of the queen’s ring?",
       "choices": [
         {
@@ -24457,6 +26325,8 @@ export const interactiveQuestions = {
       "number": 934,
       "groupId": "group-929-937",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "How does the servant manage to reveal the location of the ring\n   inside the duck without revealing his secret ability?",
       "choices": [
         {
@@ -24485,6 +26355,8 @@ export const interactiveQuestions = {
       "number": 935,
       "groupId": "group-929-937",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What reward does the servant ask for from the king in return for\n   finding the ring?",
       "choices": [
         {
@@ -24513,6 +26385,8 @@ export const interactiveQuestions = {
       "number": 936,
       "groupId": "group-929-937",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What does the servant do when he encounters some fish one day\n   while on his travels?",
       "choices": [
         {
@@ -24541,6 +26415,8 @@ export const interactiveQuestions = {
       "number": 937,
       "groupId": "group-929-937",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is likely to be the moral of the story?",
       "choices": [
         {
@@ -24569,6 +26445,8 @@ export const interactiveQuestions = {
       "number": 938,
       "groupId": "group-938-945",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The best title for this passage is",
       "choices": [
         {
@@ -24597,6 +26475,8 @@ export const interactiveQuestions = {
       "number": 939,
       "groupId": "group-938-945",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, “flying diatoms” are",
       "choices": [
         {
@@ -24625,6 +26505,8 @@ export const interactiveQuestions = {
       "number": 940,
       "groupId": "group-938-945",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, why does professor Ram compare\n   diatoms to Frisbees?",
       "choices": [
         {
@@ -24653,6 +26535,8 @@ export const interactiveQuestions = {
       "number": 941,
       "groupId": "group-938-945",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Scientists who study diatoms are seeking the answers to all the\n   following puzzles EXCEPT",
       "choices": [
         {
@@ -24681,6 +26565,8 @@ export const interactiveQuestions = {
       "number": 942,
       "groupId": "group-938-945",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "As it is used in the context of the passage, the word teasing means",
       "choices": [
         {
@@ -24709,6 +26595,8 @@ export const interactiveQuestions = {
       "number": 943,
       "groupId": "group-938-945",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what unusual feature of diatoms stands\n     out when they are viewed under a microscope?",
       "choices": [
         {
@@ -24737,6 +26625,8 @@ export const interactiveQuestions = {
       "number": 944,
       "groupId": "group-938-945",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the information in the passage, fill in the blanks to\n      correctly complete the sentence:\n      The ideal source of diatom dust is a __________ that shrinks in the\n      dry season, exposing the __________ at its edges to the wind.",
       "choices": [],
       "correctLabel": null,
@@ -24748,6 +26638,8 @@ export const interactiveQuestions = {
       "number": 945,
       "groupId": "group-938-945",
       "section": "Reasoning Through Language Arts",
+      "topic": "Reading for Meaning",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does the author, Hannah Holmes, mention the gopher\n     tortoise?",
       "choices": [
         {
@@ -24776,6 +26668,8 @@ export const interactiveQuestions = {
       "number": 946,
       "groupId": "group-946-955",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -24804,6 +26698,8 @@ export const interactiveQuestions = {
       "number": 947,
       "groupId": "group-946-955",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -24832,6 +26728,8 @@ export const interactiveQuestions = {
       "number": 948,
       "groupId": "group-946-955",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -24860,6 +26758,8 @@ export const interactiveQuestions = {
       "number": 949,
       "groupId": "group-946-955",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -24888,6 +26788,8 @@ export const interactiveQuestions = {
       "number": 950,
       "groupId": "group-946-955",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -24916,6 +26818,8 @@ export const interactiveQuestions = {
       "number": 951,
       "groupId": "group-946-955",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best completion of the sentence from among the given\n   choices.",
       "choices": [
         {
@@ -24944,6 +26848,8 @@ export const interactiveQuestions = {
       "number": 952,
       "groupId": "group-946-955",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -24972,6 +26878,8 @@ export const interactiveQuestions = {
       "number": 953,
       "groupId": "group-946-955",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -25000,6 +26908,8 @@ export const interactiveQuestions = {
       "number": 954,
       "groupId": "group-946-955",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -25028,6 +26938,8 @@ export const interactiveQuestions = {
       "number": 955,
       "groupId": "group-946-955",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best completion of the sentence from among the given\n     choices.",
       "choices": [
         {
@@ -25056,6 +26968,8 @@ export const interactiveQuestions = {
       "number": 956,
       "groupId": "group-956-964",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best completion of the sentence from among the given\n    choices.",
       "choices": [
         {
@@ -25084,6 +26998,8 @@ export const interactiveQuestions = {
       "number": 957,
       "groupId": "group-956-964",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -25112,6 +27028,8 @@ export const interactiveQuestions = {
       "number": 958,
       "groupId": "group-956-964",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -25140,6 +27058,8 @@ export const interactiveQuestions = {
       "number": 959,
       "groupId": "group-956-964",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -25168,6 +27088,8 @@ export const interactiveQuestions = {
       "number": 960,
       "groupId": "group-956-964",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best completion of a sentence from among the given\n   choices.",
       "choices": [
         {
@@ -25196,6 +27118,8 @@ export const interactiveQuestions = {
       "number": 961,
       "groupId": "group-956-964",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -25224,6 +27148,8 @@ export const interactiveQuestions = {
       "number": 962,
       "groupId": "group-956-964",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -25252,6 +27178,8 @@ export const interactiveQuestions = {
       "number": 963,
       "groupId": "group-956-964",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -25280,6 +27208,8 @@ export const interactiveQuestions = {
       "number": 964,
       "groupId": "group-956-964",
       "section": "Reasoning Through Language Arts",
+      "topic": "Grammar and Mechanics",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Select the best sentence from among the given choices.",
       "choices": [
         {
@@ -25308,6 +27238,8 @@ export const interactiveQuestions = {
       "number": 965,
       "groupId": "group-965-972",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the best meaning of the phrase lording it over as it is used\n    in this sentence: “They are a branch of the great Appalachian family,\n    and are seen away to the west of the river, swelling up to a noble\n    height, and lording it over the surrounding country”?",
       "choices": [
         {
@@ -25336,6 +27268,8 @@ export const interactiveQuestions = {
       "number": 966,
       "groupId": "group-965-972",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the name of the village in which Rip lives?",
       "choices": [
         {
@@ -25364,6 +27298,8 @@ export const interactiveQuestions = {
       "number": 967,
       "groupId": "group-965-972",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the best meaning of the word henpecked as it is used in\n   this sentence: “This, however, always provoked a fresh volley from\n   his wife; so that he was fain to draw off his forces, and take to the\n   outside of the house — the only side which, in truth, belongs to a\n   henpecked husband”?",
       "choices": [
         {
@@ -25392,6 +27328,8 @@ export const interactiveQuestions = {
       "number": 968,
       "groupId": "group-965-972",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Whom do the housewives of the village usually blame when Rip\n   and his family get into an argument with each other?",
       "choices": [
         {
@@ -25420,6 +27358,8 @@ export const interactiveQuestions = {
       "number": 969,
       "groupId": "group-965-972",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following best describes the pants that Rip’s son\n   usually wears?",
       "choices": [
         {
@@ -25448,6 +27388,8 @@ export const interactiveQuestions = {
       "number": 970,
       "groupId": "group-965-972",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is Rip’s main character flaw?",
       "choices": [
         {
@@ -25476,6 +27418,8 @@ export const interactiveQuestions = {
       "number": 971,
       "groupId": "group-965-972",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following best describe Rip’s character?",
       "choices": [
         {
@@ -25504,6 +27448,8 @@ export const interactiveQuestions = {
       "number": 972,
       "groupId": "group-965-972",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Which of the following phrases best sums up Rip’s attitude toward\n     life?",
       "choices": [
         {
@@ -25532,6 +27478,8 @@ export const interactiveQuestions = {
       "number": 973,
       "groupId": "group-973-980",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the meaning of the phrase “high position of the victim” as\n    it’s used in the passage?",
       "choices": [
         {
@@ -25560,6 +27508,8 @@ export const interactiveQuestions = {
       "number": 974,
       "groupId": "group-973-980",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "At approximately what time did the murder take place?",
       "choices": [
         {
@@ -25588,6 +27538,8 @@ export const interactiveQuestions = {
       "number": 975,
       "groupId": "group-973-980",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What was the murder victim’s name?",
       "choices": [
         {
@@ -25616,6 +27568,8 @@ export const interactiveQuestions = {
       "number": 976,
       "groupId": "group-973-980",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What can you infer based on the fact that the victim’s purse and\n   gold watch were found on the body?",
       "choices": [
         {
@@ -25644,6 +27598,8 @@ export const interactiveQuestions = {
       "number": 977,
       "groupId": "group-973-980",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What connection does Mr. Utterson have to the murder weapon?",
       "choices": [
         {
@@ -25672,6 +27628,8 @@ export const interactiveQuestions = {
       "number": 978,
       "groupId": "group-973-980",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Mr. Hyde is described as all the following EXCEPT",
       "choices": [
         {
@@ -25700,6 +27658,8 @@ export const interactiveQuestions = {
       "number": 979,
       "groupId": "group-973-980",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does the officer’s eye light up “with professional ambition”\n     when he discovers the identity of the murder victim?",
       "choices": [
         {
@@ -25728,6 +27688,8 @@ export const interactiveQuestions = {
       "number": 980,
       "groupId": "group-973-980",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does the maid initially pay more attention to the older\n     gentleman in the alley?",
       "choices": [
         {
@@ -25756,6 +27718,8 @@ export const interactiveQuestions = {
       "number": 981,
       "groupId": "group-981-988",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Before the days of refrigerators, people preserved foods by each of\n    the following methods EXCEPT",
       "choices": [
         {
@@ -25784,6 +27748,8 @@ export const interactiveQuestions = {
       "number": 982,
       "groupId": "group-981-988",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the authors’ opinion regarding bacteria, molds, and yeasts?",
       "choices": [
         {
@@ -25812,6 +27778,8 @@ export const interactiveQuestions = {
       "number": 983,
       "groupId": "group-981-988",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Fermentation is a __________ way to preserve your food.",
       "choices": [
         {
@@ -25840,6 +27808,8 @@ export const interactiveQuestions = {
       "number": 984,
       "groupId": "group-981-988",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, fermented foods include all of the\n    following EXCEPT",
       "choices": [
         {
@@ -25868,6 +27838,8 @@ export const interactiveQuestions = {
       "number": 985,
       "groupId": "group-981-988",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, what is anaerobic fermentation?",
       "choices": [
         {
@@ -25896,6 +27868,8 @@ export const interactiveQuestions = {
       "number": 986,
       "groupId": "group-981-988",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, why is it important to control the\n   conditions of fermentation?",
       "choices": [
         {
@@ -25924,6 +27898,8 @@ export const interactiveQuestions = {
       "number": 987,
       "groupId": "group-981-988",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, controlling mold and promoting good\n   bacteria produces all of the following advantages to the finished\n   product EXCEPT",
       "choices": [
         {
@@ -25952,6 +27928,8 @@ export const interactiveQuestions = {
       "number": 988,
       "groupId": "group-981-988",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, fermentation has each of the following\n   benefits EXCEPT",
       "choices": [
         {
@@ -25980,6 +27958,8 @@ export const interactiveQuestions = {
       "number": 989,
       "groupId": "group-989-998",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What appears to have happened to Gregor Samsa during the\n    previous night?",
       "choices": [
         {
@@ -26008,6 +27988,8 @@ export const interactiveQuestions = {
       "number": 990,
       "groupId": "group-989-998",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Based on the information in the passage, which of the following is\n    a true statement?",
       "choices": [
         {
@@ -26036,6 +28018,8 @@ export const interactiveQuestions = {
       "number": 991,
       "groupId": "group-989-998",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the most likely reason that Gregor Samsa has the picture\n    of the lady in his room?",
       "choices": [
         {
@@ -26064,6 +28048,8 @@ export const interactiveQuestions = {
       "number": 992,
       "groupId": "group-989-998",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does Gregor Samsa close his eyes while trying to get off the\n    bed?",
       "choices": [
         {
@@ -26092,6 +28078,8 @@ export const interactiveQuestions = {
       "number": 993,
       "groupId": "group-989-998",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "According to the passage, all of the following are part of the curse\n   of traveling EXCEPT",
       "choices": [
         {
@@ -26120,6 +28108,8 @@ export const interactiveQuestions = {
       "number": 994,
       "groupId": "group-989-998",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "What is the most likely reason that Gregor’s boss likes sitting on\n   top of his desk rather than using a chair?",
       "choices": [
         {
@@ -26148,6 +28138,8 @@ export const interactiveQuestions = {
       "number": 995,
       "groupId": "group-989-998",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why does Gregor not give a full explanation of his situation to his\n   mother when she comes to his door to wake him up?",
       "choices": [
         {
@@ -26176,6 +28168,8 @@ export const interactiveQuestions = {
       "number": 996,
       "groupId": "group-989-998",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "All of the following factors add to the overall feeling of despair\n   that Gregor is experiencing EXCEPT",
       "choices": [
         {
@@ -26204,6 +28198,8 @@ export const interactiveQuestions = {
       "number": 997,
       "groupId": "group-989-998",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "Why doesn’t Gregor quit his job?",
       "choices": [
         {
@@ -26232,6 +28228,8 @@ export const interactiveQuestions = {
       "number": 998,
       "groupId": "group-989-998",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "As used in the passage, what is the best meaning of the word\n     subordinates?",
       "choices": [
         {
@@ -26260,6 +28258,8 @@ export const interactiveQuestions = {
       "number": 999,
       "groupId": "group-standalone-999",
       "section": "Reasoning Through Language Arts",
+      "topic": "Essay Writing",
+      "reference": "1,001 GED Practice Questions For Dummies",
       "prompt": "The minimum age required to apply for a driver’s license varies\n      from state to state. Although most states require drivers to be 16 or\n      17, in some states like Alaska, 14-year-olds can apply for their\n      learner’s permit. Some safety experts and politicians have proposed\n      raising the minimum driving age to 18. The following articles\n      present arguments both in favor of and against raising the minimum\n      driving age. In your response, analyze both positions presented in\n      the two articles and explain which one is best supported. Incorporate\n      relevant and specific evidence from both sources to support your\n      response.\n\n Passage 1\n\nWatching your child get behind the wheel for the first time when you\ndon’t yet trust him to clean up his own room can be a scary moment for\nany parent. Scientific evidence shows that the brain of an average teen\noperates very differently from that of an average adult and that younger\nteens often make careless decisions that can put their own lives and the\nlives of others in danger. The typical teenager’s mind is easily distracted;\ntexting while driving, chatting with friends who are passengers, and\nspeeding to impress their peers are all examples of dangerous behaviors\nthat the typical teen is more likely to engage in while driving.\nSmartphones and other similar technological distractions appear to be\nmuch more important to younger teenagers. A sudden phone call from a\nbest friend (or a crush) seems much more important to them than paying\nattention to the road. By the age of 18, however, there has been an\nadjustment in the teenager’s brain that makes this technology appear not\nso important.\nDrinking and driving is a problem at all ages, but it is more so for\nyounger teens. Younger teenagers have a particularly low tolerance for\nalcohol, which can lead to devastating results once they get behind the\nwheel. The average 16-year-old is simply not mature enough to make\nresponsible decisions — so why take the risk?\nYounger teens are also not experienced enough to be trusted to handle\nthe multitude of potentially life-or-death decisions that driving requires.\nThis problem is compounded by the average teenager’s ‘need for speed.’\nWhether they are speeding to impress their friends or simply for the\ncheap thrill it gives them, teenagers pose a significant risk to their own\nsafety and the safety of others.\nKeeping teenagers safe is the number one argument for raising the\nminimum driving age. Data provided by the Insurance Institute for\nHighway Safety show that twice as many fatal crashes involve 16- to 17-\nyear-olds than 18- to 19-year-olds, so it simply makes sense to raise the\nminimum driving age.\n\nPassage 2\n\nRecently, some politicians have proposed raising the minimum driving\nage to 18 years old in order to reduce the number of fatalities each year\ndue to teen-related driving accidents. They often cite the age of young\nteen drivers as the leading cause of road accidents and suggest that\nsimply by raising the minimum driving age, the problem will be\nresolved. Although the motives of these politicians may be noble, they\nhave actually misunderstood the root of the problem, and the solution\nthey propose may actually make things worse.\nIt is not the age of the driver that matters — it is the driver’s experience\nthat counts.\nNo matter at what age a teenager first begins to drive, he or she begins\nwith zero driving experience. An 18-year-old who is a new driver has\njust as little experience behind the wheel as a 16-year-old novice. Data\nfrom the Insurance Institute for Highway Safety backs this up by\nshowing that raising the driving age does not actually prevent teen driver\ncrashes — it just delays them. According to their statistics, the death rate\ndue to driving accidents in Connecticut (where the driving age is 16) is\nthe highest among 16-year-olds, but in New Jersey (where the minimum\nlicensing age is 17), it is the highest among 17-year-olds. So it is not the\nage of the driver that matters — it is the inexperience of the driver that\nleads to some accidents.\nKate Willette of Seattle's SWERVE Driving School agrees. “It’s careful\nand extensive training, more than age, that prepares teenagers to be safe\ndrivers,” she argues.\nAlso, raising the minimum driving age to 18 would prevent many\nteenagers from getting the proper driving training they need to become\nsafe, reliable drivers. Many high schools offer driver's education classes,\nand many relatives who are experienced drivers are happy to give their\nson or daughter driving lessons on the weekends. But if a teenager\ncannot legally start learning to drive until the age when he or she may\nhave already left home, there may not be anyone nearby to teach him or\nher to drive safely.\n\nBecause inexperience (rather than age) appears to be the main cause of\nmany accidents, then raising the driving age to 18 or 30 or even 50 won’t\nhelp. Teens have to get their driving experience somehow, and the only\nplace they can do that is behind the wheel.\n1,000. The following articles present arguments both in favor of and\n     against enforcing school uniforms for all students. In your\n     response, analyze both positions presented in the two articles and\n     explain which one is best supported. Incorporate relevant and\n     specific evidence from both sources to support your response.\n\nPassage 1\nThere are many reasons why enforcing school uniforms for all students\nis the correct thing to do. First, students’ behavior improves, and they\ntend to perform better academically when they wear a uniform. Second,\nnot having to make clothing decisions makes mornings easier for both\nthe child and the parent. Third, it enforces controls on acceptable school\nattire and reduces bullying for those children who cannot afford the\nlatest expensive sneakers or other fashionable clothes.\nEducators and experts who support school uniforms agree that uniforms\ncontribute positively to the behavior of students and that they perform\nbetter when there is less of a focus on fashion in the classroom and more\non learning. A recent study by Virginia Draa, an assistant professor at\nYoungstown State University, followed 64 schools in Ohio and\nconcluded that those schools with uniform policies had improved\nrecords in attendance, graduation, and suspension rates. Uniforms make\nstudents feel more professional and give them a sense of school pride,\nwhich encourages them to behave accordingly.\nWhen students know exactly what they have to wear each day for\nschool, mornings become much easier because there is no debate on\nwhat clothes the students want to wear to school. Things like modesty\nissues are no longer a problem, and the problems of offensive t-shirts\nand gang colors are eliminated. In addition, teachers are spared the extra\ntask of having to monitor their students’ attire and send home offenders\nwhen a school uniform policy is in place.\n\nExperts who support the school uniform policy also believe that wearing\nuniforms decreased bullying and teasing related to clothes. This opinion\nappears to be supported by experience — for example, a school district\nin North Jersey recently reported that implementing school uniforms has\ndirectly reduced bullying. After all, not everyone can afford the latest\nfashion accessories, and clothes can be used as a powerful weapon to\ntease and intimidate poor students. School uniforms even the playing\nfield because everyone is dressed the same. This allows students to focus\non developing their personality rather than their sense of fashion.\nToday’s students already have too many distractions, so doesn’t it make\nsense to remove yet another one by enforcing a strict school uniform\npolicy in all schools that helps students focus on their studies, reduces\nundesirable behavior, and fosters a sense of pride and belonging in their\nschool?\n\nPassage 2\nSome people think that all students should be forced to wear school\nuniforms — but they are idiots who don’t know what they are talking\nabout. Forcing people to wear school uniforms is immoral, makes them\noblivious to the latest fashion trends, and makes everyone look and act\nlike little robots.\nFirst of all, forcing students to wear school uniforms is immoral since it\nrestricts the student’s right to free expression and goes against the idea of\na free society. I thought we lived in America — not communist Russia!\nWhat gives a school administrator (who probably earns less in one year\nthan what I spend on clothes in a month) the right to force his stupid\nideas of what clothing is appropriate on me and everyone else? If\nstudents should have to wear uniforms, then it only makes sense that the\nteachers should be forced to wear them too. Let’s see how they like\nbeing told what to wear!\nAnd have you seen the state of most school uniforms? To say that they\nare ugly would be a major understatement. I wouldn’t be seen dead\nwearing a below-the-knee length pleated skirt and buckled shoes —\nyuck! Get a grip, people! Not only are school uniforms as ugly as sin,\n\nbut they also make everyone look the same. How am I supposed to judge\nwhether a new girl in my class is worthy of my company if I can’t\nimmediately dismiss her based on her lack of fashion sense (or her lack\nof ability to afford designer clothes)? What’s the point of being able to\nafford the latest Mui Mui shoes and Gucci tops if I can’t flaunt them in\nfront of everyone at school each day?\nIn conclusion, imposing school uniforms on students is immoral, stupid,\nand should obviously be illegal!\n1,001. In your response, analyze the relationship between Passage 2 and\n     the enduring truth expressed in the quotation from Justice Harlan in\n     Passage 1. How well does Passage 2 relate Justice Harlan’s\n     statement to the ideas of affirmative action? Incorporate relevant\n     and specific evidence from the quotation and the passage, as well\n     as your knowledge of affirmative action, to support your analysis.\n\nPassage 1\nQuotation: “Our Constitution is color-blind, and neither knows nor\ntolerates classes among citizens. In respect of civil rights, all citizens are\nequal before the law. The humblest is the peer of the most powerful.” —\nJohn Marshall Harlan, Supreme Court Justice, 1896\n\nPassage 2\nAffirmative action in the United States arose from the effort to\nameliorate the disparate access of historically disadvantaged groups to\nemployment and educational opportunities.\nWith its inception in governmental executive orders, affirmative action\nmeant only positive action designed to remedy the present effects of past\ndiscrimination.\nThe earliest use of the modern-day term affirmative action can be found\nin Executive Order 10925 initiated by President John F. Kennedy. It\nspecifically refers to nondiscrimination in the employment processes of\nfederal contractors: The contractor will take affirmative action to ensure\n\nthat applicants are employed, and that employees are treated during\nemployment, without regard to their race, creed, color, or national origin.\nSimilarly, the Civil Rights Act of 1964 contains the following reference\nto affirmative action: In administering a program regarding which the\nrecipient [of federal funding] has previously discriminated against\npersons on the ground of race, color, or national origin, the recipient\nmust take affirmative action to overcome the effects of prior\ndiscrimination.\nBroadly conceived, affirmative action can be understood as positive\naction through programs initiated by governmental entities that benefit\ncertain groups. Harvard legal scholar Randall Kennedy defines\naffirmative action as “policies that offer individuals deemed to be\naffiliated with a beneficiary group a preference over others in\ncompetitions for employment, education, or other valued resources.”\nThe courts, bureaucracy, and the legislature have all been involved in\ninterpreting affirmative action.\nWe examine the decisive turning point in judicial thought that moved\nfrom remedial, disparate-impact affirmative action designed to address a\nlegal wrong to a singular, nonremedial rationale based on the educational\nbenefits of diversity as a “compelling state interest.”\nWe further highlight the Supreme Court’s interpretive shift in relation to\nthe Equal Protection Clause from protection of the rights of minorities to\nprotection of the rights of all citizens, including White Americans. This\ninterpretation has been the centerpiece of subsequent legal challenges to\naffirmative action.\nSource: Affirmative Action at a Crossroads by Edna Chun and Alvin\nEvans (Wiley).\n\n   Part 2\nThe Answers",
       "choices": [],
       "correctLabel": null,

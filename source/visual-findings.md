@@ -21,3 +21,7 @@ The corrected chapter order maps the science practice pages to Science. Question
 ## Stacked source-context layout verification
 
 The question reader now uses a single vertical column: extracted shared context appears first, and the actual source folio visual appears directly below at full available width. Desktop and mobile captures of Questions 506–507 show the airplane figure below its marker with the question area no longer narrowed by a side-by-side grid. Question 508 retains the same wider reading composition.
+
+## Question labeling verification
+
+The subject index now displays the full source reference, for example “1,001 GED Practice Questions For Dummies · Social Studies library,” and each set shows a subject-to-part label such as “Social Studies → Civics and Government.” Focused readers show the same hierarchy in the breadcrumb and context panel, with Science → Physical Science visible for Questions 506–507. Desktop and mobile captures confirm the labels remain legible and the part filter is usable.
