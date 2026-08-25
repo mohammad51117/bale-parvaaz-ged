@@ -253,3 +253,30 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
 .section-dashboard-card > svg { position: absolute; right: 16px; bottom: 17px; color: #B58A44; transition: transform .18s cubic-bezier(.23,1,.32,1); }
 .section-dashboard-card:hover > svg { transform: translateX(4px); }
 @media (max-width: 760px) { .section-dashboard { margin-top: 30px; padding-top: 25px; }.section-dashboard-heading { align-items: flex-start; flex-direction: column; gap: 9px; }.section-dashboard-heading h2 { font-size: 25px; }.section-dashboard-heading p { max-width: 100%; text-align: left; }.section-dashboard-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }.section-dashboard-card { min-height: 140px; padding: 16px 14px; }.section-dashboard-dot { margin-bottom: 14px; }.section-dashboard-card strong { margin-top: 12px; font-size: 30px; }.section-dashboard-label { max-width: 100px; line-height: 1.35; } }
+
+
+/* Atlas Study Hall route refinement: desktop routes carry the book spine and reader provenance moves into the margin. */
+.route-with-spine { padding-left: 86px; }
+.route-spine { position: fixed; inset: 0 auto 0 0; z-index: 25; width: 86px; display: flex; flex-direction: column; align-items: center; gap: 12px; padding: 22px 10px 20px; background: #213F55; color: #F8F1E4; box-shadow: 8px 0 24px rgba(32,48,55,.1); }
+.route-spine .brand-mark { flex: 0 0 auto; width: 42px; height: 42px; margin-bottom: 7px; }
+.route-spine > strong { writing-mode: vertical-rl; transform: rotate(180deg); font: 500 17px/1 "Fraunces", Georgia, serif; letter-spacing: -.02em; }
+.route-spine-section { max-width: 66px; overflow: hidden; color: #B8C7C6; font-size: 8px; font-weight: 800; letter-spacing: .14em; line-height: 1.4; text-align: center; text-transform: uppercase; }
+.route-spine-rule { width: 1px; height: 86px; margin: 10px 0 4px; background: linear-gradient(#E5A23A, rgba(229,162,58,.14)); }
+.route-spine-folio { color: #D6B56F; font-size: 8px; font-weight: 800; letter-spacing: .1em; line-height: 1.6; text-align: center; }
+.brand-mark-wing { border-radius: 10px 10px 13px 4px; background: #E5A23A; color: #213F55; box-shadow: 5px 5px 0 rgba(229,162,58,.14); }
+.subject-folio-rule { display: grid; grid-template-columns: auto minmax(90px, 1fr) auto; align-items: center; gap: 14px; margin: 18px 0 4px; color: #A28F71; font-size: 9px; font-weight: 800; letter-spacing: .11em; text-transform: uppercase; }
+.subject-folio-rule i { display: block; height: 3px; background: #E3D9CA; }
+.subject-folio-rule i b { display: block; height: 100%; background: #E5A23A; }
+.subject-folio-rule em { color: #AAA79D; font-size: 9px; font-style: normal; letter-spacing: .04em; text-transform: none; }
+.reader-context-layout { display: grid; grid-template-columns: minmax(0, 1fr) 174px; gap: 24px; align-items: start; }
+.reader-margin-notes { display: flex; flex-direction: column; gap: 12px; padding-top: 5px; }
+.margin-note { position: relative; padding: 14px 12px 15px; border-top: 2px solid #D5B878; background: rgba(255,253,248,.55); color: #77817D; }
+.margin-note::before { content: ""; position: absolute; top: -2px; left: 0; width: 24px; border-top: 2px solid #E5A23A; }
+.margin-note span { display: block; color: #AF8A4B; font-size: 8px; font-weight: 900; letter-spacing: .13em; }
+.margin-note strong { display: block; margin-top: 8px; color: #3D5A63; font: 500 16px/1.1 "Fraunces", Georgia, serif; }
+.margin-note p { margin: 7px 0 0; color: #7E8982; font-size: 10px; line-height: 1.55; }
+.margin-note-action { background: #EEF1E7; border-top-color: #91A99A; }
+.margin-note-action::before { border-top-color: #6C9A79; }
+.margin-note-action span { color: #5E8067; }
+@media (max-width: 1050px) { .reader-context-layout { grid-template-columns: minmax(0, 1fr) 150px; gap: 17px; } }
+@media (max-width: 760px) { .route-with-spine { padding-left: 0; }.route-spine { display: none; }.subject-folio-rule { grid-template-columns: 1fr auto; gap: 10px; }.subject-folio-rule i { grid-column: 1 / -1; grid-row: 2; }.reader-context-layout { grid-template-columns: 1fr; }.reader-margin-notes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); padding-top: 0; }.margin-note-action { grid-column: 1 / -1; } }

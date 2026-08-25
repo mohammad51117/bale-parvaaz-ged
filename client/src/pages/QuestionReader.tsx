@@ -1,14 +1,16 @@
 /* Atlas Study Hall: a focused practice folio with real answer controls, quiet feedback, and source-first context. */
 import { useMemo, useState } from "react";
-import { ArrowLeft, Bookmark, Check, CheckCircle2, ChevronLeft, ChevronRight, CircleX, FileText, RotateCcw } from "lucide-react";
+import { ArrowLeft, BookOpen, Bookmark, Check, CheckCircle2, ChevronLeft, ChevronRight, CircleX, FileText, RotateCcw } from "lucide-react";
 import { Link, useLocation } from "wouter";
 import { questionGroups } from "@/lib/questionGroups";
 import { interactiveQuestions } from "@/lib/interactiveQuestions";
 import { visualAssets } from "@/lib/visualAssets";
 import { supplementalEconomicsGroups, supplementalEconomicsQuestions } from "@/lib/supplementalEconomics";
 import { supplementalMcGrawHillGroups, supplementalMcGrawHillQuestions } from "@/lib/supplementalMcGrawHill";
+import { supplementalBatterySocialStudiesGroups, supplementalBatterySocialStudiesQuestions } from "@/lib/supplementalBatterySocialStudies";
 import { supplementalEconomicsVisuals } from "@/lib/supplementalEconomicsVisuals";
 import { supplementalMcGrawHillVisuals } from "@/lib/supplementalMcGrawHillVisuals";
+import { supplementalBatterySocialStudiesVisuals } from "@/lib/supplementalBatterySocialStudiesVisuals";
 import { getWorkbookSource } from "@/lib/workbookSources";
 
 type Group = { id: string; section: string; questionStart: number; questionEnd: number; rangeLabel: string; contextType: string; marker: string; context: string; sourcePages: readonly number[]; visualPage?: number | null; questions: readonly { number: number; text: string }[] };
@@ -46,10 +48,10 @@ function PracticeQuestion({ question, selected, response, submitted, onSelect, o
 export default function QuestionReader() {
   const [location, setLocation] = useLocation();
   const groupId = decodeURIComponent(location.split("/").pop() || "");
-  const groups = [...(questionGroups.groups as readonly Group[]), ...(supplementalEconomicsGroups as readonly Group[]), ...(supplementalMcGrawHillGroups as readonly Group[])];
+  const groups = [...(questionGroups.groups as readonly Group[]), ...(supplementalEconomicsGroups as readonly Group[]), ...(supplementalMcGrawHillGroups as readonly Group[]), ...(supplementalBatterySocialStudiesGroups as readonly Group[])];
   const groupIndex = Math.max(0, groups.findIndex((item) => item.id === groupId));
   const group = groups[groupIndex] || groups[0];
-  const allInteractiveQuestions = [...(interactiveQuestions.questions as readonly InteractiveQuestion[]), ...(supplementalEconomicsQuestions as readonly InteractiveQuestion[]), ...(supplementalMcGrawHillQuestions as readonly InteractiveQuestion[])];
+  const allInteractiveQuestions = [...(interactiveQuestions.questions as readonly InteractiveQuestion[]), ...(supplementalEconomicsQuestions as readonly InteractiveQuestion[]), ...(supplementalMcGrawHillQuestions as readonly InteractiveQuestion[]), ...(supplementalBatterySocialStudiesQuestions as readonly InteractiveQuestion[])];
   const questionMap = useMemo(() => new Map(allInteractiveQuestions.map((question) => [`${question.groupId}-${question.number}`, question])), [allInteractiveQuestions]);
   const activeQuestions = group.questions.map((question) => questionMap.get(`${group.id}-${question.number}`)).filter(Boolean) as InteractiveQuestion[];
   const [selected, setSelected] = useState<Record<number, string>>({});
@@ -63,18 +65,19 @@ export default function QuestionReader() {
   const topic = activeQuestions[0]?.topic || "General practice";
   const workbookSource = getWorkbookSource(group.id);
   const reference = workbookSource.title;
-  const allVisualAssets = { ...visualAssets, ...supplementalEconomicsVisuals, ...supplementalMcGrawHillVisuals };
+  const allVisualAssets = { ...visualAssets, ...supplementalEconomicsVisuals, ...supplementalMcGrawHillVisuals, ...supplementalBatterySocialStudiesVisuals };
   const visualUrl = group.visualPage ? allVisualAssets[group.visualPage] : undefined;
-  const visualSourceLabel = group.visualPage && group.visualPage >= 2000 ? group.visualPage - 2000 : group.visualPage && group.visualPage >= 1000 ? group.visualPage - 1000 : group.visualPage;
+  const visualSourceLabel = group.visualPage && group.visualPage >= 3000 ? group.visualPage - 3000 : group.visualPage && group.visualPage >= 2000 ? group.visualPage - 2000 : group.visualPage && group.visualPage >= 1000 ? group.visualPage - 1000 : group.visualPage;
   const answeredCount = activeQuestions.filter((question) => submitted[question.number]).length;
   const toggleBookmark = (number: number) => setBookmarked((items) => items.includes(number) ? items.filter((item) => item !== number) : [...items, number]);
 
-  return <div className="reader-page-shell">
-    <header className="reader-page-header"><div className="subject-brand"><img className="brand-logo" src="/manus-storage/teacher-momeni-logo_2d3d1795.png" alt="Teacher Momeni logo" /><div><strong>Bale Parvaaz</strong><small>GED / TEACHER MOMENI</small></div></div><div className="reader-header-actions"><Link href={`/subject/${subjectSlug}`} className="back-link"><ArrowLeft size={16} /> Subject index</Link><span className="reader-window-label">IN-APP PRACTICE READER</span></div></header>
+  return <div className="reader-page-shell route-with-spine">
+    <aside className="route-spine" aria-label="Workbook orientation"><span className="brand-mark brand-mark-wing" aria-hidden="true"><BookOpen size={22} strokeWidth={2.4} /></span><strong>Bale Parvaaz</strong><span className="route-spine-section">{group.section}</span><i className="route-spine-rule" /><span className="route-spine-folio">SET {String(groupIndex + 1).padStart(3, "0")}<br />OF {groups.length}</span></aside>
+    <header className="reader-page-header"><div className="subject-brand"><span className="brand-mark brand-mark-wing" aria-hidden="true"><BookOpen size={21} strokeWidth={2.2} /></span><div><strong>Bale Parvaaz</strong><small>GED / TEACHER MOMENI</small></div></div><div className="reader-header-actions"><Link href={`/subject/${subjectSlug}`} className="back-link"><ArrowLeft size={16} /> Subject index</Link><span className="reader-window-label">IN-APP PRACTICE READER</span></div></header>
     <main className="reader-page-main">
       <div className="reader-page-kicker"><span>{reference}</span><span>/</span><strong>{group.section}</strong><span>/</span><strong>{topic}</strong><span>/</span><strong>{group.rangeLabel}</strong></div>
       <div className="reader-page-nav"><Link href={previous ? `/reader/${previous.id}` : `/subject/${subjectSlug}`} className={!previous ? "disabled" : ""}><ChevronLeft size={17} /> Previous set</Link><span>Set {groupIndex + 1} of {groups.length}</span><Link href={next ? `/reader/${next.id}` : `/subject/${subjectSlug}`} className={!next ? "disabled" : ""}>Next set <ChevronRight size={17} /></Link></div>
-      <section className={`standalone-context ${group.contextType}`}><div className="standalone-context-copy"><div className="eyebrow source-context-eyebrow"><span>SHARED SOURCE CONTEXT</span><i>· {group.contextType}</i></div><div className="reader-topic-label">{group.section} <span>→</span> {topic}</div><h1>{group.rangeLabel}</h1><h2>{group.marker}</h2>{contextText && <pre>{contextText}</pre>}<div className="standalone-provenance"><span><FileText size={14} /> {workbookSource.pageLabel} {group.sourcePages[0]}–{group.sourcePages[1]}</span><span className="reader-source-book">{workbookSource.shortTitle}</span><span>{group.questions.length} linked questions</span></div></div>{visualTypes.has(group.contextType) && visualUrl && <figure className="standalone-visual"><img src={visualUrl} alt={`Original ${group.contextType} for ${group.rangeLabel}, ${workbookSource.pageLabel} ${visualSourceLabel}`} /><figcaption>Original {workbookSource.pageLabel} {visualSourceLabel}. Keep this visual in view while answering.</figcaption></figure>}</section>
+      <div className="reader-context-layout"><section className={`standalone-context ${group.contextType}`}><div className="standalone-context-copy"><div className="eyebrow source-context-eyebrow"><span>SHARED SOURCE CONTEXT</span><i>· {group.contextType}</i></div><div className="reader-topic-label">{group.section} <span>→</span> {topic}</div><h1>{group.rangeLabel}</h1><h2>{group.marker}</h2>{contextText && <pre>{contextText}</pre>}<div className="standalone-provenance"><span><FileText size={14} /> {workbookSource.pageLabel} {group.sourcePages[0]}–{group.sourcePages[1]}</span><span className="reader-source-book">{workbookSource.shortTitle}</span><span>{group.questions.length} linked questions</span></div></div>{visualTypes.has(group.contextType) && visualUrl && <figure className="standalone-visual"><img src={visualUrl} alt={`Original ${group.contextType} for ${group.rangeLabel}, ${workbookSource.pageLabel} ${visualSourceLabel}`} /><figcaption>Original {workbookSource.pageLabel} {visualSourceLabel}. Keep this visual in view while answering.</figcaption></figure>}</section><aside className="reader-margin-notes" aria-label="Study margin notes"><div className="margin-note"><span>NOTE 01</span><strong>Source folio</strong><p>{workbookSource.pageLabel} {group.sourcePages[0]}–{group.sourcePages[1]}</p></div><div className="margin-note"><span>NOTE 02</span><strong>Read as a set</strong><p>{group.questions.length} linked question{group.questions.length === 1 ? "" : "s"} share this context.</p></div><div className="margin-note margin-note-action"><span>NEXT ACTION</span><strong>Mark your place</strong><p>Check each answer, then use the folio rule to turn to the next set.</p></div></aside></div>
       <section className="practice-session"><div className="practice-session-top"><div><div className="eyebrow">ANSWER FROM THE SOURCE · {topic}</div><h2>Questions {group.questionStart}–{group.questionEnd}</h2></div><div className="practice-progress"><span>{answeredCount} / {activeQuestions.length} checked</span><i><b style={{ width: `${activeQuestions.length ? (answeredCount / activeQuestions.length) * 100 : 0}%` }} /></i></div></div><div className="standalone-question-list">{activeQuestions.map((question) => <PracticeQuestion key={question.number} question={question} selected={selected[question.number]} response={responses[question.number]} submitted={Boolean(submitted[question.number])} onSelect={(label) => setSelected((items) => ({ ...items, [question.number]: label }))} onResponse={(value) => setResponses((items) => ({ ...items, [question.number]: value }))} onCheck={() => setSubmitted((items) => ({ ...items, [question.number]: true }))} onReset={() => { setSubmitted((items) => ({ ...items, [question.number]: false })); setSelected((items) => ({ ...items, [question.number]: "" })); setResponses((items) => ({ ...items, [question.number]: "" })); }} bookmarked={bookmarked.includes(question.number)} onBookmark={() => toggleBookmark(question.number)} />)}</div></section>
     </main>
   </div>;

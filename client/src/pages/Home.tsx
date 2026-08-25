@@ -26,6 +26,8 @@ import { supplementalEconomicsQuestions } from "@/lib/supplementalEconomics";
 import { supplementalEconomicsVisuals } from "@/lib/supplementalEconomicsVisuals";
 import { supplementalMcGrawHillGroups, supplementalMcGrawHillQuestions } from "@/lib/supplementalMcGrawHill";
 import { supplementalMcGrawHillVisuals } from "@/lib/supplementalMcGrawHillVisuals";
+import { supplementalBatterySocialStudiesGroups, supplementalBatterySocialStudiesQuestions } from "@/lib/supplementalBatterySocialStudies";
+import { supplementalBatterySocialStudiesVisuals } from "@/lib/supplementalBatterySocialStudiesVisuals";
 import { getInitialWorkbookFilter, getWorkbookSource, matchesWorkbook, persistWorkbookFilter, type WorkbookFilter, workbookFilterOptions } from "@/lib/workbookSources";
 import { useLocation } from "wouter";
 
@@ -54,7 +56,7 @@ function formatNumber(value: number) {
 export default function Home() {
   const [, setLocation] = useLocation();
   const pages = bookData.pages as readonly PageRecord[];
-  const groups = [...questionGroups.groups, ...supplementalEconomicsGroups, ...supplementalMcGrawHillGroups] as readonly QuestionGroup[];
+  const groups = [...questionGroups.groups, ...supplementalEconomicsGroups, ...supplementalMcGrawHillGroups, ...supplementalBatterySocialStudiesGroups] as readonly QuestionGroup[];
   const sectionQuestionCounts = useMemo(() => bookData.subjects.map((item) => ({
     ...item,
     questionCount: groups.filter((group) => group.section === item.name).reduce((sum, group) => sum + group.questions.length, 0),
@@ -73,7 +75,7 @@ export default function Home() {
   const [showOpening, setShowOpening] = useState(false);
   const [activeGroupId, setActiveGroupId] = useState(initialGroup);
 
-  const allVisualAssets = { ...visualAssets, ...supplementalEconomicsVisuals, ...supplementalMcGrawHillVisuals };
+  const allVisualAssets = { ...visualAssets, ...supplementalEconomicsVisuals, ...supplementalMcGrawHillVisuals, ...supplementalBatterySocialStudiesVisuals };
   const currentPage = pages.find((page) => page.page === activePage) ?? pages[0];
   const activeGroup = groups.find((group) => group.id === activeGroupId) ?? groups[0];
   const activeContextText = activeGroup?.context && !activeGroup.context.startsWith("The shared source material") ? activeGroup.context : "";
@@ -95,7 +97,7 @@ export default function Home() {
     return { ...option, count: matchingGroups.length, questionCount: matchingGroups.reduce((sum, group) => sum + group.questions.length, 0) };
   }), [groups]);
   const activeWorkbookOption = workbookFilterOptions.find((option) => option.value === workbookFilter) || workbookFilterOptions[0];
-  const isSupplementWorkbook = workbookFilter === "economics" || workbookFilter === "mcgraw";
+  const isSupplementWorkbook = workbookFilter === "economics" || workbookFilter === "mcgraw" || workbookFilter === "battery";
   const visibleActiveGroup = filteredGroups.find((group) => group.id === activeGroupId) ?? filteredGroups[0];
   const visibleActiveWorkbookSource = visibleActiveGroup ? getWorkbookSource(visibleActiveGroup.id) : null;
   const filteredQuestionCount = filteredGroups.reduce((sum, group) => sum + group.questions.length, 0);
@@ -113,7 +115,7 @@ export default function Home() {
   }, [kind, pages, query, subject, workbookFilter]);
 
   const updateWorkbookFilter = (value: string) => {
-    const next = value === "main" || value === "economics" || value === "mcgraw" ? value : "all";
+    const next = value === "main" || value === "economics" || value === "mcgraw" || value === "battery" ? value : "all";
     setWorkbookFilter(next);
     persistWorkbookFilter(next);
   };
@@ -128,7 +130,7 @@ export default function Home() {
     <div className="app-shell">
       <aside className={`book-rail ${mobileRail ? "book-rail-open" : ""}`}>
         <div className="rail-brand">
-          <img className="brand-logo" src="/manus-storage/teacher-momeni-logo_2d3d1795.png" alt="Teacher Momeni logo" />
+          <span className="brand-mark brand-mark-wing" aria-hidden="true"><BookOpen size={22} strokeWidth={2.4} /></span>
           <div>
             <div className="brand-name">Bale Parvaaz</div>
             <div className="brand-subtitle">GED / Teacher Momeni</div>

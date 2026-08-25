@@ -7,7 +7,7 @@ export type WorkbookSource = {
   note: string;
 };
 
-export type WorkbookKey = "main" | "economics" | "mcgraw";
+export type WorkbookKey = "main" | "economics" | "mcgraw" | "battery";
 export type WorkbookFilter = "all" | WorkbookKey;
 
 export const workbookSources: Record<string, WorkbookSource> = {
@@ -32,6 +32,13 @@ export const workbookSources: Record<string, WorkbookSource> = {
     pageLabel: "source page",
     note: "Supplemental McGraw Hill Social Studies workbook",
   },
+  battery: {
+    id: "battery-social-studies-2",
+    title: "Battery Social Studies Practice Test 2",
+    shortTitle: "Battery Social Studies Test 2",
+    pageLabel: "PDF page",
+    note: "Supplemental scanned Social Studies practice test",
+  },
 };
 
 export const workbookFilterOptions: readonly { value: WorkbookFilter; label: string; shortLabel: string }[] = [
@@ -39,11 +46,13 @@ export const workbookFilterOptions: readonly { value: WorkbookFilter; label: str
   { value: "main", label: workbookSources.main.shortTitle, shortLabel: "Main 1,001-question book" },
   { value: "economics", label: workbookSources.economics.shortTitle, shortLabel: "Economics supplement" },
   { value: "mcgraw", label: workbookSources.mcgraw.shortTitle, shortLabel: "McGraw Hill supplement" },
+  { value: "battery", label: workbookSources.battery.shortTitle, shortLabel: "Battery Social Studies Test 2" },
 ];
 
 export function getWorkbookKey(groupId: string): WorkbookKey {
   if (groupId.startsWith("econ-supp-")) return "economics";
   if (groupId.startsWith("mcgraw-")) return "mcgraw";
+  if (groupId.startsWith("battery-ss-")) return "battery";
   return "main";
 }
 
@@ -52,7 +61,7 @@ export function getWorkbookSource(groupId: string): WorkbookSource {
 }
 
 export function isWorkbookFilter(value: string | null): value is WorkbookFilter {
-  return value === "all" || value === "main" || value === "economics" || value === "mcgraw";
+  return value === "all" || value === "main" || value === "economics" || value === "mcgraw" || value === "battery";
 }
 
 export function getInitialWorkbookFilter(): WorkbookFilter {
