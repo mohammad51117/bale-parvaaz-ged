@@ -87,3 +87,7 @@ Final Home verification passed on desktop and mobile. The old Home question-set 
 ## Study Map verification
 
 The new Study Map route renders as an Atlas Study Hall roadmap with a clear hero, four subject route tabs, a vertical chapter path, and a detail panel containing time-to-master, study method, mastery standard, practice routine, and lesson titles. Desktop and mobile screenshots passed; the mobile view stacks the hero, subject routes, chapters, and guidance without losing readable hierarchy.
+
+## Source-grounded lesson verification
+
+The lesson reader now uses bundled content generated from the uploaded McGraw Hill 4th-edition PDF. The representative RLA lesson shows a real source excerpt, McGraw Hill 4th edition attribution, source folio 278, lesson guidance, and the focused practice flow. Desktop and mobile layouts remain readable, and no user-local folder path is referenced by the published lesson data or reader.

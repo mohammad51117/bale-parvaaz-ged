@@ -56,3 +56,25 @@
 - [x] Design attractive roadmap cards and detail panels for desktop and mobile students.
 - [x] Verify all subject titles are covered and the roadmap remains usable on narrow screens.
 - [x] Run type check, production build, and save a checkpoint.
+
+## Title-based lesson pathway
+
+- [x] Audit the existing Study Map titles and lesson IDs.
+- [x] Generate lesson explanations and lesson-specific practice directly from the titles.
+- [x] Add lesson reader routes with study, mastery, and practice steps.
+- [x] Add saved completion states and subject/chapter progress.
+- [x] Verify the four-section entry, lesson flow, and responsive presentation.
+- [x] Run type check, production build, and save a checkpoint.
+
+Source constraint: do not use the PDF in the user’s local folder for lesson content.
+
+## Source-grounded McGraw Hill lesson pathway
+
+- [x] Inspect the uploaded McGraw Hill 4th-edition PDF and align its lesson sections with the Study Map titles.
+- [x] Extract source-grounded lesson explanations, worked examples, practice questions, answer keys, and source-page labels.
+- [x] Bundle extracted lesson data and any needed visuals into durable app content/assets.
+- [x] Connect the lesson reader and completion flow to the extracted source content.
+- [x] Verify the published app does not reference the user’s local Windows folder.
+- [x] Run type check, production build, and save a checkpoint.
+
+Source requirement: the uploaded McGraw Hill PDF is authoritative; local-folder access must not be required after publication.
