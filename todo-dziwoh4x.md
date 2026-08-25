@@ -19,3 +19,7 @@
 - [x] Verify image, logo, and PDF/page loading in the reader
 - [x] Resolve the stale `asset-book-steck-vaughn-pdf` record, which referenced a book not included in the provided attachments
 - [x] Remove and verify the stale Steck-Vaughn PDF asset after the user confirmed the intended action
+- [x] Audit the project for Bolt ZIP export readiness
+- [x] Prepare a safe Bolt/Supabase import guide without private credentials
+- [x] Build and validate a downloadable project archive
+- [x] Deliver the archive and exact import steps
