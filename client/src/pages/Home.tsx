@@ -140,6 +140,14 @@ export default function Home() {
         <nav className="rail-nav" aria-label="Study navigation">
           <button className="rail-link active" onClick={() => { setSubject("All subjects"); setShowOpening(false); }}><LayoutDashboard size={17} /><span>Study desk</span><span className="rail-key">⌘ 1</span></button>
           <button className={`rail-link ${showOpening ? "active" : ""}`} onClick={() => setShowOpening(true)}><BookOpen size={17} /><span>Opening pages</span><span className="rail-count">05</span></button>
+          <div className="rail-section-label">Lessons</div>
+          {demoLessons.map((lesson) => (
+            <button key={lesson.id} className="rail-link subject-link lesson-rail-link" onClick={() => { setMobileRail(false); setLocation(`/lesson/${lesson.id}`); }}>
+              <BookOpen size={15} style={{ color: lesson.accent }} />
+              <span>{lesson.shortSubject}</span>
+              <span className="rail-count">01</span>
+            </button>
+          ))}
           <div className="rail-section-label">The four sections</div>
           {bookData.subjects.map((item) => (
             <button key={item.name} className={`rail-link subject-link ${subject === item.name ? "active" : ""}`} onClick={() => { setLocation(`/subject/${item.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "")}`); }}>

@@ -56,3 +56,10 @@
 - [ ] Add in-app demo lesson readers with the matching source-page visual and practice action.
 - [ ] Verify Home hierarchy and all four lesson demos on desktop and mobile.
 - [ ] Run type check, production build, and save a checkpoint.
+
+## Sidebar lessons navigation correction
+
+- [ ] Add a dedicated Lessons item above the four question sections in the left sidebar.
+- [ ] Show the four demo lessons under the Lessons item or open a lesson index from it.
+- [ ] Preserve active states and mobile sidebar behavior.
+- [ ] Verify, build, and save the navigation correction.
