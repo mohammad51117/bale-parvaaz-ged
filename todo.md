@@ -72,3 +72,13 @@
 - [x] Update the Social Studies lesson count and sidebar links.
 - [x] Verify chapter lesson readers, source visuals, and practice handoffs.
 - [ ] Run checks and save a checkpoint.
+
+## Complete lesson-by-lesson Social Studies rebuild
+
+- [x] Map every lesson heading and lesson page range in all four McGraw Hill chapters.
+- [x] Extract the real lesson text and learning points from the uploaded PDF.
+- [x] Group all source pages belonging to each lesson, including visual pages.
+- [x] Add a lesson index and accurate lesson counts.
+- [x] Add grouped source-page viewing below each lesson’s text.
+- [x] Verify responsive lesson navigation and source-page fidelity.
+- [ ] Run checks and save a checkpoint.
