@@ -1,25 +1,141 @@
-import { Button } from "@/components/ui/button";
-import { Loader2 } from "lucide-react";
-import { Streamdown } from 'streamdown';
+/* Atlas Study Hall: page-faithful editorial study reader with a book-spine rail, parchment surfaces, ink-blue hierarchy, and Parvaaz saffron progress accents. */
+import { useMemo, useState } from "react";
+import {
+  ArrowLeft,
+  ArrowRight,
+  Bookmark,
+  BookOpen,
+  CheckCircle2,
+  ChevronDown,
+  CircleHelp,
+  FileText,
+  Filter,
+  GraduationCap,
+  LayoutDashboard,
+  Menu,
+  Search,
+  Sparkles,
+  Table2,
+  X,
+} from "lucide-react";
+import { bookData } from "@/lib/bookData";
 
-/**
- * All content in this page are only for example, replace with your own feature implementation
- * When building pages, remember your instructions in Frontend Best Practices, Design Guide and Common Pitfalls
- */
+type PageRecord = { page: number; title: string; section: string; kind: string; hasVisual: boolean; content: string; wordCount: number };
+
+const subjectColors: Record<string, string> = {
+  "Mathematical Reasoning": "#C36B3D",
+  "Reasoning Through Language Arts": "#496D72",
+  "Social Studies": "#8A6B42",
+  Science: "#5C7399",
+};
+
+const openingPages = [
+  "/manus-storage/page-01_ded85030.jpg",
+  "/manus-storage/page-02_03bca7f4.jpg",
+  "/manus-storage/page-03_7ca5a70e.jpg",
+  "/manus-storage/page-04_8b9f1476.jpg",
+  "/manus-storage/page-05_20410d7d.jpg",
+];
+
+function formatNumber(value: number) {
+  return new Intl.NumberFormat("en-US").format(value);
+}
+
 export default function Home() {
-  // If theme is switchable in App.tsx, we can implement theme toggling like this:
-  // const { theme, toggleTheme } = useTheme();
+  const pages = bookData.pages as readonly PageRecord[];
+  const [activePage, setActivePage] = useState(6);
+  const [query, setQuery] = useState("");
+  const [subject, setSubject] = useState("All subjects");
+  const [kind, setKind] = useState("All page types");
+  const [mobileRail, setMobileRail] = useState(false);
+  const [bookmarked, setBookmarked] = useState<number[]>([6]);
+  const [showOpening, setShowOpening] = useState(false);
+
+  const currentPage = pages.find((page) => page.page === activePage) ?? pages[0];
+  const activeSubject = currentPage?.section.split(" · ")[0] ?? "Mathematical Reasoning";
+
+  const filteredPages = useMemo(() => {
+    const normalized = query.toLowerCase().trim();
+    return pages.filter((page) => {
+      const subjectMatch = subject === "All subjects" || page.section.startsWith(subject);
+      const kindMatch = kind === "All page types" || page.kind === kind;
+      const searchMatch = !normalized || `${page.content} ${page.section}`.toLowerCase().includes(normalized);
+      return subjectMatch && kindMatch && searchMatch;
+    }).slice(0, 120);
+  }, [kind, pages, query, subject]);
+
+  const completedBySubject = (name: string) => Math.round((bookData.subjects.find((item) => item.name === name)?.pages ?? 0) * 0.22);
+  const toggleBookmark = (page: number) => setBookmarked((current) => current.includes(page) ? current.filter((item) => item !== page) : [...current, page]);
+  const goToPage = (page: number) => {
+    if (page >= 6 && page <= 683) setActivePage(page);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
 
   return (
-    <div className="min-h-screen flex flex-col">
-      <main>
-        {/* Example: lucide-react for icons */}
-        <Loader2 className="animate-spin" />
-        Example Page
-        {/* Example: Streamdown for markdown rendering */}
-        <Streamdown>Any **markdown** content</Streamdown>
-        <Button variant="default">Example Button</Button>
+    <div className="app-shell">
+      <aside className={`book-rail ${mobileRail ? "book-rail-open" : ""}`}>
+        <div className="rail-brand">
+          <div className="brand-mark"><span className="brand-wing" /></div>
+          <div>
+            <div className="brand-name">Bale Parvaaz</div>
+            <div className="brand-subtitle">GED / Teacher Momeni</div>
+          </div>
+          <button className="rail-close" onClick={() => setMobileRail(false)} aria-label="Close navigation"><X size={18} /></button>
+        </div>
+        <div className="rail-rule" />
+        <nav className="rail-nav" aria-label="Study navigation">
+          <button className="rail-link active" onClick={() => { setSubject("All subjects"); setShowOpening(false); }}><LayoutDashboard size={17} /><span>Study desk</span><span className="rail-key">⌘ 1</span></button>
+          <button className={`rail-link ${showOpening ? "active" : ""}`} onClick={() => setShowOpening(true)}><BookOpen size={17} /><span>Opening pages</span><span className="rail-count">05</span></button>
+          <div className="rail-section-label">The four sections</div>
+          {bookData.subjects.map((item) => (
+            <button key={item.name} className={`rail-link subject-link ${subject === item.name ? "active" : ""}`} onClick={() => { setSubject(item.name); setShowOpening(false); setActivePage(item.firstPage ?? 6); }}>
+              <span className="subject-dot" style={{ backgroundColor: subjectColors[item.name] }} />
+              <span>{item.name.replace("Reasoning Through ", "").replace("Mathematical ", "Math ")}</span>
+              <span className="rail-count">{String(item.pages).padStart(2, "0")}</span>
+            </button>
+          ))}
+        </nav>
+        <div className="rail-bottom">
+          <div className="rail-mini-note"><Sparkles size={15} /><span>Keep going. Your next page is waiting.</span></div>
+          <div className="rail-user"><div className="avatar">TM</div><div><strong>Teacher Momeni</strong><span>Personal study desk</span></div><ChevronDown size={15} /></div>
+        </div>
+      </aside>
+
+      <main className="main-canvas">
+        <header className="topbar">
+          <button className="mobile-menu" onClick={() => setMobileRail(true)} aria-label="Open navigation"><Menu size={20} /></button>
+          <div className="breadcrumb"><span>Study desk</span><span className="slash">/</span><span>{showOpening ? "Opening pages" : activeSubject}</span><span className="slash">/</span><strong>{showOpening ? "Pages 01–05" : `Page ${String(activePage).padStart(3, "0")}`}</strong></div>
+          <div className="topbar-actions"><button className="topbar-icon" aria-label="Bookmarks"><Bookmark size={17} /><span>{bookmarked.length}</span></button><div className="topbar-divider" /><span className="folio-label">Folio 2026</span></div>
+        </header>
+
+        <div className="content-wrap">
+          {showOpening ? (
+            <section className="opening-view">
+              <div className="eyebrow"><BookOpen size={15} /> PRESERVED SOURCE OPENING</div>
+              <div className="opening-heading-row"><div><h1>The first five pages, kept intact.</h1><p className="lede">A quiet landing place before the practice begins. These opening pages remain as source-page previews so the original context is never lost.</p></div><button className="button-secondary" onClick={() => { setShowOpening(false); setActivePage(6); }}>Begin conversion <ArrowRight size={16} /></button></div>
+              <div className="opening-grid">{openingPages.map((src, index) => <figure className="source-page" key={src}><div className="source-page-frame"><img src={src} alt={`Preserved source page ${index + 1}`} /></div><figcaption><span>PAGE {String(index + 1).padStart(2, "0")}</span><span>Source preserved</span></figcaption></figure>)}</div>
+              <div className="opening-footer-note"><CircleHelp size={16} /><span>Pages 06 onward are converted into searchable, page-by-page study content. Visual-heavy pages are marked with a visual cue in the reader.</span></div>
+            </section>
+          ) : (
+            <>
+              <section className="desk-hero">
+                <div className="hero-copy"><div className="eyebrow"><GraduationCap size={15} /> YOUR GED PRACTICE DESK</div><h1>Pick up where your pencil left off.</h1><p>One question closer to test day. Browse the original book page by page, or jump straight into a section that needs your attention.</p><div className="hero-actions"><button className="button-primary" onClick={() => goToPage(activePage)}><BookOpen size={17} /> Continue reading</button><button className="button-text" onClick={() => setShowOpening(true)}>View the opening <ArrowRight size={16} /></button></div></div><div className="hero-art"><img src="/manus-storage/parvaaz-hero_e37cae69.jpg" alt="Open GED workbook and pencil on a warm study desk" /><div className="hero-art-caption"><span>BOOK / 1001 QUESTIONS</span><strong>Page-faithful practice, made navigable.</strong></div></div>
+              </section>
+
+              <section className="stats-row" aria-label="Study progress"><div className="stat-card stat-card-primary"><div className="stat-label">BOOK CONVERSION</div><div className="stat-value">{formatNumber(pages.length)} <small>pages</small></div><div className="stat-progress"><span style={{ width: `${Math.round((activePage / 683) * 100)}%` }} /></div><div className="stat-foot"><span>Current folio {activePage} of 683</span><strong>{Math.round((activePage / 683) * 100)}%</strong></div></div><div className="stat-card"><div className="stat-label">BOOKMARKED</div><div className="stat-value">{String(bookmarked.length).padStart(2, "0")} <small>pages</small></div><div className="stat-foot"><span>Saved for a second pass</span><Bookmark size={16} /></div></div><div className="stat-card"><div className="stat-label">VISUAL PAGES</div><div className="stat-value">267 <small>pages</small></div><div className="stat-foot"><span>Maps, figures, charts & tables</span><Table2 size={16} /></div></div></section>
+
+              <section className="workspace-grid"><div className="reading-column"><div className="section-heading"><div><div className="eyebrow">THE CONVERTED BOOK</div><h2>Find your next question.</h2></div><span className="result-count">{filteredPages.length} shown</span></div><div className="search-controls"><div className="search-field"><Search size={18} /><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search the book by phrase, topic, or page…" aria-label="Search the book" />{query && <button onClick={() => setQuery("")} aria-label="Clear search"><X size={15} /></button>}</div><select value={subject} onChange={(event) => setSubject(event.target.value)} aria-label="Filter by subject"><option>All subjects</option>{bookData.subjects.map((item) => <option key={item.name}>{item.name}</option>)}</select><select value={kind} onChange={(event) => setKind(event.target.value)} aria-label="Filter by page type"><option>All page types</option><option value="question">Questions</option><option value="visual">Visual pages</option><option value="explanation">Explanations</option><option value="reading">Reading</option></select><button className="filter-button" aria-label="Filters"><Filter size={16} /></button></div><div className="page-list">{filteredPages.map((page, index) => { const previous = filteredPages[index - 1]; const landmark = !previous || previous.section !== page.section; return <div key={page.page}>{landmark && <div className="index-landmark"><span className="landmark-rule" /><span>{page.section}</span><span className="landmark-note">source folio {String(page.page).padStart(3, "0")}</span></div>}<button className={`page-row ${activePage === page.page ? "selected" : ""}`} onClick={() => goToPage(page.page)}><span className="page-folio">{String(page.page).padStart(3, "0")}</span><span className="page-row-main"><strong>{page.title || page.section}</strong><span>{page.section} · {page.wordCount} words {page.hasVisual ? "· visual source material" : "· converted text"}</span></span><span className={`kind-pill ${page.kind}`}>{page.hasVisual && <Table2 size={13} />}{page.kind === "question" ? "Question" : page.kind === "visual" ? "Visual" : page.kind === "explanation" ? "Answer" : "Reading"}</span><span className="page-row-arrow"><ArrowRight size={16} /></span></button></div>})}{filteredPages.length === 0 && <div className="empty-state"><Search size={22} /><strong>No pages match that search.</strong><span>Try a broader phrase or clear one of the filters.</span></div>}</div></div>
+
+                <aside className="context-column"><div className="context-card reading-card"><div className="context-card-top"><span className="eyebrow">NOW READING</span><button onClick={() => toggleBookmark(activePage)} className={`bookmark-button ${bookmarked.includes(activePage) ? "saved" : ""}`} aria-label="Toggle bookmark"><Bookmark size={17} fill={bookmarked.includes(activePage) ? "currentColor" : "none"} /></button></div><div className="context-folio">{String(activePage).padStart(3, "0")}</div><h3>{currentPage?.section}</h3><p>{currentPage?.title || "Converted source page"}</p><button className="read-button" onClick={() => goToPage(activePage)}>Open reader <ArrowRight size={16} /></button></div><div className="context-card subject-card"><div className="context-card-top"><span className="eyebrow">SECTION MAP</span><MapIcon /></div>{bookData.subjects.map((item) => <button key={item.name} className="subject-progress" onClick={() => { setSubject(item.name); setActivePage(item.firstPage ?? 6); }}><span className="subject-progress-dot" style={{ backgroundColor: subjectColors[item.name] }} /><span className="subject-progress-name">{item.name}</span><span className="subject-progress-value">{completedBySubject(item.name)}%</span><span className="mini-progress"><i style={{ width: `${completedBySubject(item.name)}%`, backgroundColor: subjectColors[item.name] }} /></span></button>)}</div><div className="context-card tip-card"><div className="tip-icon"><Sparkles size={16} /></div><div><div className="eyebrow">STUDY NOTE</div><p>When you miss a question, bookmark the page before checking the explanation. Your second pass becomes the real lesson.</p></div></div></aside></section>
+
+              <section className="reader-panel"><div className="reader-topline"><div className="eyebrow"><FileText size={14} /> PAGE-FAITHFUL READER</div><div className="reader-nav"><button onClick={() => goToPage(activePage - 1)} disabled={activePage <= 6} aria-label="Previous page"><ArrowLeft size={16} /></button><span>Page {activePage} / 683</span><button onClick={() => goToPage(activePage + 1)} disabled={activePage >= 683} aria-label="Next page"><ArrowRight size={16} /></button></div></div><div className="folio-line"><span style={{ width: `${Math.round((activePage / 683) * 100)}%` }} /></div><div className="reader-content"><div className="reader-meta"><span className="reader-page-number">{String(activePage).padStart(3, "0")}</span><div><h2>{currentPage?.title || currentPage?.section}</h2><p>{currentPage?.section} · Source page {activePage} · {currentPage?.wordCount} words</p></div><div className="reader-badges"><span className={`kind-pill ${currentPage?.kind}`}>{currentPage?.hasVisual && <Table2 size={13} />}{currentPage?.kind === "visual" ? "Visual included" : currentPage?.kind === "question" ? "Practice question" : currentPage?.kind === "explanation" ? "Answer explanation" : "Source text"}</span></div></div><div className="reader-paper"><div className="paper-margin">{currentPage?.hasVisual ? <><Table2 size={16} /><span>VISUAL PAGE</span></> : <><BookOpen size={16} /><span>FOLIO {activePage}</span></>}</div><pre>{currentPage?.content}</pre></div></div></section>
+            </>
+          )}
+        </div>
+        <footer className="site-footer"><span>Bale Parvaaz GED</span><span>Built around the book, not around the noise.</span><span>Teacher Momeni · {formatNumber(pages.length)} converted pages</span></footer>
       </main>
     </div>
   );
 }
+
+function MapIcon() { return <span className="map-icon"><span /><span /><span /></span>; }
