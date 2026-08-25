@@ -77,3 +77,9 @@ The Home desk now calculates the visible question-bank total from grouped record
 ## Teacher Momeni logo verification
 
 The generated portrait-based Teacher Momeni logo is applied to the Home rail, SubjectPage header, QuestionReader header, browser favicon, and Apple touch icon metadata. Desktop and mobile screenshots show the mark remains recognizable and proportionate beside the Bale Parvaaz wordmark without crowding navigation. The rendered logo uses a simplified professional portrait inside the existing ink-blue and saffron brand language.
+
+## Streamlined Home section dashboard verification
+
+The Home question-set browser and Home reader panel are hidden from the landing desk, leaving detailed question browsing on subject routes. The Home rail now shows the all-workbook question totals: Math Reasoning 285, Language Arts 269, Social Studies 650, and Science 225. Desktop and mobile screenshots confirm the compact layout, with the hero and stats remaining visible without the long question list.
+
+Final Home verification passed on desktop and mobile. The old Home question-set browser and reader no longer render on the landing desk, so the page ends after the hero, progress stats, four-section dashboard, and footer. The dashboard and rail show all-workbook question totals: Math Reasoning 285, Language Arts 269, Social Studies 650, and Science 225. Each section card links to its dedicated subject library.

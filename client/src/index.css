@@ -236,3 +236,20 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
     order: -1;
   }
 }
+
+/* Atlas Study Hall Home dashboard: keep the landing desk concise; detailed question browsing belongs on subject routes. */
+.home-question-browser { display: none !important; }
+.section-dashboard { margin-top: 42px; padding: 31px 0 12px; border-top: 1px solid #D9D0C3; }
+.section-dashboard-heading { display: flex; align-items: end; justify-content: space-between; gap: 28px; margin-bottom: 19px; }
+.section-dashboard-heading h2 { margin: 8px 0 0; color: #2F5262; font: 500 30px/1.05 "Fraunces", Georgia, serif; letter-spacing: -.025em; }
+.section-dashboard-heading p { max-width: 260px; margin: 0; color: #8B9189; font-size: 11px; line-height: 1.55; text-align: right; }
+.section-dashboard-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
+.section-dashboard-card { position: relative; display: flex; min-height: 154px; flex-direction: column; align-items: flex-start; padding: 20px 18px 18px; border: 1px solid #DED5C7; background: #FFFDF8; color: #3D5962; text-align: left; transition: background .18s cubic-bezier(.23,1,.32,1), transform .18s cubic-bezier(.23,1,.32,1), border-color .18s; }
+.section-dashboard-card:hover { border-color: #D2A453; background: #FFF8E9; transform: translateY(-3px); }
+.section-dashboard-dot { width: 8px; height: 8px; margin-bottom: 18px; border-radius: 50%; }
+.section-dashboard-name { min-height: 30px; color: #60716E; font-size: 11px; font-weight: 800; letter-spacing: .05em; line-height: 1.35; text-transform: uppercase; }
+.section-dashboard-card strong { margin-top: 15px; color: #D29432; font: 500 34px/.9 "Fraunces", Georgia, serif; }
+.section-dashboard-label { margin-top: 7px; color: #9A9B91; font-size: 10px; }
+.section-dashboard-card > svg { position: absolute; right: 16px; bottom: 17px; color: #B58A44; transition: transform .18s cubic-bezier(.23,1,.32,1); }
+.section-dashboard-card:hover > svg { transform: translateX(4px); }
+@media (max-width: 760px) { .section-dashboard { margin-top: 30px; padding-top: 25px; }.section-dashboard-heading { align-items: flex-start; flex-direction: column; gap: 9px; }.section-dashboard-heading h2 { font-size: 25px; }.section-dashboard-heading p { max-width: 100%; text-align: left; }.section-dashboard-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }.section-dashboard-card { min-height: 140px; padding: 16px 14px; }.section-dashboard-dot { margin-bottom: 14px; }.section-dashboard-card strong { margin-top: 12px; font-size: 30px; }.section-dashboard-label { max-width: 100px; line-height: 1.35; } }

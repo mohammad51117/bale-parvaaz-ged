@@ -39,3 +39,11 @@
 - [x] Apply the logo to the app shell, browser metadata, and favicon.
 - [x] Verify the logo at desktop and mobile header sizes.
 - [x] Run type check, production build, and save a checkpoint.
+
+## Streamlined Home section dashboard
+
+- [x] Audit the Home question-set list and calculate section totals across all imported workbooks.
+- [x] Remove the long question-set list from Home while preserving subject-page navigation.
+- [x] Replace static rail counts with dynamic all-workbook question totals for the four GED sections.
+- [x] Verify the shortened Home layout and counts on desktop and mobile.
+- [x] Run type check, production build, and save a checkpoint.
