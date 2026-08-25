@@ -94,3 +94,12 @@
 - [x] Wire the frontend to persistent backend reads with a safe fallback during migration.
 - [x] Verify database counts, representative reader routes, and asset URLs.
 - [x] Save a checkpoint so the Supabase-backed version is live.
+
+## Restore missing Social Studies questions
+
+- [x] Compare the previously bundled Social Studies question count with current Supabase rows and runtime counts.
+- [x] Identify omitted Social Studies workbooks, groups, or question rows from the migration.
+- [x] Restore every missing Social Studies question and group without deleting existing data.
+- [x] Fix any runtime filtering/count logic that hides restored Social Studies questions.
+- [x] Verify the Social Studies total is 803 questions across the subject index, study desk, and reader.
+- [x] Save a checkpoint so the restored Social Studies library is live.

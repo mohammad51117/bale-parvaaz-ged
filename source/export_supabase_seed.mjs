@@ -1,11 +1,15 @@
 import { writeFile } from 'node:fs/promises';
 
-const [{ bookData }, { questionGroups }, { interactiveQuestions }, { workbookSources }, { brandLogoUrl, brandLogoAlt }, { supplementalBatterySocialStudiesGroups: batteryGroups, supplementalBatterySocialStudiesQuestions: batteryQuestions }, { supplementalKaplanSocialStudiesGroups: kaplanGroups, supplementalKaplanSocialStudiesQuestions: kaplanQuestions }, { supplementalKaplanSocialStudiesPretestGroups: kaplanPretestGroups, supplementalKaplanSocialStudiesPretestQuestions: kaplanPretestQuestions }, { supplementalPrincetonSocialStudiesTest2Groups: princetonGroups, supplementalPrincetonSocialStudiesTest2Questions: princetonQuestions }, { supplementalSocialStudiesSourcePages }, { visualAssets }] = await Promise.all([
+const [{ bookData }, { questionGroups }, { interactiveQuestions }, { workbookSources }, { brandLogoUrl, brandLogoAlt },   { supplementalEconomicsGroups: economicsGroups, supplementalEconomicsQuestions: economicsQuestions },
+  { supplementalMcGrawHillGroups: mcgrawGroups, supplementalMcGrawHillQuestions: mcgrawQuestions },
+  { supplementalBatterySocialStudiesGroups: batteryGroups, supplementalBatterySocialStudiesQuestions: batteryQuestions }, { supplementalKaplanSocialStudiesGroups: kaplanGroups, supplementalKaplanSocialStudiesQuestions: kaplanQuestions }, { supplementalKaplanSocialStudiesPretestGroups: kaplanPretestGroups, supplementalKaplanSocialStudiesPretestQuestions: kaplanPretestQuestions }, { supplementalPrincetonSocialStudiesTest2Groups: princetonGroups, supplementalPrincetonSocialStudiesTest2Questions: princetonQuestions }, { supplementalSocialStudiesSourcePages }, { visualAssets }] = await Promise.all([
   import('../client/src/lib/bookData.ts'),
   import('../client/src/lib/questionGroups.ts'),
   import('../client/src/lib/interactiveQuestions.ts'),
   import('../client/src/lib/workbookSources.ts'),
   import('../client/src/lib/branding.ts'),
+  import('../client/src/lib/supplementalEconomics.ts'),
+  import('../client/src/lib/supplementalMcGrawHill.ts'),
   import('../client/src/lib/supplementalBatterySocialStudies.ts'),
   import('../client/src/lib/supplementalKaplanSocialStudies.ts'),
   import('../client/src/lib/supplementalKaplanSocialStudiesPretest.ts'),
@@ -73,6 +77,8 @@ const addGroups = (groups, questions) => {
   }
 };
 addGroups(questionGroups.groups, interactiveQuestions.questions);
+addGroups(economicsGroups, economicsQuestions);
+addGroups(mcgrawGroups, mcgrawQuestions);
 addGroups(batteryGroups, batteryQuestions);
 addGroups(kaplanGroups, kaplanQuestions);
 addGroups(kaplanPretestGroups, kaplanPretestQuestions);
