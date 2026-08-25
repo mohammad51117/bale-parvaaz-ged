@@ -147,7 +147,8 @@ for index, (number, match, page_num) in enumerate(practice_matches):
     next_marker_offsets = [marker['offset'] for marker in markers if marker['offset'] > match.start()]
     next_marker_offset = min(next_marker_offsets) if next_marker_offsets else len(full_text)
     candidate_end = next_match.start() if next_match else len(full_text)
-    end_pos = min(candidate_end, next_marker_offset)
+    practice_end_offset = page_starts.get(434, len(full_text))
+    end_pos = min(candidate_end, next_marker_offset, practice_end_offset)
     question_text = clean(full_text[match.start():end_pos])
     groups.append({
         'id': f'group-standalone-{number}',
