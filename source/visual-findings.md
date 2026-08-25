@@ -17,3 +17,7 @@ The latest grouped-reader screenshot for `/?group=group-506-507` confirms the qu
 ## Subject route verification
 
 The corrected chapter order maps the science practice pages to Science. Questions 508 and 509 appear as explicit standalone records in Science, each with clean source text and no accidental inclusion of the following Questions 510–512 context. `/subject/social-studies` renders a dedicated searchable question-set library, and `/reader/group-standalone-508` plus `/reader/group-standalone-509` render focused standalone readers. Desktop and mobile screenshots confirm the dedicated layouts are responsive and professional.
+
+## Stacked source-context layout verification
+
+The question reader now uses a single vertical column: extracted shared context appears first, and the actual source folio visual appears directly below at full available width. Desktop and mobile captures of Questions 506–507 show the airplane figure below its marker with the question area no longer narrowed by a side-by-side grid. Question 508 retains the same wider reading composition.

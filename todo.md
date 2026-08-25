@@ -1,4 +1,12 @@
-# Interactive GED practice
+# Wider stacked source-context reader
+
+- [x] Stack extracted shared context above the source-page visual in the reader.
+- [x] Give visual assets full available reading width without narrowing question text.
+- [x] Verify figure, map, table, and chart readers on desktop and mobile.
+- [x] Run type check, production build, screenshots, and checkpoint the layout correction.
+
+## Previous interactive GED practice
+
 
 - [x] Audit answer-key coverage and map question numbers to correct choices and explanations.
 - [x] Parse each question into prompt and selectable answer choices without losing formatting.
