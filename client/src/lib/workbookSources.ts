@@ -7,7 +7,7 @@ export type WorkbookSource = {
   note: string;
 };
 
-export type WorkbookKey = "main" | "economics" | "mcgraw" | "battery" | "kaplan" | "kaplan-pretest";
+export type WorkbookKey = "main" | "economics" | "mcgraw" | "battery" | "kaplan" | "kaplan-pretest" | "princeton";
 export type WorkbookFilter = "all" | WorkbookKey;
 
 export const workbookSources: Record<string, WorkbookSource> = {
@@ -53,6 +53,13 @@ export const workbookSources: Record<string, WorkbookSource> = {
     pageLabel: "PDF page",
     note: "Supplemental scanned Social Studies pretest",
   },
+  princeton: {
+    id: "princeton-social-studies-test-2",
+    title: "Princeton Social Studies Test 2",
+    shortTitle: "Princeton Social Studies Test 2",
+    pageLabel: "PDF page",
+    note: "Supplemental scanned Social Studies test",
+  },
 };
 
 export const workbookFilterOptions: readonly { value: WorkbookFilter; label: string; shortLabel: string }[] = [
@@ -63,6 +70,7 @@ export const workbookFilterOptions: readonly { value: WorkbookFilter; label: str
   { value: "battery", label: workbookSources.battery.shortTitle, shortLabel: "Battery Social Studies Test 2" },
   { value: "kaplan", label: workbookSources.kaplan.shortTitle, shortLabel: "Kaplan Social Studies Test" },
   { value: "kaplan-pretest", label: workbookSources["kaplan-pretest"].shortTitle, shortLabel: "Kaplan Social Studies Pretest" },
+  { value: "princeton", label: workbookSources.princeton.shortTitle, shortLabel: "Princeton Social Studies Test 2" },
 ];
 
 export function getWorkbookKey(groupId: string): WorkbookKey {
@@ -70,6 +78,7 @@ export function getWorkbookKey(groupId: string): WorkbookKey {
   if (groupId.startsWith("mcgraw-")) return "mcgraw";
   if (groupId.startsWith("battery-ss-")) return "battery";
   if (groupId.startsWith("kaplan-pretest-ss-")) return "kaplan-pretest";
+  if (groupId.startsWith("princeton-ss-")) return "princeton";
   if (groupId.startsWith("kaplan-ss-")) return "kaplan";
   return "main";
 }
@@ -79,7 +88,7 @@ export function getWorkbookSource(groupId: string): WorkbookSource {
 }
 
 export function isWorkbookFilter(value: string | null): value is WorkbookFilter {
-  return value === "all" || value === "main" || value === "economics" || value === "mcgraw" || value === "battery" || value === "kaplan" || value === "kaplan-pretest";
+  return value === "all" || value === "main" || value === "economics" || value === "mcgraw" || value === "battery" || value === "kaplan" || value === "kaplan-pretest" || value === "princeton";
 }
 
 export function getInitialWorkbookFilter(): WorkbookFilter {

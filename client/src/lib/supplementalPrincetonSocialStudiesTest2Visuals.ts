@@ -1,0 +1,15 @@
+export const supplementalPrincetonSocialStudiesTest2Visuals: Record<number, string> = {
+  6004: "/manus-storage/page-04_e4a08545.jpg",
+  6005: "/manus-storage/page-05_f089260d.jpg",
+  6006: "/manus-storage/page-06_615ce928.jpg",
+  6008: "/manus-storage/page-08_102a0b3b.jpg",
+  6011: "/manus-storage/page-11_94d9f8be.jpg",
+  6012: "/manus-storage/page-12_64d3e24b.jpg",
+  6014: "/manus-storage/page-14_d86cd3f3.jpg",
+  6015: "/manus-storage/page-15_a452d0d1.jpg",
+  6017: "/manus-storage/page-17_65141570.jpg",
+  6019: "/manus-storage/page-19_05a3fe88.jpg",
+  6024: "/manus-storage/page-24_1b99dd38.jpg",
+  6026: "/manus-storage/page-26_dbf7cea1.jpg",
+  6028: "/manus-storage/page-28_bb3f504b.jpg",
+};

@@ -10,11 +10,13 @@ import { supplementalMcGrawHillGroups, supplementalMcGrawHillQuestions } from "@
 import { supplementalBatterySocialStudiesGroups, supplementalBatterySocialStudiesQuestions } from "@/lib/supplementalBatterySocialStudies";
 import { supplementalKaplanSocialStudiesGroups, supplementalKaplanSocialStudiesQuestions } from "@/lib/supplementalKaplanSocialStudies";
 import { supplementalKaplanSocialStudiesPretestGroups, supplementalKaplanSocialStudiesPretestQuestions } from "@/lib/supplementalKaplanSocialStudiesPretest";
+import { supplementalPrincetonSocialStudiesTest2Groups, supplementalPrincetonSocialStudiesTest2Questions } from "@/lib/supplementalPrincetonSocialStudiesTest2";
 import { supplementalEconomicsVisuals } from "@/lib/supplementalEconomicsVisuals";
 import { supplementalMcGrawHillVisuals } from "@/lib/supplementalMcGrawHillVisuals";
 import { supplementalBatterySocialStudiesVisuals } from "@/lib/supplementalBatterySocialStudiesVisuals";
 import { supplementalKaplanSocialStudiesVisuals } from "@/lib/supplementalKaplanSocialStudiesVisuals";
 import { supplementalKaplanSocialStudiesPretestVisuals } from "@/lib/supplementalKaplanSocialStudiesPretestVisuals";
+import { supplementalPrincetonSocialStudiesTest2Visuals } from "@/lib/supplementalPrincetonSocialStudiesTest2Visuals";
 import { getWorkbookSource } from "@/lib/workbookSources";
 
 type Group = { id: string; section: string; questionStart: number; questionEnd: number; rangeLabel: string; contextType: string; marker: string; context: string; sourcePages: readonly number[]; visualPage?: number | null; questions: readonly { number: number; text: string }[] };
@@ -52,10 +54,10 @@ function PracticeQuestion({ question, selected, response, submitted, onSelect, o
 export default function QuestionReader() {
   const [location, setLocation] = useLocation();
   const groupId = decodeURIComponent(location.split("/").pop() || "");
-  const groups = [...(questionGroups.groups as readonly Group[]), ...(supplementalEconomicsGroups as readonly Group[]), ...(supplementalMcGrawHillGroups as readonly Group[]), ...(supplementalBatterySocialStudiesGroups as readonly Group[]), ...(supplementalKaplanSocialStudiesGroups as readonly Group[]), ...(supplementalKaplanSocialStudiesPretestGroups as readonly Group[])];
+  const groups = [...(questionGroups.groups as readonly Group[]), ...(supplementalEconomicsGroups as readonly Group[]), ...(supplementalMcGrawHillGroups as readonly Group[]), ...(supplementalBatterySocialStudiesGroups as readonly Group[]), ...(supplementalKaplanSocialStudiesGroups as readonly Group[]), ...(supplementalKaplanSocialStudiesPretestGroups as readonly Group[]), ...(supplementalPrincetonSocialStudiesTest2Groups as readonly Group[])];
   const groupIndex = Math.max(0, groups.findIndex((item) => item.id === groupId));
   const group = groups[groupIndex] || groups[0];
-  const allInteractiveQuestions = [...(interactiveQuestions.questions as readonly InteractiveQuestion[]), ...(supplementalEconomicsQuestions as readonly InteractiveQuestion[]), ...(supplementalMcGrawHillQuestions as readonly InteractiveQuestion[]), ...(supplementalBatterySocialStudiesQuestions as readonly InteractiveQuestion[]), ...(supplementalKaplanSocialStudiesQuestions as readonly InteractiveQuestion[]), ...(supplementalKaplanSocialStudiesPretestQuestions as readonly InteractiveQuestion[])];
+  const allInteractiveQuestions = [...(interactiveQuestions.questions as readonly InteractiveQuestion[]), ...(supplementalEconomicsQuestions as readonly InteractiveQuestion[]), ...(supplementalMcGrawHillQuestions as readonly InteractiveQuestion[]), ...(supplementalBatterySocialStudiesQuestions as readonly InteractiveQuestion[]), ...(supplementalKaplanSocialStudiesQuestions as readonly InteractiveQuestion[]), ...(supplementalKaplanSocialStudiesPretestQuestions as readonly InteractiveQuestion[]), ...(supplementalPrincetonSocialStudiesTest2Questions as readonly InteractiveQuestion[])];
   const questionMap = useMemo(() => new Map(allInteractiveQuestions.map((question) => [`${question.groupId}-${question.number}`, question])), [allInteractiveQuestions]);
   const activeQuestions = group.questions.map((question) => questionMap.get(`${group.id}-${question.number}`)).filter(Boolean) as InteractiveQuestion[];
   const [selected, setSelected] = useState<Record<number, string>>({});
@@ -69,9 +71,9 @@ export default function QuestionReader() {
   const topic = activeQuestions[0]?.topic || "General practice";
   const workbookSource = getWorkbookSource(group.id);
   const reference = workbookSource.title;
-  const allVisualAssets = { ...visualAssets, ...supplementalEconomicsVisuals, ...supplementalMcGrawHillVisuals, ...supplementalBatterySocialStudiesVisuals, ...supplementalKaplanSocialStudiesVisuals, ...supplementalKaplanSocialStudiesPretestVisuals };
+  const allVisualAssets = { ...visualAssets, ...supplementalEconomicsVisuals, ...supplementalMcGrawHillVisuals, ...supplementalBatterySocialStudiesVisuals, ...supplementalKaplanSocialStudiesVisuals, ...supplementalKaplanSocialStudiesPretestVisuals, ...supplementalPrincetonSocialStudiesTest2Visuals };
   const visualUrl = group.visualPage ? allVisualAssets[group.visualPage] : undefined;
-  const visualSourceLabel = group.visualPage && group.visualPage >= 4000 ? group.visualPage - 4000 : group.visualPage && group.visualPage >= 3000 ? group.visualPage - 3000 : group.visualPage && group.visualPage >= 2000 ? group.visualPage - 2000 : group.visualPage && group.visualPage >= 1000 ? group.visualPage - 1000 : group.visualPage;
+  const visualSourceLabel = group.visualPage && group.visualPage >= 6000 ? group.visualPage - 6000 : group.visualPage && group.visualPage >= 4000 ? group.visualPage - 4000 : group.visualPage && group.visualPage >= 3000 ? group.visualPage - 3000 : group.visualPage && group.visualPage >= 2000 ? group.visualPage - 2000 : group.visualPage && group.visualPage >= 1000 ? group.visualPage - 1000 : group.visualPage;
   const answeredCount = activeQuestions.filter((question) => submitted[question.number]).length;
   const toggleBookmark = (number: number) => setBookmarked((items) => items.includes(number) ? items.filter((item) => item !== number) : [...items, number]);
 

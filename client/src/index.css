@@ -280,3 +280,55 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
 .margin-note-action span { color: #5E8067; }
 @media (max-width: 1050px) { .reader-context-layout { grid-template-columns: minmax(0, 1fr) 150px; gap: 17px; } }
 @media (max-width: 760px) { .route-with-spine { padding-left: 0; }.route-spine { display: none; }.subject-folio-rule { grid-template-columns: 1fr auto; gap: 10px; }.subject-folio-rule i { grid-column: 1 / -1; grid-row: 2; }.reader-context-layout { grid-template-columns: 1fr; }.reader-margin-notes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); padding-top: 0; }.margin-note-action { grid-column: 1 / -1; } }
+
+
+/* Atlas Study Hall signature pass: the spine is the desktop backbone, folios stay connected, and answers read as paper slips. */
+@media (min-width: 761px) {
+  .route-with-spine { padding-left: 112px; }
+  .route-spine {
+    width: 112px;
+    padding-left: 13px;
+    padding-right: 13px;
+    background-color: #1F3C51;
+    background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 77px, rgba(229,162,58,.12) 78px, transparent 79px);
+    border-right: 1px solid rgba(229,162,58,.22);
+    box-shadow: 10px 0 30px rgba(32,48,55,.14);
+  }
+  .route-spine::after { content: ""; position: absolute; top: 118px; bottom: 28px; right: 15px; width: 1px; background: linear-gradient(rgba(229,162,58,.75), rgba(229,162,58,.1)); pointer-events: none; }
+  .route-spine > strong { font-size: 19px; letter-spacing: -.03em; }
+  .route-spine-section { max-width: 82px; font-size: 9px; }
+  .route-spine-rule { height: 126px; margin-top: 14px; }
+  .route-spine-folio { color: #E5A23A; font-size: 9px; letter-spacing: .12em; }
+  .subject-page-header, .reader-page-header { padding-left: clamp(32px, 5vw, 76px); padding-right: clamp(32px, 5vw, 76px); }
+  .subject-page-main, .reader-page-main { width: min(1110px, calc(100% - 64px)); }
+}
+
+.subject-folio-rule { margin-top: 25px; padding: 11px 0 10px; border-top: 1px solid #D9D0C3; border-bottom: 1px solid #D9D0C3; }
+.subject-folio-rule i { height: 4px; background: #D9D0C3; }
+.subject-folio-rule i b { background: #E5A23A; }
+.part-section + .part-section { margin-top: 52px; }
+.part-section-header { position: relative; padding-bottom: 16px; border-bottom: 3px double #C9BCA7; }
+.part-section-header::after { content: ""; position: absolute; left: 4px; bottom: -4px; width: 42px; border-bottom: 2px solid #E5A23A; }
+.subject-set-row { position: relative; padding-top: 27px; padding-bottom: 27px; }
+.subject-set-row::before { content: ""; position: absolute; top: 0; left: 0; width: 2px; height: 100%; background: transparent; transition: background .18s; }
+.subject-set-row:hover::before { background: #E5A23A; }
+.set-index { color: #AF9767; font-size: 28px; }
+
+.standalone-context-copy h1 { color: #2F5262; }
+.reader-page-nav { border-left: 3px solid #E5A23A; padding-left: 12px; }
+.reader-page-nav span { color: #AF8A4B; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; }
+.practice-question { background: rgba(255,253,248,.4); }
+.choice-option { position: relative; border-left: 3px solid #D9C9AD; background: #FFFDF8; box-shadow: 4px 4px 0 #EFE6D8; }
+.choice-option:hover:not(:disabled) { border-left-color: #D69B36; box-shadow: 6px 5px 0 #EFE1C9; }
+.choice-option.selected { border-left-color: #D69B36; box-shadow: 5px 5px 0 #F0DFC1; }
+.choice-option.correct-option { border-left-color: #6E9B7B; box-shadow: 4px 4px 0 #DEEBDD; }
+.choice-option.incorrect-option { border-left-color: #B96F5A; box-shadow: 4px 4px 0 #F0DCD4; }
+.fill-answer input, .fill-answer textarea { border: 0; border-bottom: 2px solid #CDBB9B; background: #FFFDF8; box-shadow: 4px 4px 0 #EFE6D8; }
+.fill-answer input:focus, .fill-answer textarea:focus { border-bottom-color: #D69B36; box-shadow: 4px 4px 0 #F0DFC1; }
+.check-answer, .reset-answer { letter-spacing: .02em; }
+@media (max-width: 760px) {
+  .subject-folio-rule { margin-top: 18px; }
+  .part-section + .part-section { margin-top: 36px; }
+  .reader-page-nav { padding-left: 8px; }
+  .choice-option, .fill-answer input, .fill-answer textarea { box-shadow: 3px 3px 0 #EFE6D8; }
+}
