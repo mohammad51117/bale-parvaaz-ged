@@ -24,3 +24,10 @@
 - [x] Add the workbook to the source registry, question groups, interactive questions, and filter options.
 - [x] Verify the new Social Studies workbook library and representative readers on desktop and mobile.
 - [x] Run type check, production build, and save a checkpoint.
+
+## Home question totals correction
+
+- [x] Audit Home statistics and calculate the total imported question count by workbook.
+- [x] Replace static Home question totals with dynamic source-aware values.
+- [x] Verify All sources, main-book, Economics supplement, and McGraw Hill states on desktop and mobile.
+- [x] Run type check, production build, and save a checkpoint.

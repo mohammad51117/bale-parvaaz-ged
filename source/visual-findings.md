@@ -69,3 +69,7 @@ The supplied McGraw-Hill Education Social Studies Workbook for the GED Test is 2
 The rendered McGraw Hill folio 40 preserves the chapter heading, Locke quotation, and visible Questions 1–2 with readable source typography at 816×1056px. The same page is available to the new grouped reader under the McGraw Hill source-page convention.
 
 McGraw Hill verification passed on desktop and mobile. The Social Studies library shows 226 sets and 380 linked questions when `workbook=mcgraw` is selected. The grouped reader for Civics and Government Questions 1–2 shows the Locke passage, original rendered source folio 40, “source page 40–40” attribution, and the full interactive A–D choices beneath the visual context. The selector and source labels remain readable at 390px width.
+
+## Home question total correction
+
+The Home desk now calculates the visible question-bank total from grouped records rather than the original 1,001-only label. The default All sources total is 1,429 questions: 1,000 main-book interactive records, 49 Economics-supplement questions, and 380 McGraw Hill workbook questions. The same dynamic number appears in the hero reference, Question Bank statistic, and filtered result summary.
