@@ -31,3 +31,10 @@
 - [x] Verify zoom, fit-to-width reset, keyboard access, and responsive behavior
 - [x] Add pinch-to-zoom gesture support for source-page images on touchscreens
 - [x] Verify pinch zoom, touch scrolling, fit reset, and mobile layout
+- [x] Diagnose the Question 374 source-page mismatch and compare neighboring question mappings
+- [x] Correct the question-to-PDF-page mapping without regressing information, standalone, or zoom behavior
+- [x] Verify Question 374 and adjacent reader groups load the correct source pages
+- [x] Machine-check that rendered folios 144 and 145 contain the expected Question 373–375 PDF content
+- [x] Re-verify one information group and one standalone group after the folio overwrite, including zoom behavior
+- [x] Validate corrected folio image bytes against the deterministic render of the expected physical PDF page
+- [x] Extend the route regression check to include Question 373 explicitly
