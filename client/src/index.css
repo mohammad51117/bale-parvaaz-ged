@@ -45,8 +45,8 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
 .rail-brand-copy { min-width: 0; }
 .brand-logo { display: block; width: 40px; height: 40px; flex: 0 0 40px; object-fit: contain; object-position: center; }
 .brand-mark { width: 37px; height: 37px; border-radius: 10px 10px 13px 4px; background: #E5A23A; position: relative; transform: rotate(-4deg); box-shadow: 5px 5px 0 rgba(229,162,58,.14); }
-.brand-mark:before, .brand-mark:after { content: ""; position: absolute; top: 8px; width: 2px; height: 21px; background: #213F55; border-radius: 99px; }
-.brand-mark:before { left: 17px; transform: rotate(25deg); } .brand-mark:after { left: 20px; transform: rotate(-25deg); }
+.brand-mark:not(.brand-mark-photo):before, .brand-mark:not(.brand-mark-photo):after { content: ""; position: absolute; top: 8px; width: 2px; height: 21px; background: #213F55; border-radius: 99px; }
+.brand-mark:not(.brand-mark-photo):before { left: 17px; transform: rotate(25deg); } .brand-mark:not(.brand-mark-photo):after { left: 20px; transform: rotate(-25deg); }
 .brand-wing { position: absolute; width: 17px; height: 2px; background: #213F55; top: 18px; left: 10px; transform: rotate(-8deg); }
 .brand-name { font: 600 16px/1.1 "Fraunces", Georgia, serif; letter-spacing: -.02em; } .brand-subtitle { color: #B7C5C6; font-size: 10px; margin-top: 4px; letter-spacing: .06em; text-transform: uppercase; }
 .rail-close, .mobile-menu, .mobile-brand-toggle { display: none; }

@@ -38,3 +38,6 @@
 - [x] Re-verify one information group and one standalone group after the folio overwrite, including zoom behavior
 - [x] Validate corrected folio image bytes against the deterministic render of the expected physical PDF page
 - [x] Extend the route regression check to include Question 373 explicitly
+- [x] Remove the unwanted diagonal-line artifact across the header logo
+- [x] Verify the corrected logo wrapper at desktop and mobile sizes
+- [x] Machine-check desktop and mobile logo wrapper dimensions, overflow, and absence of legacy pseudo-element decorations
