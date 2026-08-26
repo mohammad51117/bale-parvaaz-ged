@@ -41,3 +41,8 @@
 - [x] Remove the unwanted diagonal-line artifact across the header logo
 - [x] Verify the corrected logo wrapper at desktop and mobile sizes
 - [x] Machine-check desktop and mobile logo wrapper dimensions, overflow, and absence of legacy pseudo-element decorations
+- [x] Make every main app logo placement clickable and return to the dashboard
+- [x] Verify logo click and keyboard navigation from home, subject, and reader views
+- [x] Split the Home sidebar brand control so the visible logo/name navigates to the dashboard while sidebar collapse remains available separately
+- [x] Add machine-checkable Home, Subject, and Reader logo tests for click, native Enter activation, and focus semantics
+- [x] Clarify dashboard-link keyboard coverage to use native anchor Enter activation and focus semantics; Space is not required for semantic links

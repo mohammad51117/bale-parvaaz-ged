@@ -37,7 +37,7 @@ import { supplementalPrincetonSocialStudiesTest2Groups, supplementalPrincetonSoc
 import { supplementalPrincetonSocialStudiesTest2Visuals } from "@/lib/supplementalPrincetonSocialStudiesTest2Visuals";
 import { getInitialWorkbookFilter, getWorkbookSource, matchesWorkbook, persistWorkbookFilter, type WorkbookFilter, workbookFilterOptions } from "@/lib/workbookSources";
 import { getSupplementalSocialStudiesSourcePage } from "@/lib/supplementalSocialStudiesSourcePages";
-import { useLocation } from "wouter";
+import { Link, useLocation } from "wouter";
 import { brandLogoAlt, brandLogoUrl } from "@/lib/branding";
 import { publicGedPageAsset, publicGedVisualAsset } from "@/lib/publicAssetUrls";
 import { usePersistentStudyLibrary } from "@/lib/persistentLibrary";
@@ -168,13 +168,14 @@ export default function Home() {
     <div className={`app-shell ${railCollapsed ? "rail-collapsed" : ""}`}>
       <aside className={`book-rail ${mobileRail ? "book-rail-open" : ""}`}>
         <div className="rail-brand">
-          <button className="rail-brand-toggle" type="button" onClick={toggleLogoSidebar} aria-label={railCollapsed ? "Show sidebar" : "Hide sidebar"} aria-expanded={!railCollapsed} title={railCollapsed ? "Show sidebar" : "Hide sidebar"}>
+          <Link href="/" className="rail-brand-home-link" aria-label="Go to study dashboard" title="Go to study dashboard">
             <span className="brand-mark brand-mark-photo"><img src={brandLogoUrl} alt={brandLogoAlt} /></span>
             <span className="rail-brand-copy">
               <span className="brand-name">Bale Parvaaz</span>
               <span className="brand-subtitle">GED / Teacher Momeni</span>
             </span>
-          </button>
+          </Link>
+          <button className="rail-collapse-toggle" type="button" onClick={() => setRailCollapsed(true)} aria-label="Collapse sidebar" title="Collapse sidebar"><ArrowLeft size={15} /></button>
           <button className="rail-close" type="button" onClick={() => setMobileRail(false)} aria-label="Close navigation"><X size={18} /></button>
         </div>
         <div className="rail-rule" />
@@ -199,7 +200,7 @@ export default function Home() {
       <main className="main-canvas">
         <header className="topbar">
           <button className="mobile-menu" type="button" onClick={() => setMobileRail(true)} aria-label="Open navigation"><Menu size={20} /></button>
-          <button className="mobile-brand-toggle" type="button" onClick={toggleLogoSidebar} aria-label={mobileRail ? "Hide sidebar" : "Show sidebar"} aria-expanded={mobileRail} title={mobileRail ? "Hide sidebar" : "Show sidebar"}><img src={brandLogoUrl} alt={brandLogoAlt} /></button>
+          <Link href="/" className="mobile-brand-toggle" aria-label="Go to study dashboard" title="Go to study dashboard"><img src={brandLogoUrl} alt={brandLogoAlt} /></Link>
           <div className="breadcrumb"><span>Study desk</span><span className="slash">/</span><span>{showOpening ? "Opening pages" : activeSubject}</span><span className="slash">/</span><strong>{showOpening ? "Pages 01–05" : `Page ${String(activePage).padStart(3, "0")}`}</strong></div>
           <div className="topbar-actions"><button className="topbar-icon" aria-label="Bookmarks"><Bookmark size={17} /><span>{bookmarked.length}</span></button><div className="topbar-divider" /><span className="folio-label">Folio 2026</span></div>
         </header>
