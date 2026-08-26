@@ -23,6 +23,7 @@ import { brandLogoAlt, brandLogoUrl } from "@/lib/branding";
 import { publicGedSourcePageAsset, publicGedVisualAsset } from "@/lib/publicAssetUrls";
 import { usePersistentStudyLibrary } from "@/lib/persistentLibrary";
 import { pinchSourceZoom, stepSourceZoom } from "@/lib/sourceZoom";
+import { mergeSourceVisuals } from "@/lib/sourceVisuals";
 
 type Group = { id: string; section: string; questionStart: number; questionEnd: number; rangeLabel: string; contextType: string; marker: string; context: string; sourcePages: readonly number[]; visualPage?: number | null; questions: readonly { number: number; text: string }[] };
 type InteractiveQuestion = { number: number; groupId: string; section: string; topic: string; reference: string; prompt: string; choices: readonly { label: string; text: string }[]; correctLabel: string | null; answerLine: string; explanation: string; sourcePage: number };
@@ -93,7 +94,7 @@ export default function QuestionReader() {
     ? publicGedVisualAsset(group.visualPage, allVisualAssets[group.visualPage] || "")
     : undefined;
   const visualSourceLabel = group.visualPage ? group.visualPage >= 6000 ? group.visualPage - 6000 : group.visualPage >= 4000 ? group.visualPage - 4000 : group.visualPage >= 3000 ? group.visualPage - 3000 : group.visualPage >= 2000 ? group.visualPage - 2000 : group.visualPage >= 1000 ? group.visualPage - 1000 : group.visualPage : group.sourcePages[0];
-  const sourceVisuals = sourcePageVisuals.length > 0 ? sourcePageVisuals : legacyVisualUrl ? [{ page: visualSourceLabel, url: legacyVisualUrl }] : [];
+  const sourceVisuals = mergeSourceVisuals(sourcePageVisuals, legacyVisualUrl ? { page: visualSourceLabel, url: legacyVisualUrl } : undefined);
   const answeredCount = activeQuestions.filter((question) => submitted[question.number]).length;
   const toggleBookmark = (number: number) => setBookmarked((items) => items.includes(number) ? items.filter((item) => item !== number) : [...items, number]);
   const handleZoomKeyDown = (event: React.KeyboardEvent<HTMLButtonElement>, action: () => void) => {
