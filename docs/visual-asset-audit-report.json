@@ -1,0 +1,5944 @@
+{
+  "generatedBy": "tools/audit_visual_assets.py",
+  "workbooks": {
+    "main-1001": {
+      "visualGroupCount": 74,
+      "visualAssetCount": 74,
+      "allGroupsHaveAssets": true,
+      "allPublicObjectsMatchTrustedSources": true,
+      "rows": [
+        {
+          "groupId": "group-12-14",
+          "contextType": "table",
+          "visualPage": 14,
+          "publicPath": "pages/main/page-014.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 104253,
+          "expectedBytes": 104253,
+          "sha256": "0082236d5589e7cfd77a892482a15ea7500fabbb3339f5beb3a251132a9e7ab6",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-20-22",
+          "contextType": "table",
+          "visualPage": 18,
+          "publicPath": "pages/main/page-018.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 94944,
+          "expectedBytes": 94944,
+          "sha256": "b3bc1f2216b596620d7b6ed388a135512b672014e5066b5bc6374910e44d7eb4",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-43-45",
+          "contextType": "graph",
+          "visualPage": 25,
+          "publicPath": "pages/main/page-025.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 97837,
+          "expectedBytes": 97837,
+          "sha256": "0297b073904f4f7e2bc07a56e1b74af9f9b1978e2a860aef1b44184818c02a52",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-49-51",
+          "contextType": "graph",
+          "visualPage": 27,
+          "publicPath": "pages/main/page-027.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 87553,
+          "expectedBytes": 87553,
+          "sha256": "44224aeb7dd613804f3779b85577666b3953c66ce5d50d78ce570dc11208c068",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-71-73",
+          "contextType": "table",
+          "visualPage": 33,
+          "publicPath": "pages/main/page-033.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 110278,
+          "expectedBytes": 110278,
+          "sha256": "1940ad4ed6f49af818ad4eb9679625511d242818de5500aef559785e8a00c096",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-78-80",
+          "contextType": "figure",
+          "visualPage": 34,
+          "publicPath": "pages/main/page-034.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 72734,
+          "expectedBytes": 72734,
+          "sha256": "5a201675012f3c5d732ad81f612f5ccd77bfeb7b286d89835f8ed00cec9b0ab2",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-87-88",
+          "contextType": "table",
+          "visualPage": 37,
+          "publicPath": "pages/main/page-037.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 123932,
+          "expectedBytes": 123932,
+          "sha256": "660117bad360ac1b925091cc3e792595a58f054e2562069d230ee37f2356ece3",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-92-93",
+          "contextType": "figure",
+          "visualPage": 39,
+          "publicPath": "pages/main/page-039.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 73583,
+          "expectedBytes": 73583,
+          "sha256": "3565f07395127afe906bef58974860389276928c3ec81d774ba6d1b7feb2996a",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-99-101",
+          "contextType": "figure",
+          "visualPage": 41,
+          "publicPath": "pages/main/page-041.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 84449,
+          "expectedBytes": 84449,
+          "sha256": "24d04400f5040164ac946fc448d0cdbd91c710e152b923dc75437c248e623405",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-104-106",
+          "contextType": "table",
+          "visualPage": 43,
+          "publicPath": "pages/main/page-043.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 91288,
+          "expectedBytes": 91288,
+          "sha256": "baaec74e7e36dba3b3a25ef6fc8cef8e73b1165d51361a8138a3a707723b07d1",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-134-136",
+          "contextType": "table",
+          "visualPage": 51,
+          "publicPath": "pages/main/page-051.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 99837,
+          "expectedBytes": 99837,
+          "sha256": "f3d5fc6d1ad04f78332047b6d7cc1beda2183a823412a77f48cdef868b04530f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-139-141",
+          "contextType": "graph",
+          "visualPage": 53,
+          "publicPath": "pages/main/page-053.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 107502,
+          "expectedBytes": 107502,
+          "sha256": "59d4fe7b35ab5bc8b6c5cfb0edddef36e1c5a6f5c929e7307d5c467d47b504bf",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-142-143",
+          "contextType": "table",
+          "visualPage": 54,
+          "publicPath": "pages/main/page-054.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 104924,
+          "expectedBytes": 104924,
+          "sha256": "5df1b998e504a3552feb2a5a7bb53b4c8a17f8ade98d23bd5aefe1fddf820a1f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-146-148",
+          "contextType": "table",
+          "visualPage": 55,
+          "publicPath": "pages/main/page-055.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 109119,
+          "expectedBytes": 109119,
+          "sha256": "e92b42111e422792d2e904c3713038f6f77fb834537b50bd27a5cc54df0c7676",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-151-153",
+          "contextType": "figure",
+          "visualPage": 57,
+          "publicPath": "pages/main/page-057.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 73912,
+          "expectedBytes": 73912,
+          "sha256": "16ace119392afa0d0e63574215dfadd8690bf142c9788c66315bd7da8febf9d0",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-159-160",
+          "contextType": "table",
+          "visualPage": 60,
+          "publicPath": "pages/main/page-060.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 143741,
+          "expectedBytes": 143741,
+          "sha256": "379f635a7cf880feb61ec9c2ad78ff4afc8053b336e1515aedd9c641e7d1fa3b",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-165-167",
+          "contextType": "figure",
+          "visualPage": 61,
+          "publicPath": "pages/main/page-061.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 84929,
+          "expectedBytes": 84929,
+          "sha256": "41eb9d70b1ef2717499c57c21e2368dc73ff6895f0104af33c69f84fdf2d2dda",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-177-178",
+          "contextType": "table",
+          "visualPage": 65,
+          "publicPath": "pages/main/page-065.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 110552,
+          "expectedBytes": 110552,
+          "sha256": "79213a10c56f926da6e364d15b8ee082e69d867da143581d7a8355b9cccc35c9",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-186-187",
+          "contextType": "chart",
+          "visualPage": 67,
+          "publicPath": "pages/main/page-067.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 102101,
+          "expectedBytes": 102101,
+          "sha256": "50ed16c11698a35119b8ed01ac36742560cd3b64eb3c60703c1b5a781be66f4f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-207-208",
+          "contextType": "chart",
+          "visualPage": 75,
+          "publicPath": "pages/main/page-075.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 110790,
+          "expectedBytes": 110790,
+          "sha256": "eb98108ddf7a9b251f43d7b3edf45b81cebd6303bd22043eb2ea386fc23d6ab3",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-227-228",
+          "contextType": "figure",
+          "visualPage": 81,
+          "publicPath": "pages/main/page-081.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 45164,
+          "expectedBytes": 45164,
+          "sha256": "154982aecbf5f811031bf71764ad6aba04352d9ffbf43ef112499e675502914f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-240-241",
+          "contextType": "figure",
+          "visualPage": 86,
+          "publicPath": "pages/main/page-086.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 71537,
+          "expectedBytes": 71537,
+          "sha256": "52b620da0a6474b3c6e68b2c673362b157361310cce308af3ae0af46732fd309",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-243-245",
+          "contextType": "graph",
+          "visualPage": 87,
+          "publicPath": "pages/main/page-087.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 52373,
+          "expectedBytes": 52373,
+          "sha256": "f3ae64e07fb76c12aa60187eb1fd7a52842b74f1743fe34ab846b946a8951f2f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-260-262",
+          "contextType": "graph",
+          "visualPage": 96,
+          "publicPath": "pages/main/page-096.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 67189,
+          "expectedBytes": 67189,
+          "sha256": "8b129c82ee62967f0ff785de865fb34e386895aa00616ac3ba2fdea484d548af",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-266-268",
+          "contextType": "graph",
+          "visualPage": 99,
+          "publicPath": "pages/main/page-099.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 79819,
+          "expectedBytes": 79819,
+          "sha256": "478f58ac2798746da13e95a4f95eae3d3f9ee026a91d51784275ddfd254c9ef8",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-272-274",
+          "contextType": "table",
+          "visualPage": 102,
+          "publicPath": "pages/main/page-102.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 117735,
+          "expectedBytes": 117735,
+          "sha256": "a5e560596efdd4b41aef55636a38de7ee69f3eadbb7a225d3f6cc43ed18c42de",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-276-277",
+          "contextType": "figure",
+          "visualPage": 103,
+          "publicPath": "pages/main/page-103.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 57947,
+          "expectedBytes": 57947,
+          "sha256": "0047bdfc31a77afdcfe5d6b2e116e79e42f432527acf4828c1aa7ab89607ac74",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-281-283",
+          "contextType": "graph",
+          "visualPage": 105,
+          "publicPath": "pages/main/page-105.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 75080,
+          "expectedBytes": 75080,
+          "sha256": "765f7c85fc25363a4f3f0cf61c7bd5a9c379d0b9323f0fec83f71460d1ba28db",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-291-294",
+          "contextType": "table",
+          "visualPage": 111,
+          "publicPath": "pages/main/page-111.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 150303,
+          "expectedBytes": 150303,
+          "sha256": "2a482f174204b64969ac5e5412945594e52c45f044381c9578d63743db59e9ab",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-303-305",
+          "contextType": "map",
+          "visualPage": 116,
+          "publicPath": "pages/main/page-116.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 72591,
+          "expectedBytes": 72591,
+          "sha256": "f5660bc8f4b80321fb6573223b6365f78456d0f0a26bb1ca79ae3f26f5b4ee44",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-307-311",
+          "contextType": "table",
+          "visualPage": 119,
+          "publicPath": "pages/main/page-119.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 171132,
+          "expectedBytes": 171132,
+          "sha256": "a90bcbbbd4ad1bcda6fd8186744040b7452f04558bbf4c40ad0ab80c63405f0a",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-323-324",
+          "contextType": "graph",
+          "visualPage": 125,
+          "publicPath": "pages/main/page-125.jpg",
+          "sourceKind": "physical-pdf-page-126",
+          "publicStatus": 200,
+          "publicBytes": 101210,
+          "expectedBytes": 101210,
+          "sha256": "c02168be97c5cc4bad060cf2b639f4ab371e516c501b938902f361c15ee0a88d",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-325-329",
+          "contextType": "figure",
+          "visualPage": 127,
+          "publicPath": "pages/main/page-127.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 131285,
+          "expectedBytes": 131285,
+          "sha256": "363e7dc8d9e1f7c71c67364118a808c4b0f8e498221e7557b7868514240c9fb2",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-330-334",
+          "contextType": "table",
+          "visualPage": 130,
+          "publicPath": "pages/main/page-130.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 153951,
+          "expectedBytes": 153951,
+          "sha256": "c3f7d32beeb935abf31c29530393bbf66ee21951fe322723f67028690f7b1b7d",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-335-338",
+          "contextType": "figure",
+          "visualPage": 131,
+          "publicPath": "pages/main/page-131.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 138266,
+          "expectedBytes": 138266,
+          "sha256": "447bf88ae6ccfeb6d1c77e03042c222a8c6c7ecfa7752ca312df2b3535ec0627",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-376-378",
+          "contextType": "graph",
+          "visualPage": 146,
+          "publicPath": "pages/main/page-146.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 158979,
+          "expectedBytes": 158979,
+          "sha256": "67b418d24f7672aabccc11c0dc8edd735a6faa45bb8f7892ffd52e853588391b",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-406-408",
+          "contextType": "graph",
+          "visualPage": 160,
+          "publicPath": "pages/main/page-160.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 130808,
+          "expectedBytes": 130808,
+          "sha256": "804d85450248508807e9b9c2cd267afa6ab3526f3f611554364c29cad430f4a2",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-408-413",
+          "contextType": "figure",
+          "visualPage": 162,
+          "publicPath": "pages/main/page-162.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 172108,
+          "expectedBytes": 172108,
+          "sha256": "221c7a237c3671f912e94780eb425870e3913355ef2cce99d6d65a34f745dd47",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-416-419",
+          "contextType": "table",
+          "visualPage": 165,
+          "publicPath": "pages/main/page-165.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 175882,
+          "expectedBytes": 175882,
+          "sha256": "1b086eacbfb6c6bce9cacd2cb4cd3e0ed4eca182862698c39d4c283010fd3d81",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-432-434",
+          "contextType": "graph",
+          "visualPage": 173,
+          "publicPath": "pages/main/page-173.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 100739,
+          "expectedBytes": 100739,
+          "sha256": "701baf55a3a10d113aead9d335b8636c6649be7a7e0597ba134a7351e5d14da6",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-436-440",
+          "contextType": "table",
+          "visualPage": 176,
+          "publicPath": "pages/main/page-176.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 84268,
+          "expectedBytes": 84268,
+          "sha256": "ff9475999d755294bf9e5197b7db280c61a36861b105cc9e1f09ce25809b5fbb",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-442-446",
+          "contextType": "figure",
+          "visualPage": 178,
+          "publicPath": "pages/main/page-178.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 103468,
+          "expectedBytes": 103468,
+          "sha256": "4d014fd35eab6f8067ef6b5e0f611402f0ea731cd86b8862b918a734f36e5ec5",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-457-459",
+          "contextType": "figure",
+          "visualPage": 185,
+          "publicPath": "pages/main/page-185.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 185895,
+          "expectedBytes": 185895,
+          "sha256": "8e73923da1f083af31142fc8c80c9903420449722bddb2849cd40d31c9a9ef30",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-463-466",
+          "contextType": "map",
+          "visualPage": 188,
+          "publicPath": "pages/main/page-188.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 141274,
+          "expectedBytes": 141274,
+          "sha256": "2a522c3d6e9d1d65bca8773766038d220af27e6303e56e56b529ae1a91c242d1",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-467-471",
+          "contextType": "table",
+          "visualPage": 190,
+          "publicPath": "pages/main/page-190.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 210142,
+          "expectedBytes": 210142,
+          "sha256": "2e8718591a9ce230f222204c08f48e1356553be7a8ea74b30f5eef37275a1f2b",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-473-476",
+          "contextType": "figure",
+          "visualPage": 192,
+          "publicPath": "pages/main/page-192.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 92559,
+          "expectedBytes": 92559,
+          "sha256": "7e3af5c7e772d29dc08dac3b0d77a0569d3c5bf71439eb93104ca9e8fa6978ed",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-479-480",
+          "contextType": "figure",
+          "visualPage": 196,
+          "publicPath": "pages/main/page-196.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 77171,
+          "expectedBytes": 77171,
+          "sha256": "a241dcc0d5e61e1782c3de8a544ba3005c0211b249510bbb1b0c16d7f16dc391",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-485-486",
+          "contextType": "map",
+          "visualPage": 200,
+          "publicPath": "pages/main/page-200.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 125265,
+          "expectedBytes": 125265,
+          "sha256": "5aa9cdb304ea875869420287953ac1aa107447ad890d8a2cad1a1fcf780584ef",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-491-493",
+          "contextType": "figure",
+          "visualPage": 202,
+          "publicPath": "pages/main/page-202.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 122899,
+          "expectedBytes": 122899,
+          "sha256": "1adf5c17dd288603ab079b96399121d2a22efdc0f40212544053dc356b67f199",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-494-499",
+          "contextType": "map",
+          "visualPage": 205,
+          "publicPath": "pages/main/page-205.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 163556,
+          "expectedBytes": 163556,
+          "sha256": "9876bd292dc7f8d55fe8ae613b4603655dba529a234897c1a59e1569cbdf80e7",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-506-507",
+          "contextType": "figure",
+          "visualPage": 210,
+          "publicPath": "pages/main/page-210.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 110938,
+          "expectedBytes": 110938,
+          "sha256": "cf9b4b9fefa59e97ecface214df53c7bc9f1cb0f08252953dbfa48fa945b4d14",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-529-530",
+          "contextType": "figure",
+          "visualPage": 217,
+          "publicPath": "pages/main/page-217.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 140878,
+          "expectedBytes": 140878,
+          "sha256": "b014b96d86004e6b71038167766b0ae4ace413dbe2c2b3fe0ec552a700dc05ba",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-531-532",
+          "contextType": "figure",
+          "visualPage": 218,
+          "publicPath": "pages/main/page-218.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 149324,
+          "expectedBytes": 149324,
+          "sha256": "bc55054847a4960f6d06b66a50f7742cfdd71f318530eef33b0d3e17bea55364",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-536-537",
+          "contextType": "figure",
+          "visualPage": 220,
+          "publicPath": "pages/main/page-220.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 147524,
+          "expectedBytes": 147524,
+          "sha256": "ce39a0a35f29eb2b2a7f3cfe6836f7aa248712d85d8d9c787702672b6bc1069f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-539-540",
+          "contextType": "figure",
+          "visualPage": 221,
+          "publicPath": "pages/main/page-221.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 116502,
+          "expectedBytes": 116502,
+          "sha256": "fa397da0833fb68d01c42a49a5be3f4804db7a886c920031a71355940be64d1e",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-547-550",
+          "contextType": "chart",
+          "visualPage": 225,
+          "publicPath": "pages/main/page-225.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 111642,
+          "expectedBytes": 111642,
+          "sha256": "942842b7fd4e9b4ac64e647b49ef88e322d53d49e9034b9b9dfd5d61fd75f8b5",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-553-555",
+          "contextType": "figure",
+          "visualPage": 226,
+          "publicPath": "pages/main/page-226.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 126077,
+          "expectedBytes": 126077,
+          "sha256": "e6288be5084e1d8ac705855e90e60add92afed2fcfe927aee7db4dd999fa010e",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-557-560",
+          "contextType": "figure",
+          "visualPage": 228,
+          "publicPath": "pages/main/page-228.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 135555,
+          "expectedBytes": 135555,
+          "sha256": "d0e1454ba9f4cb54204c90cb91ebb1612fa5e74c1b5376908b5d9393106a97f6",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-582-585",
+          "contextType": "figure",
+          "visualPage": 237,
+          "publicPath": "pages/main/page-237.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 97412,
+          "expectedBytes": 97412,
+          "sha256": "b43ccb9c3220f7f922fb2085beb3e05ff109faf57cf5ec4da29b78329aa80ee6",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-586-589",
+          "contextType": "figure",
+          "visualPage": 239,
+          "publicPath": "pages/main/page-239.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 63928,
+          "expectedBytes": 63928,
+          "sha256": "ebb548ca056876693e0ffb93f36828041b175cfecd8ac7abdfe719c997f08a55",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-629-632",
+          "contextType": "graph",
+          "visualPage": 253,
+          "publicPath": "pages/main/page-253.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 81327,
+          "expectedBytes": 81327,
+          "sha256": "47568f78f797562e267a9aed530d6f114d7be023cfb2fd5253aa815e3139c7f3",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-639-640",
+          "contextType": "graph",
+          "visualPage": 256,
+          "publicPath": "pages/main/page-256.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 65812,
+          "expectedBytes": 65812,
+          "sha256": "6a811143406a43935cea5d004986149a3cc5e7b1d37c6179f04c8eaf63668543",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-642-645",
+          "contextType": "graph",
+          "visualPage": 258,
+          "publicPath": "pages/main/page-258.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 69580,
+          "expectedBytes": 69580,
+          "sha256": "e35e969e672cfbe1e582f7fa66a6f04a19e5c1fb8b2a675d371372693c8e8e09",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-647-649",
+          "contextType": "graph",
+          "visualPage": 261,
+          "publicPath": "pages/main/page-261.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 104969,
+          "expectedBytes": 104969,
+          "sha256": "3be8fd03ed3ce499b3fbc94795fefc7d53cc90955cf463c9344cdbcb853847ea",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-665-670",
+          "contextType": "table",
+          "visualPage": 269,
+          "publicPath": "pages/main/page-269.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 136989,
+          "expectedBytes": 136989,
+          "sha256": "0a0965d3e307910ac8afaab6b290a0371e52fce1990ab85b1ad780b34d80d5ce",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-672-677",
+          "contextType": "table",
+          "visualPage": 272,
+          "publicPath": "pages/main/page-272.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 121135,
+          "expectedBytes": 121135,
+          "sha256": "f4978a98ff51fddd422381b72f9564b72846ca647167b83e2ae4ea8e5156aa66",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-683-685",
+          "contextType": "figure",
+          "visualPage": 275,
+          "publicPath": "pages/main/page-275.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 159555,
+          "expectedBytes": 159555,
+          "sha256": "ec425f41911084cfce818a0b8036800b2987ac72cb6be13045f7e5a6242d2749",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-695-696",
+          "contextType": "table",
+          "visualPage": 280,
+          "publicPath": "pages/main/page-280.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 145993,
+          "expectedBytes": 145993,
+          "sha256": "a2aa5e7c98f32884a260a8f25471c05eb1f7ed7625b726636084c7054a8bd40c",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-697-701",
+          "contextType": "table",
+          "visualPage": 281,
+          "publicPath": "pages/main/page-281.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 173335,
+          "expectedBytes": 173335,
+          "sha256": "b918d174f9b2a3734b2f399365ea2d3480e2de3665a5671670b69babede16316",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-702-703",
+          "contextType": "figure",
+          "visualPage": 283,
+          "publicPath": "pages/main/page-283.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 115291,
+          "expectedBytes": 115291,
+          "sha256": "6e10f3290897c606aa8013c640c0a8ac3a01e3f549517d5b5b8958dc9fda0bac",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-704-707",
+          "contextType": "figure",
+          "visualPage": 284,
+          "publicPath": "pages/main/page-284.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 98815,
+          "expectedBytes": 98815,
+          "sha256": "152e440478f56217dc0f9a51d85ea5602cf3e70bc9d5894d2444e0a38610ab6c",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-715-718",
+          "contextType": "table",
+          "visualPage": 290,
+          "publicPath": "pages/main/page-290.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 145535,
+          "expectedBytes": 145535,
+          "sha256": "a1a2d8e34d052901a3a394958c3f5872081b33ee79ab2cbcc2ed1aaf4d190200",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-719-722",
+          "contextType": "table",
+          "visualPage": 291,
+          "publicPath": "pages/main/page-291.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 174029,
+          "expectedBytes": 174029,
+          "sha256": "6420ed45e7fa5fa1a559ab7a0d4fc3188362a4a3534a6d8ac0db3fc6e26b7cfd",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        },
+        {
+          "groupId": "group-725-727",
+          "contextType": "chart",
+          "visualPage": 293,
+          "publicPath": "pages/main/page-293.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 124014,
+          "expectedBytes": 124014,
+          "sha256": "27f27ee9fb4fd6b5d19cc3ae2c41b8f7ab4a4e87bbe7d00ddc717c2ef48c101b",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1063,
+            "height": 1375
+          }
+        }
+      ]
+    },
+    "social-studies-economics": {
+      "visualGroupCount": 12,
+      "visualAssetCount": 19,
+      "allGroupsHaveAssets": true,
+      "allPublicObjectsMatchTrustedSources": true,
+      "rows": [
+        {
+          "groupId": "econ-supp-2-4",
+          "contextType": null,
+          "visualPage": 1002,
+          "publicPath": "pages/economics/page-002.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 327785,
+          "expectedBytes": 327785,
+          "sha256": "29531169b1545666d12da17d488824d077e2ae9212c7d21524546e38d427ee56",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          },
+          "expectedImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          }
+        },
+        {
+          "groupId": "econ-supp-5-7",
+          "contextType": null,
+          "visualPage": 1003,
+          "publicPath": "pages/economics/page-003.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 233722,
+          "expectedBytes": 233722,
+          "sha256": "8756e5e187d9aa6f71ca608dd170e151b7b80a4aee11fbb530534d9a30b68bc7",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          },
+          "expectedImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          }
+        },
+        {
+          "groupId": "econ-supp-10-13",
+          "contextType": null,
+          "visualPage": 1005,
+          "publicPath": "pages/economics/page-005.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 92758,
+          "expectedBytes": 92758,
+          "sha256": "087f12dce067e23ca7357d2f8bff2e89a8dcddd051ef4cb8d4a5f88ea38ff33a",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          },
+          "expectedImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          }
+        },
+        {
+          "groupId": "econ-supp-17-18",
+          "contextType": null,
+          "visualPage": 1007,
+          "publicPath": "pages/economics/page-007.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 254036,
+          "expectedBytes": 254036,
+          "sha256": "19f5f95b2a9895460addb974a66ae55f34b98ade5a0908f41cd50d380a1e369c",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          },
+          "expectedImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          }
+        },
+        {
+          "groupId": "econ-supp-20-22",
+          "contextType": null,
+          "visualPage": 1008,
+          "publicPath": "pages/economics/page-008.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 114353,
+          "expectedBytes": 114353,
+          "sha256": "d7918c68c604f621e0c594b9073c1aad449b1d9b68042306a79cf5a6ebdab2d3",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          },
+          "expectedImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          }
+        },
+        {
+          "groupId": "econ-supp-25-26",
+          "contextType": null,
+          "visualPage": 1009,
+          "publicPath": "pages/economics/page-009.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 129344,
+          "expectedBytes": 129344,
+          "sha256": "79af98e1803676639bcad57d9e928e71ca7b21c13da6c87525e1b2bb92f6349c",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          },
+          "expectedImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          }
+        },
+        {
+          "groupId": "econ-supp-29-30",
+          "contextType": null,
+          "visualPage": 1011,
+          "publicPath": "pages/economics/page-011.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 117421,
+          "expectedBytes": 117421,
+          "sha256": "2ad6f2dea64881e4d65829d26d4f2816a0b64d8258ca44353c4618c811d7de06",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          },
+          "expectedImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          }
+        },
+        {
+          "groupId": "econ-supp-33-35",
+          "contextType": null,
+          "visualPage": 1012,
+          "publicPath": "pages/economics/page-012.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 190009,
+          "expectedBytes": 190009,
+          "sha256": "7afa3dcaf93a960a91368c6e105da07d6e2b9e550206bcc26ead483f56fe4c65",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          },
+          "expectedImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          }
+        },
+        {
+          "groupId": "econ-supp-39-41",
+          "contextType": null,
+          "visualPage": 1014,
+          "publicPath": "pages/economics/page-014.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 263492,
+          "expectedBytes": 263492,
+          "sha256": "c8c3a02c0e3834b34b37e853cb428a42f59fd83dddc2aad045388f17a05e5461",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          },
+          "expectedImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          }
+        },
+        {
+          "groupId": "econ-supp-42",
+          "contextType": null,
+          "visualPage": 1016,
+          "publicPath": "pages/economics/page-016.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 234839,
+          "expectedBytes": 234839,
+          "sha256": "e1e51faf2d10dd1636c14cb8eb7c67626d382a37270ff2e9b620baaed8bbaa6d",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          },
+          "expectedImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          }
+        },
+        {
+          "groupId": "econ-supp-46-47",
+          "contextType": null,
+          "visualPage": 1018,
+          "publicPath": "pages/economics/page-018.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 234079,
+          "expectedBytes": 234079,
+          "sha256": "c82c5a1eb85b5000ee4b0164b4e88b78de0ee485359ebe8e8b09e181db724394",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          },
+          "expectedImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          }
+        },
+        {
+          "groupId": "econ-supp-48-49",
+          "contextType": null,
+          "visualPage": 1019,
+          "publicPath": "pages/economics/page-019.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 139718,
+          "expectedBytes": 139718,
+          "sha256": "45ed3f176ed012b300ad674795e7218db0c44607e83be7dc159c04f34c7130c4",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          },
+          "expectedImage": {
+            "format": "PNG",
+            "width": 990,
+            "height": 1400
+          }
+        }
+      ]
+    },
+    "mcgraw-social-studies": {
+      "visualGroupCount": 121,
+      "visualAssetCount": 114,
+      "allGroupsHaveAssets": true,
+      "allPublicObjectsMatchTrustedSources": true,
+      "rows": [
+        {
+          "groupId": "mcgraw-pretest-1-3",
+          "contextType": null,
+          "visualPage": 2013,
+          "publicPath": "pages/mcgraw/page-013.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 113952,
+          "expectedBytes": 113952,
+          "sha256": "49b41e5c5175ea0358dc8bcd99ddbbe70b791055f4708255212d321f910a2b6d",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-5-6",
+          "contextType": null,
+          "visualPage": 2014,
+          "publicPath": "pages/mcgraw/page-014.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 102123,
+          "expectedBytes": 102123,
+          "sha256": "6bd095d63ce182415269f36229c327bcd8bcbc042c1db12d7d689b491fd52fea",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-8-8",
+          "contextType": null,
+          "visualPage": 2016,
+          "publicPath": "pages/mcgraw/page-016.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 44770,
+          "expectedBytes": 44770,
+          "sha256": "455d30a5f59f46611473a7d66dba716ef0463dbe2d6f3800f69df30706a3dd23",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-10-11",
+          "contextType": null,
+          "visualPage": 2018,
+          "publicPath": "pages/mcgraw/page-018.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 107149,
+          "expectedBytes": 107149,
+          "sha256": "289e4154438dcabbdd62abea5019118e43491cfe295df2e971e18a15b3537ada",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-13-14",
+          "contextType": null,
+          "visualPage": 2019,
+          "publicPath": "pages/mcgraw/page-019.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 58199,
+          "expectedBytes": 58199,
+          "sha256": "2d2f149bdeaaa618fa003a04ec17fa8f4214967de634bc96beb197d01a69644e",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-15-17",
+          "contextType": null,
+          "visualPage": 2021,
+          "publicPath": "pages/mcgraw/page-021.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 100912,
+          "expectedBytes": 100912,
+          "sha256": "32c26da043b1915d92927be8edb687dbdf0fa1f4b25d8c99d9b42b43d1c4cf2c",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-18-19",
+          "contextType": null,
+          "visualPage": 2022,
+          "publicPath": "pages/mcgraw/page-022.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 131288,
+          "expectedBytes": 131288,
+          "sha256": "983c6657c0b413424b2bda8179922ce3ab5828537ebd3f6f0016ef2e575c30a3",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-20-21",
+          "contextType": null,
+          "visualPage": 2023,
+          "publicPath": "pages/mcgraw/page-023.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 88797,
+          "expectedBytes": 88797,
+          "sha256": "d1f41d2961ebb4a8c13b516e0ab423058e09ef46e20fce85b5b1d34828c689dc",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-22-24",
+          "contextType": null,
+          "visualPage": 2024,
+          "publicPath": "pages/mcgraw/page-024.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 114452,
+          "expectedBytes": 114452,
+          "sha256": "6111b5bf7aa78cf9458ab40018d4d8a590be9faac6e600be85b766617116c599",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-25-25",
+          "contextType": null,
+          "visualPage": 2025,
+          "publicPath": "pages/mcgraw/page-025.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 57372,
+          "expectedBytes": 57372,
+          "sha256": "68a32f3484b04b26a25bd495649f48c19d913dc673ca23d0d1308d0467fce598",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-27-29",
+          "contextType": null,
+          "visualPage": 2026,
+          "publicPath": "pages/mcgraw/page-026.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 63543,
+          "expectedBytes": 63543,
+          "sha256": "c4e56f7b5e2d9897b60f70a6902b0b0733e95b73b5ea3e3df2812d1d0796632d",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-30-32",
+          "contextType": null,
+          "visualPage": 2028,
+          "publicPath": "pages/mcgraw/page-028.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 79364,
+          "expectedBytes": 79364,
+          "sha256": "af3373878f6cc7fc3b44c42ddf47713c0ace4b7490fafd0e93dc5f99444c6830",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-34-34",
+          "contextType": null,
+          "visualPage": 2029,
+          "publicPath": "pages/mcgraw/page-029.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 98823,
+          "expectedBytes": 98823,
+          "sha256": "1ecf671b6945806e62502d7db32cf60ddf44ddc1a66e991e8c9d86453f34772d",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-36-36",
+          "contextType": null,
+          "visualPage": 2030,
+          "publicPath": "pages/mcgraw/page-030.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 129245,
+          "expectedBytes": 129245,
+          "sha256": "4b2a2bf891d13cb55ac70b645abfc62d5b4a4d6db81ba8d5acb07193fd4abb3c",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-37-37",
+          "contextType": null,
+          "visualPage": 2031,
+          "publicPath": "pages/mcgraw/page-031.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 135790,
+          "expectedBytes": 135790,
+          "sha256": "9891651dd83ab8ac2b1a15a35bd155165269a573ed7999c4452d692d88b13dcb",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-38-40",
+          "contextType": null,
+          "visualPage": 2032,
+          "publicPath": "pages/mcgraw/page-032.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 144386,
+          "expectedBytes": 144386,
+          "sha256": "9ca8e49f9684c71bd1dd9d8f149671aa66e28b0706bd9db88c040aa2a8723417",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-pretest-40-40",
+          "contextType": null,
+          "visualPage": 2034,
+          "publicPath": "pages/mcgraw/page-034.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 95986,
+          "expectedBytes": 95986,
+          "sha256": "40912b155ae545ad3cbc3d859689ea2977c84c9c6cd602ce633f2cb5b79e9fa3",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-1-2",
+          "contextType": null,
+          "visualPage": 2040,
+          "publicPath": "pages/mcgraw/page-040.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 97091,
+          "expectedBytes": 97091,
+          "sha256": "6dc81ff7b5764f07f52ce18836e1eb36d168b111758a69dca7fd8f5da7056f89",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-3-4",
+          "contextType": null,
+          "visualPage": 2041,
+          "publicPath": "pages/mcgraw/page-041.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 65411,
+          "expectedBytes": 65411,
+          "sha256": "084088bb6bb1cb8984db5cdac0a6eb052bb1a92a2c52a621e714aab4fa72cabb",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-7-9",
+          "contextType": null,
+          "visualPage": 2043,
+          "publicPath": "pages/mcgraw/page-043.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 100569,
+          "expectedBytes": 100569,
+          "sha256": "4fcdb0108655ee12cd864b669794340f26fed244b567ed599021e1b8223fb374",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-11-11",
+          "contextType": null,
+          "visualPage": 2044,
+          "publicPath": "pages/mcgraw/page-044.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 142322,
+          "expectedBytes": 142322,
+          "sha256": "2e752a90ef9707269dc9fd8f4605b208823b9f8e50cad8c91477fa0105c80906",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-15-16",
+          "contextType": null,
+          "visualPage": 2046,
+          "publicPath": "pages/mcgraw/page-046.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 77358,
+          "expectedBytes": 77358,
+          "sha256": "7ee716a7d5a21f9523d21ce1e9099d3c8a199808f29a164a3c4b369e5a40f578",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-20-23",
+          "contextType": null,
+          "visualPage": 2048,
+          "publicPath": "pages/mcgraw/page-048.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 95958,
+          "expectedBytes": 95958,
+          "sha256": "02dce5249bbb04aa6d86ce7b465916609ee4077656577416800a52a73e9c5a65",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-24-27",
+          "contextType": null,
+          "visualPage": 2049,
+          "publicPath": "pages/mcgraw/page-049.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 134755,
+          "expectedBytes": 134755,
+          "sha256": "59e47dcce3adfb2b5f1f2748888f8774571cd9d9a0013ce6116cd440a9870c42",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-28-31",
+          "contextType": null,
+          "visualPage": 2052,
+          "publicPath": "pages/mcgraw/page-052.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 98595,
+          "expectedBytes": 98595,
+          "sha256": "d1ba35ad972db46672393cf6e251e2c3c1fb29d7ddd81b9f1918ae85f67b159b",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-37-38",
+          "contextType": null,
+          "visualPage": 2056,
+          "publicPath": "pages/mcgraw/page-056.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 77704,
+          "expectedBytes": 77704,
+          "sha256": "3bce5c38751f1667bb30d419ee9ef25dcf748a020023edc664ebf98430b4b7b7",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-39-40",
+          "contextType": null,
+          "visualPage": 2056,
+          "publicPath": "pages/mcgraw/page-056.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 77704,
+          "expectedBytes": 77704,
+          "sha256": "3bce5c38751f1667bb30d419ee9ef25dcf748a020023edc664ebf98430b4b7b7",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-43-44",
+          "contextType": null,
+          "visualPage": 2058,
+          "publicPath": "pages/mcgraw/page-058.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 148307,
+          "expectedBytes": 148307,
+          "sha256": "95f21b74a0cdfbba6e240f2543410a4afa1a781cd2b7587a2d53f2ce37543d1e",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-48-50",
+          "contextType": null,
+          "visualPage": 2061,
+          "publicPath": "pages/mcgraw/page-061.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 128877,
+          "expectedBytes": 128877,
+          "sha256": "3e9c85bef5c9155e05ea2c4513542b4dc0af22b64be464707213b10c96af3e5f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-51-51",
+          "contextType": null,
+          "visualPage": 2062,
+          "publicPath": "pages/mcgraw/page-062.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 113256,
+          "expectedBytes": 113256,
+          "sha256": "23dff948895647f1a7998d9dd6906b87a078aa370efbe42e42403bb459935ed0",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-57-60",
+          "contextType": null,
+          "visualPage": 2064,
+          "publicPath": "pages/mcgraw/page-064.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 64035,
+          "expectedBytes": 64035,
+          "sha256": "3bb4d4af3f129be762afecf91720916c8a9fe6f5d2bd76ad063d028e30553d49",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-61-62",
+          "contextType": null,
+          "visualPage": 2066,
+          "publicPath": "pages/mcgraw/page-066.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 134293,
+          "expectedBytes": 134293,
+          "sha256": "0a9dff754e592a7632fd764b47697c46cc9b3a776db50dea7828723dba9f51a0",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-63-65",
+          "contextType": null,
+          "visualPage": 2067,
+          "publicPath": "pages/mcgraw/page-067.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 95691,
+          "expectedBytes": 95691,
+          "sha256": "272315812e64ac6d5892d93790e91986e5df8ce562e006843c0f677d5970fe27",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-67-68",
+          "contextType": null,
+          "visualPage": 2068,
+          "publicPath": "pages/mcgraw/page-068.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 114523,
+          "expectedBytes": 114523,
+          "sha256": "4b214f3075c9eff95aa6b52fe081c3d45ee503d2e76ac96bbada81d03b220ec9",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-70-72",
+          "contextType": null,
+          "visualPage": 2070,
+          "publicPath": "pages/mcgraw/page-070.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 112256,
+          "expectedBytes": 112256,
+          "sha256": "f1aa9e62399397aa058fbb8d94e1f9b9bb0dcb6ce4b5fd6e63bbd120d43e91cb",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-civics-73-75",
+          "contextType": null,
+          "visualPage": 2071,
+          "publicPath": "pages/mcgraw/page-071.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 105320,
+          "expectedBytes": 105320,
+          "sha256": "6cb9f8a71a1098767e1af856f0c8ad281ab085e5699d7c1a83ddf4788982bb9b",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-1-2",
+          "contextType": null,
+          "visualPage": 2092,
+          "publicPath": "pages/mcgraw/page-092.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 121770,
+          "expectedBytes": 121770,
+          "sha256": "78bc26a76bf8e7a74ce5699bca71ca1e4d5e750901602b0009aac0ad6ea937ed",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-5-7",
+          "contextType": null,
+          "visualPage": 2094,
+          "publicPath": "pages/mcgraw/page-094.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 65053,
+          "expectedBytes": 65053,
+          "sha256": "25d88c990c30c48d35d003d9dc1f22978a4e65abd62ff0c7bd0840ec2ded49ea",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-9-10",
+          "contextType": null,
+          "visualPage": 2096,
+          "publicPath": "pages/mcgraw/page-096.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 87282,
+          "expectedBytes": 87282,
+          "sha256": "6787c911480b95b00e5d66567674133ab49da064daaded79a647278cb40459c0",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-11-13",
+          "contextType": null,
+          "visualPage": 2097,
+          "publicPath": "pages/mcgraw/page-097.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 76190,
+          "expectedBytes": 76190,
+          "sha256": "d820af906fb250b39f62b7d8a30d719412367793011a31a68ba9db2c1553df44",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-15-18",
+          "contextType": null,
+          "visualPage": 2100,
+          "publicPath": "pages/mcgraw/page-100.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 44596,
+          "expectedBytes": 44596,
+          "sha256": "6df9250b83693a7952a9548bb7795ddf18d8cce6a7af2d95dbcfe27a8defa6d8",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-21-23",
+          "contextType": null,
+          "visualPage": 2103,
+          "publicPath": "pages/mcgraw/page-103.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 76838,
+          "expectedBytes": 76838,
+          "sha256": "4f9c8dd01104e67d21610bf37eae0528b459409f11b1ca244f21b75a751ab0ef",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-24-25",
+          "contextType": null,
+          "visualPage": 2104,
+          "publicPath": "pages/mcgraw/page-104.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 123773,
+          "expectedBytes": 123773,
+          "sha256": "7b9b21f8bfa466f22740fb7bd2598fdefef4128551a8b2d9d643de03d83e43ef",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-26-28",
+          "contextType": null,
+          "visualPage": 2105,
+          "publicPath": "pages/mcgraw/page-105.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 98239,
+          "expectedBytes": 98239,
+          "sha256": "bd27327f52c24e937c34a2d7581a3dfd34ecba3957b5fdfb899b6754a740bfcd",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-31-32",
+          "contextType": null,
+          "visualPage": 2107,
+          "publicPath": "pages/mcgraw/page-107.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 101853,
+          "expectedBytes": 101853,
+          "sha256": "1fb94e1f957a8e3ee714220752a9311ee2bceae7e7f9923a70b28227f03cc6dc",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-35-36",
+          "contextType": null,
+          "visualPage": 2109,
+          "publicPath": "pages/mcgraw/page-109.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 124781,
+          "expectedBytes": 124781,
+          "sha256": "6bfaa931ce1a3f0328b6179633a1ddb83aed6628bcb467f8996838d8f089d34a",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-40-42",
+          "contextType": null,
+          "visualPage": 2111,
+          "publicPath": "pages/mcgraw/page-111.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 81090,
+          "expectedBytes": 81090,
+          "sha256": "a6c5dd511c7606e85fd5d3a26c3b9e7b46e5177ab449880f8b642658d1439649",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-43-45",
+          "contextType": null,
+          "visualPage": 2113,
+          "publicPath": "pages/mcgraw/page-113.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 129590,
+          "expectedBytes": 129590,
+          "sha256": "793446bd420ecff4aca785cbd18fe632127ca6582ba082feffc579520483251c",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-46-48",
+          "contextType": null,
+          "visualPage": 2114,
+          "publicPath": "pages/mcgraw/page-114.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 87796,
+          "expectedBytes": 87796,
+          "sha256": "aedbfdb3ee75ba953a7096bb0c69aee63acb19a9bae847f7e3f27e4365e3c6dc",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-49-49",
+          "contextType": null,
+          "visualPage": 2116,
+          "publicPath": "pages/mcgraw/page-116.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 97552,
+          "expectedBytes": 97552,
+          "sha256": "838a2f11f0eb956ed373804d8f93ebd2ad6701a2f6c2e004a7dd836b4753c13f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-50-51",
+          "contextType": null,
+          "visualPage": 2116,
+          "publicPath": "pages/mcgraw/page-116.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 97552,
+          "expectedBytes": 97552,
+          "sha256": "838a2f11f0eb956ed373804d8f93ebd2ad6701a2f6c2e004a7dd836b4753c13f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-53-54",
+          "contextType": null,
+          "visualPage": 2118,
+          "publicPath": "pages/mcgraw/page-118.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 66634,
+          "expectedBytes": 66634,
+          "sha256": "ac564bc048daf669bd924f6efa9503c675e8a56c72c05f81b0f1274ce2d8de0c",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-55-56",
+          "contextType": null,
+          "visualPage": 2119,
+          "publicPath": "pages/mcgraw/page-119.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 145868,
+          "expectedBytes": 145868,
+          "sha256": "7af57eba5bef085b2fc58755845c37aa39f9c9e45a6810c3b6144030a90663c5",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-57-59",
+          "contextType": null,
+          "visualPage": 2120,
+          "publicPath": "pages/mcgraw/page-120.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 75143,
+          "expectedBytes": 75143,
+          "sha256": "c830b6bc3723af1cd6d223a0e9f409c768e87cbe29b05c8e9a55af3a4f9a2761",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-60-61",
+          "contextType": null,
+          "visualPage": 2122,
+          "publicPath": "pages/mcgraw/page-122.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 101861,
+          "expectedBytes": 101861,
+          "sha256": "448e0f274a7e03a2aac7cbd81240124713c6860c3a0359fc6ae7aed92c250041",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-63-65",
+          "contextType": null,
+          "visualPage": 2124,
+          "publicPath": "pages/mcgraw/page-124.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 61378,
+          "expectedBytes": 61378,
+          "sha256": "791ba46ec737738eb72e17098a1fe5c7da918b011ce94bbca8ec173d0eb08793",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-69-69",
+          "contextType": null,
+          "visualPage": 2128,
+          "publicPath": "pages/mcgraw/page-128.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 62243,
+          "expectedBytes": 62243,
+          "sha256": "78d33bce933e344927ddab9e355c25ed0376c299f7c11f0c0f10f34e58551b50",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-70-70",
+          "contextType": null,
+          "visualPage": 2129,
+          "publicPath": "pages/mcgraw/page-129.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 89017,
+          "expectedBytes": 89017,
+          "sha256": "ba98df11584fa860aa74635d0866fff84a8a9b3cf83179b38b0eb0a732f93d84",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-72-72",
+          "contextType": null,
+          "visualPage": 2130,
+          "publicPath": "pages/mcgraw/page-130.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 87843,
+          "expectedBytes": 87843,
+          "sha256": "f94399b09185b091cf7aebb73a6326cdda0419703b443bae73441aaadab191ef",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-73-73",
+          "contextType": null,
+          "visualPage": 2130,
+          "publicPath": "pages/mcgraw/page-130.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 87843,
+          "expectedBytes": 87843,
+          "sha256": "f94399b09185b091cf7aebb73a6326cdda0419703b443bae73441aaadab191ef",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-74-74",
+          "contextType": null,
+          "visualPage": 2131,
+          "publicPath": "pages/mcgraw/page-131.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 63692,
+          "expectedBytes": 63692,
+          "sha256": "48fb111dbe7393478cf032ee3215839b4db171b5410b7273ed8db68abdf1b073",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-us-history-75-75",
+          "contextType": null,
+          "visualPage": 2132,
+          "publicPath": "pages/mcgraw/page-132.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 53555,
+          "expectedBytes": 53555,
+          "sha256": "5e232f675a0a92f517004928adad5131b5a64bf3f487f94e8f83b7725051a292",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-2-4",
+          "contextType": null,
+          "visualPage": 2135,
+          "publicPath": "pages/mcgraw/page-135.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 50217,
+          "expectedBytes": 50217,
+          "sha256": "b947bd31f00b1c93f69307f82530235812857135d96e68505776604248086c83",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-5-7",
+          "contextType": null,
+          "visualPage": 2137,
+          "publicPath": "pages/mcgraw/page-137.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 66310,
+          "expectedBytes": 66310,
+          "sha256": "913b6bfed8ea5c6908468f6d05a3b1db42333badb10fa3af024a9e1b7d7653bf",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-10-13",
+          "contextType": null,
+          "visualPage": 2138,
+          "publicPath": "pages/mcgraw/page-138.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 83802,
+          "expectedBytes": 83802,
+          "sha256": "30445945cb0e8b6ebdf37515663894b5c020e6bc8059ba71f597c1621085e1bc",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-17-18",
+          "contextType": null,
+          "visualPage": 2140,
+          "publicPath": "pages/mcgraw/page-140.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 92009,
+          "expectedBytes": 92009,
+          "sha256": "5b67e2ac53c3ed7d9d66de7611a3d7abfb808e1c09426a3c1da5e7638b87955d",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-20-22",
+          "contextType": null,
+          "visualPage": 2142,
+          "publicPath": "pages/mcgraw/page-142.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 58163,
+          "expectedBytes": 58163,
+          "sha256": "247724db588f334ff60c286ecd93c8c8a13c8d884cdad757e52fa53d96efe894",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-25-26",
+          "contextType": null,
+          "visualPage": 2143,
+          "publicPath": "pages/mcgraw/page-143.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 75428,
+          "expectedBytes": 75428,
+          "sha256": "e1cffdc134611c2f49ad7ff38f9939c07ca400b304067db0796d12609277148f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-29-30",
+          "contextType": null,
+          "visualPage": 2144,
+          "publicPath": "pages/mcgraw/page-144.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 81706,
+          "expectedBytes": 81706,
+          "sha256": "9011e9b920f93958fde910e59edd3d32c2e37202b54a5a91208eeeed73c1ea40",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-33-35",
+          "contextType": null,
+          "visualPage": 2146,
+          "publicPath": "pages/mcgraw/page-146.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 66816,
+          "expectedBytes": 66816,
+          "sha256": "26b56f6b9a282f1f8c37b3c38c2bf6805cd277b8224e75af4b039358d2cf4ec7",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-39-41",
+          "contextType": null,
+          "visualPage": 2148,
+          "publicPath": "pages/mcgraw/page-148.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 81684,
+          "expectedBytes": 81684,
+          "sha256": "1338b1a7e03f43ae98e2c5fa91bfb7e17786a087570bce9f840bbbd997a33ad2",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-42-42",
+          "contextType": null,
+          "visualPage": 2149,
+          "publicPath": "pages/mcgraw/page-149.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 37395,
+          "expectedBytes": 37395,
+          "sha256": "57ee852226f923e7b0b1344ee55dfaa90240af6ea06e5fa81b88bc5135d0f0e4",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-46-47",
+          "contextType": null,
+          "visualPage": 2151,
+          "publicPath": "pages/mcgraw/page-151.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 33671,
+          "expectedBytes": 33671,
+          "sha256": "4d1eb0627a16116eeb9cc9017879faf0fd0d8bffd2e09995d24d81288bd22024",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-48-49",
+          "contextType": null,
+          "visualPage": 2153,
+          "publicPath": "pages/mcgraw/page-153.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 103320,
+          "expectedBytes": 103320,
+          "sha256": "018ab3a86c4e4ba2d135b12807b3b5b5a7a315417df076f496ea2e81cb2fc99b",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-50-52",
+          "contextType": null,
+          "visualPage": 2153,
+          "publicPath": "pages/mcgraw/page-153.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 103320,
+          "expectedBytes": 103320,
+          "sha256": "018ab3a86c4e4ba2d135b12807b3b5b5a7a315417df076f496ea2e81cb2fc99b",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-54-55",
+          "contextType": null,
+          "visualPage": 2155,
+          "publicPath": "pages/mcgraw/page-155.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 80153,
+          "expectedBytes": 80153,
+          "sha256": "16993b7357b7d67367e35295c448df7535cf2364cd318dbad9f9dfdb2eda3540",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-57-58",
+          "contextType": null,
+          "visualPage": 2156,
+          "publicPath": "pages/mcgraw/page-156.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 76027,
+          "expectedBytes": 76027,
+          "sha256": "4ba19f0a6dccce54b7f4046c03264d850f32399ca76d9ed67f4f7c9afb187ee3",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-59-60",
+          "contextType": null,
+          "visualPage": 2157,
+          "publicPath": "pages/mcgraw/page-157.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 79378,
+          "expectedBytes": 79378,
+          "sha256": "2c26a25bf3aca21011ca4f75dd74fb45b3ef8dc37ca28ab55c736784852556e9",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-61-62",
+          "contextType": null,
+          "visualPage": 2158,
+          "publicPath": "pages/mcgraw/page-158.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 103847,
+          "expectedBytes": 103847,
+          "sha256": "bc54d3ab3e62930563536ae9fd46b22a950a247a8d173c7fa18fe58ea5612897",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-63-63",
+          "contextType": null,
+          "visualPage": 2159,
+          "publicPath": "pages/mcgraw/page-159.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 100820,
+          "expectedBytes": 100820,
+          "sha256": "fa0965726ead1ccd3d0d4b0735c12c6413ec1ecaf28843f8cbc76d7e05f951b6",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-64-66",
+          "contextType": null,
+          "visualPage": 2160,
+          "publicPath": "pages/mcgraw/page-160.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 84343,
+          "expectedBytes": 84343,
+          "sha256": "861840a97eb5dd3d9e6b581aa2dc3685e7c77fdca811ad08d85e1ff18f3d79e6",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-67-67",
+          "contextType": null,
+          "visualPage": 2161,
+          "publicPath": "pages/mcgraw/page-161.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 82790,
+          "expectedBytes": 82790,
+          "sha256": "ea57ca04bd31d3d939ed6b218e22b58aaff6fd4e662888f11b8c499611939dcf",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-68-69",
+          "contextType": null,
+          "visualPage": 2162,
+          "publicPath": "pages/mcgraw/page-162.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 100003,
+          "expectedBytes": 100003,
+          "sha256": "4731bb94bd6f86ff27ba1b165fce16e52f436a142446737d3d4a3e54e22992ff",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-70-71",
+          "contextType": null,
+          "visualPage": 2162,
+          "publicPath": "pages/mcgraw/page-162.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 100003,
+          "expectedBytes": 100003,
+          "sha256": "4731bb94bd6f86ff27ba1b165fce16e52f436a142446737d3d4a3e54e22992ff",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-73-73",
+          "contextType": null,
+          "visualPage": 2164,
+          "publicPath": "pages/mcgraw/page-164.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 62442,
+          "expectedBytes": 62442,
+          "sha256": "a8be536c3d1379c755729985e6491c90378c2b3bad70d69bcd4f299f7024f032",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-economics-75-75",
+          "contextType": null,
+          "visualPage": 2166,
+          "publicPath": "pages/mcgraw/page-166.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 73283,
+          "expectedBytes": 73283,
+          "sha256": "b5cd5dafa6059e1845e8e5935113a67b898a60d26b584b7b174374a29ef57c63",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-1-2",
+          "contextType": null,
+          "visualPage": 2168,
+          "publicPath": "pages/mcgraw/page-168.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 138380,
+          "expectedBytes": 138380,
+          "sha256": "952bee2f5b865141f5042a5d4468a6ab73ab5683f8ea11a59624d59af7039214",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-3-5",
+          "contextType": null,
+          "visualPage": 2169,
+          "publicPath": "pages/mcgraw/page-169.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 62827,
+          "expectedBytes": 62827,
+          "sha256": "a2c077c0955ee4fe08ce3b42247d600ddbafe2f54d396f83b415e9d79a6c7ab7",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-6-8",
+          "contextType": null,
+          "visualPage": 2171,
+          "publicPath": "pages/mcgraw/page-171.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 100046,
+          "expectedBytes": 100046,
+          "sha256": "6ca50f4c5ad11b3b546d669b16c6aa84c85eb612c5e698a2407f1a2c00491f01",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-10-11",
+          "contextType": null,
+          "visualPage": 2172,
+          "publicPath": "pages/mcgraw/page-172.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 81186,
+          "expectedBytes": 81186,
+          "sha256": "59b32ff0968e60aa8407d836eb10a5b50d91fe9732fc3d71f763e2630cd074b2",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-12-13",
+          "contextType": null,
+          "visualPage": 2173,
+          "publicPath": "pages/mcgraw/page-173.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 66734,
+          "expectedBytes": 66734,
+          "sha256": "91167cad0830200cc6c3ce4b02d7c2162c5a1a9049bc2eafaac03ed86d51b7a4",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-14-16",
+          "contextType": null,
+          "visualPage": 2175,
+          "publicPath": "pages/mcgraw/page-175.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 106019,
+          "expectedBytes": 106019,
+          "sha256": "b778c89ca89b35cd5258966113a5ff0c9ddb403d45819a0cb974e3a884e3d8dc",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-17-18",
+          "contextType": null,
+          "visualPage": 2176,
+          "publicPath": "pages/mcgraw/page-176.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 84305,
+          "expectedBytes": 84305,
+          "sha256": "ca46a837a89f62213bb521d80b55446b7cf8a83f83cae15022e1e7ded04cff72",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-19-20",
+          "contextType": null,
+          "visualPage": 2176,
+          "publicPath": "pages/mcgraw/page-176.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 84305,
+          "expectedBytes": 84305,
+          "sha256": "ca46a837a89f62213bb521d80b55446b7cf8a83f83cae15022e1e7ded04cff72",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-21-22",
+          "contextType": null,
+          "visualPage": 2177,
+          "publicPath": "pages/mcgraw/page-177.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 67912,
+          "expectedBytes": 67912,
+          "sha256": "479f0621d6a39be21c3feb916c130afc251750adafcdd4c7880620b367a6f9e9",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-23-25",
+          "contextType": null,
+          "visualPage": 2179,
+          "publicPath": "pages/mcgraw/page-179.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 87896,
+          "expectedBytes": 87896,
+          "sha256": "57d04234a8761a98abcd63acbc0a0000eefeb2e3507806c80bb85cd703e8aa07",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-27-29",
+          "contextType": null,
+          "visualPage": 2180,
+          "publicPath": "pages/mcgraw/page-180.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 56772,
+          "expectedBytes": 56772,
+          "sha256": "af1b6d92a2daf7d9318ab090a6b0031fcd8f5ad816c2518598e71c2fc060da73",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-30-32",
+          "contextType": null,
+          "visualPage": 2182,
+          "publicPath": "pages/mcgraw/page-182.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 78161,
+          "expectedBytes": 78161,
+          "sha256": "9ffa5ecf865960251e5969b2fba10958c87918c254278d5cf1f4e42add87353e",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-37-38",
+          "contextType": null,
+          "visualPage": 2184,
+          "publicPath": "pages/mcgraw/page-184.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 75601,
+          "expectedBytes": 75601,
+          "sha256": "219110461ebe8d334da6648eb92c2a11a5c27a601bd560e1a495203b7588210c",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-49-51",
+          "contextType": null,
+          "visualPage": 2190,
+          "publicPath": "pages/mcgraw/page-190.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 78540,
+          "expectedBytes": 78540,
+          "sha256": "7827fc3b8f2302a0c09cbdf6d2cdadc92acd78505f5633943e2502d22da56113",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-53-54",
+          "contextType": null,
+          "visualPage": 2192,
+          "publicPath": "pages/mcgraw/page-192.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 112138,
+          "expectedBytes": 112138,
+          "sha256": "50f32e8863869b13645c64877c0cfb2c7b0305ba25a966c37e782938f696bd4b",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-58-60",
+          "contextType": null,
+          "visualPage": 2194,
+          "publicPath": "pages/mcgraw/page-194.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 88883,
+          "expectedBytes": 88883,
+          "sha256": "406c8c2725a81d113a70b35f4c97d227c11aca08ece7ea6126e3d790c7277578",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-61-63",
+          "contextType": null,
+          "visualPage": 2195,
+          "publicPath": "pages/mcgraw/page-195.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 35768,
+          "expectedBytes": 35768,
+          "sha256": "44290cb49eeed4a9b23ba1b39169c2cb05831a67162fb4b90720a7147356c1f6",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-67-69",
+          "contextType": null,
+          "visualPage": 2198,
+          "publicPath": "pages/mcgraw/page-198.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 75814,
+          "expectedBytes": 75814,
+          "sha256": "917c5742303a8113efaf9d2bc360aa9a2ff4af2bcce9e69a0b4098d6ba908821",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-71-72",
+          "contextType": null,
+          "visualPage": 2199,
+          "publicPath": "pages/mcgraw/page-199.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 93321,
+          "expectedBytes": 93321,
+          "sha256": "88c071bd4eefeddc946a4ca9567d9d53615c6269560318efc35ebf848d4f7b3d",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-73-74",
+          "contextType": null,
+          "visualPage": 2201,
+          "publicPath": "pages/mcgraw/page-201.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 79468,
+          "expectedBytes": 79468,
+          "sha256": "abedbf7897dde4b50143760f4b332ffec9df36bae60214ec82a945c58a561c5f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-geography-75-75",
+          "contextType": null,
+          "visualPage": 2202,
+          "publicPath": "pages/mcgraw/page-202.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 93829,
+          "expectedBytes": 93829,
+          "sha256": "a3e816733b049dde161cb6c97fd80c1a75bd820dcdb40e58345cdd751ff41549",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-2-3",
+          "contextType": null,
+          "visualPage": 2230,
+          "publicPath": "pages/mcgraw/page-230.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 99838,
+          "expectedBytes": 99838,
+          "sha256": "a8993f4b7a206227776faeaf1d9332dc698a477e177acb1e6cf4bebdf23ef084",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-4-5",
+          "contextType": null,
+          "visualPage": 2231,
+          "publicPath": "pages/mcgraw/page-231.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 96667,
+          "expectedBytes": 96667,
+          "sha256": "b9f375bebeae353e0906ed4d3b5fdf4289f0a1d8cad2e537849aaf007f4fa34c",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-6-6",
+          "contextType": null,
+          "visualPage": 2232,
+          "publicPath": "pages/mcgraw/page-232.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 69016,
+          "expectedBytes": 69016,
+          "sha256": "fae72fe10d2ac4a89906e4ede231081be0744614b51b4750373a18dcec7f55f1",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-7-8",
+          "contextType": null,
+          "visualPage": 2232,
+          "publicPath": "pages/mcgraw/page-232.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 69016,
+          "expectedBytes": 69016,
+          "sha256": "fae72fe10d2ac4a89906e4ede231081be0744614b51b4750373a18dcec7f55f1",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-10-11",
+          "contextType": null,
+          "visualPage": 2234,
+          "publicPath": "pages/mcgraw/page-234.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 65620,
+          "expectedBytes": 65620,
+          "sha256": "98b1a7b990041c7f73e2521e02b90c0d54f20e23821403a7dfe778d8efa63fec",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-12-13",
+          "contextType": null,
+          "visualPage": 2236,
+          "publicPath": "pages/mcgraw/page-236.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 111052,
+          "expectedBytes": 111052,
+          "sha256": "d3f95173d8b78cf7861aea6f61bb64a0ae244f872c1e3236b2c04c10c59d65d6",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-14-15",
+          "contextType": null,
+          "visualPage": 2238,
+          "publicPath": "pages/mcgraw/page-238.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 87921,
+          "expectedBytes": 87921,
+          "sha256": "7097b81a00890e52e71159dabad0b4722354fb5217f97a993d09e4dd66fefbd3",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-16-18",
+          "contextType": null,
+          "visualPage": 2239,
+          "publicPath": "pages/mcgraw/page-239.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 86754,
+          "expectedBytes": 86754,
+          "sha256": "ee2b6475f34c5796e4186daf2f189449e515d4e83df2c3c1a2467c3f8e46bf81",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-19-21",
+          "contextType": null,
+          "visualPage": 2240,
+          "publicPath": "pages/mcgraw/page-240.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 98043,
+          "expectedBytes": 98043,
+          "sha256": "c3498050a6c453d7c7e163b1b804f96776e3bbd17bc3e3b2155ba044723ea373",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-22-24",
+          "contextType": null,
+          "visualPage": 2241,
+          "publicPath": "pages/mcgraw/page-241.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 115581,
+          "expectedBytes": 115581,
+          "sha256": "87943e007e6a824f98b5f1a9c296b09dce1668382c65cc643b1e3876f929620b",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-31-32",
+          "contextType": null,
+          "visualPage": 2244,
+          "publicPath": "pages/mcgraw/page-244.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 70917,
+          "expectedBytes": 70917,
+          "sha256": "29995cbeb8e553654fe9731767ae0285d5245c92e3651ec9c00a506b6b043cdb",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-33-35",
+          "contextType": null,
+          "visualPage": 2245,
+          "publicPath": "pages/mcgraw/page-245.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 79856,
+          "expectedBytes": 79856,
+          "sha256": "8903f39bbc14056a6284c400a2e82ea21080033f6ff3a7cd017d9773d924e6ef",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-36-38",
+          "contextType": null,
+          "visualPage": 2246,
+          "publicPath": "pages/mcgraw/page-246.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 73167,
+          "expectedBytes": 73167,
+          "sha256": "2cf863cd06f8476b073e4b625b8723592eef2658b73a1442b8befd84f8b584f6",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        },
+        {
+          "groupId": "mcgraw-posttest-40-40",
+          "contextType": null,
+          "visualPage": 2248,
+          "publicPath": "pages/mcgraw/page-248.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 112873,
+          "expectedBytes": 112873,
+          "sha256": "1d8ba9376dbd2f2308033087e3d5a2ea5ba90ff8c9e8d8a1542e5aa63ce8d5b0",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 816,
+            "height": 1056
+          }
+        }
+      ]
+    },
+    "battery-social-studies-2": {
+      "visualGroupCount": 19,
+      "visualAssetCount": 20,
+      "allGroupsHaveAssets": true,
+      "allPublicObjectsMatchTrustedSources": true,
+      "rows": [
+        {
+          "groupId": "battery-ss-1-3",
+          "contextType": null,
+          "visualPage": 3002,
+          "publicPath": "pages/battery/page-002.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 229209,
+          "expectedBytes": 229209,
+          "sha256": "bdcec7eb3972d6f1a5b6a1949610385e061f5616d4e133b0d476e4c0c332f5d1",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-4",
+          "contextType": null,
+          "visualPage": 3003,
+          "publicPath": "pages/battery/page-003.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 124252,
+          "expectedBytes": 124252,
+          "sha256": "eb765fd052677eb8b1adfd811413d53470b852edee0074a3e682270ed9204a63",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-5-6",
+          "contextType": null,
+          "visualPage": 3004,
+          "publicPath": "pages/battery/page-004.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 132411,
+          "expectedBytes": 132411,
+          "sha256": "807dd246ce8948bfe0ff8da6785968c0ca7ab876ef14668bb07e0ab6dbac3688",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-7",
+          "contextType": null,
+          "visualPage": 3005,
+          "publicPath": "pages/battery/page-005.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 149828,
+          "expectedBytes": 149828,
+          "sha256": "95b73b3e8203478a22699447f3bb1f934f1bba0ffc971d0670278eab8c3922d2",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-8",
+          "contextType": null,
+          "visualPage": 3006,
+          "publicPath": "pages/battery/page-006.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 139129,
+          "expectedBytes": 139129,
+          "sha256": "541f7510e0701fe5989ae689ff9d95f97669e20c24ba2a6491abb9589b81ac2d",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-9-10",
+          "contextType": null,
+          "visualPage": 3008,
+          "publicPath": "pages/battery/page-008.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 162432,
+          "expectedBytes": 162432,
+          "sha256": "25111821b0a3ef56943a04d30e1a3e71d0afdf6803c6fbf7b4e2b139572b3d74",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-11",
+          "contextType": null,
+          "visualPage": 3009,
+          "publicPath": "pages/battery/page-009.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 265570,
+          "expectedBytes": 265570,
+          "sha256": "9ab9ef32931cf471b87fa2f7283c1fd8196353b00c62b1e7c73ad8044abfb013",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-12-13",
+          "contextType": null,
+          "visualPage": 3010,
+          "publicPath": "pages/battery/page-010.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 202157,
+          "expectedBytes": 202157,
+          "sha256": "24061e166755b63077b74c719ca95871daee3a92900c5583a0183267ebecc750",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-14",
+          "contextType": null,
+          "visualPage": 3011,
+          "publicPath": "pages/battery/page-011.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 252930,
+          "expectedBytes": 252930,
+          "sha256": "43bc4c45b01ac588e6bc28d1af3115a6fc713773d5f1cada3dcc1f9e9a62afb8",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-15-16",
+          "contextType": null,
+          "visualPage": 3012,
+          "publicPath": "pages/battery/page-012.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 229867,
+          "expectedBytes": 229867,
+          "sha256": "d829a5448dbaa56608547f69cfd0f87f662b235a6800a92f5eb632f1e8ba52a9",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-17-19",
+          "contextType": null,
+          "visualPage": 3013,
+          "publicPath": "pages/battery/page-013.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 188968,
+          "expectedBytes": 188968,
+          "sha256": "f595cddd1443454af9103d31dbca09d7a86d49a401474a8bcc90768490fea9cf",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-22-23",
+          "contextType": null,
+          "visualPage": 3015,
+          "publicPath": "pages/battery/page-015.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 212779,
+          "expectedBytes": 212779,
+          "sha256": "a0031ca05be529704c52cd6ebc83c3c58e5850f40f17f22010267c0647944511",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-24",
+          "contextType": null,
+          "visualPage": 3018,
+          "publicPath": "pages/battery/page-018.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 167756,
+          "expectedBytes": 167756,
+          "sha256": "7594b4b7c8bebcaed055dc09abf7878045b0cb452a39dab39ecfb0f96f0e967d",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-25",
+          "contextType": null,
+          "visualPage": 3019,
+          "publicPath": "pages/battery/page-019.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 202910,
+          "expectedBytes": 202910,
+          "sha256": "6798f620cbe88314af876649dd89625bcce6747a03fdb2752c1ad1261089b6f8",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-26-27",
+          "contextType": null,
+          "visualPage": 3022,
+          "publicPath": "pages/battery/page-022.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 147868,
+          "expectedBytes": 147868,
+          "sha256": "83a516804e955346bbbd6b47983483ec7f22931d10a16c8c14398e88f346f05e",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-28-30",
+          "contextType": null,
+          "visualPage": 3023,
+          "publicPath": "pages/battery/page-023.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 149373,
+          "expectedBytes": 149373,
+          "sha256": "b2ce45c45bd25f15abc2f4afa0b2ae0f9d938b3e83816565b4d56b6944160770",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-31",
+          "contextType": null,
+          "visualPage": 3024,
+          "publicPath": "pages/battery/page-024.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 234462,
+          "expectedBytes": 234462,
+          "sha256": "f36e159828cb7111916142634c8cd2433d5084c0e5543419edd06cbce9b22fc8",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-32-34",
+          "contextType": null,
+          "visualPage": 3026,
+          "publicPath": "pages/battery/page-026.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 213033,
+          "expectedBytes": 213033,
+          "sha256": "09078a88bcafd08b59a02976d507631cd919536738c49d10dcff68aa26572f9e",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        },
+        {
+          "groupId": "battery-ss-35",
+          "contextType": null,
+          "visualPage": 3028,
+          "publicPath": "pages/battery/page-028.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 263726,
+          "expectedBytes": 263726,
+          "sha256": "7aa9c7cd3f1a8785c53a966a2edfeefffa82b14793538b4e138c314e6bab28b2",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1360,
+            "height": 1760
+          }
+        }
+      ]
+    },
+    "kaplan-social-studies": {
+      "visualGroupCount": 17,
+      "visualAssetCount": 17,
+      "allGroupsHaveAssets": true,
+      "allPublicObjectsMatchTrustedSources": true,
+      "rows": [
+        {
+          "groupId": "kaplan-ss-1",
+          "contextType": null,
+          "visualPage": 4001,
+          "publicPath": "pages/kaplan/page-001.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 232940,
+          "expectedBytes": 232940,
+          "sha256": "13e78bad3eb7ce3d1433a9a583590c3cc6b051e2cfaccb7b9b985ede996f9290",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-2",
+          "contextType": null,
+          "visualPage": 4002,
+          "publicPath": "pages/kaplan/page-002.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 293324,
+          "expectedBytes": 293324,
+          "sha256": "c4d746e1abfaaddfeda953159bdb79014b37d408efdfe4f5ff90300c181239eb",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-3-4",
+          "contextType": null,
+          "visualPage": 4003,
+          "publicPath": "pages/kaplan/page-003.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 255179,
+          "expectedBytes": 255179,
+          "sha256": "afeee0eeabf9d30c2cebe91c4a00d6a223059f0c97e9273d647c8883db8c3fcf",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-5",
+          "contextType": null,
+          "visualPage": 4004,
+          "publicPath": "pages/kaplan/page-004.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 263641,
+          "expectedBytes": 263641,
+          "sha256": "8e1a9668d978e2e008cac53a7f6b1a4ea9d227aacd3c60acf5912920eba4794e",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-6",
+          "contextType": null,
+          "visualPage": 4005,
+          "publicPath": "pages/kaplan/page-005.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 314162,
+          "expectedBytes": 314162,
+          "sha256": "17463237de2ababda308fd3fa46c1300d862eb3969aaa01d13b3e6e324db25e1",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-8",
+          "contextType": null,
+          "visualPage": 4005,
+          "publicPath": "pages/kaplan/page-005.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 314162,
+          "expectedBytes": 314162,
+          "sha256": "17463237de2ababda308fd3fa46c1300d862eb3969aaa01d13b3e6e324db25e1",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-12-13",
+          "contextType": null,
+          "visualPage": 4009,
+          "publicPath": "pages/kaplan/page-009.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 251892,
+          "expectedBytes": 251892,
+          "sha256": "55cbcb7673948238b377d9d20d7f9da7ffd2e739ed7a5de70fe2c6d8c76334be",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-14",
+          "contextType": null,
+          "visualPage": 4010,
+          "publicPath": "pages/kaplan/page-010.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 361665,
+          "expectedBytes": 361665,
+          "sha256": "b6f015dda1476dcb88aed9113f3597f35a44435616fcb66888ea1728b57f4b27",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-16-17",
+          "contextType": null,
+          "visualPage": 4011,
+          "publicPath": "pages/kaplan/page-011.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 315687,
+          "expectedBytes": 315687,
+          "sha256": "b9c7f599b8ae1320433a78e69cab6d2c85538b86120f4f93e60f76a30ea3009f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-18-19",
+          "contextType": null,
+          "visualPage": 4013,
+          "publicPath": "pages/kaplan/page-013.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 243961,
+          "expectedBytes": 243961,
+          "sha256": "df338e911515d82f80a29730fd653bda02561837ac0049f635481c1e8801a760",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-20-22",
+          "contextType": null,
+          "visualPage": 4014,
+          "publicPath": "pages/kaplan/page-014.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 235540,
+          "expectedBytes": 235540,
+          "sha256": "0e1874504685e17423b4e5c815a71fc7ceaa534d6970fa17381ef2ee0a07f022",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-24-25",
+          "contextType": null,
+          "visualPage": 4017,
+          "publicPath": "pages/kaplan/page-017.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 158091,
+          "expectedBytes": 158091,
+          "sha256": "9e832205557de5e629b78d4c72cbdfc637ff63acec663d40a4ee168190338c6a",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-26",
+          "contextType": null,
+          "visualPage": 4018,
+          "publicPath": "pages/kaplan/page-018.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 332104,
+          "expectedBytes": 332104,
+          "sha256": "648875592206f062ae2f765eff78480823831cc5e87d0a594b15fca43e89541c",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-27-29",
+          "contextType": null,
+          "visualPage": 4019,
+          "publicPath": "pages/kaplan/page-019.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 214256,
+          "expectedBytes": 214256,
+          "sha256": "b269f26632403dbe60834a5e8e7903d52f147b0bf90c6b5035c8d93e517930c7",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-30",
+          "contextType": null,
+          "visualPage": 4021,
+          "publicPath": "pages/kaplan/page-021.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 199763,
+          "expectedBytes": 199763,
+          "sha256": "68a1d8c0d41519fa52bc416bfc7adfbcbee1f430b1222885febee49cd5fa4939",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-31-32",
+          "contextType": null,
+          "visualPage": 4022,
+          "publicPath": "pages/kaplan/page-022.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 265116,
+          "expectedBytes": 265116,
+          "sha256": "ee5cdf85ffe4de8bd1c6ec56628625fa5df84731b3b5b4084de3b909773c9957",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-ss-33",
+          "contextType": null,
+          "visualPage": 4024,
+          "publicPath": "pages/kaplan/page-024.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 238633,
+          "expectedBytes": 238633,
+          "sha256": "6ead10623740152da6f30182c09db7dba1d0271b79cdf3d4bc16ffa70aad6ea9",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        }
+      ]
+    },
+    "kaplan-social-studies-pretest": {
+      "visualGroupCount": 11,
+      "visualAssetCount": 11,
+      "allGroupsHaveAssets": true,
+      "allPublicObjectsMatchTrustedSources": true,
+      "rows": [
+        {
+          "groupId": "kaplan-pretest-ss-practice-7-8",
+          "contextType": null,
+          "visualPage": 5005,
+          "publicPath": "pages/kaplan-pretest/page-005.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 246162,
+          "expectedBytes": 246162,
+          "sha256": "ea5eeacb9c3a5a9b6ee6cc50404edc9f6c35e3909e5754f655c23736e5511f39",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-pretest-ss-practice-9",
+          "contextType": null,
+          "visualPage": 5006,
+          "publicPath": "pages/kaplan-pretest/page-006.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 194844,
+          "expectedBytes": 194844,
+          "sha256": "bbc97997b3e3fc400a7b97c778b695e499b44a57ec07ba91dc163ac91af87b8e",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-pretest-ss-practice-10",
+          "contextType": null,
+          "visualPage": 5008,
+          "publicPath": "pages/kaplan-pretest/page-008.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 187064,
+          "expectedBytes": 187064,
+          "sha256": "4038ce060aab0e6ec5841a0d103c879afcdabcb46ae1423cb6da203aa127da3d",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-pretest-ss-content-1-2",
+          "contextType": null,
+          "visualPage": 5009,
+          "publicPath": "pages/kaplan-pretest/page-009.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 190845,
+          "expectedBytes": 190845,
+          "sha256": "987d1daecf599c26a2a096bf7d6ee8b8ef99b3498eab1a5566c68aff690dc371",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-pretest-ss-content-8-9",
+          "contextType": null,
+          "visualPage": 5013,
+          "publicPath": "pages/kaplan-pretest/page-013.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 276346,
+          "expectedBytes": 276346,
+          "sha256": "e2902e702757b01ae6e8cef664fc90b9763bcf2ffff6619290e5d79579af44b8",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-pretest-ss-content-11-12",
+          "contextType": null,
+          "visualPage": 5015,
+          "publicPath": "pages/kaplan-pretest/page-015.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 217431,
+          "expectedBytes": 217431,
+          "sha256": "d1c595eb7670ee802f80bdd3cc9a014cad85e2f8f995b94c490b163b20c29ba9",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-pretest-ss-content-14",
+          "contextType": null,
+          "visualPage": 5016,
+          "publicPath": "pages/kaplan-pretest/page-016.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 225022,
+          "expectedBytes": 225022,
+          "sha256": "565b60ca9969a644e84228379d5098a7a44dd0b06b4f6346ab5e7959962fdb9f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-pretest-ss-content-16-18",
+          "contextType": null,
+          "visualPage": 5018,
+          "publicPath": "pages/kaplan-pretest/page-018.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 205784,
+          "expectedBytes": 205784,
+          "sha256": "8c1ff713997e253d90000ded59f4a75c3caed5c6bc59b8848b898d5841cb4824",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-pretest-ss-content-19",
+          "contextType": null,
+          "visualPage": 5019,
+          "publicPath": "pages/kaplan-pretest/page-019.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 252701,
+          "expectedBytes": 252701,
+          "sha256": "9c7152b2adc550dcc42ce26f3ad8100c52840ae3c6aaba11ca7cf603b7d385f9",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-pretest-ss-content-20-22",
+          "contextType": null,
+          "visualPage": 5020,
+          "publicPath": "pages/kaplan-pretest/page-020.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 266803,
+          "expectedBytes": 266803,
+          "sha256": "2f0fb098d4ceb09ec24209dfb67051076646b0dca2f3aec7e0e07a0706bd000b",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "kaplan-pretest-ss-content-23-24",
+          "contextType": null,
+          "visualPage": 5022,
+          "publicPath": "pages/kaplan-pretest/page-022.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 140184,
+          "expectedBytes": 140184,
+          "sha256": "f590de28f8eb723a8fa2c1f3e56f90c579172adf94845ee6e7a1ec60c5078d4f",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        }
+      ]
+    },
+    "princeton-social-studies-test-2": {
+      "visualGroupCount": 13,
+      "visualAssetCount": 13,
+      "allGroupsHaveAssets": true,
+      "allPublicObjectsMatchTrustedSources": true,
+      "rows": [
+        {
+          "groupId": "princeton-ss-practice-4",
+          "contextType": null,
+          "visualPage": 6004,
+          "publicPath": "pages/princeton/page-004.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 194437,
+          "expectedBytes": 194437,
+          "sha256": "571fe3f9c6828de370511d4eb4d83608ad50018271c6738f191a8c47bd81f979",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "princeton-ss-practice-5",
+          "contextType": null,
+          "visualPage": 6005,
+          "publicPath": "pages/princeton/page-005.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 203452,
+          "expectedBytes": 203452,
+          "sha256": "5d00fe7ab35084017681efef8058956b00d90c4b14e82bcc4442988939774305",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "princeton-ss-practice-6",
+          "contextType": null,
+          "visualPage": 6006,
+          "publicPath": "pages/princeton/page-006.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 189110,
+          "expectedBytes": 189110,
+          "sha256": "de0c49d99b0145678e05fe9461a02b4962d76697060781974e31a01228bd6ce9",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "princeton-ss-practice-8-9",
+          "contextType": null,
+          "visualPage": 6008,
+          "publicPath": "pages/princeton/page-008.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 157089,
+          "expectedBytes": 157089,
+          "sha256": "5afa131cdbf11c82b139e46e66698a96fee4fc8c52f9de7f3a60930f5945cccc",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "princeton-ss-practice-13",
+          "contextType": null,
+          "visualPage": 6011,
+          "publicPath": "pages/princeton/page-011.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 355068,
+          "expectedBytes": 355068,
+          "sha256": "06cb361cfbf6f0b1731557f41536a7b4948015665d83c78e8a126ce3ba723e21",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "princeton-ss-practice-14",
+          "contextType": null,
+          "visualPage": 6012,
+          "publicPath": "pages/princeton/page-012.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 219696,
+          "expectedBytes": 219696,
+          "sha256": "fb3aba2b8144111cff0327f82d1a573ff98f1f9be51208c7c2460240a6e88aac",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "princeton-ss-practice-16",
+          "contextType": null,
+          "visualPage": 6014,
+          "publicPath": "pages/princeton/page-014.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 203489,
+          "expectedBytes": 203489,
+          "sha256": "521f486ff85ec1ec3c9ea0f83f9a37d32ed3b8fdba7859732bb31bb9026f93bd",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "princeton-ss-practice-17-18",
+          "contextType": null,
+          "visualPage": 6015,
+          "publicPath": "pages/princeton/page-015.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 176999,
+          "expectedBytes": 176999,
+          "sha256": "d0c28707e5caa1215142fc61d8529e0c91f012c3b9cb5a467f2f88aafdeee215",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "princeton-ss-practice-19",
+          "contextType": null,
+          "visualPage": 6017,
+          "publicPath": "pages/princeton/page-017.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 235506,
+          "expectedBytes": 235506,
+          "sha256": "1cc9e1051713e27fb01502806cd2ac98cde09f78ef776c456be7d553a8ba8c1a",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "princeton-ss-practice-22",
+          "contextType": null,
+          "visualPage": 6019,
+          "publicPath": "pages/princeton/page-019.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 164046,
+          "expectedBytes": 164046,
+          "sha256": "c04e08a7d5482d84fdd28bebcc4c870ff6a22e407ea0c2e70308a80366120fb5",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "princeton-ss-practice-26",
+          "contextType": null,
+          "visualPage": 6024,
+          "publicPath": "pages/princeton/page-024.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 216173,
+          "expectedBytes": 216173,
+          "sha256": "9c10d05d5aa6f415aaeb924dfec48b81b462d81acdb73aeffecf651b1999016a",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "princeton-ss-practice-30",
+          "contextType": null,
+          "visualPage": 6026,
+          "publicPath": "pages/princeton/page-026.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 195136,
+          "expectedBytes": 195136,
+          "sha256": "3316490bfcc37ad4a31337c6e2475350cd678c022f61aeffc60eaaa3bcbcda62",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        },
+        {
+          "groupId": "princeton-ss-practice-32",
+          "contextType": null,
+          "visualPage": 6028,
+          "publicPath": "pages/princeton/page-028.jpg",
+          "sourceKind": "legacy-manus-asset",
+          "publicStatus": 200,
+          "publicBytes": 180912,
+          "expectedBytes": 180912,
+          "sha256": "0f04ef5babe28c2d4f00dd4926b4f78d46eb51010f5613c3a5fbd4aee228b725",
+          "exactByteMatch": true,
+          "publicImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          },
+          "expectedImage": {
+            "format": "JPEG",
+            "width": 1445,
+            "height": 1870
+          }
+        }
+      ]
+    }
+  },
+  "exceptions": {
+    "group-323-324": "The legacy folio-125 image is an intro page; page-125 is compared with physical PDF page 126, which contains the actual graph."
+  },
+  "totals": {
+    "workbooks": 7,
+    "visualGroups": 267,
+    "visualAssets": 268,
+    "allPass": true
+  }
+}

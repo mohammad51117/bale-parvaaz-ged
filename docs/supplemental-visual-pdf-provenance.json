@@ -1,0 +1,1222 @@
+{
+  "workbooks": {
+    "social-studies-economics": {
+      "assetCount": 19,
+      "minSimilarity": 0.984279,
+      "lowSimilarity": [],
+      "allComparable": true,
+      "rows": [
+        {
+          "visualPage": 1001,
+          "pdfPhysicalPage": 1,
+          "similarity": 0.996313,
+          "comparable": true
+        },
+        {
+          "visualPage": 1002,
+          "pdfPhysicalPage": 2,
+          "similarity": 0.987034,
+          "comparable": true
+        },
+        {
+          "visualPage": 1003,
+          "pdfPhysicalPage": 3,
+          "similarity": 0.98984,
+          "comparable": true
+        },
+        {
+          "visualPage": 1004,
+          "pdfPhysicalPage": 4,
+          "similarity": 0.991629,
+          "comparable": true
+        },
+        {
+          "visualPage": 1005,
+          "pdfPhysicalPage": 5,
+          "similarity": 0.995292,
+          "comparable": true
+        },
+        {
+          "visualPage": 1006,
+          "pdfPhysicalPage": 6,
+          "similarity": 0.990645,
+          "comparable": true
+        },
+        {
+          "visualPage": 1007,
+          "pdfPhysicalPage": 7,
+          "similarity": 0.990903,
+          "comparable": true
+        },
+        {
+          "visualPage": 1008,
+          "pdfPhysicalPage": 8,
+          "similarity": 0.990781,
+          "comparable": true
+        },
+        {
+          "visualPage": 1009,
+          "pdfPhysicalPage": 9,
+          "similarity": 0.991403,
+          "comparable": true
+        },
+        {
+          "visualPage": 1010,
+          "pdfPhysicalPage": 10,
+          "similarity": 0.991582,
+          "comparable": true
+        },
+        {
+          "visualPage": 1011,
+          "pdfPhysicalPage": 11,
+          "similarity": 0.989001,
+          "comparable": true
+        },
+        {
+          "visualPage": 1012,
+          "pdfPhysicalPage": 12,
+          "similarity": 0.991737,
+          "comparable": true
+        },
+        {
+          "visualPage": 1013,
+          "pdfPhysicalPage": 13,
+          "similarity": 0.991435,
+          "comparable": true
+        },
+        {
+          "visualPage": 1014,
+          "pdfPhysicalPage": 14,
+          "similarity": 0.984279,
+          "comparable": true
+        },
+        {
+          "visualPage": 1015,
+          "pdfPhysicalPage": 15,
+          "similarity": 0.997668,
+          "comparable": true
+        },
+        {
+          "visualPage": 1016,
+          "pdfPhysicalPage": 16,
+          "similarity": 0.989092,
+          "comparable": true
+        },
+        {
+          "visualPage": 1017,
+          "pdfPhysicalPage": 17,
+          "similarity": 0.998005,
+          "comparable": true
+        },
+        {
+          "visualPage": 1018,
+          "pdfPhysicalPage": 18,
+          "similarity": 0.984518,
+          "comparable": true
+        },
+        {
+          "visualPage": 1019,
+          "pdfPhysicalPage": 19,
+          "similarity": 0.989842,
+          "comparable": true
+        }
+      ]
+    },
+    "mcgraw-social-studies": {
+      "assetCount": 114,
+      "minSimilarity": 0.871685,
+      "lowSimilarity": [],
+      "allComparable": true,
+      "rows": [
+        {
+          "visualPage": 2013,
+          "pdfPhysicalPage": 13,
+          "similarity": 0.912051,
+          "comparable": true
+        },
+        {
+          "visualPage": 2014,
+          "pdfPhysicalPage": 14,
+          "similarity": 0.941929,
+          "comparable": true
+        },
+        {
+          "visualPage": 2016,
+          "pdfPhysicalPage": 16,
+          "similarity": 0.964947,
+          "comparable": true
+        },
+        {
+          "visualPage": 2018,
+          "pdfPhysicalPage": 18,
+          "similarity": 0.939901,
+          "comparable": true
+        },
+        {
+          "visualPage": 2019,
+          "pdfPhysicalPage": 19,
+          "similarity": 0.96315,
+          "comparable": true
+        },
+        {
+          "visualPage": 2021,
+          "pdfPhysicalPage": 21,
+          "similarity": 0.92022,
+          "comparable": true
+        },
+        {
+          "visualPage": 2022,
+          "pdfPhysicalPage": 22,
+          "similarity": 0.921594,
+          "comparable": true
+        },
+        {
+          "visualPage": 2023,
+          "pdfPhysicalPage": 23,
+          "similarity": 0.941648,
+          "comparable": true
+        },
+        {
+          "visualPage": 2024,
+          "pdfPhysicalPage": 24,
+          "similarity": 0.914976,
+          "comparable": true
+        },
+        {
+          "visualPage": 2025,
+          "pdfPhysicalPage": 25,
+          "similarity": 0.965108,
+          "comparable": true
+        },
+        {
+          "visualPage": 2026,
+          "pdfPhysicalPage": 26,
+          "similarity": 0.919362,
+          "comparable": true
+        },
+        {
+          "visualPage": 2028,
+          "pdfPhysicalPage": 28,
+          "similarity": 0.934293,
+          "comparable": true
+        },
+        {
+          "visualPage": 2029,
+          "pdfPhysicalPage": 29,
+          "similarity": 0.921602,
+          "comparable": true
+        },
+        {
+          "visualPage": 2030,
+          "pdfPhysicalPage": 30,
+          "similarity": 0.903721,
+          "comparable": true
+        },
+        {
+          "visualPage": 2031,
+          "pdfPhysicalPage": 31,
+          "similarity": 0.91493,
+          "comparable": true
+        },
+        {
+          "visualPage": 2032,
+          "pdfPhysicalPage": 32,
+          "similarity": 0.873322,
+          "comparable": true
+        },
+        {
+          "visualPage": 2034,
+          "pdfPhysicalPage": 34,
+          "similarity": 0.94196,
+          "comparable": true
+        },
+        {
+          "visualPage": 2040,
+          "pdfPhysicalPage": 40,
+          "similarity": 0.915972,
+          "comparable": true
+        },
+        {
+          "visualPage": 2041,
+          "pdfPhysicalPage": 41,
+          "similarity": 0.929523,
+          "comparable": true
+        },
+        {
+          "visualPage": 2043,
+          "pdfPhysicalPage": 43,
+          "similarity": 0.915055,
+          "comparable": true
+        },
+        {
+          "visualPage": 2044,
+          "pdfPhysicalPage": 44,
+          "similarity": 0.892644,
+          "comparable": true
+        },
+        {
+          "visualPage": 2046,
+          "pdfPhysicalPage": 46,
+          "similarity": 0.918887,
+          "comparable": true
+        },
+        {
+          "visualPage": 2048,
+          "pdfPhysicalPage": 48,
+          "similarity": 0.917419,
+          "comparable": true
+        },
+        {
+          "visualPage": 2049,
+          "pdfPhysicalPage": 49,
+          "similarity": 0.903808,
+          "comparable": true
+        },
+        {
+          "visualPage": 2052,
+          "pdfPhysicalPage": 52,
+          "similarity": 0.921371,
+          "comparable": true
+        },
+        {
+          "visualPage": 2056,
+          "pdfPhysicalPage": 56,
+          "similarity": 0.941988,
+          "comparable": true
+        },
+        {
+          "visualPage": 2058,
+          "pdfPhysicalPage": 58,
+          "similarity": 0.884179,
+          "comparable": true
+        },
+        {
+          "visualPage": 2061,
+          "pdfPhysicalPage": 61,
+          "similarity": 0.891034,
+          "comparable": true
+        },
+        {
+          "visualPage": 2062,
+          "pdfPhysicalPage": 62,
+          "similarity": 0.93679,
+          "comparable": true
+        },
+        {
+          "visualPage": 2064,
+          "pdfPhysicalPage": 64,
+          "similarity": 0.891731,
+          "comparable": true
+        },
+        {
+          "visualPage": 2066,
+          "pdfPhysicalPage": 66,
+          "similarity": 0.907598,
+          "comparable": true
+        },
+        {
+          "visualPage": 2067,
+          "pdfPhysicalPage": 67,
+          "similarity": 0.907466,
+          "comparable": true
+        },
+        {
+          "visualPage": 2068,
+          "pdfPhysicalPage": 68,
+          "similarity": 0.91814,
+          "comparable": true
+        },
+        {
+          "visualPage": 2070,
+          "pdfPhysicalPage": 70,
+          "similarity": 0.904372,
+          "comparable": true
+        },
+        {
+          "visualPage": 2071,
+          "pdfPhysicalPage": 71,
+          "similarity": 0.9173,
+          "comparable": true
+        },
+        {
+          "visualPage": 2092,
+          "pdfPhysicalPage": 92,
+          "similarity": 0.925064,
+          "comparable": true
+        },
+        {
+          "visualPage": 2094,
+          "pdfPhysicalPage": 94,
+          "similarity": 0.914325,
+          "comparable": true
+        },
+        {
+          "visualPage": 2096,
+          "pdfPhysicalPage": 96,
+          "similarity": 0.891775,
+          "comparable": true
+        },
+        {
+          "visualPage": 2097,
+          "pdfPhysicalPage": 97,
+          "similarity": 0.892008,
+          "comparable": true
+        },
+        {
+          "visualPage": 2100,
+          "pdfPhysicalPage": 100,
+          "similarity": 0.924563,
+          "comparable": true
+        },
+        {
+          "visualPage": 2103,
+          "pdfPhysicalPage": 103,
+          "similarity": 0.906997,
+          "comparable": true
+        },
+        {
+          "visualPage": 2104,
+          "pdfPhysicalPage": 104,
+          "similarity": 0.921151,
+          "comparable": true
+        },
+        {
+          "visualPage": 2105,
+          "pdfPhysicalPage": 105,
+          "similarity": 0.923474,
+          "comparable": true
+        },
+        {
+          "visualPage": 2107,
+          "pdfPhysicalPage": 107,
+          "similarity": 0.913327,
+          "comparable": true
+        },
+        {
+          "visualPage": 2109,
+          "pdfPhysicalPage": 109,
+          "similarity": 0.90158,
+          "comparable": true
+        },
+        {
+          "visualPage": 2111,
+          "pdfPhysicalPage": 111,
+          "similarity": 0.933249,
+          "comparable": true
+        },
+        {
+          "visualPage": 2113,
+          "pdfPhysicalPage": 113,
+          "similarity": 0.912158,
+          "comparable": true
+        },
+        {
+          "visualPage": 2114,
+          "pdfPhysicalPage": 114,
+          "similarity": 0.911625,
+          "comparable": true
+        },
+        {
+          "visualPage": 2116,
+          "pdfPhysicalPage": 116,
+          "similarity": 0.871685,
+          "comparable": true
+        },
+        {
+          "visualPage": 2118,
+          "pdfPhysicalPage": 118,
+          "similarity": 0.892542,
+          "comparable": true
+        },
+        {
+          "visualPage": 2119,
+          "pdfPhysicalPage": 119,
+          "similarity": 0.898391,
+          "comparable": true
+        },
+        {
+          "visualPage": 2120,
+          "pdfPhysicalPage": 120,
+          "similarity": 0.940079,
+          "comparable": true
+        },
+        {
+          "visualPage": 2122,
+          "pdfPhysicalPage": 122,
+          "similarity": 0.914778,
+          "comparable": true
+        },
+        {
+          "visualPage": 2124,
+          "pdfPhysicalPage": 124,
+          "similarity": 0.9327,
+          "comparable": true
+        },
+        {
+          "visualPage": 2128,
+          "pdfPhysicalPage": 128,
+          "similarity": 0.924945,
+          "comparable": true
+        },
+        {
+          "visualPage": 2129,
+          "pdfPhysicalPage": 129,
+          "similarity": 0.906724,
+          "comparable": true
+        },
+        {
+          "visualPage": 2130,
+          "pdfPhysicalPage": 130,
+          "similarity": 0.914854,
+          "comparable": true
+        },
+        {
+          "visualPage": 2131,
+          "pdfPhysicalPage": 131,
+          "similarity": 0.897848,
+          "comparable": true
+        },
+        {
+          "visualPage": 2132,
+          "pdfPhysicalPage": 132,
+          "similarity": 0.911652,
+          "comparable": true
+        },
+        {
+          "visualPage": 2135,
+          "pdfPhysicalPage": 135,
+          "similarity": 0.939029,
+          "comparable": true
+        },
+        {
+          "visualPage": 2137,
+          "pdfPhysicalPage": 137,
+          "similarity": 0.880541,
+          "comparable": true
+        },
+        {
+          "visualPage": 2138,
+          "pdfPhysicalPage": 138,
+          "similarity": 0.951772,
+          "comparable": true
+        },
+        {
+          "visualPage": 2140,
+          "pdfPhysicalPage": 140,
+          "similarity": 0.954215,
+          "comparable": true
+        },
+        {
+          "visualPage": 2142,
+          "pdfPhysicalPage": 142,
+          "similarity": 0.959851,
+          "comparable": true
+        },
+        {
+          "visualPage": 2143,
+          "pdfPhysicalPage": 143,
+          "similarity": 0.966051,
+          "comparable": true
+        },
+        {
+          "visualPage": 2144,
+          "pdfPhysicalPage": 144,
+          "similarity": 0.947659,
+          "comparable": true
+        },
+        {
+          "visualPage": 2146,
+          "pdfPhysicalPage": 146,
+          "similarity": 0.951462,
+          "comparable": true
+        },
+        {
+          "visualPage": 2148,
+          "pdfPhysicalPage": 148,
+          "similarity": 0.962585,
+          "comparable": true
+        },
+        {
+          "visualPage": 2149,
+          "pdfPhysicalPage": 149,
+          "similarity": 0.968176,
+          "comparable": true
+        },
+        {
+          "visualPage": 2151,
+          "pdfPhysicalPage": 151,
+          "similarity": 0.980269,
+          "comparable": true
+        },
+        {
+          "visualPage": 2153,
+          "pdfPhysicalPage": 153,
+          "similarity": 0.941094,
+          "comparable": true
+        },
+        {
+          "visualPage": 2155,
+          "pdfPhysicalPage": 155,
+          "similarity": 0.951715,
+          "comparable": true
+        },
+        {
+          "visualPage": 2156,
+          "pdfPhysicalPage": 156,
+          "similarity": 0.944986,
+          "comparable": true
+        },
+        {
+          "visualPage": 2157,
+          "pdfPhysicalPage": 157,
+          "similarity": 0.947854,
+          "comparable": true
+        },
+        {
+          "visualPage": 2158,
+          "pdfPhysicalPage": 158,
+          "similarity": 0.926208,
+          "comparable": true
+        },
+        {
+          "visualPage": 2159,
+          "pdfPhysicalPage": 159,
+          "similarity": 0.94131,
+          "comparable": true
+        },
+        {
+          "visualPage": 2160,
+          "pdfPhysicalPage": 160,
+          "similarity": 0.934784,
+          "comparable": true
+        },
+        {
+          "visualPage": 2161,
+          "pdfPhysicalPage": 161,
+          "similarity": 0.945703,
+          "comparable": true
+        },
+        {
+          "visualPage": 2162,
+          "pdfPhysicalPage": 162,
+          "similarity": 0.923347,
+          "comparable": true
+        },
+        {
+          "visualPage": 2164,
+          "pdfPhysicalPage": 164,
+          "similarity": 0.94464,
+          "comparable": true
+        },
+        {
+          "visualPage": 2166,
+          "pdfPhysicalPage": 166,
+          "similarity": 0.892497,
+          "comparable": true
+        },
+        {
+          "visualPage": 2168,
+          "pdfPhysicalPage": 168,
+          "similarity": 0.906379,
+          "comparable": true
+        },
+        {
+          "visualPage": 2169,
+          "pdfPhysicalPage": 169,
+          "similarity": 0.944416,
+          "comparable": true
+        },
+        {
+          "visualPage": 2171,
+          "pdfPhysicalPage": 171,
+          "similarity": 0.909972,
+          "comparable": true
+        },
+        {
+          "visualPage": 2172,
+          "pdfPhysicalPage": 172,
+          "similarity": 0.947886,
+          "comparable": true
+        },
+        {
+          "visualPage": 2173,
+          "pdfPhysicalPage": 173,
+          "similarity": 0.943477,
+          "comparable": true
+        },
+        {
+          "visualPage": 2175,
+          "pdfPhysicalPage": 175,
+          "similarity": 0.934519,
+          "comparable": true
+        },
+        {
+          "visualPage": 2176,
+          "pdfPhysicalPage": 176,
+          "similarity": 0.94181,
+          "comparable": true
+        },
+        {
+          "visualPage": 2177,
+          "pdfPhysicalPage": 177,
+          "similarity": 0.941573,
+          "comparable": true
+        },
+        {
+          "visualPage": 2179,
+          "pdfPhysicalPage": 179,
+          "similarity": 0.923272,
+          "comparable": true
+        },
+        {
+          "visualPage": 2180,
+          "pdfPhysicalPage": 180,
+          "similarity": 0.943121,
+          "comparable": true
+        },
+        {
+          "visualPage": 2182,
+          "pdfPhysicalPage": 182,
+          "similarity": 0.930871,
+          "comparable": true
+        },
+        {
+          "visualPage": 2184,
+          "pdfPhysicalPage": 184,
+          "similarity": 0.94748,
+          "comparable": true
+        },
+        {
+          "visualPage": 2190,
+          "pdfPhysicalPage": 190,
+          "similarity": 0.948658,
+          "comparable": true
+        },
+        {
+          "visualPage": 2192,
+          "pdfPhysicalPage": 192,
+          "similarity": 0.911633,
+          "comparable": true
+        },
+        {
+          "visualPage": 2194,
+          "pdfPhysicalPage": 194,
+          "similarity": 0.925169,
+          "comparable": true
+        },
+        {
+          "visualPage": 2195,
+          "pdfPhysicalPage": 195,
+          "similarity": 0.949642,
+          "comparable": true
+        },
+        {
+          "visualPage": 2198,
+          "pdfPhysicalPage": 198,
+          "similarity": 0.919523,
+          "comparable": true
+        },
+        {
+          "visualPage": 2199,
+          "pdfPhysicalPage": 199,
+          "similarity": 0.916709,
+          "comparable": true
+        },
+        {
+          "visualPage": 2201,
+          "pdfPhysicalPage": 201,
+          "similarity": 0.906553,
+          "comparable": true
+        },
+        {
+          "visualPage": 2202,
+          "pdfPhysicalPage": 202,
+          "similarity": 0.920495,
+          "comparable": true
+        },
+        {
+          "visualPage": 2230,
+          "pdfPhysicalPage": 230,
+          "similarity": 0.917241,
+          "comparable": true
+        },
+        {
+          "visualPage": 2231,
+          "pdfPhysicalPage": 231,
+          "similarity": 0.936962,
+          "comparable": true
+        },
+        {
+          "visualPage": 2232,
+          "pdfPhysicalPage": 232,
+          "similarity": 0.929683,
+          "comparable": true
+        },
+        {
+          "visualPage": 2234,
+          "pdfPhysicalPage": 234,
+          "similarity": 0.943171,
+          "comparable": true
+        },
+        {
+          "visualPage": 2236,
+          "pdfPhysicalPage": 236,
+          "similarity": 0.912158,
+          "comparable": true
+        },
+        {
+          "visualPage": 2238,
+          "pdfPhysicalPage": 238,
+          "similarity": 0.919849,
+          "comparable": true
+        },
+        {
+          "visualPage": 2239,
+          "pdfPhysicalPage": 239,
+          "similarity": 0.944027,
+          "comparable": true
+        },
+        {
+          "visualPage": 2240,
+          "pdfPhysicalPage": 240,
+          "similarity": 0.912965,
+          "comparable": true
+        },
+        {
+          "visualPage": 2241,
+          "pdfPhysicalPage": 241,
+          "similarity": 0.916647,
+          "comparable": true
+        },
+        {
+          "visualPage": 2244,
+          "pdfPhysicalPage": 244,
+          "similarity": 0.943774,
+          "comparable": true
+        },
+        {
+          "visualPage": 2245,
+          "pdfPhysicalPage": 245,
+          "similarity": 0.918742,
+          "comparable": true
+        },
+        {
+          "visualPage": 2246,
+          "pdfPhysicalPage": 246,
+          "similarity": 0.942875,
+          "comparable": true
+        },
+        {
+          "visualPage": 2248,
+          "pdfPhysicalPage": 248,
+          "similarity": 0.923103,
+          "comparable": true
+        }
+      ]
+    },
+    "battery-social-studies-2": {
+      "assetCount": 20,
+      "minSimilarity": 0.984707,
+      "lowSimilarity": [],
+      "allComparable": true,
+      "rows": [
+        {
+          "visualPage": 3002,
+          "pdfPhysicalPage": 2,
+          "similarity": 0.987334,
+          "comparable": true
+        },
+        {
+          "visualPage": 3003,
+          "pdfPhysicalPage": 3,
+          "similarity": 0.99456,
+          "comparable": true
+        },
+        {
+          "visualPage": 3004,
+          "pdfPhysicalPage": 4,
+          "similarity": 0.992493,
+          "comparable": true
+        },
+        {
+          "visualPage": 3005,
+          "pdfPhysicalPage": 5,
+          "similarity": 0.99287,
+          "comparable": true
+        },
+        {
+          "visualPage": 3006,
+          "pdfPhysicalPage": 6,
+          "similarity": 0.993941,
+          "comparable": true
+        },
+        {
+          "visualPage": 3008,
+          "pdfPhysicalPage": 8,
+          "similarity": 0.992402,
+          "comparable": true
+        },
+        {
+          "visualPage": 3009,
+          "pdfPhysicalPage": 9,
+          "similarity": 0.984707,
+          "comparable": true
+        },
+        {
+          "visualPage": 3010,
+          "pdfPhysicalPage": 10,
+          "similarity": 0.98779,
+          "comparable": true
+        },
+        {
+          "visualPage": 3011,
+          "pdfPhysicalPage": 11,
+          "similarity": 0.987094,
+          "comparable": true
+        },
+        {
+          "visualPage": 3012,
+          "pdfPhysicalPage": 12,
+          "similarity": 0.987896,
+          "comparable": true
+        },
+        {
+          "visualPage": 3013,
+          "pdfPhysicalPage": 13,
+          "similarity": 0.990952,
+          "comparable": true
+        },
+        {
+          "visualPage": 3015,
+          "pdfPhysicalPage": 15,
+          "similarity": 0.988524,
+          "comparable": true
+        },
+        {
+          "visualPage": 3018,
+          "pdfPhysicalPage": 18,
+          "similarity": 0.99264,
+          "comparable": true
+        },
+        {
+          "visualPage": 3019,
+          "pdfPhysicalPage": 19,
+          "similarity": 0.988891,
+          "comparable": true
+        },
+        {
+          "visualPage": 3022,
+          "pdfPhysicalPage": 22,
+          "similarity": 0.990661,
+          "comparable": true
+        },
+        {
+          "visualPage": 3023,
+          "pdfPhysicalPage": 23,
+          "similarity": 0.993405,
+          "comparable": true
+        },
+        {
+          "visualPage": 3024,
+          "pdfPhysicalPage": 24,
+          "similarity": 0.989246,
+          "comparable": true
+        },
+        {
+          "visualPage": 3026,
+          "pdfPhysicalPage": 26,
+          "similarity": 0.987413,
+          "comparable": true
+        },
+        {
+          "visualPage": 3027,
+          "pdfPhysicalPage": 27,
+          "similarity": 0.992638,
+          "comparable": true
+        },
+        {
+          "visualPage": 3028,
+          "pdfPhysicalPage": 28,
+          "similarity": 0.98586,
+          "comparable": true
+        }
+      ]
+    },
+    "kaplan-social-studies": {
+      "assetCount": 17,
+      "minSimilarity": 0.966049,
+      "lowSimilarity": [],
+      "allComparable": true,
+      "rows": [
+        {
+          "visualPage": 4001,
+          "pdfPhysicalPage": 1,
+          "similarity": 0.987553,
+          "comparable": true
+        },
+        {
+          "visualPage": 4002,
+          "pdfPhysicalPage": 2,
+          "similarity": 0.985515,
+          "comparable": true
+        },
+        {
+          "visualPage": 4003,
+          "pdfPhysicalPage": 3,
+          "similarity": 0.98729,
+          "comparable": true
+        },
+        {
+          "visualPage": 4004,
+          "pdfPhysicalPage": 4,
+          "similarity": 0.986516,
+          "comparable": true
+        },
+        {
+          "visualPage": 4005,
+          "pdfPhysicalPage": 5,
+          "similarity": 0.984856,
+          "comparable": true
+        },
+        {
+          "visualPage": 4006,
+          "pdfPhysicalPage": 6,
+          "similarity": 0.984028,
+          "comparable": true
+        },
+        {
+          "visualPage": 4009,
+          "pdfPhysicalPage": 9,
+          "similarity": 0.982288,
+          "comparable": true
+        },
+        {
+          "visualPage": 4010,
+          "pdfPhysicalPage": 10,
+          "similarity": 0.966049,
+          "comparable": true
+        },
+        {
+          "visualPage": 4011,
+          "pdfPhysicalPage": 11,
+          "similarity": 0.984372,
+          "comparable": true
+        },
+        {
+          "visualPage": 4013,
+          "pdfPhysicalPage": 13,
+          "similarity": 0.987883,
+          "comparable": true
+        },
+        {
+          "visualPage": 4014,
+          "pdfPhysicalPage": 14,
+          "similarity": 0.987819,
+          "comparable": true
+        },
+        {
+          "visualPage": 4017,
+          "pdfPhysicalPage": 17,
+          "similarity": 0.992918,
+          "comparable": true
+        },
+        {
+          "visualPage": 4018,
+          "pdfPhysicalPage": 18,
+          "similarity": 0.975616,
+          "comparable": true
+        },
+        {
+          "visualPage": 4019,
+          "pdfPhysicalPage": 19,
+          "similarity": 0.989787,
+          "comparable": true
+        },
+        {
+          "visualPage": 4021,
+          "pdfPhysicalPage": 21,
+          "similarity": 0.991285,
+          "comparable": true
+        },
+        {
+          "visualPage": 4022,
+          "pdfPhysicalPage": 22,
+          "similarity": 0.984662,
+          "comparable": true
+        },
+        {
+          "visualPage": 4024,
+          "pdfPhysicalPage": 24,
+          "similarity": 0.986864,
+          "comparable": true
+        }
+      ]
+    },
+    "kaplan-social-studies-pretest": {
+      "assetCount": 11,
+      "minSimilarity": 0.985732,
+      "lowSimilarity": [],
+      "allComparable": true,
+      "rows": [
+        {
+          "visualPage": 5005,
+          "pdfPhysicalPage": 5,
+          "similarity": 0.986279,
+          "comparable": true
+        },
+        {
+          "visualPage": 5006,
+          "pdfPhysicalPage": 6,
+          "similarity": 0.992057,
+          "comparable": true
+        },
+        {
+          "visualPage": 5008,
+          "pdfPhysicalPage": 8,
+          "similarity": 0.991735,
+          "comparable": true
+        },
+        {
+          "visualPage": 5009,
+          "pdfPhysicalPage": 9,
+          "similarity": 0.989281,
+          "comparable": true
+        },
+        {
+          "visualPage": 5013,
+          "pdfPhysicalPage": 13,
+          "similarity": 0.986309,
+          "comparable": true
+        },
+        {
+          "visualPage": 5015,
+          "pdfPhysicalPage": 15,
+          "similarity": 0.989226,
+          "comparable": true
+        },
+        {
+          "visualPage": 5016,
+          "pdfPhysicalPage": 16,
+          "similarity": 0.990379,
+          "comparable": true
+        },
+        {
+          "visualPage": 5018,
+          "pdfPhysicalPage": 18,
+          "similarity": 0.992482,
+          "comparable": true
+        },
+        {
+          "visualPage": 5019,
+          "pdfPhysicalPage": 19,
+          "similarity": 0.988706,
+          "comparable": true
+        },
+        {
+          "visualPage": 5020,
+          "pdfPhysicalPage": 20,
+          "similarity": 0.985732,
+          "comparable": true
+        },
+        {
+          "visualPage": 5022,
+          "pdfPhysicalPage": 22,
+          "similarity": 0.99463,
+          "comparable": true
+        }
+      ]
+    },
+    "princeton-social-studies-test-2": {
+      "assetCount": 13,
+      "minSimilarity": 0.981647,
+      "lowSimilarity": [],
+      "allComparable": true,
+      "rows": [
+        {
+          "visualPage": 6004,
+          "pdfPhysicalPage": 4,
+          "similarity": 0.988827,
+          "comparable": true
+        },
+        {
+          "visualPage": 6005,
+          "pdfPhysicalPage": 5,
+          "similarity": 0.989476,
+          "comparable": true
+        },
+        {
+          "visualPage": 6006,
+          "pdfPhysicalPage": 6,
+          "similarity": 0.991024,
+          "comparable": true
+        },
+        {
+          "visualPage": 6008,
+          "pdfPhysicalPage": 8,
+          "similarity": 0.992681,
+          "comparable": true
+        },
+        {
+          "visualPage": 6011,
+          "pdfPhysicalPage": 11,
+          "similarity": 0.981647,
+          "comparable": true
+        },
+        {
+          "visualPage": 6012,
+          "pdfPhysicalPage": 12,
+          "similarity": 0.987938,
+          "comparable": true
+        },
+        {
+          "visualPage": 6014,
+          "pdfPhysicalPage": 14,
+          "similarity": 0.99053,
+          "comparable": true
+        },
+        {
+          "visualPage": 6015,
+          "pdfPhysicalPage": 15,
+          "similarity": 0.992865,
+          "comparable": true
+        },
+        {
+          "visualPage": 6017,
+          "pdfPhysicalPage": 17,
+          "similarity": 0.987722,
+          "comparable": true
+        },
+        {
+          "visualPage": 6019,
+          "pdfPhysicalPage": 19,
+          "similarity": 0.992775,
+          "comparable": true
+        },
+        {
+          "visualPage": 6024,
+          "pdfPhysicalPage": 24,
+          "similarity": 0.989901,
+          "comparable": true
+        },
+        {
+          "visualPage": 6026,
+          "pdfPhysicalPage": 26,
+          "similarity": 0.992648,
+          "comparable": true
+        },
+        {
+          "visualPage": 6028,
+          "pdfPhysicalPage": 28,
+          "similarity": 0.992313,
+          "comparable": true
+        }
+      ]
+    }
+  },
+  "threshold": 0.85,
+  "totals": {
+    "assets": 194,
+    "lowSimilarity": 0,
+    "allComparable": true
+  }
+}

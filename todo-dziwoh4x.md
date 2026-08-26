@@ -52,3 +52,13 @@
 - [x] Identify the exact missing actual map page asset for the map question group
 - [x] Restore only the missing actual map page asset
 - [x] Verify the actual map page loads without unrelated app changes
+- [x] Diagnose the incorrect or missing graph source page for Question 323
+- [x] Audit visual source-page mappings and assets for all graph, map, table, chart, figure, and diagram groups
+- [x] Restore or correct only the visual assets needed for all visual groups
+- [x] Verify Question 323 and representative visual groups without unrelated app changes
+- [x] Validate every main-book visual group against the supplied source PDF and record exceptions
+- [x] Audit supplemental visual groups for economics, McGraw Hill, Battery, Kaplan, Kaplan pretest, and Princeton sources
+- [x] Add a deterministic visual-group audit report linking each visual group ID to its expected public asset and source evidence
+- [x] Make the visual audit self-contained for the Question 323 PDF exception
+- [x] Regenerate and verify the all-workbook audit report from project tooling and supplied PDFs
+- [x] Save the finalized self-contained audit tooling and report
