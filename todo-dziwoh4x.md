@@ -62,3 +62,11 @@
 - [x] Make the visual audit self-contained for the Question 323 PDF exception
 - [x] Regenerate and verify the all-workbook audit report from project tooling and supplied PDFs
 - [x] Save the finalized self-contained audit tooling and report
+- [x] Diagnose why source-page cards show only part of each PDF-rendered page and require internal scrolling
+- [x] Make complete source pages visible without internal scrolling while preserving zoom and pinch behavior
+- [x] Verify complete-page display and regression boundaries
+- [x] Re-verify pinch-to-zoom after the complete-page viewport change
+- [x] Verify a supplemental visual route at 100% fit has no internal scrolling
+- [x] Save the focused viewer fix after post-change touch and cross-route checks pass
+- [ ] Save and publish a new checkpoint containing the complete-page viewer fix
+- [ ] Re-mark the final viewer-fix completion state after the new checkpoint succeeds

@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { clampSourceZoom, pinchSourceZoom, stepSourceZoom } from "./sourceZoom";
+import { clampSourceZoom, pinchSourceZoom, sourcePageViewportClass, stepSourceZoom } from "./sourceZoom";
 
 describe("source zoom", () => {
   it("steps by 25 percent and clamps at the supported range", () => {
@@ -19,5 +19,10 @@ describe("source zoom", () => {
     expect(pinchSourceZoom(1, 100, 150)).toBe(1.5);
     expect(pinchSourceZoom(2, 100, 50)).toBe(1);
     expect(pinchSourceZoom(1, 0, 150)).toBe(1);
+  });
+
+  it("keeps fit-to-width pages unscrollable and enables scrolling only when zoomed", () => {
+    expect(sourcePageViewportClass(1)).toBe("source-page-viewport");
+    expect(sourcePageViewportClass(1.25)).toBe("source-page-viewport is-zoomed");
   });
 });

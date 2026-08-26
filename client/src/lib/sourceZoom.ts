@@ -14,3 +14,7 @@ export function pinchSourceZoom(startZoom: number, startDistance: number, curren
   if (startDistance <= 0 || currentDistance <= 0) return clampSourceZoom(startZoom);
   return clampSourceZoom(startZoom * (currentDistance / startDistance));
 }
+
+export function sourcePageViewportClass(sourceZoom: number) {
+  return sourceZoom > SOURCE_ZOOM_MIN ? "source-page-viewport is-zoomed" : "source-page-viewport";
+}

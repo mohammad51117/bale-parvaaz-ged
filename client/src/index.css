@@ -370,9 +370,10 @@ button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px s
 .source-zoom-controls button:focus-visible { outline: 2px solid #D3942D; outline-offset: 2px; }
 .source-zoom-controls button:disabled { cursor: not-allowed; opacity: .38; }
 .source-zoom-controls > span { min-width: 42px; text-align: center; font-size: 10px; font-weight: 700; }
-.source-page-viewport { max-height: min(78vh, 920px); overflow: auto; overscroll-behavior: contain; touch-action: pan-x pan-y; background: #FFF; scrollbar-color: #C8B99E #F1ECE2; scrollbar-width: thin; }
+.source-page-viewport { overflow: hidden; overscroll-behavior: contain; touch-action: pan-x pan-y; background: #FFF; }
+.source-page-viewport.is-zoomed { max-height: min(78vh, 920px); overflow: auto; scrollbar-color: #C8B99E #F1ECE2; scrollbar-width: thin; }
 .source-page-viewport .source-page-image { display: block; max-width: none; height: auto; margin: 0; transition: width .18s cubic-bezier(.23,1,.32,1); }
-@media (max-width: 760px) { .source-page-toolbar { align-items: flex-start; flex-direction: column; }.source-zoom-controls { align-self: flex-end; }.source-page-viewport { max-height: 62vh; } }
+@media (max-width: 760px) { .source-page-toolbar { align-items: flex-start; flex-direction: column; }.source-zoom-controls { align-self: flex-end; }.source-page-viewport.is-zoomed { max-height: 62vh; } }
 @media (prefers-reduced-motion: reduce) { .source-zoom-controls button, .source-page-viewport .source-page-image { transition: none; } }
 
 .dashboard-brand-link { color: inherit; text-decoration: none; cursor: pointer; }
