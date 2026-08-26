@@ -49,3 +49,6 @@
 - [x] Diagnose missing PDF/source-page loading for map, table, and similar question assets without changing unrelated app behavior
 - [x] Apply the smallest targeted fix for map/table and similar PDF source loading
 - [x] Verify targeted map/table routes and confirm no unrelated UI, navigation, or content changes
+- [x] Identify the exact missing actual map page asset for the map question group
+- [x] Restore only the missing actual map page asset
+- [x] Verify the actual map page loads without unrelated app changes
