@@ -9,3 +9,8 @@ export function clampSourceZoom(value: number) {
 export function stepSourceZoom(value: number, direction: -1 | 1) {
   return clampSourceZoom(value + direction * SOURCE_ZOOM_STEP);
 }
+
+export function pinchSourceZoom(startZoom: number, startDistance: number, currentDistance: number) {
+  if (startDistance <= 0 || currentDistance <= 0) return clampSourceZoom(startZoom);
+  return clampSourceZoom(startZoom * (currentDistance / startDistance));
+}

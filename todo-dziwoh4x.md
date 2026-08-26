@@ -29,3 +29,5 @@
 - [x] Fix the same missing information and standalone source-page images in the in-app preview, not only Bolt
 - [x] Add zoom controls for source-page images in the question reader
 - [x] Verify zoom, fit-to-width reset, keyboard access, and responsive behavior
+- [x] Add pinch-to-zoom gesture support for source-page images on touchscreens
+- [x] Verify pinch zoom, touch scrolling, fit reset, and mobile layout

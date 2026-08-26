@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { clampSourceZoom, stepSourceZoom } from "./sourceZoom";
+import { clampSourceZoom, pinchSourceZoom, stepSourceZoom } from "./sourceZoom";
 
 describe("source zoom", () => {
   it("steps by 25 percent and clamps at the supported range", () => {
@@ -13,5 +13,11 @@ describe("source zoom", () => {
     expect(clampSourceZoom(0.2)).toBe(1);
     expect(clampSourceZoom(3)).toBe(2.5);
     expect(clampSourceZoom(1.249)).toBe(1.25);
+  });
+
+  it("scales from a two-finger pinch and stays within limits", () => {
+    expect(pinchSourceZoom(1, 100, 150)).toBe(1.5);
+    expect(pinchSourceZoom(2, 100, 50)).toBe(1);
+    expect(pinchSourceZoom(1, 0, 150)).toBe(1);
   });
 });
