@@ -27,3 +27,5 @@
 - [x] Verify standalone and information reader routes after the rendering fix
 - [x] Rebuild the corrected Bolt-ready ZIP
 - [x] Fix the same missing information and standalone source-page images in the in-app preview, not only Bolt
+- [x] Add zoom controls for source-page images in the question reader
+- [x] Verify zoom, fit-to-width reset, keyboard access, and responsive behavior
