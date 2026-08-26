@@ -13,6 +13,20 @@ export function publicGedPageAsset(folder: string, page: number, fallback: strin
   return publicGedAsset(`pages/${folder}/page-${pageLabel}.jpg`, fallback);
 }
 
+export function publicGedSourcePageAsset(sourceId: string, page: number, fallback = "") {
+  const folderBySource: Record<string, string> = {
+    "main-1001": "main",
+    "social-studies-economics": "economics",
+    "mcgraw-social-studies": "mcgraw",
+    "battery-social-studies-2": "battery",
+    "kaplan-social-studies": "kaplan",
+    "kaplan-social-studies-pretest": "kaplan-pretest",
+    "princeton-social-studies-test-2": "princeton",
+  };
+  const folder = folderBySource[sourceId];
+  return folder ? publicGedPageAsset(folder, page, fallback) : fallback;
+}
+
 export function publicGedVisualAsset(assetId: number, fallback: string) {
   const workbook = assetId >= 6000
     ? "princeton"

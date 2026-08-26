@@ -20,7 +20,7 @@ import { supplementalPrincetonSocialStudiesTest2Visuals } from "@/lib/supplement
 import { getWorkbookSource } from "@/lib/workbookSources";
 import { getSupplementalSocialStudiesSourcePage } from "@/lib/supplementalSocialStudiesSourcePages";
 import { brandLogoAlt, brandLogoUrl } from "@/lib/branding";
-import { publicGedVisualAsset } from "@/lib/publicAssetUrls";
+import { publicGedSourcePageAsset, publicGedVisualAsset } from "@/lib/publicAssetUrls";
 import { usePersistentStudyLibrary } from "@/lib/persistentLibrary";
 
 type Group = { id: string; section: string; questionStart: number; questionEnd: number; rangeLabel: string; contextType: string; marker: string; context: string; sourcePages: readonly number[]; visualPage?: number | null; questions: readonly { number: number; text: string }[] };
@@ -81,7 +81,8 @@ export default function QuestionReader() {
   const sourcePageNumbers = group.sourcePages.length > 1 ? Array.from({ length: Math.max(...group.sourcePages) - Math.min(...group.sourcePages) + 1 }, (_, index) => Math.min(...group.sourcePages) + index) : [...group.sourcePages];
   const sourcePageVisuals = sourcePageNumbers.map((page) => {
     const persistentUrl = persistentLibrary?.sourcePageUrls[`${workbookSource.id}:${page}`];
-    const url = persistentUrl || getSupplementalSocialStudiesSourcePage(group.id, page);
+    const fallbackUrl = getSupplementalSocialStudiesSourcePage(group.id, page);
+    const url = persistentUrl || fallbackUrl || publicGedSourcePageAsset(workbookSource.id, page);
     return url ? { page, url } : null;
   }).filter((item): item is { page: number; url: string } => Boolean(item));
   const legacyVisualUrl = group.visualPage

@@ -23,3 +23,7 @@
 - [x] Prepare a safe Bolt/Supabase import guide without private credentials
 - [x] Build and validate a downloadable project archive
 - [x] Deliver the archive and exact import steps
+- [x] Fix reader rendering so information and standalone question groups show linked original source pages
+- [x] Verify standalone and information reader routes after the rendering fix
+- [x] Rebuild the corrected Bolt-ready ZIP
+- [x] Fix the same missing information and standalone source-page images in the in-app preview, not only Bolt
