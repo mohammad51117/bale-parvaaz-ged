@@ -20,6 +20,18 @@ describe("mergeSourceVisuals", () => {
     expect(mergeSourceVisuals(ordinary, { page: 14, url: "https://example.test/page-014.jpg" })).toEqual(ordinary);
   });
 
+  it("replaces an incorrect same-page source with an explicit corrected visual", () => {
+    const ordinary = [
+      { page: 126, url: "https://example.test/page-126.jpg" },
+      { page: 128, url: "https://example.test/page-128-intro.jpg" },
+    ];
+
+    expect(mergeSourceVisuals(ordinary, { page: 128, url: "https://example.test/visuals/figure-128.jpg" })).toEqual([
+      ordinary[0],
+      { page: 128, url: "https://example.test/visuals/figure-128.jpg" },
+    ]);
+  });
+
   it("does not change source pages when no visual page exists", () => {
     const ordinary = [{ page: 16, url: "https://example.test/page-016.jpg" }];
 

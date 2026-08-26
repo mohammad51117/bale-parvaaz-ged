@@ -68,5 +68,12 @@
 - [x] Re-verify pinch-to-zoom after the complete-page viewport change
 - [x] Verify a supplemental visual route at 100% fit has no internal scrolling
 - [x] Save the focused viewer fix after post-change touch and cross-route checks pass
-- [ ] Save and publish a new checkpoint containing the complete-page viewer fix
-- [ ] Re-mark the final viewer-fix completion state after the new checkpoint succeeds
+- [x] Save and publish a new checkpoint containing the complete-page viewer fix
+- [x] Re-mark the final viewer-fix completion state after the new checkpoint succeeds
+- [x] Diagnose the missing figure-question PDF/source-page asset or mapping
+- [x] Restore or correct only the missing figure source asset
+- [x] Verify figure loading without unrelated app changes
+- [x] Ensure the corrected figure asset bypasses stale cached page-128 URLs
+- [x] Re-verify an unchanged main-book figure route and a non-figure visual route after the merge-helper change
+- [x] Confirm a supplemental figure route still loads after the global source-visual merge change
+- [ ] Save and publish the figure-source fix after cross-route regression checks pass
