@@ -76,4 +76,4 @@
 - [x] Ensure the corrected figure asset bypasses stale cached page-128 URLs
 - [x] Re-verify an unchanged main-book figure route and a non-figure visual route after the merge-helper change
 - [x] Confirm a supplemental figure route still loads after the global source-visual merge change
-- [ ] Save and publish the figure-source fix after cross-route regression checks pass
+- [x] Save and publish the figure-source fix after cross-route regression checks pass
