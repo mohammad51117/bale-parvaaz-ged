@@ -77,3 +77,6 @@
 - [x] Re-verify an unchanged main-book figure route and a non-figure visual route after the merge-helper change
 - [x] Confirm a supplemental figure route still loads after the global source-visual merge change
 - [x] Save and publish the figure-source fix after cross-route regression checks pass
+- [x] Prepare a fresh Bolt-ready ZIP from the latest project state, excluding secrets, Git metadata, dependencies, logs, and build artifacts
+- [x] Validate the Bolt ZIP contents and attach it to the user
+- [x] Attach the validated Bolt ZIP archive to the user
